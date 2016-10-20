@@ -282,14 +282,15 @@ th {
   Global settings
 -----------------------------------------------------*/
 body {
-/*	font: 110% 'Roboto Slab', Georgia, serif; <-- this is what was in the tutorial files */
+/*	font: 110% 'Roboto Slab', Georgia, serif; <-- this is what was in the tutorial file */
 	font: 110% 'Iowan Old Style', Georgia, serif;
 	background: whitesmoke;
 	direction: ltr;
 }
 h1, h2, h3, h4, h5, h6 {
-	font-family: 'Avenir', Arial, sans-serif;
-	font-weight: 700;
+/*	font-family: 'Oswald', 'Helvetica Narrow', Arial, sans-serif; <- this is what was in the tutorial file */
+	font-family: 'Avenir';
+	font-weight: 500;
 }
 *, *:before, *:after {
 	-webkit-box-sizing: border-box;
@@ -355,13 +356,13 @@ header h1 {
 	font-size: 2em;
 	line-height:1;
 	margin: 0;
-	text-transform: uppercase;
+/*	text-transform: uppercase; */
 }
 header p {
 	font: 1em 'Oswald', 'Helvetica Narrow', Arial, sans-serif;
 	font-weight: 400;
 	color: #666;
-	text-transform: uppercase;
+/*	text-transform: uppercase; */
 }
 /* -------------------------------------------------- 
    top navigation styles
@@ -740,10 +741,11 @@ header h1 {
 	font-size: 3em;
 }
 header p {
-	font: 1em 'Oswald', 'Helvetica Narrow', Arial, sans-serif;
+/*	font: 1em 'Oswald', 'Helvetica Narrow', Arial, sans-serif; */
+	font: 1em 'Avenir';
 	font-weight: 400;
 	color: #666;
-	text-transform: uppercase;
+/*	text-transform: uppercase; */
 }
 /* -------------------------------------------------- 
    top navigation styles
