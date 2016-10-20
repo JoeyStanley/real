@@ -13,9 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Joey Stanley
+title: Jekyll for Designers
 email: joeystan@uga.edu
-description: "I'm a sociolinguistics grad student at the University of Georgia.'"
 baseurl: "/jekyll-for-designers"
 url: "http://JoeyStanley.github.io/jekyll-for-designers" 
 twitter_username: joey_stan

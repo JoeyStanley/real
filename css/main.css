@@ -282,8 +282,9 @@ th {
   Global settings
 -----------------------------------------------------*/
 body {
-	font: 110% 'Roboto Slab', Georgia, serif;
-	background: white;
+/*	font: 110% 'Roboto Slab', Georgia, serif; */
+	font: 110% 'Iowan Old Style', Georgia, serif;
+	background: whitesmoke;
 	direction: ltr;
 }
 h1, h2, h3, h4, h5, h6 {
