@@ -16,8 +16,8 @@
 title: Joey Stanley
 email: joeystan@uga.edu
 description: "I'm a sociolinguistics grad student at the University of Georgia.'"
-baseurl: ""
-url: "" 
+baseurl: "/jekyll-for-designers"
+url: "http://JoeyStanley.github.io/jekyll-for-designers" 
 twitter_username: joey_stan
 github_username:  JoeyStanley
 # Custom variables
