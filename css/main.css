@@ -768,7 +768,7 @@ nav li {
 }
 nav li a {
 /*	font: 1em 'Oswald', 'Helvetica Narrow', Arial, sans-serif; */
-	font: 1em 'Avenir'
+	font: 1em 'Avenir';
 	color: white;
 	background: #42659A;
 	margin-right: 0.5em;
