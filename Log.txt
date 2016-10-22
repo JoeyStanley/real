@@ -1,0 +1,25 @@
+Website log. Updates, notes, and todo list
+
+Saturday, October 22, 2016
+12:42pm - After following the programming historian tutorial (http://programminghistorian.org/lessons/building-static-sites-with-jekyll-github-pages), I had a simple page going. I made some changes though, and all my formatting was lost in the online version while the local version was fine. I tried uninstalling everything and googling stuff. Nothing. I decided to give up on it. Then I went to Lynda.com and found their 4 1/2 hour course (https://www.lynda.com/Jekyll-tutorials/Jekyll-Web-Designers/383124-2.html), which I went through this week. Lots of things make a lot more sense now. Plus, as a bonus, I've got a decent template to work from. Ever since then I've been making small tweaks to figure out what stuff does, and I'm trying to make it my own. As it is, the website content is all mine, and I've used my new favorite fonts, but the layout is still a blantant rip off. 
+
+What I've done so far is changed the font from Helvetica to Avenir, and from Times New Roman to Iowan Old Style. There might be a few places where things are still weird, but the majority looks pretty good.
+
+I also changed the social media to be my own. I wanted to add a link to academia.edu. I was able to add another line in /_includes/sidebar.html just like the other ones. I also added:
+
+.academia {
+	background: url(../images/academia.svg) no-repeat;
+}
+
+to /css/main.css. I found the .svg file on some random person's page and added that to /images. It works great, once I changed the size. I want to do the same for Google Scholar, but I can't find a .svg file of the logo. I found some other way to use social media links, but I don't like them as much (it involved adding two files to /css, and some other changes I noted in github. So for now, I've got two Academia.edu icons. I'll have to find a way to change that.
+
+I also added justification and auto-hyphenation to all pages by adding "text-align: justify;" and "-webkit-hyphens: auto;" to the /css/main.css file. Works great. 
+
+
+Todo list:
+* I have a lot of links. I want to do something more subtle like in Butterick's Typography or http://seespotcode.net/style/. Maybe not copy them exactly, but something similar. 
+* Big layout changes
+    * Move social media to the bottom on most pages
+    * Make the About Me the default page, and the blog separate.
+    * Remove the archives list from the sidebar on most pages.
+* Add some of this stuff as a blog post.
