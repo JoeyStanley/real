@@ -19,6 +19,8 @@ html {
 body, html {
   margin: 0;
   padding: 0;
+  text-align: justify; /* justified text */
+  -webkit-hyphens: auto; /* auto-hyphenation, found by just auto-completing "hyphen" */
 }
 
 /* HTML5 display definitions
