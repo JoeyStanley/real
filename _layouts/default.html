@@ -35,6 +35,20 @@
   </ul>
 </header>
 <p>This site is still under construction. Currently, it's a blanant rip off of the site I created by following the "Jekyll for Web Designers" course on Lynda.com. I'll slowly change things up to make it my own. The content is all mine though, so feel free to look around.</p>
+<!--This portion shows a different way of showing at social media. Site: https://blog.r3bl.me/en/simple-social-media-links-jekyll/<ul>
+    {% if site.twitter_username %}
+    <li>
+      <a href="https://twitter.com/{{ site.twitter_username }}">
+        <i class="fa fa-twitter"></i> Twitter
+      </a>
+    </li>
+    <li>
+      <a href="https://scholar.google.com/citations?user=61pJV_YAAAAJ&hl=en&oi=sra">
+        <i class="ai ai-google-scholar-square ai-3x"></i> Google Scholar
+      </a>
+    </li>
+    {% endif %}
+</ul>-->
 {{content}}
     {% if page.id %}
     {% include footer-post.html %}

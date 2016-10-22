@@ -598,6 +598,12 @@ aside li {
 .twitter {
 	background: url(../images/twitter.svg) no-repeat;
 }
+.academia {
+	background: url(../images/academia.svg) no-repeat;
+}
+.googleScholar {
+	background: url(../images/googleScholar.svg) no-repeat;
+}
 	
 /* -------------------------------------------------- 
    main footer styles
