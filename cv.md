@@ -7,15 +7,6 @@ Updated October 9, 2016. Download PDF [here](https://drive.google.com/open?id=0B
 
 <br/>
 
-joeystan@uga.edu
-
-[academia.edu](https://uga.academia.edu/JoeyStanley)
-
-[@joey_stan](https://twitter.com/joey_stan)
-
-
-<br/>
-
 Education
 ==========
 

@@ -17,8 +17,11 @@ title: Joey Stanley
 email: joeystan@uga.edu
 baseurl: "/joeystanley"
 url: "http://JoeyStanley.github.io/joeystanley" 
-twitter_username: joey_stan
-github_username:  JoeyStanley
+twitter_username:  joey_stan
+github_username:   JoeyStanley
+academia_username: JoeyStanley
+
+
 # Custom variables
 tagline: "Linguistics Ph.D. Student"
 

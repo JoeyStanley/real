@@ -32,7 +32,7 @@ Todo list:
 * Add some of this stuff as a blog post.
 * Change my main name at the top to a button that takes me to my homepage.
 * Change the layout of the main page so width of the page is narrow without the need of a sidebar.
-
+* Make the social media links dynamic.
 
 
 Debugging notes
