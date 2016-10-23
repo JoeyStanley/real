@@ -23,3 +23,8 @@ Todo list:
     * Make the About Me the default page, and the blog separate.
     * Remove the archives list from the sidebar on most pages.
 * Add some of this stuff as a blog post.
+
+
+
+Debugging notes
+I had a bug where the site was running even though I didn't think it was. The error code when I tried to run "jekyll serve" was "TCPServer Error: Address already in use - bind(2)". As this site says (http://www.noxidsoft.com/development/jekyll-tcpserver-error-address-already-in-use-bind-2/), try "lsof -wni tcp:4000", find the PID that is running, and then run this: "kill -9 ####". Seemed to work fine. 
