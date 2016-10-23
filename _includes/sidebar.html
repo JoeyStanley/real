@@ -10,15 +10,6 @@
             <li><a href="{{site.baseurl}}/tags/#{{ tag | cgi_escape }}">{{ tag }} ({{ site.tags[tag].size }})</a></li>
         {% endfor %}
     </ul>
-    <h3>RSS</h3>
-    <p><a href="{{site.baseurl}}/feed.xml" title="Subscribe to my RSS feed">Subscribe to my RSS feed</a></p>
-    <h3>Find me</h3>
-    <ul class="social">
-        <li><a href="http://www.twitter.com" title="twitter" class="twitter">Twitter</a></li>
-        <li><a href="http://www.github.com" title="Github" class="github">Github</a></li>
-        <li><a href="https://uga.academia.edu/JoeyStanley" title="Academia.edu" class="academia">Academia.edu</a></li>
-        <li><a href="https://scholar.google.com/citations?user=61pJV_YAAAAJ&hl=en&oi=sra" title="Google Scholar" class="googleScholar">Google Scholar</a></li>
-        <i class="ai ai-google-scholar-square ai-3x"></i>
-    </ul>
+    {% include social-media.html %}
 </aside>
 
