@@ -15,14 +15,23 @@ to /css/main.css. I found the .svg file on some random person's page and added t
 
 I also added justification and auto-hyphenation to all pages by adding "text-align: justify;" and "-webkit-hyphens: auto;" to the /css/main.css file. Works great. 
 
+11:45pm - Couldn't sleep. Working on this. With slight difficulty, I got the main page to be my about page and the blog to be on its own page. I thought I could just rename the index.html page to blog.html, and rename the about.md page to index.md. At first there was some trouble with the pagination, but I found a some Jekyll help (https://talk.jekyllrb.com/t/moving-the-blog-excerpts-to-another-page/1555) that said the pagination needs to be on its own page called "index.html" to work, so by renmaing it "blog.html" it wouldn't work. So I created a new folder called /blog, and put the index.html file in there. Changed the reference on the blog button to look in that folder. Everything works great. 
+
+The next hiccup was the about.md page was in markdown, and I think the index page needs to be html. So, luckily, in the /_site folder it has everything converted to html for me automatically. So I basically copied and pasted the html version of the about.md page and changed the index.html to have that content. Sweet. Now the blog is on its own separate page, and the about me is the main page. 
+
+
+Sunday, October 23, 2016
+9:10am - I changed a few things under the hood. The "archive" page had its own separate sidebar with some duplicated social media code. Thanks to this helpful page about layouts and layout inhereitance (http://jekyll.tips/jekyll-casts/layouts/), I created a separate /_include file for the social media, and now the sidebar calls for that, while the abbreviated sidebar just calls the social media. Cool. 
+
 
 Todo list:
 * I have a lot of links. I want to do something more subtle like in Butterick's Typography or http://seespotcode.net/style/. Maybe not copy them exactly, but something similar. 
 * Big layout changes
     * Move social media to the bottom on most pages
-    * Make the About Me the default page, and the blog separate.
     * Remove the archives list from the sidebar on most pages.
 * Add some of this stuff as a blog post.
+* Change my main name at the top to a button that takes me to my homepage.
+* Change the layout of the main page so width of the page is narrow without the need of a sidebar.
 
 
 
