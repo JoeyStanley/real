@@ -443,7 +443,7 @@ pre {
 	white-space: -o-pre-wrap;
 	word-wrap: break-word;
 	width: 90%;
-}
+}s
 pre.wrong {
 	border-left-color: red;
 }
@@ -719,15 +719,18 @@ dd{
    layout styles
 -----------------------------------------------------*/
 html {
-	background: #6d6d6d;
+	/* background: #6d6d6d; */
+	background: whitesmoke;
+	background: whit
 }
 body {
-	width: 80%;
+	/* this changes the overall width of the entire page */
+	width: 70%;
 	margin: 0 auto;
 }
-.page-header {
-	padding: 0 3%;
-	padding-top: 1em;
+.page-header {  /* title */
+	padding: 0 3%; /* additional padding from left*/
+	padding-top: 1em; /* padding from top of page */
 }
 .posts, .archive {
 	float: right;
@@ -738,8 +741,8 @@ aside {
 	float: left;
 	width: 30%;
 	max-width: 320px;
-	padding-top: 1em;
-	padding-left: 2.5%;
+	padding-top: 1em; /* additional padding from top */
+	padding-left: 2.5%; /* additional padding from left */
 }
 
 /* -------------------------------------------------- 
