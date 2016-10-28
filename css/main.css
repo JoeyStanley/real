@@ -51,7 +51,7 @@ a {
   background-color: transparent;
 }
 /* Text-level semantics
-   ========================================================================== */
+========================================================================== */
 
 /**
  * Address style set to `bolder` in Firefox 4+, Safari, and Chrome.
@@ -721,7 +721,6 @@ dd{
 html {
 	/* background: #6d6d6d; */
 	background: whitesmoke;
-	background: whit
 }
 body {
 	/* this changes the overall width of the entire page */
