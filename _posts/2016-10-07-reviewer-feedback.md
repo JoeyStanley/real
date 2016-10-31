@@ -2,7 +2,7 @@
 layout: post
 title:  "Reviewer Feedback"
 date:   2016-10-07 13:34:00 -0400
-tags: [conferences]
+tags: [conferences, research]
 ---
 
 Yesterday I got the reviewer feedback for the paper I'm going to be presenting at the American Dialect Society in January. 
