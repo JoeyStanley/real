@@ -272,13 +272,21 @@ a {
 	line-height: inherit;
 	text-decoration: none; /* no underline: it was just too busy */
 }
+/* Target just the external links. */
+a[href*="http"] {
+	color: black;
+}
 a:hover {
 	color: #213149;
 }
-/* links within paragraphs */
-p a {
-	/* color: red; */
+/* Add the little red circle after external links */
+/* See http://practicaltypography.com/how-to-use.html */
+a[href*="http"]:after {
+	content: 'º';
+	color: darkred;
 }
+
+
 img, object, embed {
 	max-width: 100%;
 	display: block;
@@ -389,6 +397,7 @@ article time {
 	color: #666;
 	margin-bottom: 0;
 }
+/* The "Read more" links on the blog page. */
 a.more {
 	display: block;
 	text-align: right;
@@ -399,6 +408,7 @@ a.more:before {
 a.more:after {
 	content: ']';
 }
+
 p code {
 	font-size: 1.2em;
 	font-weight: bold;
@@ -791,6 +801,8 @@ article p {
 	font-size: 1.125em;
 	line-height: 1.4;
 }
+
+/* The "read more" links on the main blog page */
 a.more {
 	margin: 0.5em 0;
 }

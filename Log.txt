@@ -23,6 +23,9 @@ The next hiccup was the about.md page was in markdown, and I think the index pag
 Sunday, October 23, 2016
 9:10am - I changed a few things under the hood. The "archive" page had its own separate sidebar with some duplicated social media code. Thanks to this helpful page about layouts and layout inhereitance (http://jekyll.tips/jekyll-casts/layouts/), I created a separate /_include file for the social media, and now the sidebar calls for that, while the abbreviated sidebar just calls the social media. Cool. 
 
+Monday, October 31, 2016
+10:29pm - I'm learning CSS via Jekyll. It's a thorough course but it takes a while. I'm starting to make some changes to my CSS. For now, I cleaned up how the commented portions of the CSS file looked. I also removed the underline from all external links. It's already looking better. 
+
 
 Todo list:
 * I have a lot of links. I want to do something more subtle like in Butterick's Typography or http://seespotcode.net/style/. Maybe not copy them exactly, but something similar. 
@@ -34,6 +37,7 @@ Todo list:
 * Change the layout of the main page so width of the page is narrow without the need of a sidebar.
 * Make the social media links dynamic.
 * If I'm going to get serious about taking control over how it all looks, I'm going to need to learn CSS. I found this tutorial by the same guy on Lynda, and it might be worth it. https://www.lynda.com/Web-Interactive-CSS-training/CSS-Page-Layouts/86003-2.html?srchtrk=index%3a1%0alinktypeid%3a2%0aq%3acss%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2
+* Add my ORCID to all my profiles.
 
 
 Debugging notes
