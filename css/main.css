@@ -22,6 +22,7 @@ body, html {
 /* ########################################## */
 /*         HTML5 display definitions          */
 /* ########################################## */
+
 article,aside,details,figcaption,figure,footer,header,main,menu,nav,section,summary {
   display: block;
 }
@@ -265,12 +266,18 @@ h1, h2, h3, h4, h5, h6 {
 p {
 	margin: 0 0 1em 0;
 }
+/* All links */
 a {
 	color: #42659A;
 	line-height: inherit;
+	text-decoration: none; /* no underline: it was just too busy */
 }
 a:hover {
 	color: #213149;
+}
+/* links within paragraphs */
+p a {
+	/* color: red; */
 }
 img, object, embed {
 	max-width: 100%;
