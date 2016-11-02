@@ -16,7 +16,8 @@
 title: Joey Stanley
 email: joeystan@uga.edu
 baseurl: "/joeystanley"
-url: "http://JoeyStanley.github.io/joeystanley" 
+#url: "http://JoeyStanley.github.io/joeystanley" 
+url: "http://www.joeystanley.com"
 twitter_username:  joey_stan
 github_username:   JoeyStanley
 academia_username: JoeyStanley
