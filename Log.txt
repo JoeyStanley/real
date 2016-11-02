@@ -26,6 +26,12 @@ Sunday, October 23, 2016
 Monday, October 31, 2016
 10:29pm - I'm learning CSS via Jekyll. It's a thorough course but it takes a while. I'm starting to make some changes to my CSS. For now, I cleaned up how the commented portions of the CSS file looked. I also removed the underline from all external links. It's already looking better. 
 
+Tuesday, November 1, 2016
+9:37pm - I've made the hyperlinks like the Betterick's Typography! Score!
+
+Wednesday, November 2, 2016
+11:31am - I just bought joeystanley.com! It's a bit more work to get it working than I expected, but I think I've got it. I followed the instructions on this site http://www.curtismlarson.com/blog/2015/04/12/github-pages-google-domains/. I've got it linked, but again I've lost all formatting, and the links between portions of the site isn't working. 
+
 
 Todo list:
 * I have a lot of links. I want to do something more subtle like in Butterick's Typography or http://seespotcode.net/style/. Maybe not copy them exactly, but something similar. 
