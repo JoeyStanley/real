@@ -5,9 +5,10 @@
 <aside>
     <h3>Archives</h3>
     <ul class="archives">
-        <li><a href="{{site.baseurl}}/tags/">All posts</a></li>
+        <li><a href="/tags/">All posts</a></li>
         {% for tag in sortedTags %}
-            <li><a href="{{site.baseurl}}/tags/#{{ tag | cgi_escape }}">{{ tag }} ({{ site.tags[tag].size }})</a></li>
+             <!-- Note: with the default site, each of these links was prefixed with {{site.baseurl}}, but the new domain name can't have that. -->
+            <li><a href="/tags/#{{ tag | cgi_escape }}">{{ tag }} ({{ site.tags[tag].size }})</a></li>
         {% endfor %}
     </ul>
     {% include social-media.html %}

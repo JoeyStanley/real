@@ -22,7 +22,7 @@ title:  Post Archives
                 {% for post in site.tags[tag] %}
                     <li>
                         <time itemprop="dateCreated" datetime="{{post.date}}">
-                                {{ post.date | date: "%b %d, %Y" }}</time> | <a href="{{site.baseurl}}{{post.url}}" rel="bookmark" title="Permanent Link to {{site.baseurl}}{{post.url}}">
+                                {{ post.date | date: "%b %d, %Y" }}</time> | <a href="{{post.url}}" rel="bookmark" title="Permanent Link to {{post.url}}">
                                 {{post.title}}</a>
                     </li>
                 {% endfor %}
