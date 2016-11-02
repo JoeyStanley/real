@@ -32,17 +32,18 @@ Tuesday, November 1, 2016
 Wednesday, November 2, 2016
 11:31am - I just bought joeystanley.com! It's a bit more work to get it working than I expected, but I think I've got it. I followed the instructions on this site http://www.curtismlarson.com/blog/2015/04/12/github-pages-google-domains/. I've got it linked, but again I've lost all formatting, and the links between portions of the site isn't working. 
 
+1:35pm - Okay, turns out the problem was the site.baseurl. It was trying to go to joeystanley.com/joeystanley/index.html. That extra "joeystanley" was throwing it off. I've removed all the "{{site.baseurl}}" tags and that seems to have done the trick. Now though when I test it offline, it's not working. The whole purpose of that flexibility was so that it would work offline and online. So I'm not sure what I'm going to do. 
+
+1:39pm - So it looks like all offline site addreses are the same as the online ones just with "localhost:4000/" before it. I think I need to reinsert all the {{site.baseurl}} tags and replace it with "/". That sounds familiar. 
+
 
 Todo list:
-* I have a lot of links. I want to do something more subtle like in Butterick's Typography or http://seespotcode.net/style/. Maybe not copy them exactly, but something similar. 
 * Big layout changes
     * Move social media to the bottom on most pages
     * Remove the archives list from the sidebar on most pages.
-* Add some of this stuff as a blog post.
 * Change my main name at the top to a button that takes me to my homepage.
 * Change the layout of the main page so width of the page is narrow without the need of a sidebar.
 * Make the social media links dynamic.
-* If I'm going to get serious about taking control over how it all looks, I'm going to need to learn CSS. I found this tutorial by the same guy on Lynda, and it might be worth it. https://www.lynda.com/Web-Interactive-CSS-training/CSS-Page-Layouts/86003-2.html?srchtrk=index%3a1%0alinktypeid%3a2%0aq%3acss%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2
 * Add my ORCID to all my profiles.
 
 
