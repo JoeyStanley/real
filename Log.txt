@@ -36,6 +36,8 @@ Wednesday, November 2, 2016
 
 1:39pm - So it looks like all offline site addreses are the same as the online ones just with "localhost:4000/" before it. I think I need to reinsert all the {{site.baseurl}} tags and replace it with "/". That sounds familiar. 
 
+1:56pm - Okay, so that didn't work. I've got it as a working online version right now—which is more important. The site.baseurl is "/joeystanley.com", and there are no {{site.baseurl}} tags anywhere. This would be a good time to start a branch and test it out that way.  
+
 
 Todo list:
 * Big layout changes
