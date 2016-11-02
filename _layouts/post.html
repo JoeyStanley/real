@@ -12,16 +12,17 @@ page-type: post
         </header>
         {{content}}
         <footer>
-        <p>Posted in {% for tag in page.tags %}<a href="{{ site.baseurl }}/tags/index.html#{{ tag | cgi_escape }}" title="Pages tagged {{ tag }}" rel="tag">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}</p>
+           <!-- Note: with the default site, each of these links was prefixed with {{site.baseurl}}, but the new domain name can't have that. -->
+        <p>Posted in {% for tag in page.tags %}<a href="/tags/index.html#{{ tag | cgi_escape }}" title="Pages tagged {{ tag }}" rel="tag">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}</p>
         </footer>
     </article>
     <section class="post-links">
     <p>Read more:</p>
   {% if page.previous.url %}
-    <p class="prevLink"><a class="previous" href="{{ site.baseurl }}{{page.previous.url}}">{{page.previous.title}}</a></p>
+    <p class="prevLink"><a class="previous" href="{{page.previous.url}}">{{page.previous.title}}</a></p>
   {% endif %}
   {% if page.next.url %}
-    <p class="nextLink"><a class="next" href="{{ site.baseurl }}{{page.next.url}}">{{page.next.title}}</a></p>
+    <p class="nextLink"><a class="next" href="{{page.next.url}}">{{page.next.title}}</a></p>
   {% endif %}
 	</section>
     </article>
