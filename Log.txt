@@ -38,6 +38,10 @@ Wednesday, November 2, 2016
 
 1:56pm - Okay, so that didn't work. I've got it as a working online version right now—which is more important. The site.baseurl is "/joeystanley.com", and there are no {{site.baseurl}} tags anywhere. This would be a good time to start a branch and test it out that way.  
 
+2:12pm - Aha! I found way down in one of the comments here (https://github.com/jekyll/jekyll/issues/332) that if when I serve jekyll, add the argument "--baseurl ''". It won't try to put in a baseurl in the local host. Sweet. It works great now.
+
+4:37pm - Turns out, incoporating PDFs into the document is as straightforward as putting the file in the folder and adding a link do it.
+
 
 Todo list:
 * Big layout changes
@@ -46,7 +50,7 @@ Todo list:
 * Change my main name at the top to a button that takes me to my homepage.
 * Change the layout of the main page so width of the page is narrow without the need of a sidebar.
 * Make the social media links dynamic.
-* Add my ORCID to all my profiles.
+* Incorporate Google Analytics
 
 
 Debugging notes
