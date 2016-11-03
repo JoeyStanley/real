@@ -286,6 +286,26 @@ a[href*="http"]:after {
 	color: darkred;
 }
 
+/* Add icons to the CV link types */
+a.paper:after {
+	content: url('/images/paper.png');
+}
+a.abstract:after {
+	content: url('/images/paper.png');
+}
+a.slides:after {
+	content: url('/images/slides.png');
+}
+a.poster:after {
+	content: url('/images/poster.png');
+}
+a.video:after {
+	content: url('/images/video.png');
+}
+a.flyer:after {
+	content: url('/images/flyer.png');
+}
+
 
 img, object, embed {
 	max-width: 100%;
