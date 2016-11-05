@@ -297,7 +297,7 @@ a.slides:after {
 	content: url('/images/slides.png');
 }
 a.poster:after {
-	content: url('/images/poster.png');
+	content: url('/images/slides.png');
 }
 a.video:after {
 	content: url('/images/video.png');
