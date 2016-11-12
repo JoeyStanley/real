@@ -39,15 +39,15 @@ Stanley, Joseph A. (2015). "Merging Phonemes in Real Time". *Proceedings of LSUG
 Conference Presentations
 ==========
 
-“V[ɛ]ry v[e]ried vowel mergers in the Pacific Northwest.” Diversity and Variation in Language ([DiVar 1](http://linguistics.emory.edu/home/conferences/divar1/index.html)). Atlanta, GA. February 10–11, 2017.
+<strong>Stanley, Joseph A.</strong> (2017). “V[ɛ]ry v[e]ried vowel mergers in the Pacific Northwest.” Diversity and Variation in Language ([DiVar 1](http://linguistics.emory.edu/home/conferences/divar1/index.html)). Atlanta, GA. February 10–11.
 
 <strong>Stanley, Joseph A.</strong> (2017). “The perception and production of two vowel mergers in Cowlitz County, Washington.” The American Dialect Society ([ADS](http://www.americandialect.org)) Annual Meeting. Austin, TX. January 5–8.
 
 <strong>Stanley, Joseph A.</strong> (2016). "An EWP model of Quechua agreement: Further evidence against DM". The Third Annual Linguistics Conference at the University of Georgia ([LCUGA3](http://www.lsuga.com/conference/2016)). Athens, GA. October 7--9. <a href="https://drive.google.com/open?id=0B9rmY2OjP34AcXZ1d3dIYThlQWs" class="abstract"></a> <a href="https://drive.google.com/open?id=0B9rmY2OjP34AY1IydGhGdmxTZnM" class="slides"></a>
 
-<strong>Stanley, Joseph A.</strong> & [Margaret E. L. Renwick](http://faculty.franklin.uga.edu/mrenwick/) (2016). "Phonetic Shift /ɔr/ Phonemic Change? American English mergers over 40 years". Poster presentation by the second author at the 15th Conference on Laboratory Phonology ([LabPhon15](http://labphon.org/labphon15/)). Ithaca, NY. July 13–16. <a href="http://labphon.org/labphon15/long_abstracts/LabPhon15_Revised_abstract_173.pdf" class="abstract"></a><a href="https://drive.google.com/file/d/0B9rmY2OjP34AbzNLTlFnZWlFc28/view" class="poster"></a>
+<strong>Stanley, Joseph A.</strong> & [Margaret E. L. Renwick](http://faculty.franklin.uga.edu/mrenwick/) (2016). "Phonetic Shift <span style="white-space: nowrap;">/ɔr/</span> Phonemic Change? American English mergers over 40 years". Poster presentation by the second author at the 15th Conference on Laboratory Phonology ([LabPhon15](http://labphon.org/labphon15/)). Ithaca, NY. July 13–16. <a href="http://labphon.org/labphon15/long_abstracts/LabPhon15_Revised_abstract_173.pdf" class="abstract"></a><a href="https://drive.google.com/file/d/0B9rmY2OjP34AbzNLTlFnZWlFc28/view" class="poster"></a>
 
-<strong>Stanley, Joseph A.</strong> (2015). "Separate Phonemes /ɔr/ Merging? The [Cord-Card Merger](https://en.wikipedia.org/wiki/English-language_vowel_changes_before_historic_/r/#Card.E2.80.93cord_merger) in Real-Time". The Second Interdisciplinary Linguistics Conference at UGA ([LSUGA2](http://www.lsuga.com/conference)). Athens, GA. October 9–11. <a href="https://drive.google.com/file/d/0B9rmY2OjP34AZk91TmtTSnZTXzA/view" class="abstract"></a><a href="https://drive.google.com/file/d/0B9rmY2OjP34ASlB6Wi0xR2F2YTQ/view" class="slides"></a><a href="https://www.youtube.com/watch?v=v3BvpMyxPv8" class="video"></a>
+<strong>Stanley, Joseph A.</strong> (2015). "Separate Phonemes <span style="white-space: nowrap;">/ɔr/</span> Merging? The [Cord-Card Merger](https://en.wikipedia.org/wiki/English-language_vowel_changes_before_historic_/r/#Card.E2.80.93cord_merger) in Real-Time". The Second Interdisciplinary Linguistics Conference at UGA ([LSUGA2](http://www.lsuga.com/conference)). Athens, GA. October 9–11. <a href="https://drive.google.com/file/d/0B9rmY2OjP34AZk91TmtTSnZTXzA/view" class="abstract"></a><a href="https://drive.google.com/file/d/0B9rmY2OjP34ASlB6Wi0xR2F2YTQ/view" class="slides"></a><a href="https://www.youtube.com/watch?v=v3BvpMyxPv8" class="video"></a>
 
 <strong>Stanley, Joseph A.</strong> (2015). "Brother Bell’s Audience Types: Forms of Address among Latter-day Saint Young Adults". 82nd Meeting of the Southeastern Conference on Linguistics ([SECOL82](http://linguistics.chass.ncsu.edu)). Raleigh, NC. April 9–11. <a href="https://drive.google.com/file/d/0B9rmY2OjP34AcFlhbGFSRzFwWXM/view" class="abstract"></a><a href="https://drive.google.com/file/d/0B9rmY2OjP34AM05oUWFaWW1PNEU/view" class="slides"></a>
 
@@ -65,6 +65,12 @@ Invited Presentations
 
 <br/>
 
+Workshops
+==========
+
+[McGinn, Emily](http://emilymcginn.com) & <strong>Joey Stanley</strong>. “Brand Yourself: A professionalization workshop for grad students.” Workshop given at the University of Georgia DigiLab. Athens, GA. November 11, 2016.
+
+<br/>
 
 Other Presentations
 ==========

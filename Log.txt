@@ -61,6 +61,7 @@ Blog posts:
 * Excel
 * Powerpoint: master sheets, templates
 * How I did the logo hyperlinks
+* Google Analytics
 
 
 Debugging notes
