@@ -42,6 +42,11 @@ Wednesday, November 2, 2016
 
 4:37pm - Turns out, incoporating PDFs into the document is as straightforward as putting the file in the folder and adding a link do it.
 
+Friday, November 11, 2016
+2:33pm - I haven't done any work for a week or so. Last week I added icons to my CV page. So at the end of each line, there's a little paper or presentation icon (also movie and flyer), that takes the user to the right link. For now, the links haven't changed, but I'd like to host all my own stuff at some point.
+
+I also incorporated Google analytics. And holy cow it's fantastic. I added a relatively small block as an include file, and then put that at the top of the index.html file. It's been about a week and it's creepy how much I can track. Pretty awesome. 
+
 
 Todo list:
 * Big layout changes
@@ -50,8 +55,15 @@ Todo list:
 * Change my main name at the top to a button that takes me to my homepage.
 * Change the layout of the main page so width of the page is narrow without the need of a sidebar.
 * Make the social media links dynamic.
-* Incorporate Google Analytics
+
+Blog posts:
+* Word: formatting, styles, etc.
+* Excel
+* Powerpoint: master sheets, templates
+* How I did the logo hyperlinks
 
 
 Debugging notes
 I had a bug where the site was running even though I didn't think it was. The error code when I tried to run "jekyll serve" was "TCPServer Error: Address already in use - bind(2)". As this site says (http://www.noxidsoft.com/development/jekyll-tcpserver-error-address-already-in-use-bind-2/), try "lsof -wni tcp:4000", find the PID that is running, and then run this: "kill -9 ####". Seemed to work fine. 
+
+Add "--baseurl ''" to get it to run locally.

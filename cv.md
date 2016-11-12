@@ -3,7 +3,7 @@ layout: page
 title: Curriculum Vitae
 ---
 
-Updated October 9, 2016. Download PDF [here](https://drive.google.com/open?id=0B9rmY2OjP34AejFPZ2pUUnVXczQ).
+Updated November 11, 2016. Download PDF [here](https://drive.google.com/open?id=0B9rmY2OjP34AejFPZ2pUUnVXczQ).
 
 <br/>
 
@@ -38,6 +38,8 @@ Stanley, Joseph A. (2015). "Merging Phonemes in Real Time". *Proceedings of LSUG
 
 Conference Presentations
 ==========
+
+“V[ɛ]ry v[e]ried vowel mergers in the Pacific Northwest.” Diversity and Variation in Language ([DiVar 1](http://linguistics.emory.edu/home/conferences/divar1/index.html)). Atlanta, GA. February 10–11, 2017.
 
 <strong>Stanley, Joseph A.</strong> (2017). “The perception and production of two vowel mergers in Cowlitz County, Washington.” The American Dialect Society ([ADS](http://www.americandialect.org)) Annual Meeting. Austin, TX. January 5–8.
 
@@ -81,13 +83,10 @@ Other Presentations
 
 Works in Progress
 ==========
+
+Kretzschmar, William A., <strong>Joseph Stanley</strong>, & Katherine Kuiper. “Automated Large-Scale Phonetic Analysis: DASS.” Submitted to SouthEastern Conference on Linguistics ([SECOL84](http://conf2017.secol.org">)). Charleston, SC. March 8–11, 2017.
+
 "Pacific Northwest English: Historical Overview and Current Directions". Under Revision for the *UGA Working Papers in Linguistics* (4). 2016.
-
-“V[e]ry v[ɛ]riable vowel mergers in the Pacific Northwest.” Submitted to Diversity and Variation in Language (DiVar 1). Atlanta, GA. February 10–11, 2017.
-
-
-
-
 
 
 <br/>
@@ -100,11 +99,15 @@ Works in Progress
 Grants and Awards
 ==========
 
-| 2016 <br/> <br/> | -- <br/> <br/> | 2017 <br/> <br/>||| Complex Systems and the Humanities Research Assistantship awarded by the Graduate School at the University of Georgia. $17,664.
-| 2016 ||||| University of Georgia Graduate School Dean’s Award. $1,250. 
-| 2014 <br/> <br/> | -- <br/> <br/> | 2015 <br/> <br/>||| University of Georgia stipend enhancement awarded by the Franklin College of Arts and Sciences. $3,000.
-| 2014 <br/> <br/> | -- <br/> <br/> | 2016 <br/> <br/>||| University of Georgia Graduate Research Assistantship including a tuition waiver and a $17,000 annual stipend.
-| 2013 ||||| Brigham Young University Department of Linguistics and English Language Conference Travel Grant. $500.
+Complex Systems and the Humanities Research Assistantship awarded by the Graduate School at the University of Georgia. 2016--2017.
+
+University of Georgia Graduate School Dean’s Award.  2016.
+
+University of Georgia stipend enhancement awarded by the Franklin College of Arts and Sciences. 2014--2015
+
+University of Georgia Graduate Research Assistantship 2014.
+
+Brigham Young University Department of Linguistics and English Language Conference Travel Grant. 2013.
 
 <br/>
 
@@ -112,14 +115,21 @@ Grants and Awards
 Research Assistantships
 =========
 
-| 2016 <br/> <br/> <br/> | -- <br/> <br/> <br/> | 2017 <br/> <br/> <br/> ||| Complex Systems and the Humanities Research Assistant in support of the [Linguistic Atlas Project](http://www.lap.uga.edu) and the Willson Center Digital Humanities Lab ([DigiLab](http://digi.uga.edu/digilab/)) under the direction of [Dr. William Kretzschmar]([William A. Kretzschmar, Jr.](https://www.english.uga.edu/directory/495/detail)). 
-| 2016 <br/> <br/> <br/> <br/> ||||| Graduate Research Assistant for Dr. [Chad Howe](https://faculty.franklin.uga.edu/chowe/), Associate Professor in the Department of Romance Languages at the University of Georgia. <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • "Tryna" in online English <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Portuguese binomial constructions.
-| 2015 <br/> <br/> <br/> <br/> | -- <br/> <br/> <br/> <br/> | 2016 <br/> <br/> <br/> <br/>  ||| Graduate Research Assistant for Dr. [Margaret E. L. Renwick](http://faculty.franklin.uga.edu/mrenwick/), Assistant Professor in the Program in Linguistics at the University of Georgia. <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Computational methods in phonology and vowel mergers (English, Romanian, and Italian), including Stanley & Renwick (2016).
-| 2015 <br/> <br/> | -- <br/> <br/>| 2016 <br/> <br/> ||| Graduate Research Assistant for Dr. [Mi-Ran Kim](http://www.linguistics.uga.edu/directory/mi-ran-kim), Senior Lecturer at the University of Georgia. 2015–2016.
-| 2016 <br/> <br/> <br/> ||||| Graduate Research Assistant for Dr. [Vera Lee-Schoenfeld](http://www.gsstudies.uga.edu/people/vera-lee-schoenfeld), Associate Professor of Linguistics at the University of Georgia. 2015 <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Syntax of English passives. 
-| 2014 <br/> <br/> <br/> <br/> | -- <br/> <br/> <br/> <br/> | 2015 <br/> <br/> <br/> <br/> ||| Graduate Research Assistant for Dr. [Pilar Chamorro](http://www.linguistics.uga.edu/directory/pilar-chamorro-fernández), Assistant Professor of Hispanic and General Linguistics at the University of Georgia. <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Perception of Galician mid vowels, resulting in [Amengual & Chamorro (2015)](http://www.karger.com/Article/Abstract/439406) <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Tenetehára semantics.
-| 2012 <br/> <br/> <br/> <br/> | -- <br/> <br/> <br/> <br/> | 2013 <br/> <br/> <br/> <br/> ||| Research Assistant for Dr. [Janis Nuckolls](http://linguistics.byu.edu/directory/jbn34/), Professor of Linguistics at Brigham Young University. <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Phonology, corpus research, and development of a custom search engine for Kichwa data, resulting in Nuckolls, Stanley, Nielson, & Hopper (2013, 2016). 
-| 2012 <br/> <br/> <br/> <br/> | -- <br/> <br/> <br/> <br/>| 2013 <br/> <br/> <br/> <br/> ||| Research Assistant for Dr. [Monte Shelley](http://mi.byu.edu/people/monte-shelley/) of the [Maxwell Institute for Religious Scholarship](http://mi.byu.edu). <br/>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Extensive use of Perl to create eBooks (in English, Hebrew, Syriac, and Mandarin) for [WordCruncher](http://www.wordcruncher.com/index.html). 
+Complex Systems and the Humanities Research Assistant in support of the [Linguistic Atlas Project](http://www.lap.uga.edu) and the Willson Center Digital Humanities Lab ([DigiLab](http://digi.uga.edu/digilab/)) under the direction of [Dr. William Kretzschmar]([William A. Kretzschmar, Jr.](https://www.english.uga.edu/directory/495/detail)). 2016--2017
+
+Graduate Research Assistant for Dr. [Chad Howe](https://faculty.franklin.uga.edu/chowe/), Associate Professor in the Department of Romance Languages at the University of Georgia. 2016.
+
+Graduate Research Assistant for Dr. [Margaret E. L. Renwick](http://faculty.franklin.uga.edu/mrenwick/), Assistant Professor in the Program in Linguistics at the University of Georgia. 2015--2016.
+
+Graduate Research Assistant for Dr. [Mi-Ran Kim](http://www.linguistics.uga.edu/directory/mi-ran-kim), Senior Lecturer at the University of Georgia. 2015–2016.
+
+Graduate Research Assistant for Dr. [Vera Lee-Schoenfeld](http://www.gsstudies.uga.edu/people/vera-lee-schoenfeld), Associate Professor of Linguistics at the University of Georgia. 2016.
+
+Graduate Research Assistant for Dr. [Pilar Chamorro](http://www.linguistics.uga.edu/directory/pilar-chamorro-fernández), Assistant Professor of Hispanic and General Linguistics at the University of Georgia. 2014--2015.
+
+Research Assistant for Dr. [Janis Nuckolls](http://linguistics.byu.edu/directory/jbn34/), Professor of Linguistics at Brigham Young University. 2012--2013.
+
+Research Assistant for Dr. [Monte Shelley](http://mi.byu.edu/people/monte-shelley/) of the [Maxwell Institute for Religious Scholarship](http://mi.byu.edu). 2012--2013.
 
 <br/>
 
@@ -127,11 +137,12 @@ Research Assistantships
 Other Employment
 ==========
 
-| 2013 ||||| Programmer for the [Maxwell Institute for Religious Scholarship](http://mi.byu.edu). 
-| 2013 <br/> <br/> ||||| Teaching Assistant for [Jason Dzubak](http://mi.byu.edu/people/jason-dzubak/), Linguistic Computing and Programming 1, Brigham Young University. 
-| 2011 <br/> <br/> | -- <br/> <br/> | 2013 <br/> <br/>||| Teaching Assistant for Dr. [Monte Shelley](http://mi.byu.edu/people/monte-shelley/), Basic Humanities Computing Skills, Brigham Young University.
+Assistant for Dr. Peggy Renwick in developing materials and establishing an online repository for her “Quantitative Methods in Linguistics” course at the University of Georgia. 2016--2017.
 
+Programmer for the [Maxwell Institute for Religious Scholarship](http://mi.byu.edu). 2013. 
+Teaching Assistant for [Jason Dzubak](http://mi.byu.edu/people/jason-dzubak/), Linguistic Computing and Programming 1, Brigham Young University. 2013.
 
+Teaching Assistant for Dr. [Monte Shelley](http://mi.byu.edu/people/monte-shelley/), Basic Humanities Computing Skills, Brigham Young University. 2011--2013.
 
 <br/>
 <br/>
@@ -143,9 +154,12 @@ Other Employment
 Computer Skills and Tools
 ============
 
-| Expert ||| Apple computers, Excel, Perl, R, Word | 
-| Proficient <br/> <br/> ||| [COCA](http://corpus.byu.edu/coca/) (and [related corpora](http://corpus.byu.edu)), [DARLA](http://darla.dartmouth.edu), [FAVE](http://fave.ling.upenn.edu), [JMP](http://www.jmp.com/en_us/home.html), LaTeX, [PCT](http://phonologicalcorpustools.github.io/CorpusTools/), Praat, [SPPAS](http://www.sppas.org), [UCINET](https://sites.google.com/site/ucinetsoftware/home), [Wiki markup](https://en.wikipedia.org/wiki/Help:Wiki_markup), Windows computers, [WordCruncher](http://www.wordcruncher.com/index.html), [Zotero](https://www.zotero.org) | 
-| Familiar <br/> <br/> ||| [Access](https://products.office.com/en-US/access), [AntConc](http://www.laurenceanthony.net/software.html), [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)), [DreamWeaver](http://www.adobe.com/products/dreamweaver.html?sdid=KKQTJ&mv=search&s_kwcid=AL!3085!3!110812694443!e!!g!!dreamweaver&ef_id=V7iPrwAAAUYcBTnE:20160826185837:s), [HTK](http://htk.eng.cam.ac.uk), [LaBB-CAT](http://labbcat.sourceforge.net), [MALLET](http://mallet.cs.umass.edu/index.php), [Markdown](http://daringfireball.net/projects/markdown/), Photoshop, [Prosody-Lab Aligner](http://prosodylab.org/tools/aligner/), Python, [SoX](http://sox.sourceforge.net), [SAS](http://www.sas.com/), [Transcriber](http://trans.sourceforge.net/en/presentation.php), [VBA](https://en.wikipedia.org/wiki/Visual_Basic_for_Applications), [WebMAUS](http://clarin.phonetik.uni-muenchen.de/BASWebServices/#/services/WebMAUSBasic)
+*Expert*: Excel, Perl, R 
+
+*Proficient*:  [COCA](http://corpus.byu.edu/coca/) (and [related corpora](http://corpus.byu.edu)), [DARLA](http://darla.dartmouth.edu), [FAVE](http://fave.ling.upenn.edu), [JMP](http://www.jmp.com/en_us/home.html), LaTeX, [PCT](http://phonologicalcorpustools.github.io/CorpusTools/), Praat, [SPPAS](http://www.sppas.org), [UCINET](https://sites.google.com/site/ucinetsoftware/home), [Wiki markup](https://en.wikipedia.org/wiki/Help:Wiki_markup), Windows computers, [WordCruncher](http://www.wordcruncher.com/index.html), [Zotero](https://www.zotero.org)
+
+
+*Familiar*: [Access](https://products.office.com/en-US/access), [AntConc](http://www.laurenceanthony.net/software.html), [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)), [DreamWeaver](http://www.adobe.com/products/dreamweaver.html?sdid=KKQTJ&mv=search&s_kwcid=AL!3085!3!110812694443!e!!g!!dreamweaver&ef_id=V7iPrwAAAUYcBTnE:20160826185837:s), [HTK](http://htk.eng.cam.ac.uk), [LaBB-CAT](http://labbcat.sourceforge.net), [MALLET](http://mallet.cs.umass.edu/index.php), [Markdown](http://daringfireball.net/projects/markdown/), Photoshop, [Prosody-Lab Aligner](http://prosodylab.org/tools/aligner/), Python, [SoX](http://sox.sourceforge.net), [SAS](http://www.sas.com/), [Transcriber](http://trans.sourceforge.net/en/presentation.php), [VBA](https://en.wikipedia.org/wiki/Visual_Basic_for_Applications), [WebMAUS](http://clarin.phonetik.uni-muenchen.de/BASWebServices/#/services/WebMAUSBasic)
 
 <br/>
 
@@ -154,9 +168,11 @@ Computer Skills and Tools
 Fieldwork Experience
 ==========
 
-| 2016 ||||| Sociolinguistic fieldwork in [Cowlitz County, Washington](https://en.wikipedia.org/wiki/Cowlitz_County,_Washington). July.
-| 2011 ||||| Study abroad at the [Andes and Amazon Field School](http://www.andes-fieldschool.org/Andes_and_Amazon_Field_School/Home.html) near Tena, Ecuador, documenting Tena and Pastaza Kichwa phonology. June–July.
-| 2008 <br/> <br/> | -- <br/> <br/> | 2010 <br/> <br/> ||| Brazil (Marília, SP; Campo Grande, MS; Cáceres, Cuiabá, and Várzea Grande, MG), not linguistics related.
+Sociolinguistic fieldwork in [Cowlitz County, Washington](https://en.wikipedia.org/wiki/Cowlitz_County,_Washington). July, 2016.
+
+Study abroad at the [Andes and Amazon Field School](http://www.andes-fieldschool.org/Andes_and_Amazon_Field_School/Home.html) near Tena, Ecuador, documenting Tena and Pastaza Kichwa phonology. June–July, 2011.
+
+Brazil (Marília, SP; Campo Grande, MS; Cáceres, Cuiabá, and Várzea Grande, MG). 2008--2010. (Not linguistics related.)
 
 
 <br/>
@@ -167,15 +183,13 @@ Fieldwork Experience
 Languages
 =============
 
-| English ||| Native speaker
-| Portuguese ||| Fluent speaker, reading and writing proficiency
-| [Quechua](https://en.wikipedia.org/wiki/Quechuan_languages) ||| A total of six semesters in Ecuadorian Lowland, Cusco, and Bolivian varieties
-| [Guaraní](https://en.wikipedia.org/wiki/Guarani_language) ||| Intermediate knowledge for academic study
-| Spanish ||| Basic speaking knowledge, some reading proficiency
-| Mandarin ||| Two undergraduate semesters of study
-| [Tz'utujil](https://en.wikipedia.org/wiki/Tz’utujil_language) ||| Field methods course
-| [Tshiluba](https://en.wikipedia.org/wiki/Luba-Kasai_language) ||| Field methods course
-| Korean ||| Korean linguistics course
+*Native*: English 
+
+*Fluent*: Brazilian Portuguese
+
+*Conversational*: Spanish, [Quechua](https://en.wikipedia.org/wiki/Quechuan_languages)
+
+*Academic Knoweldge*: [Guaraní](https://en.wikipedia.org/wiki/Guarani_language), Mandarin, [Tz'utujil](https://en.wikipedia.org/wiki/Tz’utujil_language), [Tshiluba](https://en.wikipedia.org/wiki/Luba-Kasai_language), Korean
 
 <br/>
 
@@ -183,9 +197,12 @@ Languages
 Professional Affiliations
 ===========
 
-| 2016 ||||| American Dialect Society ([ADS](http://www.americandialect.org))
-| 2015 ||||| SouthEastern Conference on Linguistics ([SECOL](http://secol.org)) 
-| 2012 | -- | 2016 ||| Linguistic Society of America ([LSA](http://www.linguisticsociety.org))
-| 2012 ||||| Society for the Study of the Indigenous Languages of the Americas ([SSILA](http://www.ssila.org))
+American Dialect Society ([ADS](http://www.americandialect.org))
+
+SouthEastern Conference on Linguistics ([SECOL](http://secol.org)) 
+
+Linguistic Society of America ([LSA](http://www.linguisticsociety.org))
+
+Society for the Study of the Indigenous Languages of the Americas ([SSILA](http://www.ssila.org))
 
 
