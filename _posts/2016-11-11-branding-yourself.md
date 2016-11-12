@@ -10,7 +10,7 @@ Today [Emily McGinn](http://emilymcginn.com) of the Digital Humanities Lab at UG
 The presentation covered a lot of different topics, some deeper than others. I covered sites like Academia.edu, ResearchGate, and Google Scholar in more depth, while mentioning others like ImpactFactor, Mendeley, Zotero, and LinkedIn with less detail.   
 [Academia.edu](http://academia.edu) is a social networking site for academics. Users can create profiles, upload their papers, and follow others that have done the same. It's a great resource for finding papers that may be behind a paywall, although it has gotten a lot of criticism for this. The website will keep track of your analytics, and there's nothing more thrilling than getting an email saying someone has found my profile!
 
-![Academia.edu email screenshot]({{ site.baseurl }}/images/academia_email_screenshot.png)
+![Academia.edu email screenshot](/images/academia_email_screenshot.png)
 
 I'm less familiar with [ResearchGate](https://www.researchgate.net), but in my cursory look, it seems like it's more focused on creating networks based on people you cite and your co-authors while academia.edu is more focused on following your field and your interests. One thing I don't like about ResearchGate is that the number of emails it sends you is borderline spam. It invites me to follow other grad students at my university, but, no offense to the sciences, I'm not particularly concerned with what a microbiologist on the other side of campus is doing.   
 
