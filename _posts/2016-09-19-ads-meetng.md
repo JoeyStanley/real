@@ -2,7 +2,7 @@
 layout: post
 title:  "ADS Meeting!"
 date:   2016-09-19 16:23:00 -0400
-tags: [conferences, research, Pacific Northwest, research]
+tags: [conferences, research, Pacific Northwest]
 ---
 
 I'm thrilled to announce I've been accepted to present a paper at the 2017 annual conference of the American Dialect Society!

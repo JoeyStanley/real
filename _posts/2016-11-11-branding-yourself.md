@@ -57,3 +57,7 @@ Conclusion
 ==========
 
 Overall, I thought the workshop went very well. Most of the attendees did end up setting up some sort of profile: some did an academia.edu profile, some google scholar, and a few were ambitious and set up a github page. At the very least, I got this very webpage set up as a result of preparing for this workshop, and I learned a *lot* about all these other pages. It was a great feeling to see a dozen students directly benefiting from our presentation.
+
+You can download the slideshow we used for this presentation [here](../downloads/BrandYourself.pptx).
+
+I should also mention that I am indebted to the [Impact Challenge blog series](http://blog.impactstory.org/category/impact-challenge/), with the [accompanying 200+ page pdf](http://blog.impactstory.org/research-impact-challenge-ebook/), from which I learned a lot about all this. I would highly recommend that you download it and take a look. Not only does it include much more than what I've mentioned here, including step-by-step how-to guides to getting these profiles set up, but also many more topics to get yourself more visible. Thanks, Impact Challenge.
