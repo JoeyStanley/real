@@ -28,11 +28,11 @@ Education
 Publications
 ==========
 
-Stanley, Joseph A. (2016). "When do Mormons Call Each Other by First Name?" *University of Pennsylvania Working Papers in Linguistics*, 22(1). <a href="http://repository.upenn.edu/pwpl/vol22/iss1/31/" class="paper"></a>
+<strong>Stanley, Joseph A.</strong> (2016). "When do Mormons Call Each Other by First Name?" *University of Pennsylvania Working Papers in Linguistics*, 22(1). <a href="http://repository.upenn.edu/pwpl/vol22/iss1/31/" class="paper"></a>
 
-<a href="http://linguistics.byu.edu/directory/jbn34/" title="Janis Nuckolls">Nuckolls, Janis</a>, Joseph Stanley, Elizabeth Nielson, & Roseanna Hopper (2016). "The Systematic Stretching and Contracting of Ideophonic Phonology in Pastaza Quichua". *International Journal of American Linguistics*, 82(1). 95--116. <a href="http://dx.doi.org/10.1086/684425" class="paper"></a>
+<a href="http://linguistics.byu.edu/directory/jbn34/" title="Janis Nuckolls">Nuckolls, Janis</a>, <strong>Joseph Stanley</strong>, Elizabeth Nielson, & Roseanna Hopper (2016). "The Systematic Stretching and Contracting of Ideophonic Phonology in Pastaza Quichua". *International Journal of American Linguistics*, 82(1). 95--116. <a href="http://dx.doi.org/10.1086/684425" class="paper"></a>
 
-Stanley, Joseph A. (2015). "Merging Phonemes in Real Time". *Proceedings of LSUGA’s Second Interdisciplinary Conference in Linguistics* ([LSUGA2](http://www.lsuga.com/conference/2015)), 1. <a href="https://drive.google.com/file/d/0B9rmY2OjP34AdXNnd0o3bTRtd2M/view" class="paper"></a>
+<strong>Stanley, Joseph A.</strong> (2015). "Merging Phonemes in Real Time". *Proceedings of LSUGA’s Second Interdisciplinary Conference in Linguistics* ([LSUGA2](http://www.lsuga.com/conference/2015)), 1. <a href="https://drive.google.com/file/d/0B9rmY2OjP34AdXNnd0o3bTRtd2M/view" class="paper"></a>
 
 <br/>
 

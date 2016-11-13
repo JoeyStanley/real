@@ -2,7 +2,7 @@
 layout: post
 title:  "The Importance of Twitter"
 date:   2016-10-31 19:00:00 -0400
-tags: [twitter, skills, research, reddit, methods]
+tags: [how-to guides, methods, reddit, research, twitter]
 ---
 
 I'm preparing a workshop right now for the DigiLab here at UGA on how to increase your web presence. I'll give a more detailed explanation of that later on, but I just wanted to point how how cool Twitter has been for me.
