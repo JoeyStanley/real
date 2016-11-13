@@ -288,22 +288,22 @@ a[href*="http"]:after {
 
 /* Add icons to the CV link types */
 a.paper:after {
-	content: url('/images/paper.png');
+	content: url('/images/icons/paper.png');
 }
 a.abstract:after {
-	content: url('/images/paper.png');
+	content: url('/images/icons/paper.png');
 }
 a.slides:after {
-	content: url('/images/presentation.png');
+	content: url('/images/icons/presentation.png');
 }
 a.poster:after {
-	content: url('/images/presentation.png');
+	content: url('/images/icons/presentation.png');
 }
 a.video:after {
-	content: url('/images/video.png');
+	content: url('/images/icons/video.png');
 }
 a.flyer:after {
-	content: url('/images/flyer.png');
+	content: url('/images/icons/flyer.png');
 }
 
 
@@ -597,22 +597,22 @@ aside li {
 	height: 32px;
 }
 .github {
-	background: url(../images/github.svg) no-repeat;
+	background: url(../images/icons/github.svg) no-repeat;
 }
 .fb {
-	background: url(../images/facebook.svg) no-repeat;
+	background: url(../images/icons/facebook.svg) no-repeat;
 }
 .linked {
-	background: url(../images/linkedin.svg) no-repeat;
+	background: url(../images/icons/linkedin.svg) no-repeat;
 }
 .twitter {
-	background: url(../images/twitter.svg) no-repeat;
+	background: url(../images/icons/twitter.svg) no-repeat;
 }
 .academia {
-	background: url(../images/academia.svg) no-repeat;
+	background: url(../images/icons/academia.svg) no-repeat;
 }
 .googleScholar {
-	background: url(../images/google.svg) no-repeat;
+	background: url(../images/icons/google.svg) no-repeat;
 }
 	
 
