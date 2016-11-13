@@ -48,6 +48,10 @@ Friday, November 11, 2016
 I also incorporated Google analytics. And holy cow it's fantastic. I added a relatively small block as an include file, and then put that at the top of the index.html file. It's been about a week and it's creepy how much I can track. Pretty awesome. 
 
 
+Saturday, November 12, 2016
+8:18pm - I did a lot today. I added a blog post about the Brand Yourself workshop, as well as a short one on DiVar. Since the number of images I have is getting unweildy, I made subdirectories. I removed the "this is a copy" disclaimer at the top. Changed some of the tags. Uploaded my slides.
+
+
 Todo list:
 * Big layout changes
     * Move social media to the bottom on most pages
@@ -55,6 +59,7 @@ Todo list:
 * Change my main name at the top to a button that takes me to my homepage.
 * Change the layout of the main page so width of the page is narrow without the need of a sidebar.
 * Make the social media links dynamic.
+* Make sure the blue color matches my slideshows. Make everything match.
 
 Blog posts:
 * Word: formatting, styles, etc.
@@ -62,6 +67,7 @@ Blog posts:
 * Powerpoint: master sheets, templates
 * How I did the logo hyperlinks
 * Google Analytics
+    * Include how to filter out myself (https://support.google.com/analytics/answer/1034823)
 
 
 Debugging notes
