@@ -10,7 +10,7 @@ Today [Emily McGinn](http://emilymcginn.com) of the Digital Humanities Lab at UG
 Social Media
 ============
 
-[Academia.edu](http://academia.edu) is a social networking site for academics. Users can create profiles, upload their papers, and follow particular research topics. They can also follow others that have done the same. It's a great resource for finding papers that may be behind a paywall, although it has gotten a lot of criticism for this. Papers you upload can be found by Google Scholar, which is a nice perk. The website will keep track of your analytics, and there's nothing more thrilling than getting an email saying someone has found my profile!
+[Academia.edu](http://academia.edu) is a social networking site for academics. Users can create profiles, upload their papers, and follow particular research topics. They can also follow others that have done the same. It's a great resource for finding papers that may be behind a paywall, although it has gotten a lot of criticism for this. Papers you upload can be found by Google Scholar, which is a nice perk. The website will keep track of your analytics, and there's nothing more thrilling than getting an email saying someone has found your profile!
 
 <img src="/images/screenshots/academia_email.png" alt="Academia.edu email screenshot" style="width: 15em;"/>
 
@@ -26,7 +26,7 @@ In this screenshot ([live link here](https://scholar.google.com/scholar?hl=en&q=
 
 <img src="/images/screenshots/natalie_schilling.png" alt="Natalie Schilling screenshot" style="width: 30em;"/>
 
-It does take a bit of work to get a full profile going, because Google's data can be a bit messy, so you'll have to add stuff in by hand. But I think the payoff is worth it.
+It does take a bit of work to get a full profile going, because Google's data can be a bit messy, so you'll have to add stuff in by hand. But I think the payoff is worth the effot.
 
 There are a handful of other websites out there that can help you build an online presence. [Impact Story](https://www.impactstory.org) is one that can keep track of how much of an impact you have on people by keeping track of when people cite, mention, read you and your work. For $10 a month, it might not be worth it for a grad student, but for a professor applying for tenure this might be worth it. 
 
@@ -58,6 +58,8 @@ Conclusion
 
 Overall, I thought the workshop went very well. Most of the attendees did end up setting up some sort of profile: some did an academia.edu profile, some google scholar, and a few were ambitious and set up a github page. At the very least, I got this very webpage set up as a result of preparing for this workshop, and I learned a *lot* about all these other pages. It was a great feeling to see a dozen students directly benefiting from our presentation.
 
+-------------
+
 You can download the slideshow we used for this presentation [here](../downloads/BrandYourself.pptx).
 
-I should also mention that I am indebted to the [Impact Challenge blog series](http://blog.impactstory.org/category/impact-challenge/), with the [accompanying 200+ page pdf](http://blog.impactstory.org/research-impact-challenge-ebook/), from which I learned a lot about all this. I would highly recommend that you download it and take a look. Not only does it include much more than what I've mentioned here, including step-by-step how-to guides to getting these profiles set up, but also many more topics to get yourself more visible. Thanks, Impact Challenge.
+I am indebted to the [Impact Challenge blog series](http://blog.impactstory.org/category/impact-challenge/), with the [accompanying 200+ page pdf](http://blog.impactstory.org/research-impact-challenge-ebook/), from which I learned a lot about all this. I would highly recommend that you download it and take a look. Not only does it include much more than what I've mentioned here, including step-by-step how-to guides to getting these profiles set up, but also many more topics to get yourself more visible. Thanks, Impact Challenge.
