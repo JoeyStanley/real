@@ -7,10 +7,9 @@
     <ul class="archives">
         <li><a href="/tags/">All posts</a></li>
         {% for tag in sortedTags %}
-             <!-- Note: with the default site, each of these links was prefixed with {{site.baseurl}}, but the new domain name can't have that. -->
+            <!-- Note: with the default site, each of these links was prefixed with {{site.baseurl}}, but the new domain name can't have that. -->
             <li><a href="/tags/#{{ tag | cgi_escape }}">{{ tag }} ({{ site.tags[tag].size }})</a></li>
         {% endfor %}
     </ul>
-    {% include social-media.html %}
 </aside>
 

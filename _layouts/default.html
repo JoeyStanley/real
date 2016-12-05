@@ -25,20 +25,29 @@
     <meta name="google-site-verification" content="YV8T30zxtByvpKFxw6r-oXnFC-TyZmIWz8Igd-VfY5w" />
   </head>
   <body>
-    <header role="banner" class="page-header" id="top">
-      <h1>{{site.title}}</h1>
-      <p>{{site.tagline}}</p>
-      <nav role="navigation">
-      <input type="checkbox" id="menu-toggle">
-      <label for="menu-toggle" class="toggle-label"><span>menu</span></label>
-      <ul class="menu">
-        <!-- Note: with the default site, each of these links was prefixed with {{site.baseurl}}, but the new domain name can't have that. -->
-        <li><a href="/index.html" title="About Me">About Me</a></li>
-        <li><a href="/cv.html" title="CV">CV</a></li>
-        <li><a href="/resources.html" title="resources">Resources</a></li>
-        <li><a href="/blog/index.html" title="Articles">Blog</a></li>
-        <li><a href="/tags/" title="Archive">Archive</a></li>
-      </ul>
+    <table style="width:100%">
+      <tr>
+        <td>
+          <header role="banner" class="page-header" id="top">
+            <h1>{{site.title}}</h1>
+            <p>{{site.tagline}}</p>
+            <nav role="navigation">
+            <input type="checkbox" id="menu-toggle">
+            <label for="menu-toggle" class="toggle-label"><span>menu</span></label>
+            <ul class="menu">
+              <!-- Note: with the default site, each of these links was prefixed with {{site.baseurl}}, but the new domain name can't have that. -->
+              <li><a href="/index.html" title="About Me">About Me</a></li>
+              <li><a href="/cv.html" title="CV">CV</a></li>
+              <li><a href="/resources.html" title="resources">Resources</a></li>
+              <li><a href="/blog/index.html" title="Articles">Blog</a></li>
+              <li><a href="/tags/" title="Archive">Archive</a></li>
+            </ul>
+          </td>
+          <td>
+            {% include social-media.html %}
+          </td>
+        </tr>
+      </table> 
     </header>
     {{content}}
     {% if page.id %}

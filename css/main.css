@@ -562,30 +562,30 @@ h3:target + .taglist .return {
 }
 
 /* ########################################## */
-/*                Sidebar Styles              */
+/*                Social Media Styles         */
 /* ########################################## */
 
-aside {
-	padding: 0 1em 0;
-}
-aside h3 {
+/* Note that these td classes used to be "aside" */
+
+td h3 {
 	color: #4d4d4d;
 	font-size: 1.4em;
 	margin-top: 1em;
 	margin-bottom: .4em;
+	margin-right: 1.5em;
+	text-align: right;
 }
-aside p {
-	margin-left: 1em;
+
+td li {
+	margin-bottom: 0.5em;
 }
-aside ul {
+
+td ul {
 	list-style: none;
 	padding: 0;
 	margin:0;
-	margin-left: 1em;
 }
-aside li {
-	margin-bottom: 0.5em;
-}
+
 .social {
 	display: flex;
 	justify-content: space-around;
@@ -593,8 +593,8 @@ aside li {
 .social a {
 	text-indent: -9000em;
 	display: inline-block;
-	width: 32px;
-	height: 32px;
+	width: 50px;
+	height: 50px;
 }
 .github {
 	background: url(../images/icons/github.svg) no-repeat;
@@ -613,6 +613,36 @@ aside li {
 }
 .googleScholar {
 	background: url(../images/icons/google.svg) no-repeat;
+}
+
+/* ########################################## */
+/*                Sidebar Styles              */
+/* ########################################## */
+
+aside {
+	padding: 0 1em 0;
+}
+
+aside h3 {
+	color: #4d4d4d;
+	font-size: 1.4em;
+	margin-top: 1em;
+	margin-bottom: .4em;
+}
+
+aside li {
+	margin-bottom: 0.5em;
+}
+
+aside p {
+	margin-left: 1em;
+}
+
+aside ul {
+	list-style: none;
+	padding: 0;
+	margin:0;
+	margin-left: 1em;
 }
 	
 
