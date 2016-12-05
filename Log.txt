@@ -51,10 +51,12 @@ I also incorporated Google analytics. And holy cow it's fantastic. I added a rel
 Saturday, November 12, 2016
 8:18pm - I did a lot today. I added a blog post about the Brand Yourself workshop, as well as a short one on DiVar. Since the number of images I have is getting unweildy, I made subdirectories. I removed the "this is a copy" disclaimer at the top. Changed some of the tags. Uploaded my slides.
 
+Monday, December 5, 2016
+12:56am - Per Brad Moser's suggestion, I moved the social media to the top. I removed it from the aside, made the header a 1x2 table, and put the liquid syntax there. I changed the look slightly, including right aligning the text. I also removed any relevant CSS code, and changed others so that it would work. 
+
 
 Todo list:
 * Big layout changes
-    * Move social media to the bottom on most pages
     * Remove the archives list from the sidebar on most pages.
 * Change my main name at the top to a button that takes me to my homepage.
 * Change the layout of the main page so width of the page is narrow without the need of a sidebar.
