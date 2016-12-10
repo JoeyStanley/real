@@ -86,7 +86,8 @@ Blog posts:
 * How I did the logo hyperlinks
 * Google Analytics
     * Include how to filter out myself (https://support.google.com/analytics/answer/1034823)
-* Guarani
+* Make a blog post about BubblePlots. JMP says that Hans Rosling pioneered them, which I didn't know. http://www.jmp.com/support/help/Bubble_Plots.shtml#222083
+*  Make a blog post about my formatting branding. Include ggplot2 and how I get the graphics and colors to match.
 
 
 Debugging notes
@@ -94,6 +95,3 @@ I had a bug where the site was running even though I didn't think it was. The er
 
 Add "--baseurl ''" to get it to run locally.
 
-Make a blog post about BubblePlots. JMP says that Hans Rosling pioneered them, which I didn't know. http://www.jmp.com/support/help/Bubble_Plots.shtml#222083
-
-Make a blog post about my formatting branding. Include ggplot2 and how I get the graphics and colors to match.
