@@ -70,6 +70,8 @@ Saturday, Decmber 11, 2016
 
 4:21pm - Added the Guarani post. 
 
+5:36pm - Added Google Custom Search Engine code as an include file. Not included yet, because I can't figure out where. Perhaps on the archives page. But! The weird formatting with the archives page miraculously got fixed!
+
 
 
 {% include sidebar.html %}

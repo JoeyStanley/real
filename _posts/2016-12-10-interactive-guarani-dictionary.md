@@ -8,7 +8,7 @@ tags: [CSS, Guarani, side projects]
 The semester is finishing up, and as usual, the most productive week for me is during finals. Not necessarily productive regarding school work or current research projects, but I always rediscover side projects and hobbies. This week I rekindled my interest in Guarani.
 
 Brazil
------------
+======================
 
 I've been working on Guarani off and on since 2009. I was living in Campo Grande, Mato Grosso do Sul, Brazil, as a Mormon missionary at the time. Fairly regularly I would meet people that spoke this language called Guarani, and I had friend (a fellow missionary), who had some pedegogical materials that taught Spanish speakers Guarani. So I had to work through the Spanish (I had only been speaking Portuguese for 9 months or at that point), but I was able to decipher some of the basic Guarani morphology and grammar. A while later my dad sent me a copy of the Book of Mormon in Guarani and said I ought to learn what I could. So I sat there with the Guarani, Portuguese, and English translations and would try to figure out new words and morphology. 
 
@@ -17,13 +17,13 @@ Again, I was a Mormon missionary at the time, so I didn't have a lot of time to 
 One of the more frustrating things was that I wanted to see how a single word was used in other contexts. If I was looking through a sentence and there were three Guarani words I didn't know, I often had no way of knowing which word corresponded with the meaning in the English sentence. If only I could control+F the book and find the Guarani words in other contexts and figure out the meaning.  
 
 Self-study
------------
+======================
 
 After I came back to the United States and went back to college at BYU, I found that there were some books written about Guarani grammar, but they were mostly older ones. I didn't know it at the time, but a former Department Chair in the Department of Linguistics and English Language at BYU was Robert W. Blair, who published some Guarani pedegogical material. I found his *Guarani Basic Course* at the library as well as his student, Charles Graham's, *Guarani Intermediate Course*, and did what I could going through those. There were some other more descriptive grammars of the language written in the mid 20th Century, and I even sat in on a Guarani course for a semester<sup>1</sup>. 
 
 
 Translation Program
--------------------
+======================
 
 I was in my last year at BYU. I was working as a programmer, creating eBooks for [WordCruncher](http://www.wordcruncher.com) and had access to an HTML file of the Guarani Book of Mormon. I had taken a class in Perl already and had gotten pretty proficient through that job. I had also taken Mark Davies' Corpus Linguistics course. So when I took an NLP course as the capstone to my minor in Linguistic Computing, I decided to write a Guarani translator. 
 
@@ -38,7 +38,7 @@ So using this I could find out which English words correlated with which Guarani
 My interest in Guarani, which was mostly about its nasal harmony, verbal morphology, and trying to document the grammar as a whole, started to wane as I started grad school and focused more on sociolinguistics and dialectology. But my reading comphrehension is still… okay let's face it, not that great, but I'm surprised at how much I was able to learn through self-study and a custom computer program.  
 
 Interactive Dictionary
-----------------------
+======================
 
 I think what started this recent resurgence in Guarani was, strangely enough, making this website. I've acquired some more HTML and CSS skills and realized that I could make something useful with a web browser. So I dusted off my old files and started something fun. 
 
