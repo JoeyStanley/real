@@ -68,15 +68,14 @@ Monday, December 5, 2016
 Saturday, Decmber 11, 2016
 2:09pm - So I have some layout changes that I haven't committed yet. I don't like the sidebar, but I do like the layout of having a sidebar. I'll go ahead and commit for now. Now that I've done the Guarani site, I feel a little bit better about creating something from scratch. I'd like to make some blog posts for now, but before ADS I should create the page from scratch. I don't like the archives page, and some things were messed up with recent changes. 
 
+4:21pm - Added the Guarani post. 
+
 
 
 {% include sidebar.html %}
 
 Todo list:
-* Big layout changes
-    * Remove the archives list from the sidebar on most pages.
 * Change my main name at the top to a button that takes me to my homepage.
-* Change the layout of the main page so width of the page is narrow without the need of a sidebar.
 * Make the social media links dynamic.
 * Make sure the blue color matches my slideshows. Make everything match.
 
@@ -87,6 +86,7 @@ Blog posts:
 * How I did the logo hyperlinks
 * Google Analytics
     * Include how to filter out myself (https://support.google.com/analytics/answer/1034823)
+* Guarani
 
 
 Debugging notes
