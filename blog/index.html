@@ -3,7 +3,7 @@ layout: default
 ---
 
 <main role="main" class="cf">
-    <article class="posts">
+    <article class="archive">
     {% for post in paginator.posts limit:4 %}
         <article role="article" itemscope itemtype="http://schema.org/BlogPosting">
             <header>
@@ -30,5 +30,4 @@ layout: default
         {% endif %}
     </div>
     </article>
-    {% include sidebar.html %}
 </main>

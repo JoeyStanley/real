@@ -376,12 +376,12 @@ nav ul, nav li {
 	list-style: none;
 	min-height: 0;
 }
-nav li a {
+/*nav li a {
 	font: 1em 'Oswald', 'Helvetica Narrow', Arial, sans-serif;
-	color: white;
+	color: red;
 	text-decoration: none;
 	letter-spacing: 0.1em;
-}
+}*/
 
 /* ########################################## */
 /*                Article Styles              */
@@ -530,6 +530,7 @@ dd {
 .archive li {
 	margin-bottom: 0.5em;
 }
+/* Just the tag cloud in the post archives */
 .tag-cloud {
 	max-width: 600px;
 }
@@ -541,7 +542,7 @@ dd {
 .tag-cloud a {
 	text-decoration: none;
 	font-size: 0.8em;
-	background: #42659A;
+	background:#42659A;
 	color: white;
 	padding: 0.125em 0.5em;
 	border-radius: 0.25em;
@@ -549,6 +550,7 @@ dd {
 .return {
 	display: none;
 }
+/* This is the link to return to the top */
 h3:target + .taglist .return {
 	display: block;
 }
@@ -593,8 +595,8 @@ td ul {
 .social a {
 	text-indent: -9000em;
 	display: inline-block;
-	width: 50px;
-	height: 50px;
+	width: 32px;
+	height: 32px;
 }
 .github {
 	background: url(../images/icons/github.svg) no-repeat;
@@ -695,6 +697,8 @@ nav ul {
 nav li {
 	background: #42659A;
 	margin-bottom: .2em;
+	justify-content: space-around;
+	display: flex;
 }
 nav li:hover {
 	background: #333;
@@ -772,24 +776,33 @@ html {
 	background: whitesmoke;
 }
 body {
-	width: 70%; /* this changes the overall width of the entire page */
+	width: 50%; /* this changes the overall width of the entire page */
 	margin: 0 auto;
 }
+
 .page-header {  /* title */
 	padding: 0 3%; /* additional padding from left*/
 	padding-top: 1em; /* padding from top of page */
 }
-.posts, .archive {
-	float: right;
-	width: 70%;
+.posts {
+	margin: auto;
+	/* float: right */
+	width: 100%; /* this changes the overall width of just the text portion within the overall body width */
 	padding-right: 2.5%;
 }
+
+.archive {
+	margin: auto;
+	width: 100%; /* this changes the overall width of just the text portion within the overall body width */
+	padding-right: 2.5%;
+}
+
 aside {
 	float: left;
 	width: 30%;
 	max-width: 320px;
 	padding-top: 1em; /* additional padding from top */
-	padding-left: 2.5%; /* additional padding from left */
+	padding-left: 2.5%; /* additional padding from left */ 
 }
 
 /* ########################################## */
@@ -827,11 +840,11 @@ nav ul {
 nav li {
 	display: inline-block;
 }
+/* Targets just the header buttons */
 nav li a {
-/*	font: 1em 'Oswald', 'Helvetica Narrow', Arial, sans-serif; */
 	font: 1em 'Avenir';
 	color: white;
-	background: #42659A;
+	background: #42659A;;
 	margin-right: 0.5em;
 	padding: .25em 1em;
 	display: inline-block;

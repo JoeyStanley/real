@@ -54,6 +54,23 @@ Saturday, November 12, 2016
 Monday, December 5, 2016
 12:56am - Per Brad Moser's suggestion, I moved the social media to the top. I removed it from the aside, made the header a 1x2 table, and put the liquid syntax there. I changed the look slightly, including right aligning the text. I also removed any relevant CSS code, and changed others so that it would work. 
 
+12:59am - Removed the Lynda.com text from the post footer. 
+
+2:06am - I've removed the sidebar, but I'm not satisfied with the way it looks. Also, I've messed up the formatting on the Posts page. But I'm too tired to figure out what the problem is. I want to center the top buttons but can't figure out the CSS that targets it. I almost want to just start from scratch so I know what's going on.
+
+9:32am - Moved the Resources page to Dumper. Don't need it for now.
+
+
+Monday, December 5, 2016
+8:17pm - I tried to do my Guarani thing and it messed a lot of stuff up. I think what happened is I installed a bunch of newer versions of gems, but my code requires the older versions. What I have to do now is use "bundle exec jekyll serve --baseurl ''" now when I run it. The 'bundle exec' part runs versions required for the current file. I guess that's fine. Slightly more typing for me. 
+
+
+Saturday, Decmber 11, 2016
+2:09pm - So I have some layout changes that I haven't committed yet. I don't like the sidebar, but I do like the layout of having a sidebar. I'll go ahead and commit for now. Now that I've done the Guarani site, I feel a little bit better about creating something from scratch. I'd like to make some blog posts for now, but before ADS I should create the page from scratch. I don't like the archives page, and some things were messed up with recent changes. 
+
+
+
+{% include sidebar.html %}
 
 Todo list:
 * Big layout changes
