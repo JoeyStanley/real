@@ -3,7 +3,7 @@ layout: page
 title: Curriculum Vitae
 ---
 
-Updated November 11, 2016. Download PDF [here](https://drive.google.com/open?id=0B9rmY2OjP34AejFPZ2pUUnVXczQ).
+Updated December 13, 2016. Download PDF [here](https://drive.google.com/open?id=0B9rmY2OjP34AejFPZ2pUUnVXczQ).
 
 <br/>
 
@@ -28,6 +28,8 @@ Education
 Publications
 ==========
 
+<strong>Stanley, Joseph A.</strong> (2016). "Pacific Northwest English: Historical Overview and Current Directions". *UGA Working Papers in Linguistics*, 4. <a href="/downloads/161213-UGAWP3.pdf" class="paper"></a>
+
 <strong>Stanley, Joseph A.</strong> (2016). "When do Mormons Call Each Other by First Name?" *University of Pennsylvania Working Papers in Linguistics*, 22(1). <a href="http://repository.upenn.edu/pwpl/vol22/iss1/31/" class="paper"></a>
 
 <a href="http://linguistics.byu.edu/directory/jbn34/" title="Janis Nuckolls">Nuckolls, Janis</a>, <strong>Joseph Stanley</strong>, Elizabeth Nielson, & Roseanna Hopper (2016). "The Systematic Stretching and Contracting of Ideophonic Phonology in Pastaza Quichua". *International Journal of American Linguistics*, 82(1). 95--116. <a href="http://dx.doi.org/10.1086/684425" class="paper"></a>
@@ -41,7 +43,7 @@ Conference Presentations
 
 <strong>Stanley, Joseph A.</strong> (2017). “V[ɛ]ry v[e]ried vowel mergers in the Pacific Northwest.” Diversity and Variation in Language ([DiVar 1](http://linguistics.emory.edu/home/conferences/divar1/index.html)). Atlanta, GA. February 10–11.
 
-<strong>Stanley, Joseph A.</strong> (2017). “The perception and production of two vowel mergers in Cowlitz County, Washington.” The American Dialect Society ([ADS](http://www.americandialect.org)) Annual Meeting. Austin, TX. January 5–8.
+<strong>Stanley, Joseph A.</strong> (2017). “The perception and production of two vowel mergers in Cowlitz County, Washington.” The American Dialect Society ([ADS](http://www.americandialect.org)) Annual Meeting. Austin, TX. January 5–8. (With UGA Linguistics Program travel award)
 
 <strong>Stanley, Joseph A.</strong> (2016). "An EWP model of Quechua agreement: Further evidence against DM". The Third Annual Linguistics Conference at the University of Georgia ([LCUGA3](http://www.lsuga.com/conference/2016)). Athens, GA. October 7--9. <a href="https://drive.google.com/open?id=0B9rmY2OjP34AcXZ1d3dIYThlQWs" class="abstract"></a> <a href="https://drive.google.com/open?id=0B9rmY2OjP34AY1IydGhGdmxTZnM" class="slides"></a>
 
@@ -53,8 +55,7 @@ Conference Presentations
 
 <strong>Stanley, Joseph A.</strong> (2015). "Brother Bell’s Audience Design: Forms of Address among Latter-day Saint Young Adults". 39th Annual Penn Linguistics Conference ([PLC39](http://www.ling.upenn.edu/Events/PLC/plc39/)). Philadelphia, PA. March 19–21. <a href="https://drive.google.com/file/d/0B9rmY2OjP34AdC1oT1U4Xy1ZUFU/view" class="abstract"></a><a href="https://drive.google.com/file/d/0B9rmY2OjP34Ab09VUlJFWk5IeEU/view" class="slides"></a>
 
-
-[Nuckolls, Janis](http://linguistics.byu.edu/directory/jbn34/), <strong>Joseph Stanley</strong>, Elizabeth Nielsen, and Roseanna Hopper. "The systematic stretching and adjusting of ideophonic phonology in Pastaza Quichua". Annual Meeting of the Society for the Study of Indigenous Languages of America ([SSILA 2017](http://www.ssila.org/members/join-or-renew/)). Boston, MA. January 3–6. <a href="https://drive.google.com/file/d/0B9rmY2OjP34AVTl2RC1ta2tzLWM/view" class="abstract"></a> 
+[Nuckolls, Janis](http://linguistics.byu.edu/directory/jbn34/), <strong>Joseph Stanley</strong>, Elizabeth Nielsen, and Roseanna Hopper. "The systematic stretching and adjusting of ideophonic phonology in Pastaza Quichua". Annual Meeting of the Society for the Study of Indigenous Languages of America ([SSILA 2017](http://www.ssila.org/members/join-or-renew/)). Boston, MA. January 3–6. (With BYU Department of Linguistics and English Language conference travel grant) <a href="https://drive.google.com/file/d/0B9rmY2OjP34AVTl2RC1ta2tzLWM/view" class="abstract"></a> 
 
 <br/>
 
@@ -92,9 +93,6 @@ Works in Progress
 
 Kretzschmar, William A., <strong>Joseph Stanley</strong>, & Katherine Kuiper. “Automated Large-Scale Phonetic Analysis: DASS.” Submitted to SouthEastern Conference on Linguistics ([SECOL84](http://conf2017.secol.org">)). Charleston, SC. March 8–11, 2017.
 
-"Pacific Northwest English: Historical Overview and Current Directions". Under Revision for the *UGA Working Papers in Linguistics* (4). 2016.
-
-
 <br/>
 <br/>
 
@@ -107,7 +105,9 @@ Grants and Awards
 
 Complex Systems and the Humanities Research Assistantship awarded by the Graduate School at the University of Georgia. 2016--2017.
 
-University of Georgia Graduate School Dean’s Award.  2016.
+University of Georgia Linguistics Program travel award. 
+
+University of Georgia Graduate School Dean’s Award. 2016.
 
 University of Georgia stipend enhancement awarded by the Franklin College of Arts and Sciences. 2014--2015
 
