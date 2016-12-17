@@ -31,7 +31,7 @@ The program worked pretty well and was exactly what I was dreaming of in Brazil.
 
 What it then does it is look at all the words in both the English and Guarani sentences with the word, keeps track of their frequencies, then looks at the frequencies for all words in the entire corpus and compares the two. Words that have nothing to do with the translation will occur with roughly the same frequency in the matched sentences as they do in the full corpus. But words that correspond to the same meaning will occur relatively much more often in the matched sentences compared the corpus as a whole. So say the word *work* appears once every 1000 words in the whole corpus. If it suddenly appears once every 25 words in the matched words, statistically that's a big difference, and odds are pretty good that *work* is a translation for *mba'apo* (and it is). 
 
-<img src="/images/screenshots/guarani_search.png" alt="Guarani Search Engine" style="width: 30em;"/>
+<img src="/images/screenshots/Guarani_search.png" alt="Guarani Search Engine" style="width: 30em;"/>
 
 So using this I could find out which English words correlated with which Guarani words. Not a perfect translator, especially since it didn't use any fancy NLP processing, but not bad.
 
@@ -44,11 +44,11 @@ I think what started this recent resurgence in Guarani was, strangely enough, ma
 
 In just a week I was able to make a pretty useful webpage (locally hosted only for now) with two main pages. The first is the entire corpus. Unlike what I had before, I could take advantage of the formatting to display useful information. All the words I know are in regular black text, but the words I don't know stand out in blue. That makes it easy to figure out which ones I need to learn next. For the words I do know, the roots are underlined, so I can quickly see the base and what morphology is stemming off of it. The interactive part is that if I mouseover the root, a basic definition shows up. So if I've forgotten a word, I can very quickly remind myself of what it means. Very handy. 
 
-<img src="/images/screenshots/guarani_corpus.png" alt="Guarani Corpus screenshot" style="width: 30em;"/>
+<img src="/images/screenshots/Guarani_corpus.png" alt="Guarani Corpus screenshot" style="width: 30em;"/>
 
 How am I keeping track of what I know and don't know? The other page on the site is a dictionary. I usually kept all this stuff in a spreadsheet somewhere, but here I can utilize the formatting to make it look like a real dictionary. I've got roots, possible word forms, derivatives, translations, parts of speech, etymology, other notes, and the infrastructure to include example sentences and other metadata. All this is stored on a file on my computer, and when I learn a new word, I just add it to the bottom of the file and a Perl script will take care of alphabetizing it and making sure it looks good for the CSS to take over. 
 
-<img src="/images/screenshots/guarani_dictionary.png" alt="Guarani Corpus screenshot" style="width: 30em;"/>
+<img src="/images/screenshots/Guarani_dictionary.png" alt="Guarani Dictionary screenshot" style="width: 30em;"/>
 
 The result is a slick system where I can quickly see what words I need to learn and I can easily add them to the dictionary. I then run a lightning fast Perl script and refresh my browser, and I've got an updated corpus and dictionary. 
 
