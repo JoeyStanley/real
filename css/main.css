@@ -249,13 +249,13 @@ th {
 
 body {
 /*	font: 110% 'Roboto Slab', Georgia, serif; <-- this is what was in the tutorial file */
-	font: 110% 'Iowan Old Style', Georgia, serif;
+	font: 110% 'Iowan Old Style', 'Cardo', Georgia, serif;
 	background: whitesmoke;
 	direction: ltr;
 }
 h1, h2, h3, h4, h5, h6 {
 /*	font-family: 'Oswald', 'Helvetica Narrow', Arial, sans-serif; <- this is what was in the tutorial file */
-	font-family: 'Avenir';
+	font-family: 'Avenir', 'Muli', 'Helvetica Narrow', Arial, sans-serif;
 	font-weight: 700;
 }
 *, *:before, *:after {
@@ -814,7 +814,7 @@ header h1 {
 }
 header p {
 /*	font: 1em 'Oswald', 'Helvetica Narrow', Arial, sans-serif; */
-	font: 1em 'Avenir';
+	font: 1em 'Avenir', 'Muli', 'Helvetica Narrow', Arial, sans-serif;
 	font-weight: 400;
 	color: #666;
 /*	text-transform: uppercase; */
@@ -842,7 +842,7 @@ nav li {
 }
 /* Targets just the header buttons */
 nav li a {
-	font: 1em 'Avenir';
+	font: 1em 'Avenir', 'Muli', 'Helvetica Narrow', Arial, sans-serif;
 	color: white;
 	background: #42659A;;
 	margin-right: 0.5em;

@@ -2,7 +2,7 @@
 layout: post
 title:  "Interactive Guarani Dictionary"
 date:   2016-12-10 14:21:00 -0400
-tags: [CSS, Guarani, side projects]
+tags:  [CSS, Guarani, side projects]
 ---
 
 The semester is finishing up, and as usual, the most productive week for me is during finals. Not necessarily productive regarding school work or current research projects, but I always rediscover side projects and hobbies. This week I rekindled my interest in Guarani.
@@ -29,7 +29,7 @@ I was in my last year at BYU. I was working as a programmer, creating eBooks for
 
 The program worked pretty well and was exactly what I was dreaming of in Brazil. I had paired the Guarani and English text as a "parallel corpus", meaning each line in one file corresponded to a translated line in the other<sup>2</sup>. What the translator does is it takes an input string (say, *mba'apo*) and it displays all the Gurani sentences with that word with the English underneath it. Made it very handy to see how words (or parts of words) were used in other contexts. 
 
-What it then does it is look at all the words in both the English and Guarani sentences with the word, keeps track of their frequencies, then looks at the frequencies for all words in the entire corpus and compares the two. Words that have nothing to do with the translation will occur with roughly the same frequency in the matched sentences as they do in the full corpus. But words that correspond to the same meaning will occur relrelatively much more often in the matched sentences compared the corpus as a whole. So say the word *word* appears once every 1000 words in the whole corpus. If it suddenly appears once every 25 words in the matched words, statistically that's a big difference, and odds are pretty good that *work* is a translation for *mba'apo* (and it is). 
+What it then does it is look at all the words in both the English and Guarani sentences with the word, keeps track of their frequencies, then looks at the frequencies for all words in the entire corpus and compares the two. Words that have nothing to do with the translation will occur with roughly the same frequency in the matched sentences as they do in the full corpus. But words that correspond to the same meaning will occur relatively much more often in the matched sentences compared the corpus as a whole. So say the word *work* appears once every 1000 words in the whole corpus. If it suddenly appears once every 25 words in the matched words, statistically that's a big difference, and odds are pretty good that *work* is a translation for *mba'apo* (and it is). 
 
 <img src="/images/screenshots/guarani_search.png" alt="Guarani Search Engine" style="width: 30em;"/>
 
