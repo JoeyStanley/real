@@ -117,17 +117,17 @@ plot <- ggplot(df, aes(x = gp, y = y, color=color)) + geom_point()
 
 plot + ggtitle("No theme")
 ~~~~
-<img src="/images/plots/themes_plain.pdf" alt="Plot with no theme added" style="width: 30em;"/>
+<img src="/images/plots/themes_plain.png" alt="Plot with no theme added" style="width: 30em;"/>
 
 ~~~~
 plot + ggtitle("Black and White") + theme_bw()
 ~~~~
-<img src="/images/plots/themes_bw.pdf" alt="Plot with black and white theme" style="width: 30em;"/>
+<img src="/images/plots/themes_bw.png" alt="Plot with black and white theme" style="width: 30em;"/>
 
 ~~~
 plot + ggtitle("Custom Theme") + theme_joey()
 ~~~
-<img src="/images/plots/themes_joey.pdf" alt="Plot with custom theme applied" style="width: 30em;"/>
+<img src="/images/plots/themes_joey.png" alt="Plot with custom theme applied" style="width: 30em;"/>
 
 Assuming your browser is rendering this webpage like mine is, the last plot should be the same background color as this webpage, and the font should match my header fonts. 
 
