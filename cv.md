@@ -55,6 +55,7 @@ Conference Presentations
 
 <strong>Stanley, Joseph A.</strong> (2017). “The perception and production of two vowel mergers in Cowlitz County, Washington.” The American Dialect Society ([ADS](http://www.americandialect.org)) Annual Meeting. Austin, TX. January 5–8. (with UGA Linguistics Program travel award and UGA Graduate School travel award)
 <a href="/downloads/160813-ADS2017.pdf" class="abstract" target="_blank" title="open a pdf of the abstract to this presentation in a new window"></a>
+<a href="/downloads/170105-ADS-slides.pptx" class="slides" title="download the powerpoint slides for this presentation"></a>
 
 <strong>Stanley, Joseph A.</strong> (2016). "An EWP model of Quechua agreement: Further evidence against DM". The Third Annual Linguistics Conference at the University of Georgia ([LCUGA3](http://www.lsuga.com/conference/2016)). Athens, GA. October 7--9. 
 <a href="/downloads/161008-LCUGA3-abstract.pdf" class="abstract" target="_blank" title="open a pdf of the abstract to this presentation in a new window"></a>
@@ -87,7 +88,8 @@ Invited Presentations
 ==========
 
 "Build a better project: Starting a DH project from primary sources." Presented at the First [DigiLab](http://digi.uga.edu/digilab/) Colloquium. Athens, GA. October 6, 2016. 
-<a href="http://digi.uga.edu/wp-content/uploads/sites/9/2016/09/DIGI_Colloquium_Oct6.pdf" class="flyer"></a>
+<a href="https://digi.uga.edu/news/build-a-better-project-digi-colloquium-review/" class="link" target="_blank" title="link to digi.uga.edu"></a>
+<a href="/downloads/161002-DigiLab-flyer.pdf" class="flyer" target="_blank" title="open a pdf of the flyer for this presentation in a new window"></a>
 <a href="/downloads/161006-DigiLab-slides.pptx" class="slides" title="download the powerpoint slides for this presentation"></a> 
 
 <br/>
@@ -96,6 +98,9 @@ Workshops
 ==========
 
 [McGinn, Emily](http://emilymcginn.com) & <strong>Joey Stanley</strong>. “Brand Yourself: A professionalization workshop for grad students.” Workshop given at the University of Georgia DigiLab. Athens, GA. November 11, 2016.
+<a href="https://digi.uga.edu/news/brandyourself/" class="link" target="_blank" title="link to digi.uga.edu"></a>
+<a href="/downloads/161111-DigiLab-flyer.pdf" class="flyer" target="_blank" title="open a pdf of the flyer for this presentation in a new window"></a>
+<a href="/downloads/161111-DigiLab-slides.pptx" class="slides" title="download the powerpoint slides for this presentation"></a> 
 
 <br/>
 
