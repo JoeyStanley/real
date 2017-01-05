@@ -305,6 +305,9 @@ a.video:after {
 a.flyer:after {
 	content: url('/images/icons/flyer.png');
 }
+a.link:after {
+	content: url('/images/icons/link.png');
+}
 
 
 img, object, embed {
