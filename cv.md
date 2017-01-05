@@ -3,7 +3,7 @@ layout: page
 title: Curriculum Vitae
 ---
 
-Updated January 4, 2017. Download PDF <a href="/downloads/170104-CV.pdf" target="_blank">here</a>.
+Updated January 4, 2017. Download PDF <a href="/downloads/170104-CV.pdf" target="_blank" title="open a pdf of my CV in a new window">here</a>.
 
 <br/>
 
@@ -58,7 +58,7 @@ Conference Presentations
 
 <strong>Stanley, Joseph A.</strong> (2016). "An EWP model of Quechua agreement: Further evidence against DM". The Third Annual Linguistics Conference at the University of Georgia ([LCUGA3](http://www.lsuga.com/conference/2016)). Athens, GA. October 7--9. 
 <a href="/downloads/161008-LCUGA3-abstract.pdf" class="abstract" target="_blank" title="open a pdf of the abstract to this presentation in a new window"></a>
-<a href="/downloads/161008-LCUGA3-slides.pptx" class="slides" target="_blank" title="download the powerpoint slides for this presentation"></a>
+<a href="/downloads/161008-LCUGA3-slides.pptx" class="slides" title="download the powerpoint slides for this presentation"></a>
 
 <strong>Stanley, Joseph A.</strong> & [Margaret E. L. Renwick](http://faculty.franklin.uga.edu/mrenwick/) (2016). "Phonetic Shift <span style="white-space: nowrap;">/ɔr/</span> Phonemic Change? American English mergers over 40 years". Poster presentation by the second author at the 15th Conference on Laboratory Phonology ([LabPhon15](http://labphon.org/labphon15/)). Ithaca, NY. July 13–16. 
 <a href="http://labphon.org/labphon15/program" class="link" target="_blank"></a>
@@ -67,16 +67,16 @@ Conference Presentations
 
 <strong>Stanley, Joseph A.</strong> (2015). "Separate Phonemes <span style="white-space: nowrap;">/ɔr/</span> Merging? The [Cord-Card Merger](https://en.wikipedia.org/wiki/English-language_vowel_changes_before_historic_/r/#Card.E2.80.93cord_merger) in Real-Time". The Second Interdisciplinary Linguistics Conference at UGA ([LSUGA2](http://www.lsuga.com/conference)). Athens, GA. October 9–11. 
 <a href="/downloads/151009-LSUGA2-abstract.pdf" class="abstract" target="_blank" title="open a pdf of the abstract to this presentation in a new window"></a>
-<a href="/downloads/151009-LSUGA2-slides.pptx" class="slides" target="_blank" title="download the powerpoint slides for this presentation"></a>
+<a href="/downloads/151009-LSUGA2-slides.pptx" class="slides" title="download the powerpoint slides for this presentation"></a>
 <a href="https://www.youtube.com/watch?v=v3BvpMyxPv8" class="video" target="_blank" title="open a youtube video of this presentation in a new window"></a>
 
 <strong>Stanley, Joseph A.</strong> (2015). "Brother Bell’s Audience Types: Forms of Address among Latter-day Saint Young Adults". 82nd Meeting of the Southeastern Conference on Linguistics ([SECOL82](http://linguistics.chass.ncsu.edu)). Raleigh, NC. April 9–11. 
 <a href="/downloads/150410-SECOL82-abstract.pdf" class="abstract" target="_blank" title="open a pdf of the abstract to this presentation in a new window"></a>
-<a href="/downloads/150410-SECOL82-slides.pptx" class="slides" target="_blank" title="download the powerpoint slides for this presentation"></a>
+<a href="/downloads/150410-SECOL82-slides.pptx" class="slides" title="download the powerpoint slides for this presentation"></a>
 
 <strong>Stanley, Joseph A.</strong> (2015). "Brother Bell’s Audience Design: Forms of Address among Latter-day Saint Young Adults". 39th Annual Penn Linguistics Conference ([PLC39](http://www.ling.upenn.edu/Events/PLC/plc39/)). Philadelphia, PA. March 19–21. 
 <a href="/downloads/150321-PLC39-abstract.pdf" class="abstract" target="_blank" title="open a pdf of the abstract to this presentation in a new window"></a>
-<a href="/downloads/150321-PLC39-slides.pptx" class="slides" target="_blank" title="download the powerpoint slides for this presentation"></a>
+<a href="/downloads/150321-PLC39-slides.pptx" class="slides" title="download the powerpoint slides for this presentation"></a>
 
 [Nuckolls, Janis](http://linguistics.byu.edu/directory/jbn34/), <strong>Joseph Stanley</strong>, Elizabeth Nielsen, and Roseanna Hopper. "The systematic stretching and adjusting of ideophonic phonology in Pastaza Quichua". Annual Meeting of the Society for the Study of Indigenous Languages of America ([SSILA 2017](http://www.ssila.org/members/join-or-renew/)). Boston, MA. January 3–6. (with BYU Department of Linguistics and English Language conference travel grant) 
 <a href="/downloads/130103-SSILA-abstract.pdf" class="abstract" target="_blank" title="open a pdf of the abstract to this presentation in a new window"></a> 
@@ -88,7 +88,7 @@ Invited Presentations
 
 "Build a better project: Starting a DH project from primary sources." Presented at the First [DigiLab](http://digi.uga.edu/digilab/) Colloquium. Athens, GA. October 6, 2016. 
 <a href="http://digi.uga.edu/wp-content/uploads/sites/9/2016/09/DIGI_Colloquium_Oct6.pdf" class="flyer"></a>
-<a href="/downloads/161006-DigiLab-slides.pptx" class="slides" target="_blank" title="download the powerpoint slides for this presentation"></a> 
+<a href="/downloads/161006-DigiLab-slides.pptx" class="slides" title="download the powerpoint slides for this presentation"></a> 
 
 <br/>
 
@@ -103,13 +103,13 @@ Other Presentations
 ==========
 
 “An EWP model of Quechua agreement: Further evidence against DM.” Presented at the Linguistic Society of the University of Georgia (LSUGA) Tiny Talks. Athens, GA. September 15, 2016. 
-<a href="/downloads/160915-TinyTalks-slides.pptx" class="slides" target="_blank" title="download the powerpoint slides for this presentation"></a>
+<a href="/downloads/160915-TinyTalks-slides.pptx" class="slides" title="download the powerpoint slides for this presentation"></a>
 
 "Southeastern Washington English: What We Know So Far". The Linguistic Society of the University of Georgia ([LSUGA](http://www.lsuga.com)) Tiny Talks. Athens, GA. February 18, 2016. 
-<a href="/downloads/160218-TinyTalks-slides.pptx" class="slides" target="_blank" title="download the powerpoint slides for this presentation"></a>
+<a href="/downloads/160218-TinyTalks-slides.pptx" class="slides" title="download the powerpoint slides for this presentation"></a>
 
 "Brother Bell’s Audience Design: Forms of Address among Latter-day Saint Young Adults". University of Georgia Linguistics Colloquium. Athens, GA. February 27, 2015 
-<a href="/downloads/150227-Colloquium-slides.pptx" class="slides" target="_blank" title="download the powerpoint slides for this presentation"></a> 
+<a href="/downloads/150227-Colloquium-slides.pptx" class="slides" title="download the powerpoint slides for this presentation"></a> 
 
 "The systematic stretching and adjusting of ideophonic phonology in Pastaza Quichua" with [Janis Nuckolls](http://linguistics.byu.edu/directory/jbn34/), Elizabeth Nielsen, and Roseanna Hopper. Presentation at the Brigham Young University Linguistics Department Brown Bag Meeting. Provo, UT. December 6, 2012.
 
