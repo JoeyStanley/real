@@ -3,7 +3,7 @@ layout: page
 title: Curriculum Vitae
 ---
 
-Updated January 4, 2017. Download PDF <a href="/downloads/170104-CV.pdf" target="_blank" title="open a pdf of my CV in a new window">here</a>.
+Updated January 5, 2017. Download PDF <a href="/downloads/170105-CV.pdf" target="_blank" title="open a pdf of my CV in a new window">here</a>.
 
 <br/>
 
