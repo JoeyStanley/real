@@ -281,7 +281,7 @@ a:hover, .within {
 }
 /* Add the little red circle after external links */
 /* See http://practicaltypography.com/how-to-use.html */
-a[href*="http"]:after, .within {
+a[href*="http"]:after, .within:after {
 	content: 'º';
 	color: darkred;
 }
