@@ -5,7 +5,7 @@ date:   2016-09-30 16:23:00 -0400
 tags: [Linguistic Atlas Project, Pacific Northwest, research]
 ---
 
-As a part of my research assistantship this year, I work with the Linguistic Atlas Project ([lap.uga.edu](lap.uga.edu)), under the direction of Dr. William Kretzschmar. It's an exciting project to be a part of. 
+As a part of my research assistantship this year, I work with the Linguistic Atlas Project (<a href="http://lap.uga.edu">lap.uga.edu</a>), under the direction of Dr. William Kretzschmar. It's an exciting project to be a part of. 
 
 There is a lot going on in the lab right now. We've got a team of over a dozen undergrad transcribers working dutifully on an NSF grant awarded to Kretzschmar and Dr. Peggy Renwick, not to mention the web developers for the Atlas Project and for Complex Systems. 
 
