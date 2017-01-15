@@ -273,15 +273,15 @@ a {
 	text-decoration: none; /* no underline: it was just too busy */
 }
 /* Target just the external links. */
-a[href*="http"] {
+a[href*="http"], .within {
 	color: black;
 }
-a:hover {
+a:hover, .within {
 	color: #213149;
 }
 /* Add the little red circle after external links */
 /* See http://practicaltypography.com/how-to-use.html */
-a[href*="http"]:after {
+a[href*="http"]:after, .within {
 	content: 'º';
 	color: darkred;
 }
