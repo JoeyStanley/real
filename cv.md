@@ -3,7 +3,7 @@ layout: page
 title: Curriculum Vitae
 ---
 
-Updated January 5, 2017. Download PDF <a href="/downloads/170105-CV.pdf" target="_blank" title="open a pdf of my CV in a new window">here</a>.
+Updated January 28, 2017. Download PDF <a href="/downloads/170128-CV.pdf" target="_blank" title="open a pdf of my CV in a new window">here</a>.
 
 <br/>
 
@@ -50,6 +50,10 @@ Publications
 
 Conference Presentations
 ==========
+
+Rachel Olsen, Michael Olsen, <strong>Joseph A. Stanley</strong> & Margaret E. L. Renwick. “Transcribing the Digital Archive of Southern Speech: Methods and Preliminary Analysis.” 84th Meeting of the SouthEastern Conference on Linguistics ([SECOL84](http://conf2017.secol.org">)). Charleston, SC. March 8–11.
+
+Kretzschmar, William A., <strong>Joseph Stanley</strong>, & Katherine Kuiper. “Automated Large-Scale Phonetic Analysis: DASS.” 84th Meeting of the SouthEastern Conference on Linguistics ([SECOL84](http://conf2017.secol.org">)). Charleston, SC. March 8–11, 2017.
 
 <strong>Stanley, Joseph A.</strong> (2017). “V[ɛ]ry v[e]ried vowel mergers in the Pacific Northwest.” Diversity and Variation in Language ([DiVar 1](http://linguistics.emory.edu/home/conferences/divar1/index.html)). Atlanta, GA. February 10–11.
 
@@ -123,14 +127,6 @@ Other Presentations
 
 "The systematic stretching and adjusting of ideophonic phonology in Pastaza Quichua" with [Janis Nuckolls](http://linguistics.byu.edu/directory/jbn34/), Elizabeth Nielsen, and Roseanna Hopper. Presentation at the Brigham Young University Linguistics Department Brown Bag Meeting. Provo, UT. December 6, 2012.
 
-<br/>
-
-
-
-Works in Progress
-==========
-
-Kretzschmar, William A., <strong>Joseph Stanley</strong>, & Katherine Kuiper. “Automated Large-Scale Phonetic Analysis: DASS.” Submitted to SouthEastern Conference on Linguistics ([SECOL84](http://conf2017.secol.org">)). Charleston, SC. March 8–11, 2017.
 
 <br/>
 <br/>
@@ -209,6 +205,18 @@ Computer Skills and Tools
 *Familiar*: [Access](https://products.office.com/en-US/access), [AntConc](http://www.laurenceanthony.net/software.html), [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)), [DreamWeaver](http://www.adobe.com/products/dreamweaver.html?sdid=KKQTJ&mv=search&s_kwcid=AL!3085!3!110812694443!e!!g!!dreamweaver&ef_id=V7iPrwAAAUYcBTnE:20160826185837:s), [HTK](http://htk.eng.cam.ac.uk), [LaBB-CAT](http://labbcat.sourceforge.net), [MALLET](http://mallet.cs.umass.edu/index.php), [Markdown](http://daringfireball.net/projects/markdown/), Photoshop, [Prosody-Lab Aligner](http://prosodylab.org/tools/aligner/), Python, [SoX](http://sox.sourceforge.net), [SAS](http://www.sas.com/), [Transcriber](http://trans.sourceforge.net/en/presentation.php), [VBA](https://en.wikipedia.org/wiki/Visual_Basic_for_Applications), [WebMAUS](http://clarin.phonetik.uni-muenchen.de/BASWebServices/#/services/WebMAUSBasic)
 
 <br/>
+
+Service at UGA
+==========
+
+Sociolinguistics reading group, Organizer. 2017.
+
+Perl Study group, Organizer. 2016
+
+Typology reading group, Organizer. 2016
+
+<br/>
+
 
 
 
