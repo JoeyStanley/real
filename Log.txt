@@ -73,6 +73,10 @@ Saturday, Decmber 11, 2016
 5:36pm - Added Google Custom Search Engine code as an include file. Not included yet, because I can't figure out where. Perhaps on the archives page. But! The weird formatting with the archives page miraculously got fixed!
 
 
+Friday, January 27, 2017
+9:43pm - I want to change how the hyperlinks are working, but I spent a lot of time and ended up with nothing that worked out well. Shoot.
+
+
 
 {% include sidebar.html %}
 

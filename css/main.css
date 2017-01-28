@@ -276,7 +276,7 @@ a {
 a[href*="http"], .within {
 	color: black;
 }
-a:hover, .within {
+a:hover, .within:hover {
 	color: #213149;
 }
 /* Add the little red circle after external links */
@@ -316,12 +316,14 @@ img, object, embed {
 	height: auto;
 	margin: 1em auto;
 }
+/*
 .left {
 	float: left;
 }
 .right {
 	float: right;
-}
+} */
+
 /* micro-clearfix by Nicolas Gallagher http://nicolasgallagher.com/micro-clearfix-hack/ */
 /* For modern browsers */
 .cf:before,
