@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Joey Stanley
 email: joeystan@uga.edu
-#baseurl: "/joeystanley"
+siteurl: ""
 baseurl: "/joeystanley.com"
 #url: "http://JoeyStanley.github.io/joeystanley" 
 url: "http://joeystanley.com"
