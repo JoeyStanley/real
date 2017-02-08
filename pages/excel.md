@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Excel Workshop (Jan 27, 2017)
+redirect_from: "/excel"
 ---
 
 Thanks for coming to the workshop. Feel free to download the following: 
