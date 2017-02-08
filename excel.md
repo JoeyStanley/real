@@ -14,4 +14,4 @@ You can also visit the accompanying blog post on the <a href="https://digi.uga.e
 
 <br/>
 
-Thanks for visiting. While you're here though, feel free to look around :) 
+Thanks for visiting. While you're here though, feel free to look around :)
