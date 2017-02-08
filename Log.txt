@@ -77,6 +77,10 @@ Friday, January 27, 2017
 9:43pm - I want to change how the hyperlinks are working, but I spent a lot of time and ended up with nothing that worked out well. Shoot.
 
 
+Tuesday, February 7, 2017
+8:58pm - I've learned how to make redirects! First, from this site (https://help.github.com/articles/redirects-on-github-pages/) I saw that I needed to add "- jekyll-redirect-from" to my gems. But to get that to work, I needed to install that gem with this line in the command line ("gem install jekyll-redirect-from", from this site: https://github.com/jekyll/jekyll-redirect-from). Then I just put the redirect at the top of my page and now it works great. Now I can put perminant links to things, and still move things around. Sweet. I created a new folder called "pages" and put the files there. Once I remove them from the main page though there will be no way to get back to them. I need to find a way to do that. 
+
+
 
 {% include sidebar.html %}
 
