@@ -56,6 +56,8 @@ Rachel Olsen, Michael Olsen, <strong>Joseph A. Stanley</strong> & Margaret E. L.
 Kretzschmar, William A., <strong>Joseph Stanley</strong>, & Katherine Kuiper. “Automated Large-Scale Phonetic Analysis: DASS.” 84th Meeting of the SouthEastern Conference on Linguistics ([SECOL84](http://conf2017.secol.org">)). Charleston, SC. March 8–11, 2017.
 
 <strong>Stanley, Joseph A.</strong> (2017). “V[ɛ]ry v[e]ried vowel mergers in the Pacific Northwest.” Diversity and Variation in Language ([DiVar 1](http://linguistics.emory.edu/home/conferences/divar1/index.html)). Atlanta, GA. February 10–11.
+<a href="/downloads/170211-DiVar1-abstract.pdf" class="abstract" target="_blank" title="open a pdf of the abstract to this presentation in a new window"></a>
+<a href="/downloads/170211-DiVar1-slides.pptx" class="slides" title="download the powerpoint slides for this presentation"></a>
 
 <strong>Stanley, Joseph A.</strong> (2017). “The perception and production of two vowel mergers in Cowlitz County, Washington.” The American Dialect Society ([ADS](http://www.americandialect.org)) Annual Meeting. Austin, TX. January 5–8. (with UGA Linguistics Program travel award and UGA Graduate School travel award)
 <a href="/downloads/160813-ADS2017.pdf" class="abstract" target="_blank" title="open a pdf of the abstract to this presentation in a new window"></a>

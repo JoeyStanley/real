@@ -82,6 +82,8 @@ Tuesday, February 7, 2017
 
 9:05pm - Okay, problem. It works locally, but when I run it live, it redirects to joeystanley.com/joeystanley.com/pages/excel. I think because it has to do with the base url stuff. I wonder if I have to put in all the liquid formatting again to get all that to work...
 
+9:36pm - Okay, so I changed the baseurl to "" and added a siteurl as "joeystanley.com". That seems to work. Also, now I don't need to add the baseurl '' to the jeykll call anymore. 
+
 
 
 {% include sidebar.html %}
@@ -105,5 +107,7 @@ Blog posts:
 Debugging notes
 I had a bug where the site was running even though I didn't think it was. The error code when I tried to run "jekyll serve" was "TCPServer Error: Address already in use - bind(2)". As this site says (http://www.noxidsoft.com/development/jekyll-tcpserver-error-address-already-in-use-bind-2/), try "lsof -wni tcp:4000", find the PID that is running, and then run this: "kill -9 ####". Seemed to work fine. 
 
-Add "--baseurl ''" to get it to run locally.
+Add "--baseurl ''" to get it to run locally. (bundle exec jekyll serve --baseurl '')
+
+Now, I don't need to do that. All I need is "bundle exec jekyll serve". 
 
