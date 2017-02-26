@@ -2,7 +2,7 @@
 layout: post
 title:  "Excel Workshop"
 date:   2017-01-27 20:12:00 -0400
-tags: [how-to guides, presentations, skills]
+tags: [How-to Guides, Presentations, Skills]
 ---
 
 Today I had the opportunity to give a workshop in the [DigiLab](https://digi.uga.edu) in UGA's main library. It was a packed with librarians and grad students from across campus. In just over an hour, I started with the absolute basics and showed more and more tricks that I think would help people with their reserach projects.
@@ -17,7 +17,7 @@ I then opened up Excel and covered the absolute basics. Data entry. Moving aroun
 
 After that, into topics that make it easier to play around with your data. Search and replace, with some extras like matching the entire cell. I also covered sorting and filtering and showed that you can filter multiple columns to get a really specific subsets of your data.
 
-#3Pivot Tables
+## Pivot Tables
 
 This is where I wanted to spend the most time. Pivot tables are things that a lot of people had heard of (and from the show of hands, about half the people in the room), but for some reason—and I don't say this to be all high and mighty—I have never met *anyone* who knows how to use them. I learned them in my Intro to Linguistic Computing class with Monte Shelley at BYU and have used them a *ton* since then, but I guess people just haven't had the chance to learn about them. 
 

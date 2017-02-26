@@ -2,14 +2,14 @@
 layout: post
 title:  "The Importance of Twitter"
 date:   2016-10-31 19:00:00 -0400
-tags: [how-to guides, methods, reddit, research, twitter]
+tags: [How-to Guides, Methods, Reddit, Research, Twitter]
 ---
 
 I'm preparing a workshop right now for the DigiLab here at UGA on how to increase your web presence. I'll give a more detailed explanation of that later on, but I just wanted to point how how cool Twitter has been for me.
 
 I don't remember when or why I got a Twitter account, but I remember early on that I wanted to keep it professional. I don't follow very many friends or family: just other random linguists I find. That means my feed is nothing but linguistics stuff, and mini posts that other linguists find interesting. Granted, a lot of these folks post non-linguistic stuff as well, so I do have to sift through those sometimes. But there have been some really valuable gems I've found because of Twitter.
 
- ## Fun Stuff
+## Fun Stuff
 
 First, we'll start with the fun stuff.
 

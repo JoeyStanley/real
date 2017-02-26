@@ -2,7 +2,7 @@
 layout: post
 title:  "Interactive Guarani Dictionary"
 date:   2016-12-10 14:21:00 -0400
-tags:  [CSS, Guarani, side projects]
+tags:  [CSS, Guarani, Side Projects]
 ---
 
 The semester is finishing up, and as usual, the most productive week for me is during finals. Not necessarily productive regarding school work or current research projects, but I always rediscover side projects and hobbies. This week I rekindled my interest in Guarani.

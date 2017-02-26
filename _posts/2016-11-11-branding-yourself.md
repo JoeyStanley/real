@@ -2,7 +2,7 @@
 layout: post
 title:  "Branding Yourself"
 date:   2016-11-11 20:23:00 -0400
-tags: [CSS, github, how-to guides, this site, twitter]
+tags: [CSS, Github, How-to Guides, This Site, Twitter]
 ---
 
 Today [Emily McGinn](http://emilymcginn.com) of the Digital Humanities Lab at UGA and I did a workshop called "Brand Yourself: A professionalization workshop for grad students." We gave a presentation on different ways grad students can boost their online presence through building a personal webpage, utilizing social media, and finding your field's conversation. We then let the attendees a chance to work on their own to create a new online profile, using what they learned.

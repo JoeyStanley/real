@@ -2,7 +2,7 @@
 layout: post
 title:  "Making a website is fun!"
 date:   2016-10-18 13:34:00 -0400
-tags: [CSS, github, how-to guides, this site]
+tags: [CSS, Github, How-to Guides, This Site]
 ---
 
 In the past month or so I've been putting a lot of time and effort into increasing my professional web presence. In about a year I'll be applying for academic positions, and it would sure be nice to be more visible to my potential employers. The sheer fact that you're reading this means you've seen some of the fruits of my labor. 
