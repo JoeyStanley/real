@@ -1,274 +1,203 @@
-/* add syntax highlight styles */
-@import url("syntax-highlighting.css");
 
+/*
+Dark blue:  #132A45
+Light blue: #376092
+Black:      #132A45
+*/
 
-/* Portions of styles taken from or modified from normalize.css */
-/*! normalize.css v3.0.2 | MIT License | git.io/normalize */
-/**
-
- * Prevent iOS text size adjust after orientation change, without disabling user zoom. */
 html {
-  -ms-text-size-adjust: 100%; /* 2 */
-  -webkit-text-size-adjust: 100%; /* 2 */
-}
-/* Remove default margin */
-body, html {
-  margin: 0;
-  padding: 0;
-  text-align: justify;   /* justified text */
-  -webkit-hyphens: auto; /* auto-hyphenation, found by just auto-completing "hyphen" */
-}
-
-/* ########################################## */
-/*         HTML5 display definitions          */
-/* ########################################## */
-
-article,aside,details,figcaption,figure,footer,header,main,menu,nav,section,summary {
-  display: block;
-}
-
-/* 1. Correct `inline-block` display not defined in IE 8/9. */
-/* 2. Normalize vertical alignment of `progress` in Chrome, Firefox, and Opera. */
-
-audio,
-canvas,
-progress,
-video {
-  display: inline-block; /* 1 */
-  vertical-align: baseline; /* 2 */
-}
-/* ########################################## */
-/*                   Links                    */
-/* ########################################## */
-
-/* Remove the gray background color from active links in IE 10. */
-a {
-  background-color: transparent;
-}
-
-/* ########################################## */
-/*            Text-level semantics            */
-/* ########################################## */
-
-/* Address style set to `bolder` in Firefox 4+, Safari, and Chrome */
-b,strong {
-  font-weight: bold;
-}
-/* Address styling not present in Safari and Chrome. */
-dfn {
-  font-style: italic;
-}
-/* Address styling not present in IE 8/9. */
-mark {
-  background: #ff0;
-  color: #000;
-}
-
-/* Address inconsistent and variable font size in all browsers. */
-small {
-  font-size: 80%;
-}
-/* Prevent `sub` and `sup` affecting `line-height` in all browsers. */
-sub,sup {
-  font-size: 75%;
-  line-height: 0;
-  position: relative;
-  vertical-align: baseline;
-}
-sup {
-  top: -0.5em;
-}
-sub {
-  bottom: -0.25em;
-}
-
-/* ########################################## */
-/*              Embedded content              */
-/* ########################################## */
-
-/* Remove border when inside `a` element in IE 8/9/10  */
-img {
-  border: 0;
-}
-/* Correct overflow not hidden in IE 9/10/11 */
-svg:not(:root) {
-  overflow: hidden;
-}
-
-/* ########################################## */
-/*              Grouping content              */
-/* ########################################## */
-
-/* Address differences between Firefox and other browsers. */
-hr {
-  -moz-box-sizing: content-box;
-  box-sizing: content-box;
-  height: 0;
-}
-/* Contain overflow in all browsers. */
-pre {
-  overflow: auto;
-}
-/**
-
-/* ########################################## */
-/*                    Forms                   */
-/* ########################################## */
-
-/* Known limitation: by default, Chrome and Safari on OS X allow very limited */
-/* styling of `select`, unless a `border` property is set. */
-/* 1. Correct color not being inherited. */
-/*    Known issue: affects color of disabled elements. */
-/* 2. Correct font properties not being inherited. */
-/* 3. Address margins set differently in Firefox 4+, Safari, and Chrome. */
-button,input,optgroup,select,textarea {
-  color: inherit;  /* 1 */
-  font: inherit;   /* 2 */
-  margin: 0;       /* 3 */
-}
-/* Address `overflow` set to `hidden` in IE 8/9/10/11. */
-button {
-  overflow: visible;
-}
-
-/* Address inconsistent `text-transform` inheritance for `button` and `select`. */
-/* All other form control elements do not inherit `text-transform` values. */
-/* Correct `button` style inheritance in Firefox, IE 8/9/10/11, and Opera. */
-/* Correct `select` style inheritance in Firefox. */
-button,select {
-  text-transform: none;
-}
-
-/* 1. Avoid the WebKit bug in Android 4.0.* where (2) destroys native `audio` */
-/*    and `video` controls. */
-/* 2. Correct inability to style clickable `input` types in iOS. */
-/* 3. Improve usability and consistency of cursor style between image-type `input` and others. */
-button,html input[type="button"], /* 1 */
-input[type="reset"],
-input[type="submit"] {
-  -webkit-appearance: button; /* 2 */
-  cursor: pointer; /* 3 */
-}
-
-/* Re-set default cursor for disabled elements. */
-button[disabled],
-html input[disabled] {
-  cursor: default;
-}
-/* Remove inner padding and border in Firefox 4+. */
-button::-moz-focus-inner,
-input::-moz-focus-inner {
-  border: 0;
-  padding: 0;
-}
-/* Address Firefox 4+ setting `line-height` on `input` using `!important` in the UA stylesheet. */
-input {
-  line-height: normal;
-}
-
-/* It's recommended that you don't attempt to style these elements. */
-/* Firefox's implementation doesn't respect box-sizing, padding, or width. */
-/* 1. Address box sizing set to `content-box` in IE 8/9/10. */
-/* 2. Remove excess padding in IE 8/9/10. */
-
-input[type="checkbox"],
-input[type="radio"] {
-  box-sizing: border-box; /* 1 */
-  padding: 0; /* 2 */
-}
-
-/* Fix the cursor style for Chrome's increment/decrement buttons. For certain */
-/* `font-size` values of the `input`, it causes the cursor style of the */
-/* decrement button to change from `default` to `text`. */
-input[type="number"]::-webkit-inner-spin-button,
-input[type="number"]::-webkit-outer-spin-button {
-  height: auto;
-}
-
-/* 1. Address `appearance` set to `searchfield` in Safari and Chrome. */
-/* 2. Address `box-sizing` set to `border-box` in Safari and Chrome (include `-moz` to future-proof). */
-input[type="search"] {
-  -webkit-appearance: textfield; /* 1 */
-  -moz-box-sizing: content-box;
-  -webkit-box-sizing: content-box; /* 2 */
-  box-sizing: content-box;
-}
-
-/* Remove inner padding and search cancel button in Safari and Chrome on OS X. */
-/* Safari (but not Chrome) clips the cancel button when the search input has padding (and `textfield` appearance). */
-input[type="search"]::-webkit-search-cancel-button,
-input[type="search"]::-webkit-search-decoration {
-  -webkit-appearance: none;
-}
-
-/* Define consistent border, margin, and padding. */
-fieldset {
-  border: 1px solid #c0c0c0;
-  margin: 0 2px;
-  padding: 0.35em 0.625em 0.75em;
-}
-
-/* 1. Correct `color` not being inherited in IE 8/9/10/11. */
-/* 2. Remove padding so people aren't caught out if they zero out fieldsets. */
-legend {
-  border: 0; /* 1 */
-  padding: 0; /* 2 */
-}
-/* Remove default vertical scrollbar in IE 8/9/10/11. */
-textarea {
-  overflow: auto;
-}
-
-/* Don't inherit the `font-weight` (applied by a rule above). */
-/* NOTE: the default cannot safely be changed in Chrome and Safari on OS X. */
-
-optgroup {
-  font-weight: bold;
-}
-
-/* ########################################## */
-/*                   Tables                   */
-/* ########################################## */
-
-/* Remove most spacing between table cells. */
-
-table {
-  border-collapse: collapse;
-  border-spacing: 0;
-}
-td,
-th {
-  padding: 0;
-}
-
-/* end normalize styles */
-
-/* ########################################## */
-/*              Global settings               */
-/* ########################################## */
-
-body {
-/*	font: 110% 'Roboto Slab', Georgia, serif; <-- this is what was in the tutorial file */
-	font: 110% 'Iowan Old Style', 'Cardo', Georgia, serif;
 	background: whitesmoke;
-	direction: ltr;
 }
-h1, h2, h3, h4, h5, h6 {
-/*	font-family: 'Oswald', 'Helvetica Narrow', Arial, sans-serif; <- this is what was in the tutorial file */
+
+/* For older browsers */
+aside, article, section, header, footer, nav {
+	display: block;
+}
+
+/* CSS reset */
+div, h1, h2, h3, p, img, nav, ul, li, header, time, article, a {
+	margin: 0;
+	padding: 0;
+}
+
+/* Add border for debugging
+header, nav, body, aside, footer, h1, h2, p, ul, li, time, a {
+	border: 1px solid #376092;
+	border-radius: 7pt;
+}
+
+
+/* ########################################## */
+/*                 Global Styles              */
+/* ########################################## */
+
+/* The overal grid */
+body {
+	width: 100%;
+	margin: 0 auto;
+	font: 110% 'Iowan Old Style', 'Cardo', Georgia, serif;
+}
+
+h1, h2, li, footer p {
 	font-family: 'Avenir', 'Muli', 'Helvetica Narrow', Arial, sans-serif;
+}
+
+h1 {
+	font-size: 2em;
+	font-weight: 500;
+	line-height: 1.2;
+	color: #376092;
+	margin-bottom: 0.2em;
+}
+
+h2 {
+	font-size: 1.5em;
+	font-weight: 400;
+	line-height: 1.2;
+	color: #376092;
+	margin-bottom: 0.2em;
+}
+
+
+/* ########################################## */
+/*                 Header Styles              */
+/* ########################################## */
+
+header, footer {
+	display: block;
+	margin: 4px;
+	padding: 5px;
+	text-align: middle;
+	min-width: 800px;
+}
+
+#name, #tagline {
+	line-height: 50px; /* Changes to 100px in computers */
+	color: #132A45;
+	clear: both; /* Changes to "none" in computers */
+	/* In computers only, gets "float: left" */
+}
+
+#name {
+	font-size: 3em;
 	font-weight: 700;
+
+	margin-right: 0.75em;
+
+	font-variant: small-caps;
+	letter-spacing:.05em;
 }
-*, *:before, *:after {
-	-webkit-box-sizing: border-box;
-	-moz-box-sizing: border-box;
-	box-sizing: border-box;
+
+#tagline {
+	font-size: 1.4em;
+	font-style: italic;
+	font-weight: normal;
+	
+	text-transform: lowercase;
+	letter-spacing:.1em;
 }
-p {
-	margin: 0 0 1em 0;
+
+/* Tablets */
+@media only screen and (min-width: 600px) {
+	body {
+		width: 90%;
+	}
 }
+
+/* Computers */
+@media only screen and (min-width: 960px) {
+	body {
+		width: 960px;
+	}
+	#name, #tagline {
+		float: left;
+		clear: none;
+		line-height: 100px;
+	}
+}
+
+header a, header a:hover {
+	text-decoration: none;
+	border: none;
+	float: left;
+	color: #132A45;
+}
+
+
+
+/* ########################################## */
+/*                Navigation Styles           */
+/* ########################################## */
+
+
+nav ul, aside ul {
+	/* Get rid of the bullet points */
+	list-style: none;
+	width: 100%;
+}
+
+#mainNav, #recents {
+	overflow: auto;
+	margin-bottom: 1em;
+	clear: left;
+	display: flex;
+}
+
+/* Flex stuff */
+#mainNav {
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: center;
+}
+
+#recents {
+	flex-direction: column;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	align-items: center;
+}
+
+
+#mainNav li, #recents li {
+	float: left;
+	margin-right: 1%;
+	background-color: #376092;
+	border: 0px solid #376092;
+	border-radius: 7pt;
+}
+
+#recents li {
+	margin-top: 5px;
+}
+
+#mainNav a, #recents a {
+	display: block;
+	color: whitesmoke;
+	border: none;
+	font-size: 1.2em;
+	text-align: center;
+	text-decoration: none;
+	padding: 0.25em 0.5em;
+	border: 0px solid #132A45;
+	border-radius: 7pt;
+}
+
+#mainNav a:hover, #recents a:hover  {
+	background-color: #132A45;
+}
+
+#mainNav a em {
+	font-size: .6em;
+	display: block;
+}
+
+/* ########################################## */
+/*                  Link Styles               */
+/* ########################################## */
+
 /* All links */
 a {
-	color: #42659A;
+	color: #132A45;
 	line-height: inherit;
 	text-decoration: none; /* no underline: it was just too busy */
 }
@@ -277,7 +206,7 @@ a[href*="http"], .within {
 	color: black;
 }
 a:hover, .within:hover {
-	color: #213149;
+	color: #132A45;
 }
 /* Add the little red circle after external links */
 /* See http://practicaltypography.com/how-to-use.html */
@@ -285,6 +214,156 @@ a[href*="http"]:after, .within:after {
 	content: 'º';
 	color: darkred;
 }
+
+/* ########################################## */
+/*                  Main Styles               */
+/* ########################################## */
+
+/* The box that contains the nav, article, and aside */
+#main {
+	margin: 0px;
+    padding: 0px;
+    display: flex; /* Since the flex items are contained in this, this is what gets this property. https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes*/
+    flex-flow: row;
+}
+
+/* The center box */
+#main > article {
+	margin: 4px;
+	padding: 5px;
+
+	/* This is inside the main flex elnoement, so it gets this property so it can be flexed. */
+	flex: 3 1 60%;
+	order: 2;
+}
+
+/* The main aside box */
+#main > aside {
+	margin: 4px;
+	padding: 5px;
+	margin-left: 1em;
+
+	/* This is inside the main flex element, so it gets this property so it can be flexed. */
+	flex: 1 6 20%;
+	order: 3;
+}
+
+#research {
+	width: 100%;
+	margin: auto;
+}
+
+p {
+	font: 110% 'Iowan Old Style', 'Cardo', Georgia, serif;
+	text-align: justify;
+	line-height: 1.4em;
+	font-size: 110%;
+	margin-bottom: 1em;
+}
+
+/* ########################################## */
+/*                  Aside Styles              */
+/* ########################################## */
+
+/* For the recents section, these are formatted the same way as the buttons in the navigation pane. */
+
+aside img {
+	border: 0px solid #376092;
+	border-radius: 7pt;
+}
+
+#socialMedia {
+	display: flex;
+	justify-content: space-around;
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
+#socialMedia a {
+	text-indent: -9000em;
+	display: inline-block;
+	width: 32px;
+	height: 32px;
+}
+#github {
+	background: url(../images/icons/github.svg) no-repeat;
+}
+#fb {
+	background: url(../images/icons/facebook.svg) no-repeat;
+}
+#linked {
+	background: url(../images/icons/linkedin.svg) no-repeat;
+}
+#twitter {
+	background: url(../images/icons/twitter.svg) no-repeat;
+}
+#academia {
+	background: url(../images/icons/academia.svg) no-repeat;
+}
+#googleScholar {
+	background: url(../images/icons/google.svg) no-repeat;
+}
+
+#mainAside p {
+	font-size: 90%;
+	font-style: italic;
+	text-align: center;
+	margin-top: 2em;
+}
+
+.blog-index {
+	margin-top: 3em;
+}
+
+.blog-index h2  {
+	text-align: center;
+}
+
+.entry-content {
+	font-size: 90%;
+	text-align: justify;
+}
+
+
+/* ########################################## */
+/*                  Research                  */
+/* ########################################## */
+
+.research {
+	overflow: auto;
+}
+
+.research h2 {
+	padding-top: 2em;
+	clear: both;
+}
+
+.research img {
+	float: right;
+	width: 20%;
+	border: 0px solid #376092;
+	border-radius: 7pt;
+}
+
+.research p {
+	float: left;
+	width: 75%;
+}
+
+/* ########################################## */
+/*                  CV Styles                 */
+/* ########################################## */
+
+#cv {
+	width: 75%;
+	margin: auto;
+}
+
+#updated {
+	font-size: 14px;
+	font-weight: 300;
+	clear: both;
+}
+
 
 /* Add icons to the CV link types */
 a.paper:after {
@@ -310,575 +389,138 @@ a.link:after {
 }
 
 
-img, object, embed {
-	max-width: 100%;
-	display: block;
-	height: auto;
-	margin: 1em auto;
-}
-/*
-.left {
-	float: left;
-}
-.right {
-	float: right;
-} */
 
-/* micro-clearfix by Nicolas Gallagher http://nicolasgallagher.com/micro-clearfix-hack/ */
-/* For modern browsers */
-.cf:before,
-.cf:after {
-    content:"";
-    display:table;
+/* ########################################## */
+/*                    Blog                    */
+/* ########################################## */
+
+#blog article {
+	border-bottom: 1.5px solid grey;
+	margin: 2em 0;
+	overflow: auto;
 }
-.cf:after {
-    clear:both;
+
+/* The date of each blog post */
+#blog time {
+	clear: left;
+	float: left;
+	padding: 1em 5px;
+	width: 80px;
+	text-align: center;
+	background: #376092;
+	color: whitesmoke;
+	border: 1px solid #376092;
+	border-radius: 50%;
 }
-/* For IE 6/7 (trigger hasLayout) */
-.cf {
-    zoom:1;
-}
-.cr {
+
+/* The titles of each blog post */
+#blog h2 {
+	margin-left: 120px;
 	clear: right;
 }
-.cl {
-	clear: left;
+
+.posted_in, .excerpt {
+	margin-left: 120px;
 }
-.cb {
-	clear: both;
+
+.posted_in {
+	font-size: 80%;
+}
+
+/* The "Read more" after each post */
+.more {
+	padding: 5px 0;
+	float: right;
+}
+.more:before {
+	content: "["
+}
+.more:after {
+	content: "]"
 }
 
 /* ########################################## */
-/*              Header Styles                 */
+/*                    Tags                    */
 /* ########################################## */
 
-.page-header {
-	padding: 1em 1em 0;
-}
-header {
-	margin-bottom: 2em;
-}
-header h1 {
-	font-size: 2em;
-	line-height:1;
-	margin: 0;
-/*	text-transform: uppercase; */
-}
-header p {
-	font: 1em 'Oswald', 'Helvetica Narrow', Arial, sans-serif;
-	font-weight: 400;
-	color: #666;
-/*	text-transform: uppercase; */
+aside#tags {
+	text-align: right;	
 }
 
 /* ########################################## */
-/*            Top Navigation Styles           */
+/*                  Archive                   */
 /* ########################################## */
 
-nav ul, nav li {
-	padding: 0;
-	margin: 0;
+#tags h2 {
+	background-image: url("");
+	margin-top: 1em;
+}
+
+.taglist {
 	list-style: none;
-	min-height: 0;
-}
-/*nav li a {
-	font: 1em 'Oswald', 'Helvetica Narrow', Arial, sans-serif;
-	color: red;
-	text-decoration: none;
-	letter-spacing: 0.1em;
-}*/
-
-/* ########################################## */
-/*                Article Styles              */
-/* ########################################## */
-
-.posts, .archive {
-	padding: 0 1em 0;
-}
-article header {
-	padding-bottom: 0.5em;
-	margin-bottom: 1em;
-	border-bottom: 1px solid #aaa;
-}
-article h2 {
-	font-size: 2em;
-	font-weight: 400;
-	line-height:1.2;
-	color: #42659A;
-	margin-bottom:0.2em;
-}
-article h3 {
-	font-weight: 400;
-	font-size: 1.4em;
-	color: #42659A;
-	margin-bottom: 0;
-}
-article h2 a {
-	text-decoration:none;
-}
-article time {
-	display: block;
-	font-size: 0.8em;
-	color: #666;
-	margin-bottom: 0;
-}
-/* The "Read more" links on the blog page. */
-a.more {
-	display: block;
-	text-align: right;
-}
-a.more:before {
-	content: '[';
-}
-a.more:after {
-	content: ']';
+	/* Gets rid of the social backgrounds */
+	background-image: url("");
 }
 
-p code {
-	font-size: 1.2em;
-	font-weight: bold;
+.taglist li {
+	margin-left: 1em;
 }
-pre {
-	font-size: 1.4em;
-	line-height: 1.6;
-	color: white;
-	padding: .5em 1em;
-	margin-bottom: 1em;
-	border-left: 1em solid #42659A;
-	background: #666;
-	white-space: pre-wrap;
-	white-space: -moz-pre-wrap;
-	white-space: -pre-wrap;
-	white-space: -o-pre-wrap;
-	word-wrap: break-word;
-	width: 90%;
-}s
-pre.wrong {
-	border-left-color: red;
-}
-pre.correct {
-	border-left-color: green;
-}
-figcaption {
-	font-size: 0.9em;
-	font-style: italic;
-}
-blockquote {
-	font: 1.5em 'Oswald', 'Helvetica Narrow', Arial, sans-serif;
-	font-weight: 400;
-	color: #6d6d6d;
-	padding-left: 1em;
-	margin: 1em 0;
-	border-left: 4px solid #6d6d6d;
-}
-cite {
-	display: block;
-	font-size: 0.8em;
-	margin-top: 0.5em;
-}
-article footer {
-	background: none;
-	border-top: 1px solid #aaa;
-	font-size: 0.8em;
-	padding: 1em 0;
-}
-dt {
-	font-family: 'Oswald', 'Helvetica Narrow', Arial, sans-serif;
-	font-size: 1.2em;
-	font-weight: 400;
-	color: #42659A;
-	margin-bottom:0;
-}
-dd {
-	margin-bottom:1em;
-}
+
 .taglist time {
-	display: inline;
-	font-size: 1em;
+	font-size: 75%;
+	margin-left: 0.5em;
 }
-.pagination {
-	width: 100%;
-	font-size: 1.2em;
+
+
+/* ########################################## */
+/*                 Blog post                  */
+/* ########################################## */
+
+.posts {
+	width: 75%;
 }
+
+.posts footer {
+	background: whitesmoke;
+	border-top: 1px solid black;
+}
+
+.posts footer p {
+	padding-top: 1em;
+	text-align: center;
+	color: black;
+}
+
 .prevLink {
 	float: left;
-	width: 50%;
 }
-.nextLink {
-	float: right;
-	width: 50%;
-	text-align: right;
-}
-.previous:before {
+
+.prevLink:before {
 	content: '\00ab\00a0';
 }
-.next:after {
+
+.nextLink {
+	float: right;
+}
+
+.nextLink:after {
 	content: '\00a0\00bb';
 }
 
-/* ########################################## */
-/*                Archive Styles              */
-/* ########################################## */
-
-.archive ul {
-	list-style: none;
-	padding: 0;
-	margin: 0;
-}
-.archive h3 {
-	font-size: 1.4em;
-}
-.archive h3:target {
-	color: #dc8b21;
-	font-size: 1.6em;
-}
-.archive li {
-	margin-bottom: 0.5em;
-}
-/* Just the tag cloud in the post archives */
-.tag-cloud {
-	max-width: 600px;
-}
-.tag-cloud li {
-	display: inline-block;
-	margin-right: 0.5em;
-	margin-bottom: 0.5em;
-}
-.tag-cloud a {
-	text-decoration: none;
-	font-size: 0.8em;
-	background:#42659A;
-	color: white;
-	padding: 0.125em 0.5em;
-	border-radius: 0.25em;
-}
-.return {
-	display: none;
-}
-/* This is the link to return to the top */
-h3:target + .taglist .return {
-	display: block;
-}
-.return a {
-	font-size: 0.8em;
-	text-decoration: none;
-	color: #dc8b21;
-}
-.return a:before {
-	content: '\25b2\00a0';
-}
 
 /* ########################################## */
-/*                Social Media Styles         */
+/*                 Footer Styles              */
 /* ########################################## */
 
-/* Note that these td classes used to be "aside" */
-
-td h3 {
-	color: #4d4d4d;
-	font-size: 1.4em;
-	margin-top: 1em;
-	margin-bottom: .4em;
-	margin-right: 1.5em;
-	text-align: right;
+footer {
+	background-color: #376092;
+	vertical-align: middle;
+	clear: both;
+	margin-top: 2em;
 }
 
-td li {
-	margin-bottom: 0.5em;
-}
-
-td ul {
-	list-style: none;
-	padding: 0;
-	margin:0;
-}
-
-.social {
-	display: flex;
-	justify-content: space-around;
-}
-.social a {
-	text-indent: -9000em;
-	display: inline-block;
-	width: 32px;
-	height: 32px;
-}
-.github {
-	background: url(../images/icons/github.svg) no-repeat;
-}
-.fb {
-	background: url(../images/icons/facebook.svg) no-repeat;
-}
-.linked {
-	background: url(../images/icons/linkedin.svg) no-repeat;
-}
-.twitter {
-	background: url(../images/icons/twitter.svg) no-repeat;
-}
-.academia {
-	background: url(../images/icons/academia.svg) no-repeat;
-}
-.googleScholar {
-	background: url(../images/icons/google.svg) no-repeat;
-}
-
-/* ########################################## */
-/*                Sidebar Styles              */
-/* ########################################## */
-
-aside {
-	padding: 0 1em 0;
-}
-
-aside h3 {
-	color: #4d4d4d;
-	font-size: 1.4em;
-	margin-top: 1em;
-	margin-bottom: .4em;
-}
-
-aside li {
-	margin-bottom: 0.5em;
-}
-
-aside p {
-	margin-left: 1em;
-}
-
-aside ul {
-	list-style: none;
-	padding: 0;
-	margin:0;
-	margin-left: 1em;
-}
-	
-
-/* ########################################## */
-/*             Main Footer Styles             */
-/* ########################################## */
-
-.page-footer {
-	background: #4d4d4d;
-	padding: 2em 1em;
-	margin-top: 1em;
-	color: white;
-}
-.legal {
-	font-size: .7em;
-	margin: 0;
-}
-.page-footer a {
-	color: white;
-}
-.top-link {
+footer p {
+	color: whitesmoke;
+	font-size: 0.75em;
 	text-align: center;
-	margin-bottom: 2em;
-}
-.top-link:before {
-	content: '\25b2\00a0';
-}
-
-/* ########################################## */
-/*             Smaller Screen Styles          */
-/* ########################################## */
-
-@media only screen and (max-width: 950px) {
-
-.right, .left {
-	float: none;
-}
-
-/* ########################################## */
-/*             Top Navigation Styles          */
-/* ########################################## */
-
-nav {
-	background: none;
-	margin-bottom: 1em;
-}
-nav ul {
-	display: none;
-}
-nav li {
-	background: #42659A;
-	margin-bottom: .2em;
-	justify-content: space-around;
-	display: flex;
-}
-nav li:hover {
-	background: #333;
-}
-nav li a {
-	font-size: 1.2em;
-	font-weight: 100;
-	text-transform: uppercase;
-	margin: 0;
-	margin-bottom: 0.2em;
-	padding: .5em 0;
-	display: block;
-	max-width: 5em;
-	text-align: center;
-	max-width: 100%;
-	width:100%;
-}
-nav li a:hover {
-	color: white;
-}
-
-/*toggle check styles*/
-.toggle-label {
-	display: block;
-	background: #42659A;
-	font: 0.8em 'Oswald', 'Helvetica Narrow', Arial, sans-serif;
-	text-align: center;
-	letter-spacing: 0.1em;
-	color: white;
-	padding: .5em 0;
-	text-decoration: none;
-	width: 5em;
-	cursor: pointer;
-	}
-#menu-toggle {
-	display: none;
-}
-#menu-toggle:checked + .toggle-label {
-	background: #4d4d4d;
-}
-#menu-toggle:checked + .toggle-label span {
-	display: none;
-}
-#menu-toggle:checked + .toggle-label:before {
-	content: 'close';
-}
-#menu-toggle:checked ~ ul {
-	display: block;
-}
-
-pre {
-	font-size: 1.2em;
-	width: 90%;
-}
-
-dd{
-	padding: 0;
-	margin:0;
-	margin-bottom: 1em;
-}
-}
-
-/* ########################################## */
-/*              Larger Screen Styles          */
-/* ########################################## */
-
-@media only screen and (min-width: 951px) {
-
-/* ########################################## */
-/*                 Layout Styles              */
-/* ########################################## */
-
-html {
-	/* background: #6d6d6d; */
-	background: whitesmoke;
-}
-body {
-	width: 50%; /* this changes the overall width of the entire page */
-	margin: 0 auto;
-}
-
-.page-header {  /* title */
-	padding: 0 3%; /* additional padding from left*/
-	padding-top: 1em; /* padding from top of page */
-}
-.posts {
-	margin: auto;
-	/* float: right */
-	width: 100%; /* this changes the overall width of just the text portion within the overall body width */
-	padding-right: 2.5%;
-}
-
-.archive {
-	margin: auto;
-	width: 100%; /* this changes the overall width of just the text portion within the overall body width */
-	padding-right: 2.5%;
-}
-
-aside {
-	float: left;
-	width: 30%;
-	max-width: 320px;
-	padding-top: 1em; /* additional padding from top */
-	padding-left: 2.5%; /* additional padding from left */ 
-}
-
-/* ########################################## */
-/*                 Header Styles              */
-/* ########################################## */
-
-header h1 {
-	font-size: 3em;
-}
-header p {
-/*	font: 1em 'Oswald', 'Helvetica Narrow', Arial, sans-serif; */
-	font: 1em 'Avenir', 'Muli', 'Helvetica Narrow', Arial, sans-serif;
-	font-weight: 400;
-	color: #666;
-/*	text-transform: uppercase; */
-}
-
-/* ########################################## */
-/*             Top Navigation Styles          */
-/* ########################################## */
-
-nav {
-	background: none;
-	margin-bottom: 2em;
-}
-#menu-toggle, .toggle-label {
-		display: none;
-	}
-nav ul {
-	padding: 0;
-	margin: 0;
-	list-style: none;
-	min-height: 0;
-}
-nav li {
-	display: inline-block;
-}
-/* Targets just the header buttons */
-nav li a {
-	font: 1em 'Avenir', 'Muli', 'Helvetica Narrow', Arial, sans-serif;
-	color: white;
-	background: #42659A;;
-	margin-right: 0.5em;
-	padding: .25em 1em;
-	display: inline-block;
-	text-decoration: none;
-	letter-spacing: 0.1em;
-}
-nav li a:hover {
-	color: white;
-	background: #333;
-}
-
-/* ########################################## */
-/*                 Article Styles             */
-/* ########################################## */
-
-article p {
-	font-size: 1.125em;
-	line-height: 1.4;
-}
-
-/* The "read more" links on the main blog page */
-a.more {
-	margin: 0.5em 0;
-}
-
-/* ########################################## */
-/*              Main Footer Styles            */
-/* ########################################## */
-.legal {
-	text-align: center;
-}
 }

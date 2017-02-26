@@ -1,14 +1,17 @@
 ---
-layout: page
+layout: cv
 title: Curriculum Vitae
 ---
 
-Updated January 28, 2017. Download PDF <a href="/downloads/170128-CV.pdf" target="_blank" title="open a pdf of my CV in a new window">here</a>.
+Curriculum Vitae
+========
+
+<p id="updated">Updated February 23, 2017. Download PDF <a href="/downloads/170128-CV.pdf" target="_blank" title="open a pdf of my CV in a new window">here</a>.</p>
 
 <br/>
 
 Education
-==========
+---------
 
 **Ph.D. Linguistics**, [University of Georgia](http://www.linguistics.uga.edu/), 2018 (expected) 
 
@@ -26,7 +29,7 @@ Education
 
 
 Publications
-==========
+---------
 
 <strong>Stanley, Joseph A.</strong> (2016). "Pacific Northwest English: Historical Overview and Current Directions". *UGA Working Papers in Linguistics*, 3. 
 <a href="http://www.lsuga.com/working-papers/volume-3" class="link" target="_blank" title="link to lsuga.com"></a>
@@ -49,15 +52,16 @@ Publications
 <br/>
 
 Conference Presentations
-==========
+---------
 
-Rachel Olsen, Michael Olsen, <strong>Joseph A. Stanley</strong> & Margaret E. L. Renwick. “Transcribing the Digital Archive of Southern Speech: Methods and Preliminary Analysis.” 84th Meeting of the SouthEastern Conference on Linguistics ([SECOL84](http://conf2017.secol.org">)). Charleston, SC. March 8–11.
+Rachel Olsen, Michael Olsen, Katherine Kuiper, <strong>Joseph A. Stanley</strong>, Margaret E. L. Renwick, & William A. Kretzschmar, Jr. “New Perspectives on Historical Southern Speech.” Panel presented at the 2017 Integrative Research and Ideas Symposium ([IRIS](https://graduatestudents.org/)). Athens, GA. March 20, 2017.
+
+
+Rachel Olsen, Michael Olsen, <strong>Joseph A. Stanley</strong> & Margaret E. L. Renwick. “Transcribing the Digital Archive of Southern Speech: Methods and Preliminary Analysis.” 84th Meeting of the SouthEastern Conference on Linguistics ([SECOL84](http://conf2017.secol.org">)). Charleston, SC. March 8–11, 2017.
 
 Kretzschmar, William A., <strong>Joseph Stanley</strong>, & Katherine Kuiper. “Automated Large-Scale Phonetic Analysis: DASS.” 84th Meeting of the SouthEastern Conference on Linguistics ([SECOL84](http://conf2017.secol.org">)). Charleston, SC. March 8–11, 2017.
 
 <strong>Stanley, Joseph A.</strong> (2017). “V[ɛ]ry v[e]ried vowel mergers in the Pacific Northwest.” Diversity and Variation in Language ([DiVar 1](http://linguistics.emory.edu/home/conferences/divar1/index.html)). Atlanta, GA. February 10–11.
-<a href="/downloads/170211-DiVar1-abstract.pdf" class="abstract" target="_blank" title="open a pdf of the abstract to this presentation in a new window"></a>
-<a href="/downloads/170211-DiVar1-slides.pptx" class="slides" title="download the powerpoint slides for this presentation"></a>
 
 <strong>Stanley, Joseph A.</strong> (2017). “The perception and production of two vowel mergers in Cowlitz County, Washington.” The American Dialect Society ([ADS](http://www.americandialect.org)) Annual Meeting. Austin, TX. January 5–8. (with UGA Linguistics Program travel award and UGA Graduate School travel award)
 <a href="/downloads/160813-ADS2017.pdf" class="abstract" target="_blank" title="open a pdf of the abstract to this presentation in a new window"></a>
@@ -91,7 +95,7 @@ Kretzschmar, William A., <strong>Joseph Stanley</strong>, & Katherine Kuiper. �
 <br/>
 
 Invited Presentations
-==========
+---------
 
 "Build a better project: Starting a DH project from primary sources." Presented at the First [DigiLab](http://digi.uga.edu/digilab/) Colloquium. Athens, GA. October 6, 2016. 
 <a href="https://digi.uga.edu/news/build-a-better-project-digi-colloquium-review/" class="link" target="_blank" title="link to digi.uga.edu"></a>
@@ -101,7 +105,7 @@ Invited Presentations
 <br/>
 
 Workshops
-==========
+---------
 
 <strong>Joey Stanley</strong>. "Be a Data Magician: An Excel Workshop for Humanists." Workshop given at the University of Georgia DigiLab. Athens, GA. January 27, 2017.
 <a href="/downloads/170127-ExcelWorkshop.pdf" class="paper" target="_blank" title="open a pdf of the handout to this presentation a new window"></a>
@@ -116,7 +120,7 @@ Workshops
 <br/>
 
 Other Presentations
-==========
+---------
 
 “An EWP model of Quechua agreement: Further evidence against DM.” Presented at the Linguistic Society of the University of Georgia (LSUGA) Tiny Talks. Athens, GA. September 15, 2016. 
 <a href="/downloads/160915-TinyTalks-slides.pptx" class="slides" title="download the powerpoint slides for this presentation"></a>
@@ -136,31 +140,33 @@ Other Presentations
 -------------
 -------------
 
+<br/>
+
 
 Funding and Awards
-==========
+---------
 
-University of Georgia Graduate School travel award. 2017.
+University of Georgia Graduate School travel award. 2017. ($220)
 
 Complex Systems and the Humanities Research Assistantship awarded by the Graduate School at the University of Georgia. 2016--2017.
 
-University of Georgia Linguistics Program travel award. 2016.
+University of Georgia Linguistics Program travel award. 2016. ($200)
 
-University of Georgia Graduate School Dean’s Award. 2016.
+University of Georgia Graduate School Dean’s Award. 2016. ($1250)
 
-University of Georgia stipend enhancement awarded by the Franklin College of Arts and Sciences. 2014--2015
+University of Georgia stipend enhancement awarded by the Franklin College of Arts and Sciences. 2014--2015.
 
-University of Georgia Graduate Research Assistantship 2014.
+University of Georgia Graduate Research Assistantship. 2014.
 
-Brigham Young University Department of Linguistics and English Language Conference Travel Grant. 2013.
+Brigham Young University Department of Linguistics and English Language Conference Travel Grant. 2013. ($500)
 
 <br/>
 
 
 Research Assistantships
-=========
+---------
 
-Complex Systems and the Humanities Research Assistant in support of the [Linguistic Atlas Project](http://www.lap.uga.edu) and the Willson Center Digital Humanities Lab ([DigiLab](http://digi.uga.edu/digilab/)) under the direction of [Dr. William Kretzschmar]([William A. Kretzschmar, Jr.](https://www.english.uga.edu/directory/495/detail)). 2016--2017
+Complex Systems and the Humanities Research Assistant in support of the [Linguistic Atlas Project](http://www.lap.uga.edu) and the Willson Center Digital Humanities Lab ([DigiLab](http://digi.uga.edu/digilab/)) under the direction of [Dr. William Kretzschmar]([William A. Kretzschmar, Jr.](https://www.english.uga.edu/directory/495/detail)). 2016--2017.
 
 Graduate Research Assistant for Dr. [Chad Howe](https://faculty.franklin.uga.edu/chowe/), Associate Professor in the Department of Romance Languages at the University of Georgia. 2016.
 
@@ -180,7 +186,7 @@ Research Assistant for Dr. [Monte Shelley](http://mi.byu.edu/people/monte-shelle
 
 
 Other Employment
-==========
+---------
 
 Assistant for Dr. Peggy Renwick in developing materials and establishing an online repository for her “Quantitative Methods in Linguistics” course at the University of Georgia. 2016--2017.
 
@@ -195,13 +201,15 @@ Teaching Assistant for Dr. [Monte Shelley](http://mi.byu.edu/people/monte-shelle
 -------------
 -------------
 
+<br/>
+
 
 Computer Skills and Tools
-============
+---------
 
 *Expert*: Excel, Perl, R 
 
-*Proficient*:  [COCA](http://corpus.byu.edu/coca/) (and [related corpora](http://corpus.byu.edu)), [DARLA](http://darla.dartmouth.edu), [FAVE](http://fave.ling.upenn.edu), [JMP](http://www.jmp.com/en_us/home.html), LaTeX, [PCT](http://phonologicalcorpustools.github.io/CorpusTools/), Praat, [SPPAS](http://www.sppas.org), [UCINET](https://sites.google.com/site/ucinetsoftware/home), [Wiki markup](https://en.wikipedia.org/wiki/Help:Wiki_markup), Windows computers, [WordCruncher](http://www.wordcruncher.com/index.html), [Zotero](https://www.zotero.org)
+*Proficient*:  [COCA](http://corpus.byu.edu/coca/) (and [related corpora](http://corpus.byu.edu)), CSS, [DARLA](http://darla.dartmouth.edu), [FAVE](http://fave.ling.upenn.edu), HTML, [JMP](http://www.jmp.com/en_us/home.html), LaTeX, [PCT](http://phonologicalcorpustools.github.io/CorpusTools/), Praat, [Shiny](http://shiny.rstudio.com), [SPPAS](http://www.sppas.org), [UCINET](https://sites.google.com/site/ucinetsoftware/home), [Wiki markup](https://en.wikipedia.org/wiki/Help:Wiki_markup), Windows computers, [WordCruncher](http://www.wordcruncher.com/index.html), [Zotero](https://www.zotero.org), and enough web design to make this site.
 
 
 *Familiar*: [Access](https://products.office.com/en-US/access), [AntConc](http://www.laurenceanthony.net/software.html), [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)), [DreamWeaver](http://www.adobe.com/products/dreamweaver.html?sdid=KKQTJ&mv=search&s_kwcid=AL!3085!3!110812694443!e!!g!!dreamweaver&ef_id=V7iPrwAAAUYcBTnE:20160826185837:s), [HTK](http://htk.eng.cam.ac.uk), [LaBB-CAT](http://labbcat.sourceforge.net), [MALLET](http://mallet.cs.umass.edu/index.php), [Markdown](http://daringfireball.net/projects/markdown/), Photoshop, [Prosody-Lab Aligner](http://prosodylab.org/tools/aligner/), Python, [SoX](http://sox.sourceforge.net), [SAS](http://www.sas.com/), [Transcriber](http://trans.sourceforge.net/en/presentation.php), [VBA](https://en.wikipedia.org/wiki/Visual_Basic_for_Applications), [WebMAUS](http://clarin.phonetik.uni-muenchen.de/BASWebServices/#/services/WebMAUSBasic)
@@ -209,7 +217,7 @@ Computer Skills and Tools
 <br/>
 
 Service at UGA
-==========
+---------
 
 Sociolinguistics reading group, Organizer. 2017.
 
@@ -223,7 +231,7 @@ Typology reading group, Organizer. 2016
 
 
 Fieldwork Experience
-==========
+---------
 
 Sociolinguistic fieldwork in [Cowlitz County, Washington](https://en.wikipedia.org/wiki/Cowlitz_County,_Washington). July, 2016.
 
@@ -238,7 +246,7 @@ Brazil (Marília, SP; Campo Grande, MS; Cáceres, Cuiabá, and Várzea Grande, M
 
 
 Languages
-=============
+---------
 
 *Native*: English 
 
@@ -252,7 +260,7 @@ Languages
 
 
 Professional Affiliations
-===========
+---------
 
 American Dialect Society ([ADS](http://www.americandialect.org))
 
@@ -261,5 +269,7 @@ SouthEastern Conference on Linguistics ([SECOL](http://secol.org))
 Linguistic Society of America ([LSA](http://www.linguisticsociety.org))
 
 Society for the Study of the Indigenous Languages of the Americas ([SSILA](http://www.ssila.org))
+
+Linguistc Society at the University of Georgia ([LSUGA](http://www.lsuga.com))
 
 
