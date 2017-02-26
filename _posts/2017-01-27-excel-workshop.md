@@ -9,8 +9,7 @@ Today I had the opportunity to give a workshop in the [DigiLab](https://digi.uga
 
 This was the first time I've ever given a presentation without powerpoint slides. As I was preparing though, it seemed silly to include detailed descriptions and screenshots when I could just switch over the Excel and show it live. I ended up putting together a handout instead, which had all of the information on it instead. You can download this handout <a href="/downloads/170127-ExcelWorkshop.pdf" title="download Excel handout">here</a>. The presentation (and handout) went through the following topics:
 
-The Basics
-=========================
+## The Basics
 
 I started off by explaining what the differences were between Microsoft Office 2016, 365, and Online. Essentially, Office 2016 is stand-alone software that you buy once and keep forever but doesn't upgrade. Office 365 is a subscription service where you have the software as long as you subscribe to it, but it upgrades all the time. Office Online is a free cloud-based version. Through UGA, we can get Office 365 for free, and a heavily reduced priced Office 2016.
 
@@ -18,8 +17,7 @@ I then opened up Excel and covered the absolute basics. Data entry. Moving aroun
 
 After that, into topics that make it easier to play around with your data. Search and replace, with some extras like matching the entire cell. I also covered sorting and filtering and showed that you can filter multiple columns to get a really specific subsets of your data.
 
-Pivot Tables
-============
+#3Pivot Tables
 
 This is where I wanted to spend the most time. Pivot tables are things that a lot of people had heard of (and from the show of hands, about half the people in the room), but for some reason—and I don't say this to be all high and mighty—I have never met *anyone* who knows how to use them. I learned them in my Intro to Linguistic Computing class with Monte Shelley at BYU and have used them a *ton* since then, but I guess people just haven't had the chance to learn about them. 
 
@@ -27,15 +25,13 @@ Pivot tables are dang useful. They can summarize your data in tons of fancy ways
 
 There are different ways of viewing the data as well. Instead of the raw count, we looked at how to view the *proportion* of men to women there were in each town. We switched to a numerical data type (fabricated weight and height data), and were able to see the average weight and height for men and women in each city, as well as the tallest, shortest, heaviest, and lightest man and women in each town. I heard some audible *whoa*'s from people as I showed some of this stuff, which was great to hear.
 
-Functions
-=========
+## Functions
 
 I then looked at some Excel functions. We started with some basic math, but quickly went into some functions. I showed how some can just stand on their own, like `pi()`, `today()`, and `now()`. We looked at how to reference other cells in functions and how they update automatically. I showed how to create a sequential list of numbers using functions that reference each other. There are some functions like `year()`, `month()`, `weekday()`, and `datedif()` that work on dates and others like `concat()`, `upper()`, `lower()`, `left()`, and `right()` are for manipulating strings. Then there are some that make reference to ranges, like `sum()` and `average()`. I showed how the `concat()` function can be useful to string together last name and first name to create a "Last, First" column. I know there are much more complicated and useful functions than the ones I covered, but I didn't want to intimidate anyone.
 
 We then looked at some conditionals and how they work. As an example, I created a new column in the census data that essentially collapsed the birth state down to two: Washington or not Washington. 
 
-Lookup Tables
-=============
+## Lookup Tables
 
 The `lookup()` function is one that I use all the time, and I wanted to make sure I covered it in the workshop. When preparing for the workshop, I looked at some other site and they all mention that `lookup()` is essential. What this function can do is basically link together multiple spreadsheets so it starts to act like a database. You set up a table that acts like a dictionary: alphabetic, unique values in one column, with paired information in another. You can then "lookup" some value in this table, and the function will return the information associated with it. 
 
@@ -43,13 +39,11 @@ Why is this useful? I use it for two main purposes: a converter, and a collapser
 
 For the last part of this section, I showed how to handle the places where `lookup()` fails, like blank cells or cells not in the dictionary. For blanks, it returns an error, and you can overcome that by wrapping the `lookup()` function in `if(isblank())`. But for those pesky typos, `lookup()` returns the closest value, which I only discovered recently and was not happy with it. I didn't have to demonstrate, but in the handout I show that if you do something like `=IF(COUNTIF(A1:A5,C2)>0, LOOKUP(C2, A1:A5, B1:B5), "ERROR")` it'll work great. 
 
-Visualizations
-=============
+## Visualizations
 
 Next was how to do quick and dirty visualizations in Excel. I explained briefly (probably too briefly) that not all visualizations work for all kind of data, which I feel is important for people to know. I then showed how to make a bar chart, pie chart, line graph, and scatterplot. I of course used pivot tables to help summarize the data for visualization. I did say though that I don't use Excel's visualizations for anything because I find them ugly, not customizable enough, and not robust enough to handle what I want to do. 
 
-Bonus Tips and Tricks
-=====================
+## Bonus Tips and Tricks
 
 In the last four minutes, I tried to cover some bonus little tips and tricks that I've picked up along the way. There are little things like anchoring and freezing/splitting the table. I did show conditional formatting because I use that all the time (my tables look a little pychedelic actually). In the handout I cover how to convert text-to-columns, which can be useful when importing data from somewhere else or for just splitting things up like "Last, First" into two columns. I covered paste special and how you can transpose, paste multiply, and overwriting functions. 
 

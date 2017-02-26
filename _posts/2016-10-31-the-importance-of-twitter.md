@@ -9,7 +9,7 @@ I'm preparing a workshop right now for the DigiLab here at UGA on how to increas
 
 I don't remember when or why I got a Twitter account, but I remember early on that I wanted to keep it professional. I don't follow very many friends or family: just other random linguists I find. That means my feed is nothing but linguistics stuff, and mini posts that other linguists find interesting. Granted, a lot of these folks post non-linguistic stuff as well, so I do have to sift through those sometimes. But there have been some really valuable gems I've found because of Twitter.
 
-### Fun Stuff
+ ## Fun Stuff
 
 First, we'll start with the fun stuff.
 
@@ -17,7 +17,7 @@ First, we'll start with the fun stuff.
 
 This didn't lead to anything in my work, but it was pretty awesome to see what Jack Grieve had done. In case the link doesn't load above, it shows an interactive program where you can type in a word and see its regional distribution across Twitter. It's a lot of fun to play around with.
 
-### Datasets
+## Datasets
 
 Twitter has also been good for me to discover new datasets. This tweet for example let me know that the entire contents of Reddit had been extracted and were available for download.
 
@@ -33,7 +33,7 @@ Anyway, this project turned into a fun term paper that I never published. I want
 
 Bottom line: Because of Twitter I got to work with an enormous corpus which was a lot of fun. 
 
-### New Methodology
+## New Methodology
 
 On Twitter people also post new things they see at conferences and other places. During NWAV44, I followed the live tweets and saw this gem:
 
@@ -41,12 +41,12 @@ On Twitter people also post new things they see at conferences and other places.
 
 Basically, Daniel Johnson had found another way to measure vowel overlap—something I work with a lot in my data. In the shinyapp linked above, Johnson compares Pillai scores and something called Bhattacharyya affinity. I ended up using this in a poster I did with Peggy Renwick, and will continue to use this new measure of overlap, not exclusively, but in additon to the other measures out there. 
 
-### Live Tweeting Conferences
+## Live Tweeting Conferences
 
 I'm a lowly grad student with not a lot of funding for conferences. So I can't attend some of these big conferences like I'd like to. Luckily, a lot of people live tweet what's going on at some of the big ones. 
 
 I myself live tweeted for the first time at a linguistics conference here at UGA. I don't have a ton of followers, and the conference isn't super well-known. But I did try to find people's Twitter handles whenever possible, as well as their department's, and would include them in the tweets. Well as it turns out I got about half a dozen new followers from that conference. Not a huge deal, but it does spread my name just a little bit further, and maybe onto the right person's computer screen.
 
-### Twitter is great
+## Twitter is great
 
 So in the end, having a Twitter account is a lot of fun. I've benefitted personally and professionally, and it's definetly a worthy investment of my time. 

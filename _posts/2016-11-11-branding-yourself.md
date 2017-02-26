@@ -7,8 +7,7 @@ tags: [CSS, github, how-to guides, this site, twitter]
 
 Today [Emily McGinn](http://emilymcginn.com) of the Digital Humanities Lab at UGA and I did a workshop called "Brand Yourself: A professionalization workshop for grad students." We gave a presentation on different ways grad students can boost their online presence through building a personal webpage, utilizing social media, and finding your field's conversation. We then let the attendees a chance to work on their own to create a new online profile, using what they learned.
 
-Social Media
-============
+## Social Media
 
 [Academia.edu](http://academia.edu) is a social networking site for academics. Users can create profiles, upload their papers, and follow particular research topics. They can also follow others that have done the same. It's a great resource for finding papers that may be behind a paywall, although it has gotten a lot of criticism for this. Papers you upload can be found by Google Scholar, which is a nice perk. The website will keep track of your analytics, and there's nothing more thrilling than getting an email saying someone has found your profile!
 
@@ -32,8 +31,7 @@ There are a handful of other websites out there that can help you build an onlin
 
 [LinkedIn](https://www.linkedin.com) is one I should mention, but I don't find it terribly useful for academics. It might be worth it to set up a low-maintenance page that gives a good view of you in a nutshell, just in case people look.   
 
-Building a Personal Webpage
-================
+## Building a Personal Webpage
 
 Keeping track of all these profiles can be tedious. Do you need to update seven different profiles every time you present at a conference? Is it worth it to invest the time in these sites that don't communicate with each other? One solution is to keep your top (or only!) three or four papers on the social media sites, but include links to a central page that has your full profile. For this reason, it's nice to have a personal webpage. 
 
@@ -43,8 +41,7 @@ Another option, which is what I'm doing for this webpage, is to host the page on
 
 Either way, it's probably worth it to set up a personal domain name. For as little as $1 a month, you can buy your own domain name (like <span style="white-space: nowrap;">www.joeystanley.com</span>), which looks much more professional than <span style="white-space: nowrap;">www.blogsplot.com/joeystanley</span> or <span style="white-space: nowrap;">www.github.com/joeystanley</span>. 
 
-Finding Your Conversation
-=========================
+## Finding Your Conversation
 
 The last thing we talked about in our workshop is to find where the big names in your field are having their online conversations. This sounds a little weird at first, but every field has some secret space where people are collaborating and sharing ideas informally as well as posting calls for papers, invitations for publications, and job openings. The problem is that where is space is is different for every field. 
 
@@ -53,8 +50,7 @@ In some fields, these are a listserv. As far as I know, network analysis and Sla
 One thing I will mention is that a lot of action happens on Twitter. I've covered this in more depth in [an earlier blog post](http://joeystanley.com/blog/the-importance-of-twitter), but basically a lot of good stuff can come out of following the right people and seeing just the right tweets. 
 
 
-Conclusion
-==========
+## Conclusion
 
 Overall, I thought the workshop went very well. Most of the attendees did end up setting up some sort of profile: some did an academia.edu profile, some google scholar, and a few were ambitious and set up a github page. At the very least, I got this very webpage set up as a result of preparing for this workshop, and I learned a *lot* about all these other pages. It was a great feeling to see a dozen students directly benefiting from our presentation.
 

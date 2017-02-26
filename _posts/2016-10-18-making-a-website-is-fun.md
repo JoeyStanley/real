@@ -7,19 +7,19 @@ tags: [CSS, github, how-to guides, this site]
 
 In the past month or so I've been putting a lot of time and effort into increasing my professional web presence. In about a year I'll be applying for academic positions, and it would sure be nice to be more visible to my potential employers. The sheer fact that you're reading this means you've seen some of the fruits of my labor. 
 
-### Why now?
+## Why now?
 
 It took me a while before I wanted to find out what area of linguistics I wanted to go into. I've been interested in a lot of things at one time or another: typology, documentation, indigenous languages of South America, language change, simulation, morphology, network analysis, forms of address, among other things. I've even gone to conferences presenting some of this research. But I knew at the time that whatever it was that I was presenting on wasn't going to be what I wanted to be known for. So I didn't bother networking with other people, and I hardly took people's advice because I would brush this off and say it was just a glorified term paper.
 
 But I've found my niche. I'm interested in sociolinguistics, dialectology, phonetics, phonology, and using computer and statistics to help me out. This is something I'd like to be known for. Right now I'm working on English in the Pacific Northwest, and I'm familiar with a lot of the work that's been done in that area, so I know who to talk to at conferences because I've read a lot of their work.
 
-### Github
+## Github
 
 Over the past five years or so in my undergrad and graduate education, I've acquired some computer skills. I minored in linguistic computing, so I learned Perl and C# as a part of the required coursework. More importantly though, I learned that learning to use computers is pretty darn useful for my research. So I've learned a few other skills along the way to help me out with my larger linguistics questions.
 
 Just this month I presented a paper on Quechua morphology. I mentioned in it that I wrote a computer script to help me out with generating the correct forms of the paradigm. One of the commentors in the Q&A session asked if the code was available on Github and I said it wasn't. But why shouldn't it be? That acted as a catalyst into getting a github profile and uploading some code. I also found out I could host a webpage (this webpage!) on there too. Well sweet.
 
-### Creating the webpage 
+## Creating the webpage 
 
 Having never done web deisgn before, I had a lot to learn. Turns out you've gotta host the webpage somewhere. By that I mean that all the files and formatting and content and stuff in a webpage has to be stored on some computer somewhere. It can't be mine, because I've set it up as a server and stuff and that's way beyond me experteise—plus I'm pretty sure I don't want to have my laptop as a web server. So luckily, Github, will host mine for free. Okay good. 
 

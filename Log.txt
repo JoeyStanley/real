@@ -85,6 +85,26 @@ Tuesday, February 7, 2017
 9:36pm - Okay, so I changed the baseurl to "" and added a siteurl as "joeystanley.com". That seems to work. Also, now I don't need to add the baseurl '' to the jeykll call anymore. 
 
 
+Saturday, Feburary 18, 2017
+8:47pm - I've spent some time on the fromScratch version of the website. I did that last Sunday and it looks really good. I've got a nice header at the top with better navigation buttons. My CV page is clean. I've got an aside going that looks pretty good (though I'm working on it still). I've created a "Research" page modeled after the DigiLab page, so I've got some picture placeholders on the side. It's looking good. I need to get the blog up next, and after copying and pasting the code, the pagination thing isn't quite working out, so I'll need to figure out why. 
+
+
+Sunday, February 19, 2017
+7:12am - Oh. Never mind. I removed all the other blog posts when I made this new folder. I just copied them over and now they look fine. Now I just need to mess with the CSS to make the main page look good. The blogs themselves look fine, which is good. 
+
+9:28pm - Worked on the main blog page. Looks pretty good. I've set the maximum number of blog posts to display as 50 because I didn't like not seeing them all at once. If I ever get to that many, I can work on some other management system but for now I'll leave it. The code is there still so at 51 things will spill over into other pages, but it's a little buggy. 
+
+
+Monday, February 20, 2017
+10:24pm - The blog portion is done. I got the footer to look good and it works propertly. I also got the tags to appear on the side of each one. Next step: figure out why when I click on tags, I get just a blank page. Then I just need to add a "Teaching" page, then a "Resources" page, and then figure out the main sidebar and get that to look good. Then it'll be ready to go live.
+
+
+Wednesday, Febraury 22, 2017
+9:32pm - I got the tags done. I wanted them to expand on the sidebar itself. No go. That requires some Java. I then wanted a separate page for each tag, with blog excerpts, but no go. Instead, I modified the archives page and made it its own page. Right now it's only accessible if you click on a tag. I might but a link at the bottom of the tags sidebar, but I don't know.
+
+10:46pm - I've got a blog excerpt from my most recent blog post. Score! I also wrote a new introduction. And I put some "under construction" pages for the Teaching and Resources tabs. This is looking pretty good. I would launch it and make it live now, but I need to finish learning about CSS web design and responsive design first. There are a few layout bugs still, but this is starting to look pretty good.
+
+
 
 {% include sidebar.html %}
 
