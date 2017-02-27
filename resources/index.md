@@ -9,3 +9,7 @@ This page is mostly under construction still but will eventually be a central pl
 
 For now, I can list a couple things. 
 
+<h3><a href="excel-workshop.html">Excel Workshop</a></h3>
+
+I recently gave a workshop on Excel in the main library at UGA. It was very well-attended and included graduate students and faculty from a variety of areas in the humanities and social sciences. 
+

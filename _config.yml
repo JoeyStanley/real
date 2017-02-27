@@ -15,11 +15,12 @@
 # in the templates via {{ site.myvariable }}.
 title: Joey Stanley
 email: joeystan@uga.edu
-#baseurl: "/joeystanley"
-#baseurl: "/joeystanley.com"
-baseurl: ""
-#url: "http://JoeyStanley.github.io/joeystanley" 
+
+# Keep baseurl blank and siteurl as joeystanley.com to get the redirects to work. 
+baseurl: "" 
 url: "http://joeystanley.com"
+
+
 twitter_username:  joey_stan
 github_username:   JoeyStanley
 academia_username: JoeyStanley

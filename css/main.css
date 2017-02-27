@@ -3,6 +3,11 @@
 Dark blue:  #132A45
 Light blue: #376092
 Black:      #132A45
+
+Green:  #287B43
+Purple: #67287B
+Red:    #924630
+Yellow: #928E33
 */
 
 html {
@@ -38,24 +43,25 @@ body {
 	font: 110% 'Iowan Old Style', 'Cardo', Georgia, serif;
 }
 
-h1, h2, li, footer p {
+h1, h2, h3, li, footer p {
 	font-family: 'Avenir', 'Muli', 'Helvetica Narrow', Arial, sans-serif;
 }
 
-h1 {
-	font-size: 2em;
-	font-weight: 500;
+h1, h2, h3 {
 	line-height: 1.2;
-	color: #376092;
+	color: #132A45;
 	margin-bottom: 0.2em;
+	font-weight: 500;
 }
 
+h1 {
+	font-size: 2em;	
+}
 h2 {
-	font-size: 1.5em;
-	font-weight: 400;
-	line-height: 1.2;
-	color: #376092;
-	margin-bottom: 0.2em;
+	font-size: 1.5em;	
+}
+h3 {
+	font-size: 1.25em;
 }
 
 
@@ -116,15 +122,6 @@ header, footer {
 	}
 }
 
-header a, header a:hover {
-	text-decoration: none;
-	border: none;
-	float: left;
-	color: #132A45;
-}
-
-
-
 /* ########################################## */
 /*                Navigation Styles           */
 /* ########################################## */
@@ -176,9 +173,8 @@ nav ul, aside ul {
 	border: none;
 	font-size: 1.2em;
 	text-align: center;
-	text-decoration: none;
 	padding: 0.25em 0.5em;
-	border: 0px solid #132A45;
+	border: 0px solid black;
 	border-radius: 7pt;
 }
 
@@ -195,24 +191,33 @@ nav ul, aside ul {
 /*                  Link Styles               */
 /* ########################################## */
 
-/* All links */
 a {
-	color: #132A45;
 	line-height: inherit;
-	text-decoration: none; /* no underline: it was just too busy */
+	text-decoration: none;
 }
-/* Target just the external links. */
-a[href*="http"], .within {
+a, a:visited {
+	color: #376092;
+}
+a:hover {
+	color: #132A45;
+}
+
+/* In-text links */
+p a, p a:visited {
 	color: black;
 }
-a:hover, .within:hover {
-	color: #132A45;
+p a:hover {
+	color: #376092
 }
-/* Add the little red circle after external links */
-/* See http://practicaltypography.com/how-to-use.html */
-a[href*="http"]:after, .within:after {
+p a:after {
 	content: 'º';
-	color: darkred;
+	color: #924630;
+}
+
+/* Override styles */
+.nodot:after {
+	content: '';
+	color: #376092
 }
 
 /* ########################################## */
@@ -419,6 +424,10 @@ a.link:after {
 	clear: right;
 }
 
+#blog a {
+	color: #376092;
+}
+
 .posted_in, .excerpt {
 	margin-left: 120px;
 }
@@ -445,6 +454,10 @@ a.link:after {
 
 aside#tags {
 	text-align: right;	
+}
+
+#tags a {
+	color: #376092;
 }
 
 /* ########################################## */

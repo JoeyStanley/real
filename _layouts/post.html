@@ -18,10 +18,10 @@ layout: skeleton
     </footer>
     <section class="post-links">
       {% if page.previous.url %}
-        <p class="prevLink"><a class="previous" href="{{page.previous.url}}">{{page.previous.title}}</a></p>
+        <p class="prevLink"><a class="previous nodot" href="{{page.previous.url}}">{{page.previous.title}}</a></p>
       {% endif %}
       {% if page.next.url %}
-        <p class="nextLink"><a class="next" href="{{page.next.url}}">{{page.next.title}}</a></p>
+        <p class="nextLink"><a class="next nodot" href="{{page.next.url}}">{{page.next.title}}</a></p>
       {% endif %}
     </section>
   </article>
