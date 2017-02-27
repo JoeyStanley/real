@@ -105,8 +105,11 @@ Wednesday, Febraury 22, 2017
 10:46pm - I've got a blog excerpt from my most recent blog post. Score! I also wrote a new introduction. And I put some "under construction" pages for the Teaching and Resources tabs. This is looking pretty good. I would launch it and make it live now, but I need to finish learning about CSS web design and responsive design first. There are a few layout bugs still, but this is starting to look pretty good.
 
 
+Sunday, February 26, 2017
+9:14pm - The site has been launched! I'm still working through making the site look good across devices and browsers, but I think it's ready to launch for now. Looks good and the transition was easy. What I want to do now is add to my "Resources" tab now that it's there. 
 
-{% include sidebar.html %}
+
+
 
 Todo list:
 * Change my main name at the top to a button that takes me to my homepage.
