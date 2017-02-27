@@ -57,13 +57,13 @@ And here's the new one:
 
 <img src="/images/screenshots/site_new_blog.png" alt="New site's blog" style="width: 100%; margin: 0 auto;"/>
 
-Another big thing I didn't like about the old layout was that the "Archive" tab didn't make sense as its own page and the label didn't really make sense. Instead, I moved it to a separate sidebar on the blog. That way it's clear that the tags and the blog work together. 
-
 I also redesigned the blog page itself. First off, I didn't like that you could only see 4 at a time and that you'd have to scroll back to see older entries. I don't like it that way. I've still got the code still there, but it'll only create a second page once I've got 50 posts. I've got like 15 for now so I don't think it'll slow anyone down by loading this page.
 
 The rest of the page was completely revamped. To be quite honest, I googled around for great examples of blog layouts and I found [this one](http://johnhenry.ie), which I copied quite a bit of. I think it works well for my site. 
 
-If I could change one thing, it would be the sidebar. Right now, if you click on a tag, it'll take you to a page where it lists all the blog posts by category. I don't like that separate page. I wanted to do something fancy like you click on a tab and a list of posts will expand down. Turns out I couldn't do that without Java scripting and I don't know how to do any of that. I also looked into just having pages for each category created on the spot, with blog exerpts instead of just the titles for that one category, but I couldn't figure out how to do that. 
+Another big thing I didn't like about the old layout was that the "Archive" tab didn't make sense as its own page and the label didn't really make sense. Instead, I moved it to a separate sidebar on the blog. That way it's clear that the tags and the blog work together. 
+
+If I could change one thing, it would be that sidebar though. Right now, if you click on a tag, it'll take you to a page where it lists all the blog posts by category. I don't like that separate page. I wanted to do something fancy like you click on a tab and a list of posts will expand down. Turns out I couldn't do that without Java scripting and I don't know how to do any of that. I also looked into just having pages for each category created on the spot, with blog exerpts instead of just the titles for that one category, but I couldn't figure out how to do that. 
 
 ## Anything else?
 
