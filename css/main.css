@@ -77,7 +77,7 @@ header, footer {
 	min-width: 800px;
 }
 
-#name, #tagline {
+#name, #name a, #tagline {
 	line-height: 50px; /* Changes to 100px in computers */
 	color: #132A45;
 	clear: both; /* Changes to "none" in computers */

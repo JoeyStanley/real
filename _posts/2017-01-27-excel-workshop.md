@@ -3,6 +3,7 @@ layout: post
 title:  "Excel Workshop"
 date:   2017-01-27 20:12:00 -0400
 tags: [How-to Guides, Presentations, Skills]
+redirect_from: "/excel"
 ---
 
 Today I had the opportunity to give a workshop in the [DigiLab](https://digi.uga.edu) in UGA's main library. It was a packed with librarians and grad students from across campus. In just over an hour, I started with the absolute basics and showed more and more tricks that I think would help people with their reserach projects.
@@ -48,3 +49,8 @@ Next was how to do quick and dirty visualizations in Excel. I explained briefly 
 In the last four minutes, I tried to cover some bonus little tips and tricks that I've picked up along the way. There are little things like anchoring and freezing/splitting the table. I did show conditional formatting because I use that all the time (my tables look a little pychedelic actually). In the handout I cover how to convert text-to-columns, which can be useful when importing data from somewhere else or for just splitting things up like "Last, First" into two columns. I covered paste special and how you can transpose, paste multiply, and overwriting functions. 
 
 It was a real whirlwind of a presentation but I think some people got a lot out of it. I don't know if too many people walked away with any new skills per se, but at least people were exposed to what kinds of things Excel can do, and were given the resources (*i.e.* this handout) to learn how to do it themselves. I enjoyed giving the presentation, and even though I use R for most of my work nowadays, knowing the ins and outs of Excel sure is useful. 
+
+## Downloads
+
+Again, you can download this handout <a href="/downloads/170127-ExcelWorkshop.pdf" title="download Excel handout">here</a>. Feel free to also download the three datasets I used: the vowels for 
+<a href="http://digi.uga.edu/wp-content/uploads/sites/9/2017/01/vowels_oneSpeaker.xlsx" title="vowels dataset" class="within">one speaker</a> and the vowels subset of <a href="http://digi.uga.edu/wp-content/uploads/sites/9/2017/01/vowels_1.xlsx" title="vowels dataset">larger dataset</a>, which both come from the <a href="http://www.lap.uga.edu" title="Linguistic Atlas Project" class="dot">Linguistic Atlas of the Gulf States</a>, and the Cowlitz County <a href="http://digi.uga.edu/wp-content/uploads/sites/9/2017/01/cowlitzData.xlsx" title="Cowlitz County census dataset">1930 census data</a>, which I gathered myself. Please also visit the accompanying blog post on the <a href="https://digi.uga.edu/news/be-a-data-magician/" title="DigiLab blog post" class="dot">DigiLab website</a>.
