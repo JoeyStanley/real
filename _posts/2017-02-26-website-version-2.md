@@ -13,17 +13,17 @@ As I've mentioned <a href="/blog/making-a-website-is-fun" class="within">previou
 
 I first took his [CSS Core Concepts](https://www.lynda.com/Web-Interactive-CSS-tutorials/CSS-Core-Concepts/80435-2.html?srchtrk=index%3a1%0alinktypeid%3a2%0aq%3aCSS%3a+Core+Concepts+with+James+Williamson%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2) where I learned all about CSS and how it works. At a whopping 9 hours long, I knew I was going to get a thorough treatment of CSS. Essentially I learned how to make things look the way I want on a webpage. I learned how to do anything I want to text like change the font, size, and color as well as add things like bold, italic, and small caps. I also learned how to add space around text or between elements on a webpage. 
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I learned about <a href="https://twitter.com/hashtag/Web?src=hash">#Web</a> on <a href="https://t.co/n13drggo1T">https://t.co/n13drggo1T</a>. I completed CSS: Core Concepts by <a href="https://twitter.com/jameswillweb">@jameswillweb</a> <a href="https://t.co/at3VlMgyPD">https://t.co/at3VlMgyPD</a> via <a href="https://twitter.com/lynda">@lynda</a></p>&mdash; Joey Stanley (@joey_stan) <a href="https://twitter.com/joey_stan/status/828293046538207234">February 5, 2017</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="en" dir="ltr">I learned about <a href="https://twitter.com/hashtag/Web?src=hash">#Web</a> on <a href="https://t.co/n13drggo1T">https://t.co/n13drggo1T</a>. I completed CSS: Core Concepts by <a href="https://twitter.com/jameswillweb">@jameswillweb</a> <a href="https://t.co/at3VlMgyPD">https://t.co/at3VlMgyPD</a> via <a href="https://twitter.com/lynda">@lynda</a></p>&mdash; Joey Stanley (@joey_stan) <a href="https://twitter.com/joey_stan/status/828293046538207234">February 5, 2017</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 When I finished that, I continued on to the next course called [CSS Page Layouts](https://www.lynda.com/CSS-tutorials/Welcome/86003/97787-4.html) which I'm pretty close to finishing. This is more about web design and how to get from a sketch book drawing of a webpage to the screen. Most of the time was in in CSS still (as opposed to the HTML) but I learned how to position things on the webpage.
 
 The layout of site I had before was simply copied from the last tutorial in the first course. Since I didn't write the HTML or the CSS, I didn't know exactly what was going on, so if I wanted to make changes it was really hard to do. Now that I've written this new site from scratch, I know exactly what's going on in all the webpages and in CSS.
 
-Of course, the sacrifice is that this new site isn't quite as clean as the old one was. For example, I know it looks good on my Apple laptop in Safari, but I don't know all the code I need to watch out for to make it fully compatible with other browsers, let alone other versions of other browsers. The site also doesn't adapt to smaller screens like phones and tablets. I'm still working on that. 
+Of course, the sacrifice is that this new site isn't quite as clean as the old one was. For example, I know it looks good on my Apple laptop in Safari, but I don't know all the code I need to watch out for to make it fully compatible with other browsers, let alone other versions of other browsers. The site also doesn't adapt to smaller screens like phones and tablets. I'm still working on that.  
 
 ## So what's the difference?
 
-I didn't do any major changes to the overall structure or the general typographic details that I use in everything I do. The font is still Iowan Old Style and Avenir and the background is still "smokewhite." The blue from before was, coincidentally, very similar to the blue I use in my power point slides, but not exactly, so I went ahead and changed it to *my* blue to match my slides.
+I didn't do any major changes to the overall structure or the general typographic details that I use in everything I do. The fonts are still Iowan Old Style and Avenir and the background is still "smokewhite" (96% white, 4% black). The blue from before was, coincidentally, very similar to the blue I use in my power point slides, but not exactly, so I went ahead and changed it to *my* blue to match my slides.
 
 Just to give you an idea of what the site looked like before, here are some screenshots. This first one is my home page from my old site:
 
@@ -39,7 +39,15 @@ I changed the header as well. I felt like it was the weakest part of my page, an
 
 One solution was to have the top just include my name and the navigation buttons, which are now more descriptive. A sidebar could then have my photo, social media, and temporary links to recent presentations. There was also room to put an exerpt of my most recent blog post too, which I figured out how to do dynamically, which is pretty cool. 
 
-My CV page has remained essentially the same. I added "Resources" and "Teaching" tabs, but those are blank for now. I'll add content to them eventually. 
+## A new Research tab!
+
+I also added a Research tab. I've seen this on lots of other people's pages and I thought I'd include one in my own. I guess I figured everyone would clearly see what my research was by skiming through my CV, but putting it in prose like that makes a lot more sense. 
+
+The layout was a blantant copy from the UGA DigiLab [projects tab](https://digi.uga.edu/projects/). I think adding images, even if they're simple like mine, contribute a lot to the page.
+
+Eventually, I'd like to create a separate page for each of these. There I'd go into more detail on my findings, put a list of publications, and have links to any relevant blog posts. I'll get there eventually. For now, I'll just make the the exerpts a little longer.
+
+## Blog—I mean, "News"
 
 My blog is now relabeld "News" just because it sounds less, well, blog-like. Here's the old one:
 
@@ -57,6 +65,8 @@ The rest of the page was completely revamped. To be quite honest, I googled arou
 
 If I could change one thing, it would be the sidebar. Right now, if you click on a tag, it'll take you to a page where it lists all the blog posts by category. I don't like that separate page. I wanted to do something fancy like you click on a tab and a list of posts will expand down. Turns out I couldn't do that without Java scripting and I don't know how to do any of that. I also looked into just having pages for each category created on the spot, with blog exerpts instead of just the titles for that one category, but I couldn't figure out how to do that. 
 
-## In conclusion…
+## Anything else?
+
+Nope. That's about it. My CV page has remained essentially the same. I added "Resources" and "Teaching" tabs, but those are blank for now. I'll add content to them eventually. 
 
 There are still a few layout things I need to work on, but I thought I'd launch the site anyway—imperfect as it is for now—because it's a major improvement over the last one.
