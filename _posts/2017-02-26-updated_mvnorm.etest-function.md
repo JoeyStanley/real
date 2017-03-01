@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Updated mvnorm.etest() function"
+date:   2017-02-28 19:12:00 -0400
+tags: [Statistics, R, Skills]
+---
+
+In Levshina's *How to do Linguistics with R*, the function `mvnorm.etest()` from the `energy` library is used. This runs what's called the "E-statistic (Energy) Test of Multivariate Normality" which used to test whether multivariate data is normally distributed. This is important because it's an assumption that should be met for several statistical tests like MANOVA and for testing statistical significance of a correlation. The code from the book is broken.
+
+I looked into it and it turns out that the book was based on an older version of the `energy` package (<1.7). But if you've updated the package since August 2017 to 1.7 or later, the code breaks. What happened? Here's the old code:
+
+~~~
+mvnorm.etest(cbind(x, y))
+~~~
+
+While this worked with the old versions, in the newer versions this returns a *p*-value of "NA". This function does some bootstrapping meaning it runs some function on the data over and over some number of times. In the old version of the package, the default was 999 replicates. In the new version there is no default, so you have to specify the number of replicates with the `R=999` argument:
+
+~~~
+mvnorm.etest(cbind(x, y), R=999)
+~~~
+
+You can of course change this number to whatever you want, but 999 was the default before so I figure it's a good number to keep. Just thought you ought to know.
+
+------
+
+<sup>1</sup> Levshina, Natalia. 2015. [How to do Linguistics with R: Data exploration and statistical analysis](https://benjamins.com/sites/z.195/). Amsterdam: John Benjamins Publishing Company.
+
+<sup>2</sup> Maria L. Rizzo and Gabor J. Szekely (2016). energy: E-Statistics: Multivariate Inference via the Energy of Data. R package version 1.7-0. [https://CRAN.R-project.org/package=energy](https://cran.r-project.org/web/packages/energy/index.html)
+

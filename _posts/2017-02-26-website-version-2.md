@@ -49,7 +49,7 @@ Eventually, I'd like to create a separate page for each of these. There I'd go i
 
 ## Blog—I mean, "News"
 
-My blog is now relabeld "News" just because it sounds less, well, blog-like. Here's the old one:
+My blog is now relabeled "News" just because it sounds less, well, blog-like. Here's the old one:
 
 <img src="/images/screenshots/site_old_blog.png" alt="Old site's blog" style="width: 100%; margin: 0 auto;"/>
 
