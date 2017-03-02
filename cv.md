@@ -262,14 +262,14 @@ Languages
 Professional Affiliations
 ---------
 
+Linguistic Society of America ([LSA](http://www.linguisticsociety.org))
+
 American Dialect Society ([ADS](http://www.americandialect.org))
 
 SouthEastern Conference on Linguistics ([SECOL](http://secol.org)) 
 
-Linguistic Society of America ([LSA](http://www.linguisticsociety.org))
+Linguistc Society at the University of Georgia ([LSUGA](http://www.lsuga.com))
 
 Society for the Study of the Indigenous Languages of the Americas ([SSILA](http://www.ssila.org))
-
-Linguistc Society at the University of Georgia ([LSUGA](http://www.lsuga.com))
 
 
