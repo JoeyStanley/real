@@ -5,9 +5,9 @@ date:   2017-02-28 19:12:00 -0400
 tags: [Statistics, R, Skills]
 ---
 
-In Levshina's *How to do Linguistics with R*, the function `mvnorm.etest()` from the `energy` library is used. This runs what's called the "E-statistic (Energy) Test of Multivariate Normality" which used to test whether multivariate data is normally distributed. This is important because it's an assumption that should be met for several statistical tests like MANOVA and for testing statistical significance of a correlation. The code from the book is broken.
+In Levshina's *How to do Linguistics with R*, the function `mvnorm.etest()` from the `energy` library is used. This runs what's called the "E-statistic (Energy) Test of Multivariate Normality" which used to test whether multivariate data is normally distributed. This is important because it's an assumption that should be met for several statistical tests like MANOVA and for testing statistical significance of a correlation. Well, the code from the book is broken.
 
-I looked into it and it turns out that the book was based on an older version of the `energy` package (<1.7). But if you've updated the package since August 2017 to 1.7 or later, the code breaks. What happened? Here's the old code:
+I looked into it and it turns out that the book was based on an older version of the `energy` package (<1.7). But if you've updated the package since August 2016 to version 1.7 or later, the code breaks. What happened? Here's the old code:
 
 ~~~
 mvnorm.etest(cbind(x, y))
