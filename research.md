@@ -21,10 +21,15 @@ Research
 <div class="research">
 <h2>UGA DigiLab</h2>
 <img src="images/projects/digi.jpg" alt="DigiLab Logo">
-<p>I also work with the UGA <a href="https://digi.uga.edu" title="DigiLab main page">DigiLab</a> where I give seminars and workshops on how to help students and faculty use computers effectively in their humanities research. Though I'm not actively publishing in this field, I do produce a series of useful resources as a part of this work.</p>
+<p>I also work with the UGA <a href="https://digi.uga.edu" title="DigiLab main page">DigiLab</a> where I give seminars and workshops on how to help students and faculty use computers effectively in their humanities research. I also do one-on-one consultations. Though I'm not actively publishing in this field, I do produce a series of useful resources as a part of this work. I've presented in the DigiLab Colloquium series (<a href="https://digi.uga.edu/news/build-a-better-project-digi-colloquium-review/" class="link" target="_blank" title="link to digi.uga.edu"></a>
+<a href="/downloads/161002-DigiLab-flyer.pdf" class="flyer" target="_blank" title="open a pdf of the flyer for this presentation in a new window"></a>
+<a href="/downloads/161006-DigiLab-slides.pptx" class="slides" title="download the powerpoint slides for this presentation"></a>). I've also given workshops on how to increase your online presence (<a href="https://digi.uga.edu/news/brandyourself/" class="link" target="_blank" title="link to digi.uga.edu"></a>
+<a href="/downloads/161111-DigiLab-flyer.pdf" class="flyer" target="_blank" title="open a pdf of the flyer for this presentation in a new window"></a>
+<a href="/downloads/161111-DigiLab-slides.pptx" class="slides" title="download the powerpoint slides for this presentation"></a>) and on <a href="/excel.html">Excel</a>.</p>
 </div>
 
 <div class="research">
 <h2>Utah English</h2>
-<p>I have done research on Utah English. Peggy Renwick presented a poster that she and I worked on involving vowel mergers over time in a single speaker (<a href="https://www.academia.edu/26986601/Phonetic_Shift_ɔr_Phonemic_Change_American_English_mergers_over_40_years">Stanley &amp; Renwick 2016</a>), and currently, with data from <a href="https://sites.ualberta.ca/~bvtucker/">Ben Tucker</a> at the University of Alberta, we are digging a little deeper into that. </p>
+<img src="images/projects/utah.jpg" alt="Utah">
+<p>Though not an active area of research for now, I am interested in Utah English. I worked on a poster involving vowel mergers over time in a single speaker (<a href="https://www.academia.edu/26986601/Phonetic_Shift_ɔr_Phonemic_Change_American_English_mergers_over_40_years">Stanley &amp; Renwick 2016</a>), and currently, with data from <a href="https://sites.ualberta.ca/~bvtucker/">Ben Tucker</a> at the University of Alberta, we are digging a little deeper into that. Utah is a unique place: its settlement history and highly concentrated Mormon population has had an impact on the English spoken in the region. I think it deserves some more attention by sociolinguists and dialectologists.</p>
 </div>
