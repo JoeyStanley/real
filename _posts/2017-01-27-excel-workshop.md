@@ -4,11 +4,14 @@ title:  "Excel Workshop"
 date:   2017-01-27 20:12:00 -0400
 tags: [How-to Guides, Presentations, Skills]
 redirect_from: "/excel"
+excerpt: Today I had the opportunity to give a workshop in the DigiLab in UGA's main library. It was a packed with librarians and grad students from across campus. In just over an hour, I started with the absolute basics and showed more and more tricks that I think would help people with their reserach projects. 
 ---
 
-Today I had the opportunity to give a workshop in the [DigiLab](https://digi.uga.edu) in UGA's main library. It was a packed with librarians and grad students from across campus. In just over an hour, I started with the absolute basics and showed more and more tricks that I think would help people with their reserach projects.
+<div class="biglink"><a href="/downloads/170127-ExcelWorkshop.pdf" title="download Excel handout" class="nodot">Download the <br />handout here!</a></div>
 
-This was the first time I've ever given a presentation without powerpoint slides. As I was preparing though, it seemed silly to include detailed descriptions and screenshots when I could just switch over the Excel and show it live. I ended up putting together a handout instead, which had all of the information on it instead. You can download this handout <a href="/downloads/170127-ExcelWorkshop.pdf" title="download Excel handout">here</a>. The presentation (and handout) went through the following topics:
+Today I had the opportunity to give a workshop in the [DigiLab](https://digi.uga.edu) in UGA's main library. It was a packed with librarians and grad students from across campus. In just over an hour, I started with the absolute basics and showed more and more tricks that I think would help people with their reserach projects. 
+
+This was the first time I've ever given a presentation without powerpoint slides. As I was preparing though, it seemed silly to include detailed descriptions and screenshots when I could just switch over the Excel and show it live. I ended up putting together a handout instead, which had all of the information on it instead. The presentation (and handout) went through the following topics:
 
 ## The Basics
 

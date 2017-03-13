@@ -220,6 +220,22 @@ p a:after {
 	color: #376092
 }
 
+.biglink a {
+	display: block;
+	float: right;
+	color: whitesmoke;
+	background: #376092;
+	border: 0px solid 376092;
+	border-radius: 7pt;
+	padding: 0.25em 0.5em;
+	margin: 0.5em 1em;
+	text-align: center;
+}
+
+.biglink a:hover  {
+	background-color: #132A45;
+}
+
 /* ########################################## */
 /*                  Main Styles               */
 /* ########################################## */
