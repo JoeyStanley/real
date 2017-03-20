@@ -54,10 +54,14 @@ Publications
 Conference Presentations
 ---------
 
-Rachel Olsen, Michael Olsen, Katherine Kuiper, <strong>Joseph A. Stanley</strong>, Margaret E. L. Renwick, & William A. Kretzschmar, Jr. “New Perspectives on Historical Southern Speech.” Panel presented at the 2017 Integrative Research and Ideas Symposium ([IRIS](https://graduatestudents.org/)). Athens, GA. March 20, 2017.
+[Margaret E. L. Renwick](http://faculty.franklin.uga.edu/mrenwick/) & <strong>Joseph A. Stanley</strong>. “A historical perspective on vowel shifting: Acoustic analysis of the Digital Archive of Southern Speech” Poster presentation at the 173rd Meeting of the Acoustical Society of America (ASA). Boston, MA. June 25–29, 2017.
+
+[Margaret E. L. Renwick](http://faculty.franklin.uga.edu/mrenwick/), Michael Olsen, Rachel M. Olsen, & <strong>Joseph A. Stanley</strong>. “Transcription and forced alignment of the Digital Archive of Southern Speech.” Poster presentation at the 173rd Meeting of the Acoustical Society of America (ASA). Boston, MA. June 25–29, 2017.
+
+Rachel Olsen, Michael Olsen, Katherine Kuiper, <strong>Joseph A. Stanley</strong>, [Margaret E. L. Renwick](http://faculty.franklin.uga.edu/mrenwick/), & William A. Kretzschmar, Jr. “New Perspectives on Historical Southern Speech.” Panel presented at the 2017 Integrative Research and Ideas Symposium ([IRIS](https://graduatestudents.org/)). Athens, GA. March 20, 2017.
 
 
-Rachel Olsen, Michael Olsen, <strong>Joseph A. Stanley</strong> & Margaret E. L. Renwick. “Transcribing the Digital Archive of Southern Speech: Methods and Preliminary Analysis.” 84th Meeting of the SouthEastern Conference on Linguistics ([SECOL84](http://conf2017.secol.org">)). Charleston, SC. March 8–11, 2017.
+Rachel Olsen, Michael Olsen, <strong>Joseph A. Stanley</strong> & [Margaret E. L. Renwick](http://faculty.franklin.uga.edu/mrenwick/). “Transcribing the Digital Archive of Southern Speech: Methods and Preliminary Analysis.” 84th Meeting of the SouthEastern Conference on Linguistics ([SECOL84](http://conf2017.secol.org">)). Charleston, SC. March 8–11, 2017.
 <a href="/downloads/170310-SECOL84b-slides.pdf" class="slides" title="download the powerpoint slides for this presentation"></a>
 
 Kretzschmar, William A., <strong>Joseph Stanley</strong>, & Katherine Kuiper. “Automated Large-Scale Phonetic Analysis: DASS.” 84th Meeting of the SouthEastern Conference on Linguistics ([SECOL84](http://conf2017.secol.org">)). Charleston, SC. March 8–11, 2017.
