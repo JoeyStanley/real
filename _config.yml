@@ -43,6 +43,7 @@ gems:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-redirect-from
+  - jekyll-toc
 exclude:
   - Gemfile
   - Gemfile.lock

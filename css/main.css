@@ -410,6 +410,27 @@ a.link:after {
 }
 
 
+/* ########################################## */
+/*              TOC Resources                 */
+/* ########################################## */
+
+.toc-entry {
+	list-style: none;
+}
+
+.toc-h1 a {
+	display: none;
+}
+
+.toc-h2 a {
+	font-size: 120%;
+}
+
+.toc-h3 a {
+	font-size: 100%;
+	margin-left: 1em;
+}
+
 
 /* ########################################## */
 /*                    Blog                    */

@@ -26,3 +26,6 @@ gem 'jekyll-redirect-from'
 group :jekyll_plugins do
    gem "jekyll-feed", "~> 0.6"
 end
+
+# https://github.com/toshimaru/jekyll-toc
+gem 'jekyll-toc'
