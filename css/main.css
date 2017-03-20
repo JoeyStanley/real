@@ -38,7 +38,7 @@ header, nav, body, aside, footer, h1, h2, p, ul, li, time, a {
 
 /* The overal grid */
 body {
-	width: 100%;
+	width: 960px;
 	margin: 0 auto;
 	font: 110% 'Iowan Old Style', 'Cardo', Georgia, serif;
 }
@@ -78,9 +78,14 @@ header, footer {
 }
 
 #name, #name a, #tagline {
-	line-height: 50px; /* Changes to 100px in computers */
+	line-height: 100px;
+	/* line-height: 50px;  Changes to 100px in computers */
+
 	color: #132A45;
-	clear: both; /* Changes to "none" in computers */
+	clear: none;
+	/* clear: both;  Changes to "none" in computers */
+
+	float: left;
 	/* In computers only, gets "float: left" */
 }
 
@@ -103,14 +108,15 @@ header, footer {
 	letter-spacing:.1em;
 }
 
-/* Tablets */
+/* Add this back in later 
+/* Tablets
 @media only screen and (min-width: 600px) {
 	body {
 		width: 90%;
 	}
 }
 
-/* Computers */
+/* Computers
 @media only screen and (min-width: 960px) {
 	body {
 		width: 960px;
@@ -121,6 +127,8 @@ header, footer {
 		line-height: 100px;
 	}
 }
+
+*/
 
 /* ########################################## */
 /*                Navigation Styles           */
