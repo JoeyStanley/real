@@ -27,7 +27,7 @@ About a month or so later I was starting a course in Digital Humanties, so this 
 
 I ended up having to download it all using lab computers in the student center off and on for a week. In fact, I had four computers going simultaneously, all downloading Reddit files, one month at a time, and running Perl scripts to make them smaller. I wasn't surprised when IT came over and wondered what the heck I was doing. Turns out it was the fact that my login was used on four computers that triggered their systems, not the fact that I was running four computers at full speed for a couple hours. Once they saw what I was doing they shrugged their shoulders and said it was totally fine.
 
-Handling this much data, even though it was a hundredth of the original size, was rough. I made a frequency list of all the words. Yeah, that spreadsheet ended up being about half a million rows long. I wanted to track language across time so I had information about how often each word was used every month for about 100 months. That's a lot of columns for all those rows. I pushed Excel (and my little laptop) to its limits.  
+Handling this much data, even though it was a hundredth of the original size, was rough. I made a frequency list of all the words, which ended up being about half a million rows long. I wanted to track language across time so I had information about how often each word was used every month for about 100 months. That's a lot of columns for all those rows. I pushed Excel (and my little laptop) to its limits.  
 
 Anyway, this project turned into a fun term paper that I never published. I wanted to look at the language of the most upvoted comments as compared to all other comments and see if there were any differences. I found a few, but with biggish data like this, statistical significance is everywhere so you have to be more careful about things. 
 
@@ -39,11 +39,13 @@ On Twitter people also post new things they see at conferences and other places.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">@wgi_02445_temp has given us another gift. Bhattacharyya&#39;s affinity to measure overlap: <a href="https://t.co/26byi2KpRk">https://t.co/26byi2KpRk</a> <a href="https://twitter.com/hashtag/NWAV44?src=hash">#NWAV44</a></p>&mdash; Paul De Decker (@pmdedecker) <a href="https://twitter.com/pmdedecker/status/658290609153843200">October 25, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Basically, Daniel Johnson had found another way to measure vowel overlap—something I work with a lot in my data. In the shinyapp linked above, Johnson compares Pillai scores and something called Bhattacharyya affinity. I ended up using this in a poster I did with Peggy Renwick, and will continue to use this new measure of overlap, not exclusively, but in additon to the other measures out there. 
+Basically, Daniel Johnson talked about another way to measure vowel overlap—something I do a lot in my research. In the Shiny App linked above, Johnson compares Pillai scores and something called Bhattacharyya affinity. I ended up using this in a poster I did with [Peggy Renwick](http://faculty.franklin.uga.edu/mrenwick/) at LabPhon (<a href="http://labphon.org/labphon15/program" class="link" target="_blank"></a>
+<a href="/downloads/160714-LabPhon15-abstract.pdf" class="abstract" target="_blank" title="open a pdf of the abstract to this presentation in a new window"></a>
+<a href="/downloads/160714-LabPhon15-poster.pdf" class="poster" target="_blank" title="open a pdf of this poster in a new window"></a>), and will continue to use this new measure of overlap, not exclusively, but in additon to the other measures out there. 
 
 ## Live Tweeting Conferences
 
-I'm a lowly grad student with not a lot of funding for conferences. So I can't attend some of these big conferences like I'd like to. Luckily, a lot of people live tweet what's going on at some of the big ones. 
+I'm a lowly grad student and don't have a ton of funding for conferences, so I can't attend some of the big ones all the time. Luckily, a lot of people live tweet what's going on at most major conferences, so I can follow along and feel like a part of the group. 
 
 I myself live tweeted for the first time at a linguistics conference here at UGA. I don't have a ton of followers, and the conference isn't super well-known. But I did try to find people's Twitter handles whenever possible, as well as their department's, and would include them in the tweets. Well as it turns out I got about half a dozen new followers from that conference. Not a huge deal, but it does spread my name just a little bit further, and maybe onto the right person's computer screen.
 
