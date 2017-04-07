@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Mount St. Helens and Vowels"
+date:   2017-04-01 22:09:00 -0400
+tags: [Pacific Northwest, Presentations, Research]
+redirect_from: "/colloquium"
+excerpt: Today in our Linguistics Colloquium here at UGA, I got to present on some of my ongoing research on English in a smaller town in Washington. For the past few months I've mostly looked at vowel mergers and using lots of statistical tests to show some very subtle changes. Over the past week or so as I've prepared for this presentation, I've discovered something pretty awesome about my data. And it has to do with Mount St. Helens!
+---
+
+<div class="biglink"><a href="/downloads/170407-Colloquium.pdf" title="download Colloquium PDF" class="nodot">Download the <br />slides here!</a></div>
+
+Today in our Linguistics Colloquium here at UGA, I got to present on some of my ongoing research on English in a smaller town in Washington. For the past few months I've mostly looked at vowel mergers and using lots of statistical tests to show some very subtle changes. Over the past week or so as I've prepared for this presentation, I've discovered something pretty awesome about my data. And it has to do with Mount St. Helens!
+
+In the presentation, I focus on three linguistic variables: the raising of /æg/ (in words like *bag*, *flag*, and *dragon* to more like [ɛg]), /o/ fronting, and /o/ monophthongization. These have been studied extensively by researchers in the West regarding Pacific Northwest English and surrounding regions. So, nothing new here. 
+
+But looking at the data in relation to speaker age, I noticed a striking pattern: there's a clear difference between the speech of people born before 1970 and those born after. I mean really clear. In my sample, /æg/ raising virtually disappears after 1970, and /o/ is suddently diphthongal. /o/ admittedly gradually fronts, so 1970 isn't quite as clear there. 
+
+So what happened in 1970? Well, not much. But in 1980, Mount St. Helens erupted and seriously affected the logging-based economy of Longview. Up until then, it was easy to find work in the logging industry with only a high school degree, if that. And the salary was relatively good considering it was blue collar work. But when some of the mills started to close, there was a drastic change in the dynamics of the town. Now you need a college education to get a job and even then it's not paying well. 
+
+So though nothing happened in 1970, those who were born around then were teenagers at the time of this change, and were the first affected by the lack of easy-to-get, high-paying jobs. This marks a paradigm shift in the culture of Longview, and I believe it had to do with the clear changes in the speech. In other words, I think Mount St. Helens played a role in linguistic change in Longview. (The title of the talk was "Volcanic Vocalic Changes"—a title I'm quite proud of!)
+
+This is super exciting for me because up until now most of my work has been phonetic-based and focused on vowel mergers. This the first clearly sociolinguistic project I've done—something I've been meaning to do this whole time—and I think the results are cool. It's uncharacteristicly qualitative and the statistics don't play a huge role, which is weird for me. I like this change and I hope I can do more with this reserach.

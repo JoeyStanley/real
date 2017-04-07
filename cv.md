@@ -126,6 +126,10 @@ Kretzschmar, William A., <strong>Joseph Stanley</strong>, & Katherine Kuiper. �
 
 ## Other Presentations
 
+"Volcanic Vocalic Changes". University of Georgia Linguistics Colloquium. Athens, GA. April 7, 2017 
+<a href="/downloads/170407-Colloquium.pptx" class="slides" title="download the powerpoint slides for this presentation"></a> 
+<a href="/downloads/170407-Colloquium.pdf" class="paper" title="download a pdf of the powerpoint slides for this presentation"></a> 
+
 “Linguistic Identity in Longview, Washington.” Three Minute Thesis (3MT™) Competition at the University of Georgia. March 23, 2017.
 
 “An EWP model of Quechua agreement: Further evidence against DM.” Presented at the Linguistic Society of the University of Georgia (LSUGA) Tiny Talks. Athens, GA. September 15, 2016. 
