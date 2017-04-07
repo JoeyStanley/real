@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mount St. Helens and Vowels"
-date:   2017-04-01 22:09:00 -0400
+date:   2017-04-08 11:15:00 -0400
 tags: [Pacific Northwest, Presentations, Research]
 redirect_from: "/colloquium"
 excerpt: Today in our Linguistics Colloquium here at UGA, I got to present on some of my ongoing research on English in a smaller town in Washington. For the past few months I've mostly looked at vowel mergers and using lots of statistical tests to show some very subtle changes. Over the past week or so as I've prepared for this presentation, I've discovered something pretty awesome about my data. And it has to do with Mount St. Helens!
