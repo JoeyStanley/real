@@ -1,8 +1,10 @@
 ---
-layout: page
+layout: aside
 title: SECOL 2017
 redirect_from: "/secol2017"
 ---
+
+# SECOL 2017
 
 I was unable to attend this year, but my colleages presented two papers I was a part of at the 84th Southeastern Conference on Linguistics in Charelston, South Carolina.
 
