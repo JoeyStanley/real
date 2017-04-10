@@ -143,6 +143,12 @@ Kretzschmar, William A., <strong>Joseph Stanley</strong>, & Katherine Kuiper. �
 
 "The systematic stretching and adjusting of ideophonic phonology in Pastaza Quichua" with [Janis Nuckolls](http://linguistics.byu.edu/directory/jbn34/), Elizabeth Nielsen, and Roseanna Hopper. Presentation at the Brigham Young University Linguistics Department Brown Bag Meeting. Provo, UT. December 6, 2012.
 
+<br/>
+
+## Media
+
+Guest host on *Faith Promoting Rumors* podcast. “Brother Joseph,” April 10, 2017, wherein I discuss my 2016 paper, “When do Mormons Call Each Other by First Name”.
+<a href="http://faithpromotingrumors.com/12" class="audio" target="_blank" title="link to FPR podcast"></a>
 
 <br/>
 <br/>
@@ -239,8 +245,8 @@ Organizer of the UGA Typology reading group.
 
 
 
-Fieldwork Experience
----------
+## Fieldwork Experience
+
 
 Sociolinguistic fieldwork in [Cowlitz County, Washington](https://en.wikipedia.org/wiki/Cowlitz_County,_Washington). July, 2016.
 
@@ -254,8 +260,7 @@ Brazil (Marília, SP; Campo Grande, MS; Cáceres, Cuiabá, and Várzea Grande, M
 
 
 
-Languages
----------
+## Languages
 
 *Native*: English 
 
@@ -268,8 +273,7 @@ Languages
 <br/>
 
 
-Professional Affiliations
----------
+## Professional Affiliations
 
 Linguistic Society of America ([LSA](http://www.linguisticsociety.org))
 

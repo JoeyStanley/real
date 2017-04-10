@@ -219,7 +219,7 @@ p a:hover {
 }
 p a:after {
 	content: 'º';
-	color: #924630;
+	color: #132A45;
 }
 
 /* Override styles */
@@ -415,6 +415,9 @@ a.flyer:after {
 }
 a.link:after {
 	content: url('/images/icons/link.png');
+}
+a.audio:after {
+	content: url('/images/icons/audio.png');
 }
 
 
