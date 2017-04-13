@@ -3,8 +3,7 @@ layout: research
 title: Research
 ---
 
-Research
-========
+# Research
 
 <div class="research">
 <h2>Cowlitz County, Washington</h2>
