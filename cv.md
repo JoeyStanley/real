@@ -232,7 +232,7 @@ Teaching Assistant for Dr. [Monte Shelley](http://mi.byu.edu/people/monte-shelle
 
 <br/>
 
-## Service at UGA
+## Professional Service
 
 Editor of the *[UGA Working Papers in Linguistics](http://www.lsuga.com/working-papers)* (4). 
 
@@ -243,6 +243,8 @@ Organizer of the UGA Sociolinguistics reading group.
 Organizer of the UGA Perl Study group.
 
 Organizer of the UGA Typology reading group.
+
+Portuguese-to-English simultaneous interpretor, Missionary Training Center, Provo, Utah. 2011–2013. 
 
 <br/>
 
