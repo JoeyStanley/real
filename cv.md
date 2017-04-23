@@ -6,7 +6,7 @@ title: Curriculum Vitae
 # Curriculum Vitae
 
 
-<p id="updated">Updated April 23, 2017. Download PDF <a href="/downloads/170402-CV.pdf" target="_blank" title="open a pdf of my CV in a new window">here</a>.</p>
+<p id="updated">Updated April 23, 2017. Download PDF <a href="/downloads/170423-CV.pdf" target="_blank" title="open a pdf of my CV in a new window">here</a>.</p>
 
 <br/>
 
@@ -68,7 +68,7 @@ Rachel Olsen, Michael Olsen, <strong>Joseph A. Stanley</strong> & [Margaret E. L
 Kretzschmar, William A., <strong>Joseph Stanley</strong>, & Katherine Kuiper. “Automated Large-Scale Phonetic Analysis: DASS.” 84th Meeting of the SouthEastern Conference on Linguistics ([SECOL84](http://conf2017.secol.org">)). Charleston, SC. March 8–11, 2017.
 <a href="/downloads/170310-SECOL84a-slides.pdf" class="slides" title="download the powerpoint slides for this presentation"></a>
 
-<strong>Stanley, Joseph A.</strong>. “V[ɛ]ry v[e]ried vowel mergers in the Pacific Northwest.” Diversity and Variation in Language ([DiVar 1](http://linguistics.emory.edu/home/conferences/divar1/index.html)). Atlanta, GA. February 10–11, 2017.
+<strong>Stanley, Joseph A.</strong>. “V[ɛ]ry v[e]ried vowel mergers in the Pacific Northwest.” Diversity and Variation in Language ([DiVar 1](http://linguistics.emory.edu/home/conferences/divar1/index.html)). Atlanta, GA. February 10–11, 2017. (with Linguistics Soceity of UGA travel award)
 <a href="/downloads/160813-ADS2017.pdf" class="abstract" target="_blank" title="open a pdf of the abstract to this presentation in a new window"></a>
 <a href="/downloads/170211-DiVar1-slides.pptx" class="slides" title="download the powerpoint slides for this presentation"></a>
 
@@ -171,9 +171,9 @@ Guest host on *Faith Promoting Rumors* podcast. “Brother Joseph,” April 10, 
 
 ### Grants
 
-Innovative and Interdisciplinary Research Grant, awarded by the University of Georgia Graduate School ($2,500).
+Innovative and Interdisciplinary Research Grant ($2,500), awarded by the University of Georgia Graduate School. Project title: "A Survey of Western American English using Amazon Mechanical Turk." April 20, 2017
 
-University of Georgia Graduate School Dean’s Award. 2016. ($1,250)
+University of Georgia Graduate School Dean’s Award ($1,250). Project title: "Linguistic Identity and the Founder Effect in Longview, Washington." January 5, 2016. 
 
 ### Research Assistantships
 
@@ -181,17 +181,17 @@ Complex Systems and the Humanities Research Assistantship awarded by the Graduat
 
 University of Georgia stipend enhancement awarded by the Franklin College of Arts and Sciences. 2014--2015.
 
-University of Georgia Graduate Research Assistantship. 2014.
+University of Georgia Graduate Research Assistantship. 2014–2016.
 
 ### Travel Awards
 
-Linguistics Society of the University of Georgia travel award. 2017. ($50)
+Linguistics Society of the University of Georgia travel award ($50). For travel to Diversity in Variation conference in Atlanta, GA. February, 2017. 
 
-University of Georgia Graduate School travel award. 2017. ($220)
+University of Georgia Graduate School travel award ($220). For travel to the American Dialect Society Annual Meeting in Austin, TX. January, 2017. 
 
-University of Georgia Linguistics Program travel award. 2016. ($200)
+University of Georgia Linguistics Program travel award ($200). For travel to the American Dialect Society Annual Meeting in Austin, TX. January, 2016. 
 
-Brigham Young University Department of Linguistics and English Language Conference Travel Grant. 2013. ($500)
+Brigham Young University Department of Linguistics and English Language Conference Travel Grant ($500). For travel to the annual meeting of the Society for the Study of Indigenous Languages of America. January, 2013. 
 
 <br/>
 
