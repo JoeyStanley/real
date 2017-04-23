@@ -6,7 +6,7 @@ title: Curriculum Vitae
 # Curriculum Vitae
 
 
-<p id="updated">Updated April 2, 2017. Download PDF <a href="/downloads/170402-CV.pdf" target="_blank" title="open a pdf of my CV in a new window">here</a>.</p>
+<p id="updated">Updated April 23, 2017. Download PDF <a href="/downloads/170402-CV.pdf" target="_blank" title="open a pdf of my CV in a new window">here</a>.</p>
 
 <br/>
 
@@ -31,6 +31,15 @@ title: Curriculum Vitae
 
 ## Publications
 
+### Journal Articles
+
+<a href="http://linguistics.byu.edu/directory/jbn34/" title="Janis Nuckolls">Nuckolls, Janis</a>, <strong>Joseph Stanley</strong>, Elizabeth Nielson, & Roseanna Hopper (2016). "The Systematic Stretching and Contracting of Ideophonic Phonology in Pastaza Quichua". *International Journal of American Linguistics*, 82(1). 95--116. 
+<a href="http://dx.doi.org/10.1086/684425" class="link" target="_blank" title="link to IJAL online"></a>
+<a href="/downloads/160101-IJAL82.pdf" class="paper" target="_blank" title="open a pdf of this paper in a new window"></a>
+
+
+### Working Papers and Conference Proceedings
+
 <strong>Stanley, Joseph A.</strong> (2016). "Pacific Northwest English: Historical Overview and Current Directions". *UGA Working Papers in Linguistics*, 3. 
 <a href="http://www.lsuga.com/working-papers/volume-3" class="link" target="_blank" title="link to lsuga.com"></a>
 <a href="/downloads/161213-UGAWP3.pdf" class="paper" target="_blank" title="open a pdf of this paper in a new window"></a>
@@ -39,15 +48,9 @@ title: Curriculum Vitae
 <a href="http://repository.upenn.edu/pwpl/vol22/iss1/31/" class="link" target="_blank" title="link to repository.upenn.edu/pwpl/"></a>
 <a href="/downloads/160101-PWPL22.pdf" class="paper" target="_blank" title="open a pdf of this paper in a new window"></a>
 
-<a href="http://linguistics.byu.edu/directory/jbn34/" title="Janis Nuckolls">Nuckolls, Janis</a>, <strong>Joseph Stanley</strong>, Elizabeth Nielson, & Roseanna Hopper (2016). "The Systematic Stretching and Contracting of Ideophonic Phonology in Pastaza Quichua". *International Journal of American Linguistics*, 82(1). 95--116. 
-<a href="http://dx.doi.org/10.1086/684425" class="link" target="_blank" title="link to IJAL online"></a>
-<a href="/downloads/160101-IJAL82.pdf" class="paper" target="_blank" title="open a pdf of this paper in a new window"></a>
-
 <strong>Stanley, Joseph A.</strong> (2015). "Merging Phonemes in Real Time". *Proceedings of LSUGA’s Second Interdisciplinary Conference in Linguistics* ([LSUGA2](http://www.lsuga.com/conference/2015)), 1. 
 <a href="http://www.lsuga.com/conference-proceedings/volume-1-2015" class="link" target="_blank" title="link to lsuga.com"></a>
 <a href="/downloads/151009-LSUGAProceedings1.pdf" class="paper" target="_blank" title="open a pdf of this paper in a new window"></a>
-
-
 
 <br/>
 
@@ -102,9 +105,10 @@ Kretzschmar, William A., <strong>Joseph Stanley</strong>, & Katherine Kuiper. �
 
 ## Invited Presentations
 
+“Basics, Review, Summary, Help.” Guest lecturer in LING 4400/6400: Quantitative Methods in Linguistics. Athens, GA. April 20.
+
 “Brand Yourself: A professionalization workshop for grad students.” Guest lecturer in ANTH 8755: Topics in (Anthropology) Research. Athens, GA. April 13, 2017.
 <a href="/downloads/170413-brand-yourself.pptx" class="slides" title="download the powerpoint slides for this presentation"></a> 
-
 
 "Build a better project: Starting a DH project from primary sources." Presented at the First [DigiLab](http://digi.uga.edu/digilab/) Colloquium. Athens, GA. October 6, 2016. 
 <a href="https://digi.uga.edu/news/build-a-better-project-digi-colloquium-review/" class="link" target="_blank" title="link to digi.uga.edu"></a>
@@ -163,19 +167,29 @@ Guest host on *Faith Promoting Rumors* podcast. “Brother Joseph,” April 10, 
 <br/>
 
 
-## Funding and Awards
+## Funding
 
-University of Georgia Graduate School travel award. 2017. ($220)
+### Grants
+
+Innovative and Interdisciplinary Research Grant, awarded by the University of Georgia Graduate School ($2,500).
+
+University of Georgia Graduate School Dean’s Award. 2016. ($1,250)
+
+### Research Assistantships
 
 Complex Systems and the Humanities Research Assistantship awarded by the Graduate School at the University of Georgia. 2016--2017.
-
-University of Georgia Linguistics Program travel award. 2016. ($200)
-
-University of Georgia Graduate School Dean’s Award. 2016. ($1250)
 
 University of Georgia stipend enhancement awarded by the Franklin College of Arts and Sciences. 2014--2015.
 
 University of Georgia Graduate Research Assistantship. 2014.
+
+### Travel Awards
+
+Linguistics Society of the University of Georgia travel award. 2017. ($50)
+
+University of Georgia Graduate School travel award. 2017. ($220)
+
+University of Georgia Linguistics Program travel award. 2016. ($200)
 
 Brigham Young University Department of Linguistics and English Language Conference Travel Grant. 2013. ($500)
 
@@ -213,6 +227,7 @@ Teaching Assistant for [Jason Dzubak](http://mi.byu.edu/people/jason-dzubak/), L
 Teaching Assistant for Dr. [Monte Shelley](http://mi.byu.edu/people/monte-shelley/), Basic Humanities Computing Skills, Brigham Young University. 2011--2013.
 
 <br/>
+
 <br/>
 
 -------------
