@@ -5,7 +5,7 @@ layout: aside
 About me
 ========
 
-I’m a third-year lingusitics grad student at the University of Georgia, doing a lot of sociolinguistics and phonetics while finding new statistical and computational methods to help me in my research.
+I’m a doctoral candidate in linguistics at the University of Georgia, doing a lot of sociolinguistics and phonetics while finding new statistical and computational methods to help me in my research.
 
 My primary area of research is on English in the western United States, and my dissertation focuses on a relatively small county in Washington State. Because I mostly focus on vowels, I've had to learn the skills required to analyze them: Praat scripting, forced alignment, and cutting-edge statistical methods. I also lean towards the variationist sociolinguistic perspective in data collection and analysis. 
 
