@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Using MTurk"
+date:   2017-05-18 10:30:00 -0400
+tags: [Research]
+---
+
+A few weeks ago, I <a href="/blog/a-survey-of-western-american-english-using-mturk">wrote</a> about a grant I was awarded where I'll use Amazon Mechanical Turk ("MTurk") to collect data from people all across the West. Today, I did a soft launch of the request and already got recordings from five people!
+
+After weeks of carefully wrangling my MTurk request, my Qualtrics survey, and my IRB forms, I finally got it all set up. I've had a handful of projects get approved by the IRB, but this one was a little different since it was through MTurk, so I was a little unsure how to go about some things. Luckily, our IRB office was having open houses all through the semester, which were *very* helpful.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Just got IRB approval on my first try. I&#39;m getting better at this! Huh, so going to the <a href="https://twitter.com/UGAHSO">@UGAHSO</a> open houses helps a ton! Who&#39;da thunk?</p>&mdash; Joey Stanley (@joey_stan) <a href="https://twitter.com/joey_stan/status/864932387712630784">May 17, 2017</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+I decided to do a soft release first. $2500 is a lot of money to just throw into a task all at once and I wanted to make sure things were working out right. So I put in enough for five people do to the task. Within the hour I was getting data sent to me! It was crazy!
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">With MTurk, I&#39;m literally getting data emailed to me throughout the day. Pretty exciting.</p>&mdash; Joey Stanley (@joey_stan) <a href="https://twitter.com/joey_stan/status/865311077491462144">May 18, 2017</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+I got all five in one day with no problem. I'm glad I did the soft release though because there were a couple small snafus that I had to fix. For example, I underestimated how much time it would take people to finish the task, so I'll raise the amount they're compensated: I can afford fewer workers that way, but at least I pay them an honest amount.
+
+I'll spend the next few days making absolutely certain that the task I want them to do is what's right for this project. But at some point, I'll pull the trigger and let'er rip. From that point on, all I need to do is approve people's work (to make sure they get paid) and then just enjoy the hours and hours of recordings showing up in my inbox. What a way to collect data!
