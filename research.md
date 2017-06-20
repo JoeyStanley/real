@@ -28,6 +28,18 @@ title: Research
 </div>
 
 <div class="research">
+<h2>Western American English</h2>
+<img src="images/projects/west.png" alt="Western US states">
+<p>I received a grant from the UGA Graduate School that is paying for some research I'm conducting on English in the Western US. Using Amazon Mechanical Turk, I'll be collecting recordings from people all across the West in order to get a better idea about what people sound like. I'm particularly interested in some of the states that get overlooked like Idaho, Montana, and Wyoming. I'll also be targeting linguistic features that are known to be important in Western American English, but I've also included some other stuff based on my experiences in the West. This should be a fantastic project with several hundred participants scattered across a huge portion of the US. It's my hope that it will provide a really good look into this region that will jumpstart me into further reearch on specific areas. Read more <a href="/blog/a-survey-of-western-american-english-using-mturk">here</a> and <a href="/blog/using-mturk">here</a>.</p>
+</div>
+
+<div class="research">
+<h2>English Pre-Lateral Vowels</h2>
+<img src="images/projects/laterals.png" alt="spectrogram of wool">
+<p>A lot of studies exclude vowels followed by coda laterals in their anaylsis because they kinda mess things up. Well, I'm curious about what actually happens to these vowels. There are some mergers going on in some places, like <i>feel</i>-<i>fill</i>, <i>fail</i>-<i>fell</i>, and <i>pool</i>-<i>pull</i>-<i>pole</i>. But a lot of people have some sort of marginal contrast between these infrequent vowel classes. I'm currently studying what this means, taking into account speakers' production and their own intuition about these words, in order to understand more about this often-overlooked area of English phonology.</p>
+</div>
+
+<div class="research">
 <h2>Utah English</h2>
 <img src="images/projects/utah.jpg" alt="Utah">
 <p>Though not an active area of research for now, I am interested in Utah English. I worked on a poster involving vowel mergers over time in a single speaker (<a href="https://www.academia.edu/26986601/Phonetic_Shift_ɔr_Phonemic_Change_American_English_mergers_over_40_years">Stanley &amp; Renwick 2016</a>), and currently, with data from <a href="https://sites.ualberta.ca/~bvtucker/">Ben Tucker</a> at the University of Alberta, we are digging a little deeper into that. Utah is a unique place: its settlement history and highly concentrated Mormon population has had an impact on the English spoken in the region. I think it deserves some more attention by sociolinguists and dialectologists.</p>
