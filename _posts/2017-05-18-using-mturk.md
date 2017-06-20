@@ -33,7 +33,9 @@ This is an incrdible dataset I've collected. I don't know how much audio I have 
 
 However, I will be the first to say that it was a rough three weeks. It seems like every hour I was getting data emailed to me, and several times a day I had to sit and catalogue the recordings and speaker metadata, while managing the MTurk tasks. Most of the time, it was relatively straightforward, but some participants needed a little extra attention because of technical difficulties, glitches in the system, or complaints here and there. Luckily, I did this when I wasn't in classes, because otherwise it would have been impossible. 
 
+## June 20
 
+At last, my data collection has drawn to a close. I ended up with about 212 speakers and 84 hours of data. Not bad. Now comes the daunting task of processing all of this. For every person, if I just want to do a small task that only takes a minute, it'll take over 3 hours to do it for all speakers! This will take a *very* long time for me to get through, but from the 2% that I've looked at so far, it's going to be very fruitful corpus.
 
 
 
