@@ -18,7 +18,7 @@ title: Curriculum Vitae
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dissertation: *Linguistic Identity and the Founder Effect in Cowlitz County, Washington*
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Advisors: [L. Chad Howe](https://faculty.franklin.uga.edu/chowe/) (chair), [Margaret E. L. Renwick](http://faculty.franklin.uga.edu/mrenwick/), [William A. Kretzschmar, Jr.](https://www.english.uga.edu/directory/495/detail)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Committee: [L. Chad Howe](https://faculty.franklin.uga.edu/chowe/) (chair), [Margaret E. L. Renwick](http://faculty.franklin.uga.edu/mrenwick/), [William A. Kretzschmar, Jr.](https://www.english.uga.edu/directory/495/detail)
 
 
 **B.A. Linguistics**, [Brigham Young University](http://linguistics.byu.edu/), 2013
@@ -57,48 +57,50 @@ title: Curriculum Vitae
 ## Conference Presentations
 
 [Margaret E. L. Renwick](http://faculty.franklin.uga.edu/mrenwick/) & <strong>Joseph A. Stanley</strong>. “A historical perspective on vowel shifting: Acoustic analysis of the Digital Archive of Southern Speech” Poster presentation at the 173rd Meeting of the Acoustical Society of America (ASA). Boston, MA. June 25–29, 2017.
+<a href="http://asa.scitation.org/doi/abs/10.1121/1.4989091" class="link" title="link to this presentation"></a>
 
 [Margaret E. L. Renwick](http://faculty.franklin.uga.edu/mrenwick/), Michael Olsen, Rachel M. Olsen, & <strong>Joseph A. Stanley</strong>. “Transcription and forced alignment of the Digital Archive of Southern Speech.” Poster presentation at the 173rd Meeting of the Acoustical Society of America (ASA). Boston, MA. June 25–29, 2017.
+<a href="http://asa.scitation.org/doi/abs/10.1121/1.4989090" class="link" title="link to this presentation"></a>
 
 Rachel Olsen, Michael Olsen, Katherine Kuiper, <strong>Joseph A. Stanley</strong>, [Margaret E. L. Renwick](http://faculty.franklin.uga.edu/mrenwick/), & William A. Kretzschmar, Jr. “New Perspectives on Historical Southern Speech.” Panel presented at the 2017 Integrative Research and Ideas Symposium ([IRIS](https://graduatestudents.org/)). Athens, GA. March 20, 2017.
 
 Rachel Olsen, Michael Olsen, <strong>Joseph A. Stanley</strong> & [Margaret E. L. Renwick](http://faculty.franklin.uga.edu/mrenwick/). “Transcribing the Digital Archive of Southern Speech: Methods and Preliminary Analysis.” 84th Meeting of the SouthEastern Conference on Linguistics ([SECOL84](http://conf2017.secol.org">)). Charleston, SC. March 8–11, 2017.
 <a href="/downloads/170310-SECOL84b-slides.pdf" class="slides" title="download the powerpoint slides for this presentation"></a>
 
-Kretzschmar, William A., <strong>Joseph Stanley</strong>, & Katherine Kuiper. “Automated Large-Scale Phonetic Analysis: DASS.” 84th Meeting of the SouthEastern Conference on Linguistics ([SECOL84](http://conf2017.secol.org">)). Charleston, SC. March 8–11, 2017.
+William A. Kretzschmar, <strong>Joseph Stanley</strong>, & Katherine Kuiper. “Automated Large-Scale Phonetic Analysis: DASS.” 84th Meeting of the SouthEastern Conference on Linguistics ([SECOL84](http://conf2017.secol.org">)). Charleston, SC. March 8–11, 2017.
 <a href="/downloads/170310-SECOL84a-slides.pdf" class="slides" title="download the powerpoint slides for this presentation"></a>
 
-<strong>Stanley, Joseph A.</strong>. “V[ɛ]ry v[e]ried vowel mergers in the Pacific Northwest.” Diversity and Variation in Language ([DiVar 1](http://linguistics.emory.edu/home/conferences/divar1/index.html)). Atlanta, GA. February 10–11, 2017. (with Linguistics Soceity of UGA travel award)
+<strong>Joseph A. Stanley</strong>. “V[ɛ]ry v[e]ried vowel mergers in the Pacific Northwest.” Diversity and Variation in Language ([DiVar 1](http://linguistics.emory.edu/home/conferences/divar1/index.html)). Atlanta, GA. February 10–11, 2017. (with Linguistics Soceity of UGA travel award)
 <a href="/downloads/160813-ADS2017.pdf" class="abstract" target="_blank" title="open a pdf of the abstract to this presentation in a new window"></a>
 <a href="/downloads/170211-DiVar1-slides.pptx" class="slides" title="download the powerpoint slides for this presentation"></a>
 
-<strong>Stanley, Joseph A.</strong>. “The perception and production of two vowel mergers in Cowlitz County, Washington.” The American Dialect Society ([ADS](http://www.americandialect.org)) Annual Meeting. Austin, TX. January 5–8, 2017. (with UGA Linguistics Program travel award and UGA Graduate School travel award)
+<strong>Joseph A. Stanley</strong>. “The perception and production of two vowel mergers in Cowlitz County, Washington.” The American Dialect Society ([ADS](http://www.americandialect.org)) Annual Meeting. Austin, TX. January 5–8, 2017. (with UGA Linguistics Program travel award and UGA Graduate School travel award)
 <a href="/downloads/160813-ADS2017.pdf" class="abstract" target="_blank" title="open a pdf of the abstract to this presentation in a new window"></a>
 <a href="/downloads/170105-ADS-slides.pptx" class="slides" title="download the powerpoint slides for this presentation"></a>
 
-<strong>Stanley, Joseph A.</strong>. "An EWP model of Quechua agreement: Further evidence against DM". The Third Annual Linguistics Conference at the University of Georgia ([LCUGA3](http://www.lsuga.com/conference/2016)). Athens, GA. October 7–9, 2016. 
+<strong>Joseph A. Stanley</strong>. "An EWP model of Quechua agreement: Further evidence against DM". The Third Annual Linguistics Conference at the University of Georgia ([LCUGA3](http://www.lsuga.com/conference/2016)). Athens, GA. October 7–9, 2016. 
 <a href="/downloads/161008-LCUGA3-abstract.pdf" class="abstract" target="_blank" title="open a pdf of the abstract to this presentation in a new window"></a>
 <a href="/downloads/161008-LCUGA3-slides.pptx" class="slides" title="download the powerpoint slides for this presentation"></a>
 
-<strong>Stanley, Joseph A.</strong> & [Margaret E. L. Renwick](http://faculty.franklin.uga.edu/mrenwick/). "Phonetic Shift <span style="white-space: nowrap;">/ɔr/</span> Phonemic Change? American English mergers over 40 years". Poster presentation by the second author at the 15th Conference on Laboratory Phonology ([LabPhon15](http://labphon.org/labphon15/)). Ithaca, NY. July 13–16, 2016. 
+<strong>Joseph A. Stanley</strong> & [Margaret E. L. Renwick](http://faculty.franklin.uga.edu/mrenwick/). "Phonetic Shift <span style="white-space: nowrap;">/ɔr/</span> Phonemic Change? American English mergers over 40 years". Poster presentation by the second author at the 15th Conference on Laboratory Phonology ([LabPhon15](http://labphon.org/labphon15/)). Ithaca, NY. July 13–16, 2016. 
 <a href="http://labphon.org/labphon15/program" class="link" target="_blank"></a>
 <a href="/downloads/160714-LabPhon15-abstract.pdf" class="abstract" target="_blank" title="open a pdf of the abstract to this presentation in a new window"></a>
 <a href="/downloads/160714-LabPhon15-poster.pdf" class="poster" target="_blank" title="open a pdf of this poster in a new window"></a>
 
-<strong>Stanley, Joseph A.</strong>. "Separate Phonemes <span style="white-space: nowrap;">/ɔr/</span> Merging? The [Cord-Card Merger](https://en.wikipedia.org/wiki/English-language_vowel_changes_before_historic_/r/#Card.E2.80.93cord_merger) in Real-Time". The Second Interdisciplinary Linguistics Conference at UGA ([LSUGA2](http://www.lsuga.com/conference)). Athens, GA. October 9–11, 2015. 
+<strong>Joseph A. Stanley</strong>. "Separate Phonemes <span style="white-space: nowrap;">/ɔr/</span> Merging? The [Cord-Card Merger](https://en.wikipedia.org/wiki/English-language_vowel_changes_before_historic_/r/#Card.E2.80.93cord_merger) in Real-Time". The Second Interdisciplinary Linguistics Conference at UGA ([LSUGA2](http://www.lsuga.com/conference)). Athens, GA. October 9–11, 2015. 
 <a href="/downloads/151009-LSUGA2-abstract.pdf" class="abstract" target="_blank" title="open a pdf of the abstract to this presentation in a new window"></a>
 <a href="/downloads/151009-LSUGA2-slides.pptx" class="slides" title="download the powerpoint slides for this presentation"></a>
 <a href="https://www.youtube.com/watch?v=v3BvpMyxPv8" class="video" target="_blank" title="open a youtube video of this presentation in a new window"></a>
 
-<strong>Stanley, Joseph A.</strong>. "Brother Bell’s Audience Types: Forms of Address among Latter-day Saint Young Adults". 82nd Meeting of the Southeastern Conference on Linguistics ([SECOL82](http://linguistics.chass.ncsu.edu)). Raleigh, NC. April 9–11, 2015. 
+<strong>Joseph A. Stanley</strong>. "Brother Bell’s Audience Types: Forms of Address among Latter-day Saint Young Adults". 82nd Meeting of the Southeastern Conference on Linguistics ([SECOL82](http://linguistics.chass.ncsu.edu)). Raleigh, NC. April 9–11, 2015. 
 <a href="/downloads/150410-SECOL82-abstract.pdf" class="abstract" target="_blank" title="open a pdf of the abstract to this presentation in a new window"></a>
 <a href="/downloads/150410-SECOL82-slides.pptx" class="slides" title="download the powerpoint slides for this presentation"></a>
 
-<strong>Stanley, Joseph A.</strong>. "Brother Bell’s Audience Design: Forms of Address among Latter-day Saint Young Adults". 39th Annual Penn Linguistics Conference ([PLC39](http://www.ling.upenn.edu/Events/PLC/plc39/)). Philadelphia, PA. March 19–21, 2015. 
+<strong>Joseph A. Stanley</strong>. "Brother Bell’s Audience Design: Forms of Address among Latter-day Saint Young Adults". 39th Annual Penn Linguistics Conference ([PLC39](http://www.ling.upenn.edu/Events/PLC/plc39/)). Philadelphia, PA. March 19–21, 2015. 
 <a href="/downloads/150321-PLC39-abstract.pdf" class="abstract" target="_blank" title="open a pdf of the abstract to this presentation in a new window"></a>
 <a href="/downloads/150321-PLC39-slides.pptx" class="slides" title="download the powerpoint slides for this presentation"></a>
 
-[Nuckolls, Janis](http://linguistics.byu.edu/directory/jbn34/), <strong>Joseph Stanley</strong>, Elizabeth Nielsen, and Roseanna Hopper. "The systematic stretching and adjusting of ideophonic phonology in Pastaza Quichua". Annual Meeting of the Society for the Study of Indigenous Languages of America ([SSILA 2013](http://www.ssila.org/members/join-or-renew/)). Boston, MA. January 3–6, 2013. (with BYU Department of Linguistics and English Language conference travel grant) 
+[Janis Nuckolls](http://linguistics.byu.edu/directory/jbn34/), <strong>Joseph Stanley</strong>, Elizabeth Nielsen, and Roseanna Hopper. "The systematic stretching and adjusting of ideophonic phonology in Pastaza Quichua". Annual Meeting of the Society for the Study of Indigenous Languages of America ([SSILA 2013](http://www.ssila.org/members/join-or-renew/)). Boston, MA. January 3–6, 2013. (with BYU Department of Linguistics and English Language conference travel grant) 
 <a href="/downloads/130103-SSILA-abstract.pdf" class="abstract" target="_blank" title="open a pdf of the abstract to this presentation in a new window"></a> 
 
 <br/>
@@ -171,7 +173,7 @@ Guest host on *Faith Promoting Rumors* podcast. “Brother Joseph,” April 10, 
 
 ### Grants
 
-Innovative and Interdisciplinary Research Grant ($2,500), awarded by the University of Georgia Graduate School. Project title: "A Survey of Western American English using Amazon Mechanical Turk." April 20, 2017
+Innovative and Interdisciplinary Research Grant ($2,500), awarded by the University of Georgia Graduate School. Project title: "A Survey of Western American English using Amazon Mechanical Turk." April 20, 2017.
 
 University of Georgia Graduate School Dean’s Award ($1,250). Project title: "Linguistic Identity and the Founder Effect in Longview, Washington." January 5, 2016. 
 
