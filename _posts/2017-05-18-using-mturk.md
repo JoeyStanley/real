@@ -2,7 +2,7 @@
 layout: post
 title:  "Using MTurk"
 date:   2017-05-18 10:30:00 -0400
-tags: [Research]
+tags: [Research, West, Pacific Northwest]
 ---
 
 A few weeks ago, I <a href="/blog/a-survey-of-western-american-english-using-mturk">wrote</a> about a grant I was awarded where I'll use Amazon Mechanical Turk ("MTurk") to collect data from people all across the West. Today, I did a soft launch of the request and already got recordings from five people!
@@ -18,3 +18,24 @@ I decided to do a soft release first. $2500 is a lot of money to just throw into
 I got all five in one day with no problem. I'm glad I did the soft release though because there were a couple small snafus that I had to fix. For example, I underestimated how much time it would take people to finish the task, so I'll raise the amount they're compensated: I can afford fewer workers that way, but at least I pay them an honest amount.
 
 I'll spend the next few days making absolutely certain that the task I want them to do is what's right for this project. But at some point, I'll pull the trigger and let'er rip. From that point on, all I need to do is approve people's work (to make sure they get paid) and then just enjoy the hours and hours of recordings showing up in my inbox. What a way to collect data!
+
+## May 22
+
+So this happened:
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Thank you, MTurker, for pointing out that my consent form says the software I ask you download &quot;will be harmful to your computer.&quot; <a href="https://twitter.com/hashtag/Typo?src=hash">#Typo</a></p>&mdash; Joey Stanley (@joey_stan) <a href="https://twitter.com/joey_stan/status/866703105798410240">May 22, 2017</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## June 9
+
+Okay, so several weeks have passed, and the data collection phase is drawing to a close. In just a couple of weeks, I was able to get data from almost 200 people. I had some major time constraints on how I could use my money, so I had to find ways to use it quicker. I ended up creating an entirely new task, similar to the first one, with a whole new batch of sentences and words for people to read. A large portion of my participants returned to do the second part, meaning I have around 30 minutes of audio from almost 100 people. 
+
+This is an incrdible dataset I've collected. I don't know how much audio I have total yet, but it's well over 50 hours. That's pretty good for just three weeks.
+
+However, I will be the first to say that it was a rough three weeks. It seems like every hour I was getting data emailed to me, and several times a day I had to sit and catalogue the recordings and speaker metadata, while managing the MTurk tasks. Most of the time, it was relatively straightforward, but some participants needed a little extra attention because of technical difficulties, glitches in the system, or complaints here and there. Luckily, I did this when I wasn't in classes, because otherwise it would have been impossible. 
+
+
+
+
+
+
+

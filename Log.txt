@@ -120,6 +120,8 @@ Thursday, April 7, 2017
 
 
 
+
+
 Blog posts:
 * Word: formatting, styles, etc.
 * Powerpoint: master sheets, templates
