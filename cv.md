@@ -6,7 +6,7 @@ title: Curriculum Vitae
 # Curriculum Vitae
 
 
-<p id="updated">Updated April 23, 2017. Download PDF <a href="/downloads/170423-CV.pdf" target="_blank" title="open a pdf of my CV in a new window">here</a>.</p>
+<p id="updated">Updated June 30, 2017. Download PDF <a href="/downloads/170630-CV.pdf" target="_blank" title="open a pdf of my CV in a new window">here</a>.</p>
 
 <br/>
 
@@ -155,10 +155,14 @@ William A. Kretzschmar, <strong>Joseph Stanley</strong>, & Katherine Kuiper. “
 
 <br/>
 
+## Website
+
+<strong>Joseph A. Stanley</strong>, William A. Kretzschmar Jr., Margaret E. L. Renwick, Michael L. Olsen, and Rachel M. Olsen (2017) *Gazetteer of Southern Vowels*. Linguistic Atlas Project, University of Georgia. [lap3.libs.uga.edu/u/jstanley/vowelcharts/](http://lap3.libs.uga.edu/u/jstanley/vowelcharts/).
+
+
 ## Media
 
-Rachel Ehrenberg of [*ScienceNews*](https://www.sciencenews.org) wrote a piece called "The southern drawl gets deconstructed", based on a poster I did with Peggy Renwick, "A historical perspective on vowel shifting: Acoustic analysis of the Digital Archive of Southern Speech" at the June 2017 ASA conference. 
-<a href="https://www.sciencenews.org/article/southern-drawl-gets-deconstructed" class="link" title="link to this report"></a> 
+Ehrenberg, Rachel. "The southern drawl gets deconstructed." [*ScienceNews*](https://www.sciencenews.org). June 30, 2017. Based on a Peggy Renwick's and my poster presentation, "A historical perspective on vowel shifting: Acoustic analysis of the Digital Archive of Southern Speech" at the June 2017 ASA conference. <a href="https://www.sciencenews.org/article/southern-drawl-gets-deconstructed" class="link" title="link to this report"></a> 
 
 Guest host on *Faith Promoting Rumors* podcast. “Brother Joseph,” April 10, 2017, wherein I discuss my 2016 paper, “When do Mormons Call Each Other by First Name” published in the Penn Working Papers in Linguistics.
 <a href="http://faithpromotingrumors.com/12" class="audio" target="_blank" title="link to FPR podcast"></a>
