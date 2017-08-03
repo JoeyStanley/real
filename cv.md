@@ -56,6 +56,8 @@ title: Curriculum Vitae
 
 ## Conference Presentations
 
+<strong>Joseph A. Stanley</strong>. "Changes in the Timber Industry as a Catalyst for Linguistic Change." Poster presentation at the 46th New Ways of Analyzing Variation conference (NWAV46). Madison, WI. November 2–5, 2017.
+
 [Margaret E. L. Renwick](http://faculty.franklin.uga.edu/mrenwick/) & <strong>Joseph A. Stanley</strong>. “A historical perspective on vowel shifting: Acoustic analysis of the Digital Archive of Southern Speech” Poster presentation at the 173rd Meeting of the Acoustical Society of America (ASA). Boston, MA. June 25–29, 2017.
 <a href="http://asa.scitation.org/doi/abs/10.1121/1.4989091" class="link" title="link to this presentation"></a>
 
