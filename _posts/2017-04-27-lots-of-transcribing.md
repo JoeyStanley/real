@@ -27,4 +27,6 @@ Edit: I've decided to tweet every so often to keep track of my progress and to k
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Just hit the 20% mark for transcribing my interviews. I&#39;m currently reliving the one with a guy who worked falling trees for 18 years.</p>&mdash; Joey Stanley (@joey_stan) <a href="https://twitter.com/joey_stan/status/864521596924555265">May 16, 2017</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Looks like I'm on track to finish in early August. Not bad.
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">25% done with transcribing. Would have hit it earlier, but I&#39;ve got two other projects going right now, which means more transcribing later…</p>&mdash; Joey Stanley (@joey_stan) <a href="https://twitter.com/joey_stan/status/869729263502622720">May 31, 2017</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">After a bit of a hiatus, I&#39;m back to transcribing and just hit the 30% mark for my corpus! Hooray!</p>&mdash; Joey Stanley (@joey_stan) <a href="https://twitter.com/joey_stan/status/893206602236481537">August 3, 2017</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
