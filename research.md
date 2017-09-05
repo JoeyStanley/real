@@ -20,7 +20,7 @@ title: Research
 <div class="research">
 <h2>Utah English</h2>
 <img src="images/projects/utah.jpg" alt="Utah">
-<p>Another area I focus on in the West is Utah. I worked on a poster involving vowel mergers over time in a single speaker (<a href="https://www.academia.edu/26986601/Phonetic_Shift_ɔr_Phonemic_Change_American_English_mergers_over_40_years">Stanley &amp; Renwick 2016</a>), and currently, with data from <a href="https://sites.ualberta.ca/~bvtucker/">Ben Tucker</a> at the University of Alberta, we are digging a little deeper into that. Utah is a unique place: its settlement history and highly concentrated Mormon population has had an impact on the English spoken in the region. I think it deserves some more attention by sociolinguists and dialectologists.</p>
+<p>Another area I focus on in the West is Utah. I worked on a poster involving vowel mergers over time in a single speaker (<a href="https://www.academia.edu/26986601/Phonetic_Shift_ɔr_Phonemic_Change_American_English_mergers_over_40_years">Stanley &amp; Renwick 2016</a>). Most recently, I've been working with Kyle Vanderniet on consonantal variation in Utah English. Utah is a unique place: its settlement history and highly concentrated Mormon population has had an impact on the English spoken in the region. I think it deserves some more attention by sociolinguists and dialectologists.</p>
 </div>
 
 <div class="research">
@@ -42,5 +42,5 @@ title: Research
 <a href="/downloads/161002-DigiLab-flyer.pdf" class="flyer" target="_blank" title="open a pdf of the flyer for this presentation in a new window"></a>
 <a href="/downloads/161006-DigiLab-slides.pptx" class="slides" title="download the powerpoint slides for this presentation"></a>). I've also given workshops on how to increase your online presence (<a href="https://digi.uga.edu/news/brandyourself/" class="link" target="_blank" title="link to digi.uga.edu"></a>
 <a href="/downloads/161111-DigiLab-flyer.pdf" class="flyer" target="_blank" title="open a pdf of the flyer for this presentation in a new window"></a>
-<a href="/downloads/161111-DigiLab-slides.pptx" class="slides" title="download the powerpoint slides for this presentation"></a>) and on <a href="/excel.html">Excel</a>.</p>
+<a href="/downloads/161111-DigiLab-slides.pptx" class="slides" title="download the powerpoint slides for this presentation"></a>) and on <a href="/excel.html">Excel</a>. My current project for this semester is running a series on R.</p> 
 </div>
