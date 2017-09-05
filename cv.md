@@ -5,8 +5,7 @@ title: Curriculum Vitae
 
 # Curriculum Vitae
 
-
-<p id="updated">Updated June 30, 2017. Download PDF <a href="/downloads/170630-CV.pdf" target="_blank" title="open a pdf of my CV in a new window">here</a>.</p>
+<p id="updated">Updated September 5, 2017. Download PDF <a href="/downloads/170630-CV.pdf" target="_blank" title="open a pdf of my CV in a new window">here</a>.</p>
 
 <br/>
 
