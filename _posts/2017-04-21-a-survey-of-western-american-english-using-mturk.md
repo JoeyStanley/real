@@ -2,7 +2,7 @@
 layout: post
 title:  "A Survey of the Western American English using Mturk"
 date:   2017-04-21 10:30:00 -0400
-tags: [Pacific Northwest, Research, West]
+tags: [Pacific Northwest, Research, West, MTurk]
 ---
 
 I'm so happy to announce I've been selected as a recipient of the UGA Graduate School Innovative and Interdisciplinary Research Grant! This $2,500 grant is part of the Graduate School's strategic initiative to support innovation and interdisciplinarity in the research being conducted by doctoral students. My project is entitled "A Survey of Western American English using Amazon Mechanic Turk." 

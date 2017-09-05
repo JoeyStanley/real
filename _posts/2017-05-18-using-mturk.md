@@ -2,7 +2,7 @@
 layout: post
 title:  "Using MTurk"
 date:   2017-05-18 10:30:00 -0400
-tags: [Research, West, Pacific Northwest]
+tags: [Research, West, Pacific Northwest, MTurk]
 ---
 
 A few weeks ago, I <a href="/blog/a-survey-of-western-american-english-using-mturk">wrote</a> about a grant I was awarded where I'll use Amazon Mechanical Turk ("MTurk") to collect data from people all across the West. Today, I did a soft launch of the request and already got recordings from five people!
