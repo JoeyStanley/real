@@ -140,7 +140,7 @@ I learned something new here as well: fricatives lengthen the vowel even more. T
 
 ## Conclusion
 
-This study was short, unsystematic, and full of methodological issues. Despite its flaws, it shows evidence to support what Ladefoged and Johnson say in *A Course in Phonetics*. In addition, I learned a few things as well: in addition to themselves being longer than stops, fricatives cause their preceding vowels to lengthen as well. 
+This study was short, unsystematic, and full of methodological issues. Despite its flaws, it shows evidence to support what Ladefoged and Johnson say in *A Course in Phonetics*. I also learned a few things: in addition to themselves being longer than stops, fricatives cause their preceding vowels to lengthen as well. 
 
 Special thanks goes to my Fall 2017 LING 3060 class at the University of Georgia, who bothered their friends with this silly assignment and painstakingly measured durations in software they barely know how to use.
 
