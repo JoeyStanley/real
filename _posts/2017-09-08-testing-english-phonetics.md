@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Testing English Phonetics"
-date:   2017-09-08 00:04:00 -0400
+date:   2017-09-08 00:02:00 -0400
 tags: [Side Projects, Teaching, Statistics]
 ---
 
