@@ -59,6 +59,8 @@ Renwick, Margaret E. L. , Rachel M. Olsen, Michael Olsen, <strong>Joseph A. Stan
 
 ## Conference Presentations
 
+Shawn Foster, <strong>Joseph A. Stanley</strong>, & Margaret E. L. Renwick. "Vowel Mergers in the American South." Poster presentation at the 174th Meeting of the Acoustical Society of America (ASA). New Orleans, LA. December 4–8, 2017.
+
 <strong>Joseph A. Stanley</strong>. "Changes in the Timber Industry as a Catalyst for Linguistic Change." Poster presentation at the 46th New Ways of Analyzing Variation conference ([NWAV46](https://english.wisc.edu/nwav46/)). Madison, WI. November 2–5, 2017.
 
 <strong>Joseph A. Stanley</strong> & Kyle Vanderniet. "Consonantal variation in Utah English: What el[t]se is happening[k]?" The 4th Annual Linguistics Conference at UGA ([LSUGA4](http://www.lsuga.com/conference/2017)). Athens, GA. October 6–8.
