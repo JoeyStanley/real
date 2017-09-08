@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "General Update"
-date:   2017-05-18 10:30:00 -0400
+date:   2017-09-05 10:30:00 -0400
 tags: [West, Utah, MTurk, Research, Conferences, Linguistic Atlas Project, Washington, Pacific Northwest, Dissertation]
 ---
 
