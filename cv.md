@@ -39,6 +39,10 @@ title: Curriculum Vitae
 
 ### Working Papers and Conference Proceedings
 
+Renwick, Margaret E. L. & <strong>Joseph A. Stanley</strong> (*forthcoming*). "Static and dynamic approaches to vowel shifting in the Digital Archive of Southern Speech." *Proceedings of Meetings on Acoustics*.
+
+Renwick, Margaret E. L. , Rachel M. Olsen, Michael Olsen, <strong>Joseph A. Stanley</strong>, & William A. Kretzschmar, Jr. (*forthcoming*). "Methods for transcription and forced alignment of a legacy speech corpus." *Proceedings of Meetings on Acoustics*.
+
 <strong>Stanley, Joseph A.</strong> (2016). "Pacific Northwest English: Historical Overview and Current Directions". *UGA Working Papers in Linguistics*, 3. 
 <a href="http://www.lsuga.com/working-papers/volume-3" class="link" target="_blank" title="link to lsuga.com"></a>
 <a href="/downloads/161213-UGAWP3.pdf" class="paper" target="_blank" title="open a pdf of this paper in a new window"></a>
