@@ -5,7 +5,7 @@ title: Curriculum Vitae
 
 # Curriculum Vitae
 
-<p id="updated">Updated September 8, 2017. Download PDF <a href="/downloads/170630-CV.pdf" target="_blank" title="open a pdf of my CV in a new window">here</a>.</p>
+<p id="updated">Updated September 12, 2017. Download PDF <a href="/downloads/170630-CV.pdf" target="_blank" title="open a pdf of my CV in a new window">here</a>.</p>
 
 <br/>
 
@@ -36,12 +36,12 @@ title: Curriculum Vitae
 <a href="http://dx.doi.org/10.1086/684425" class="link" target="_blank" title="link to IJAL online"></a>
 <a href="/downloads/160101-IJAL82.pdf" class="paper" target="_blank" title="open a pdf of this paper in a new window"></a>
 
-
 ### Working Papers and Conference Proceedings
 
 Renwick, Margaret E. L. & <strong>Joseph A. Stanley</strong> (*forthcoming*). "Static and dynamic approaches to vowel shifting in the Digital Archive of Southern Speech." *Proceedings of Meetings on Acoustics*.
 
-Renwick, Margaret E. L. , Rachel M. Olsen, Michael Olsen, <strong>Joseph A. Stanley</strong>, & William A. Kretzschmar, Jr. (*forthcoming*). "Methods for transcription and forced alignment of a legacy speech corpus." *Proceedings of Meetings on Acoustics*.
+Olsen, Rachel M., Michael L. Olsen, <strong>Joseph A. Stanley</strong>, Margaret E. L. Renwick, & William A. Kretzschmar, Jr. (2017). "Methods for transcription and forced alignment of a legacy speech corpus." *Proceedings of Meetings on Acoustics* **30**, 060001; doi: http://dx.doi.org/10.1121/2.0000559 
+<a href="http://asa.scitation.org/doi/abs/10.1121/2.0000559" class="link" target="_blank" title="link to POMA online"></a>
 
 <strong>Stanley, Joseph A.</strong> (2016). "Pacific Northwest English: Historical Overview and Current Directions". *UGA Working Papers in Linguistics*, 3. 
 <a href="http://www.lsuga.com/working-papers/volume-3" class="link" target="_blank" title="link to lsuga.com"></a>
@@ -130,12 +130,16 @@ William A. Kretzschmar, <strong>Joseph Stanley</strong>, & Katherine Kuiper. “
 
 ## Workshops
 
+<strong>Joey Stanley</strong>. "An Introduction to R: Learn the Basics." Workshop given at the University of Georgia DigiLab. Athens, GA. September 13, 2017.
+<a href="/downloads/170912-intro-to-r-handout.pdf" class="paper" target="_blank" title="open a pdf of the handout to this presentation a new window"></a>
+<a href="/downloads/170913-flyer.pdf" class="flyer" target="_blank" title="open a pdf of the flyer for this presentation in a new window"></a>
+
 <strong>Joey Stanley</strong>. "Be a Data Magician: An Excel Workshop for Humanists." Workshop given at the University of Georgia DigiLab. Athens, GA. January 27, 2017.
 <a href="/downloads/170127-ExcelWorkshop.pdf" class="paper" target="_blank" title="open a pdf of the handout to this presentation a new window"></a>
 <a href="https://digi.uga.edu/news/be-a-data-magician/" class="link" target="_blank" title="link to digi.uga.edu"></a>
 <a href="/downloads/170127-ExcelWorkshop-flyer.pdf" class="flyer" target="_blank" title="open a pdf of the flyer for this presentation in a new window"></a>
 
-[McGinn, Emily](http://emilymcginn.com) & <strong>Joey Stanley</strong>. “Brand Yourself: A professionalization workshop for grad students.” Workshop given at the University of Georgia DigiLab. Athens, GA. November 11, 2016.
+[Emily McGinn](http://emilymcginn.com) & <strong>Joey Stanley</strong>. “Brand Yourself: A professionalization workshop for grad students.” Workshop given at the University of Georgia DigiLab. Athens, GA. November 11, 2016.
 <a href="https://digi.uga.edu/news/brandyourself/" class="link" target="_blank" title="link to digi.uga.edu"></a>
 <a href="/downloads/161111-DigiLab-flyer.pdf" class="flyer" target="_blank" title="open a pdf of the flyer for this presentation in a new window"></a>
 <a href="/downloads/161111-DigiLab-slides.pptx" class="slides" title="download the powerpoint slides for this presentation"></a> 
@@ -213,6 +217,21 @@ Brigham Young University Department of Linguistics and English Language Conferen
 
 <br/>
 
+## Teaching
+
+### At the University of Georgia
+
+LING 3060: Phonetics and Phonology. Fall 2017.
+
+### At Brigham Young University
+
+Teaching Assistant for Jason Dzubak. Linguistic Computing and Programming 1. Winter 2013.
+
+Teaching Assistant for Dr. Monte Shelley, “Basic Humanities Computing Skills”. Fall 2011, Winter 2012, Fall 2012.
+
+
+<br />
+
 
 ## Research Assistantships
 
@@ -228,21 +247,27 @@ Graduate Research Assistant for Dr. [Vera Lee-Schoenfeld](http://www.gsstudies.u
 
 Graduate Research Assistant for Dr. [Pilar Chamorro](http://www.linguistics.uga.edu/directory/pilar-chamorro-fernández), Assistant Professor of Hispanic and General Linguistics at the University of Georgia. 2014--2015.
 
-Research Assistant for Dr. [Janis Nuckolls](http://linguistics.byu.edu/directory/jbn34/), Professor of Linguistics at Brigham Young University. 2012--2013.
-
 Research Assistant for Dr. [Monte Shelley](http://mi.byu.edu/people/monte-shelley/) of the [Maxwell Institute for Religious Scholarship](http://mi.byu.edu). 2012--2013.
+
+Research Assistant for Dr. [Janis Nuckolls](http://linguistics.byu.edu/directory/jbn34/), Professor of Linguistics at Brigham Young University. 2011--2013.
 
 <br/>
 
 
 ## Other Employment
 
-Assistant for Dr. Peggy Renwick in developing materials and establishing an online repository for her “Quantitative Methods in Linguistics” course at the University of Georgia. 2016--2017.
+Assistant for Dr. Peggy Renwick in developing materials and establishing an online repository for “Quantitative Methods in Linguistics” at the University of Georgia. 2016--2017.
 
 Programmer for the [Maxwell Institute for Religious Scholarship](http://mi.byu.edu). 2013. 
-Teaching Assistant for [Jason Dzubak](http://mi.byu.edu/people/jason-dzubak/), Linguistic Computing and Programming 1, Brigham Young University. 2013.
 
-Teaching Assistant for Dr. [Monte Shelley](http://mi.byu.edu/people/monte-shelley/), Basic Humanities Computing Skills, Brigham Young University. 2011--2013.
+<br/>
+
+## Advising
+
+### Undergraduate
+
+Thesis Reader for Shawn C. Foster (UGA Center for Undergraduate Research Opportunities Assistantship, 2017) 
+
 
 <br/>
 
