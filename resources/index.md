@@ -12,6 +12,10 @@ This page is mostly under construction still but will eventually be a central pl
 <br/>
 ## My handouts
 
+### [R Workshops](/pages/r-workshops.html)
+
+I'm currently giving a series of workshops on how to use R which will include a variety of topics. I have included PDFs and additional information on each installment of this series.
+
 ### [Excel Workshop](/excel.html)
 
 I recently gave a workshop on Microsoft Excel in the main library at UGA. It was very well-attended and included graduate students and faculty from a variety of areas in the humanities and social sciences. I normally wouldn't link to just a blog post, but this one does do a good job at summarizing the main points and has the content available for download.
