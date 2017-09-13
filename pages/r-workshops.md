@@ -6,6 +6,8 @@ redirect_from: "/r"
 
 # R Workshops
 
+<div class="biglink"><a href="/downloads/menu.csv" title="download data" class="nodot">Right-click<br />to download the<br/>sample data</a></div>
+
 <div class="biglink"><a href="/downloads/170912-intro-to-r-handout.pdf" title="download PDF" class="nodot">Download the <br />Intro to R<br/>PDF here!</a></div>
 
 Thanks for coming out to my R workshop today. If you felt like this workshop was worth your time, please consider attending future installments of the R Series at the UGA DigiLab.
