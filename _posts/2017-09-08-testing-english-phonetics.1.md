@@ -2,7 +2,7 @@
 layout: post
 title:  "Testing English Phonetics"
 date:   2017-09-08 00:02:00 -0400
-tags: [Side Projects, Teaching, Statistics]
+tags: [Side Projects, Teaching, Statistics, Phonetics]
 ---
 
 So I'm teaching phonetics and phonology this semester and we're using Ladefoged & Johnson's *A Course in Phonetics* textbook. As I was preparing to teach about stops, I thought it might be a good idea as a homework assignment for students to gather their own data to see if some of these ideas panned out. Here's my quick study.
