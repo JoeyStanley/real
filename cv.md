@@ -69,6 +69,8 @@ Shawn Foster, <strong>Joseph A. Stanley</strong>, & Margaret E. L. Renwick. "Vow
 
 <strong>Joseph A. Stanley</strong> & Kyle Vanderniet. "Consonantal variation in Utah English: What el[t]se is happening[k]?" The 4th Annual Linguistics Conference at UGA ([LSUGA4](http://www.lsuga.com/conference/2017)). Athens, GA. October 6–8, 2017.
 
+<strong>Joseph A. Stanley</strong>. "The linguistic effects of a changing timber industry: Language change in Cowlitz County, WA" The 4th Annual Linguistics Conference at UGA ([LSUGA4](http://www.lsuga.com/conference/2017)). Athens, GA. October 6–8, 2017.
+
 [Margaret E. L. Renwick](http://faculty.franklin.uga.edu/mrenwick/) & <strong>Joseph A. Stanley</strong>. “A historical perspective on vowel shifting: Acoustic analysis of the Digital Archive of Southern Speech” Poster presentation at the 173rd Meeting of the Acoustical Society of America (ASA). Boston, MA. June 25–29, 2017.
 <a href="http://asa.scitation.org/doi/abs/10.1121/1.4989091" class="link" title="link to this presentation"></a>
 
