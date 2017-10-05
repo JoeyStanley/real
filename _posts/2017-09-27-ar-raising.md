@@ -48,7 +48,7 @@ Residuals 82
 
 The *p*-value is small but I've noticed they tend to be on vowel data even for what seems like merged classes. More importantly, the Pillai score is pretty high: on a scale from 0 (=complete overlap) to 1 (completely separate), it's about in the middle. 
 
-Out of curiosity, I did a k-means clustering analysis. I made it blind to phonetic environment so it finds the best two clusters based on F1 and F2 alone. As expected, the clusters essentially captured the voicing distinction, but there were some couple exceptions: *march* is voiced but clustered with the voiceless words, and both *yard* and *guard* are voiced but clustered with the voiceless words. 
+Out of curiosity, I did a k-means clustering analysis. I made it blind to phonetic environment so it finds the best two clusters based on F1 and F2 alone. As expected, the clusters essentially captured the voicing distinction, but there were a couple exceptions: *march* is voiced but clustered with the voiceless words, and both *yard* and *guard* are voiced but clustered with the voiceless words. 
 
 Conclusion so far: with the exception of a few words, it's pretty clear that /ɑr/ is raised, fronted, and shorter before voiceless sounds.  
 
@@ -62,13 +62,13 @@ Generally, the the raised variant occurs with voiceless segments, but this data 
 
 There were several pre-voiced segments that appeared to be raised: *sorry*, *regardless*, *target* (that one's hard to see), *regarding* and maybe *argue*, *argument*, *garden*, and *regard*. I can't help but notice that a lot of those words have the sequence /gɑr/. In fact, the only other /gɑr/ words were *garlic* and *garbage*, which were the most fronted voiced words even though they weren't raised. 
 
-It's interesting that *guard* was one of the few exceptions on the k-means clustering analysis on the monosyllabic words and was in fact raised and fronted compared to the others. A part of me wants to think that /ɑr/ is raised after /g/, which would be cool.
+It's interesting that *guard* was one of the few exceptions on the k-means clustering analysis on the monosyllabic words and was raised and fronted compared to the others. A part of me wants to think that /ɑr/ is raised after /g/, which would be cool.
 
-It's also worth noting that most of the voiceless words that were outside the ellipse were after bilabials: *depart*, *market*, *remark*, *remarkable*, etc. These are actually close to the voiced segments after bilabials as well like *borrow* and *tomorrow*. This even explains why *march* was one of the exceptions detected by the k-means clustering analysis.
+It's also worth noting that most of the voiceless words that were outside the ellipse were after bilabials: *depart*, *market*, *remark*, *remarkable*, etc. These are actually near the voiced segments after bilabials like *borrow* and *tomorrow*. This even explains why *march* was one of the exceptions detected by the k-means clustering analysis. Perhaps bilabials have something to do with backing.
 
 ## Discussion
 
-Let's talk about transition formants for a second. There is a phonetic explanation for the behavior of both the velars and the bilabials. To start, the low vowel /ɑ/ has a high F1 and a low F2. Velars cause F1 to lower and F2 to raise (the latter as a part of the velar pinch), which is more like a higher, fronter vowel. Meanwhile, bilabials cause all formants to lower (because of the slight lengthening of the vocal tract), meaning raising and backing. 
+There is a phonetic explanation for the behavior of both the velars and the bilabials. Let's talk about transition formants for a second. To start, the low vowel /ɑ/ has a high F1 and a low F2. Velars cause F1 to lower and F2 to raise (the latter as a part of the velar pinch), which is more like a higher, fronter vowel. Meanwhile, bilabials cause all formants to lower (because of the slight lengthening of the vocal tract), meaning raising and backing. 
 
 What's happening is that some of these transition formants are raising the nucleus of the /gɑr/ sequence. The reason why we don't see raising in /kɑr/ sequences such as *car*, *carbon*, *cargo*, *carve*, etc. is because of the extra padding of the aspiration. Transition formants do appear in aspiration and the fact that this VOT increases the time between the velar stop and the vowel gives my articulators time to transition to a full /ɑ/. 
 
@@ -76,9 +76,9 @@ I don't know of a good formal way to test this right now, but we can look at mea
 
 <img src="/images/plots/ar_10_percent.png" style="width: 30em;"/> 
 
-Here, we see that the /gɑr/ sequences (highlighted in green now) are all very high and very front, together with /jɑr/ and /ʃɑr/ which have similar transition formant patterns. Similarly, the /ɑr/ words after bilabials (now in yellow) are somewhat backer, though this isn't as stark. 
+Here, we see that the /gɑr/ sequences (highlighted in green now) are all very high and very front, together with /jɑr/ and /ʃɑr/ which have similar transition formant patterns. Similarly, the /ɑr/ words after bilabials (now in yellow) are somewhat backer, though this isn't as stark. In fact the difference in voicing of the following stop is much smaller, and might not even be significant at all anymore.  
 
-If we measure later in time, the influence of the /r/ and its following consonant is increasing and the distinctions between the vowels are decreasing.
+If we measure later in time, the influence of the /r/ and its following consonant is increasing and the distinctions between the vowels also decreases. 
 
 <img src="/images/plots/ar_50_70_percent.png" style="width: 40em;"/> 
 

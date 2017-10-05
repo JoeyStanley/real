@@ -5,7 +5,7 @@ title: Curriculum Vitae
 
 # Curriculum Vitae
 
-<p id="updated">Updated September 20, 2017. Download PDF <a href="/downloads/180920-CV.pdf" target="_blank" title="open a pdf of my CV in a new window">here</a>.</p>
+<p id="updated">Updated September 28, 2017. Download PDF <a href="/downloads/170928-CV.pdf" target="_blank" title="open a pdf of my CV in a new window">here</a>.</p>
 
 <br/>
 
@@ -65,7 +65,7 @@ Olsen, Rachel M., Michael L. Olsen, <strong>Joseph A. Stanley</strong>, Margaret
 
 Shawn Foster, <strong>Joseph A. Stanley</strong>, & Margaret E. L. Renwick. "Vowel Mergers in the American South." Poster presentation at the 174th Meeting of the Acoustical Society of America (ASA). New Orleans, LA. December 4–8, 2017.
 
-<strong>Joseph A. Stanley</strong>. "Changes in the Timber Industry as a Catalyst for Linguistic Change." Poster presentation at the 46th New Ways of Analyzing Variation conference ([NWAV46](https://english.wisc.edu/nwav46/)). Madison, WI. November 2–5, 2017.
+<strong>Joseph A. Stanley</strong>. "Changes in the Timber Industry as a Catalyst for Linguistic Change." Poster presentation at the 46th New Ways of Analyzing Variation conference ([NWAV46](https://english.wisc.edu/nwav46/)). Madison, WI. November 2–5, 2017. (with UGA Graduate School travel award)
 
 <strong>Joseph A. Stanley</strong> & Kyle Vanderniet. "Consonantal variation in Utah English: What el[t]se is happening[k]?" The 4th Annual Linguistics Conference at UGA ([LSUGA4](http://www.lsuga.com/conference/2017)). Athens, GA. October 6–8, 2017.
 
@@ -83,7 +83,7 @@ Rachel Olsen, Michael Olsen, <strong>Joseph A. Stanley</strong> & [Margaret E. L
 William A. Kretzschmar, <strong>Joseph Stanley</strong>, & Katherine Kuiper. “Automated Large-Scale Phonetic Analysis: DASS.” 84th Meeting of the SouthEastern Conference on Linguistics ([SECOL84](http://conf2017.secol.org">)). Charleston, SC. March 8–11, 2017.
 <a href="/downloads/170310-SECOL84a-slides.pdf" class="slides" title="download the powerpoint slides for this presentation"></a>
 
-<strong>Joseph A. Stanley</strong>. “V[ɛ]ry v[e]ried vowel mergers in the Pacific Northwest.” Diversity and Variation in Language ([DiVar 1](http://linguistics.emory.edu/home/conferences/divar1/index.html)). Atlanta, GA. February 10–11, 2017. (with Linguistics Soceity of UGA travel award)
+<strong>Joseph A. Stanley</strong>. “V[ɛ]ry v[e]ried vowel mergers in the Pacific Northwest.” Diversity and Variation in Language ([DiVar 1](http://linguistics.emory.edu/home/conferences/divar1/index.html)). Atlanta, GA. February 10–11, 2017. (with Linguistics Society of UGA travel award)
 <a href="/downloads/160813-ADS2017.pdf" class="abstract" target="_blank" title="open a pdf of the abstract to this presentation in a new window"></a>
 <a href="/downloads/170211-DiVar1-slides.pptx" class="slides" title="download the powerpoint slides for this presentation"></a>
 
@@ -210,6 +210,8 @@ University of Georgia stipend enhancement awarded by the Franklin College of Art
 University of Georgia Graduate Research Assistantship. 2014–2016.
 
 ### Travel Awards
+
+University of Georgia Graduate School travel award ($300). For travel to the 46th New Ways of Analyzing Variation Conference in Madison, WI. November, 2017.
 
 Linguistics Society of the University of Georgia travel award ($50). For travel to Diversity in Variation conference in Atlanta, GA. February, 2017. 
 
