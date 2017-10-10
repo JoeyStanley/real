@@ -136,6 +136,9 @@ William A. Kretzschmar, <strong>Joseph Stanley</strong>, & Katherine Kuiper. “
 
 ## Workshops
 
+<strong>Joey Stanley</strong>. "An Introduction to ggplot2." Workshop given at the University of Georgia DigiLab. Athens, GA. October 12, 2017.
+<a href="/downloads/170913-flyer.pdf" class="flyer" target="_blank" title="open a pdf of the flyer for this presentation in a new window"></a>
+
 <strong>Joey Stanley</strong>. "An Introduction to R: Learn the Basics." Workshop given at the University of Georgia DigiLab. Athens, GA. September 13, 2017.
 <a href="/downloads/170912-intro-to-r-handout.pdf" class="paper" target="_blank" title="open a pdf of the handout to this presentation a new window"></a>
 <a href="/downloads/170913-flyer.pdf" class="flyer" target="_blank" title="open a pdf of the flyer for this presentation in a new window"></a>
