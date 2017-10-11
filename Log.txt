@@ -121,6 +121,8 @@ Thursday, April 7, 2017
 Tuesday, September 5, 2017
 3:39pm - It's been a couple months since I've touched this. Updated the CV. Wrote an update blog post. 
 
+Wednesday, October 11, 2017
+3:48pm - Changed the biglink style so that it's not display: block anymore so that they can be in-line with the text. Allows for them to not be at the top and for multiple on the same page. Also made it Avenir font.
 
 
 Blog posts:

@@ -43,7 +43,7 @@ body {
 	font: 110% 'Iowan Old Style', 'Cardo', Georgia, serif;
 }
 
-h1, h2, h3, li, footer p {
+h1, h2, h3, li, footer p, .biglink {
 	font-family: 'Avenir', 'Muli', 'Helvetica Narrow', Arial, sans-serif;
 }
 
@@ -229,7 +229,6 @@ p a:after {
 }
 
 .biglink a {
-	display: block;
 	float: right;
 	color: whitesmoke;
 	background: #376092;
@@ -243,6 +242,7 @@ p a:after {
 .biglink a:hover  {
 	background-color: #132A45;
 }
+
 
 /* ########################################## */
 /*                  Main Styles               */
