@@ -5,7 +5,7 @@ title: Curriculum Vitae
 
 # Curriculum Vitae
 
-<p id="updated">Updated October 9, 2017. Download PDF <a href="/downloads/171009-CV.pdf" target="_blank" title="open a pdf of my CV in a new window">here</a>.</p>
+<p id="updated">Updated October 12, 2017. Download PDF <a href="/downloads/171012-CV.pdf" target="_blank" title="open a pdf of my CV in a new window">here</a>.</p>
 
 <br/>
 
@@ -14,7 +14,7 @@ title: Curriculum Vitae
 
 **Ph.D. Linguistics**, [University of Georgia](http://www.linguistics.uga.edu/), 2018 (expected) 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dissertation: *Linguistic Identity and the Founder Effect in Cowlitz County, Washington*
+<!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dissertation: *Linguistic Identity and the Founder Effect in Cowlitz County, Washington* -->
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Committee: [L. Chad Howe](https://faculty.franklin.uga.edu/chowe/) (chair), [Margaret E. L. Renwick](http://faculty.franklin.uga.edu/mrenwick/), [William A. Kretzschmar, Jr.](https://www.english.uga.edu/directory/495/detail)
 
@@ -137,6 +137,7 @@ William A. Kretzschmar, <strong>Joseph Stanley</strong>, & Katherine Kuiper. “
 ## Workshops
 
 <strong>Joey Stanley</strong>. "An Introduction to ggplot2." Workshop given at the University of Georgia DigiLab. Athens, GA. October 12, 2017.
+<a href="/downloads/171012-ggplot2_handout.pdf" class="paper" target="_blank" title="open a pdf of the handout to this presentation a new window"></a>
 <a href="/downloads/170913-flyer.pdf" class="flyer" target="_blank" title="open a pdf of the flyer for this presentation in a new window"></a>
 
 <strong>Joey Stanley</strong>. "An Introduction to R: Learn the Basics." Workshop given at the University of Georgia DigiLab. Athens, GA. September 13, 2017.
@@ -198,9 +199,11 @@ Guest host on *Faith Promoting Rumors* podcast. “Brother Joseph,” April 10, 
 <br/>
 
 
-## Funding
+## Funding and Awards
 
 ### Grants
+
+Graduate Research Award ($1000), awarded by the University of Georgia Willson Center for Humanities and Arts. Project title: “Intra-Family Variation in Utah County, Utah.” October 12, 2017.
 
 Innovative and Interdisciplinary Research Grant ($2,500), awarded by the University of Georgia Graduate School. Project title: "A Survey of Western American English using Amazon Mechanical Turk." April 20, 2017.
 
@@ -215,6 +218,8 @@ University of Georgia stipend enhancement awarded by the Franklin College of Art
 University of Georgia Graduate Research Assistantship. 2014–2016.
 
 ### Travel Awards
+
+University of Georgia Department of Linguistics travel award ($150). For travel to the 46th New Ways of Analyzing Variation Conference in Madison, WI. November, 2017.
 
 University of Georgia Graduate School travel award ($300). For travel to the 46th New Ways of Analyzing Variation Conference in Madison, WI. November, 2017.
 
@@ -232,7 +237,7 @@ Brigham Young University Department of Linguistics and English Language Conferen
 
 ### At the University of Georgia
 
-LING 3060: Phonetics and Phonology. Fall 2017.
+Instructor of Record. LING 3060: Phonetics and Phonology. Fall 2017.
 
 ### At Brigham Young University
 

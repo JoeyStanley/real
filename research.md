@@ -7,7 +7,7 @@ title: Research
 
 <div class="research">
 <h2>Western American English</h2>
-<img src="images/projects/west.png" alt="Western US states">
+<img src="images/projects/mturk.png" alt="Western US states">
 <p>One of my areas of research is on English in the Western United States. Thanks to a grant from the UGA Graduate School, I've collected recordings from people all across the West using Using Amazon Mechanical Turk in order to get a better idea about what people sound like. I'm particularly interested in some of the states that get overlooked like Idaho, Montana, and Wyoming. I'll also be targeting linguistic features that are known to be important in Western American English, but I've also included some other stuff based on my experiences in the West. This should be a fantastic project with several hundred participants scattered across a huge portion of the US. It's my hope that it will provide a really good look into this region that will jumpstart me into further research on specific areas. Read more <a href="/blog/a-survey-of-western-american-english-using-mturk">here</a> and <a href="/blog/using-mturk">here</a>.</p>
 </div>
 
@@ -20,7 +20,7 @@ title: Research
 <div class="research">
 <h2>Utah English</h2>
 <img src="images/projects/utah.jpg" alt="Utah">
-<p>Another area I focus on in the West is Utah. I worked on a poster involving vowel mergers over time in a single speaker (<a href="https://www.academia.edu/26986601/Phonetic_Shift_ɔr_Phonemic_Change_American_English_mergers_over_40_years">Stanley &amp; Renwick 2016</a>). Most recently, I've been working with Kyle Vanderniet on consonantal variation in Utah English. Utah is a unique place: its settlement history and highly concentrated Mormon population has had an impact on the English spoken in the region. I think it deserves some more attention by sociolinguists and dialectologists.</p>
+<p>Another area I focus on in the West is Utah. I worked on a poster involving vowel mergers over time in a single speaker (<a href="https://www.academia.edu/26986601/Phonetic_Shift_ɔr_Phonemic_Change_American_English_mergers_over_40_years">Stanley &amp; Renwick 2016</a>). Most recently, I've been working with Kyle Vanderniet on consonantal variation in Utah English and we'll be presenting our results at the American Dialect Society annual meeting in January. I have also just received a grant that will fund some additional fieldwork in Utah County. Utah is a unique place: its settlement history and highly concentrated Mormon population has had an impact on the English spoken in the region. I think it deserves some more attention by sociolinguists and dialectologists.</p>
 </div>
 
 <div class="research">
