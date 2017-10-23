@@ -7,7 +7,7 @@ About me
 
 I’m a doctoral candidate in linguistics at the University of Georgia, doing a lot of sociolinguistics and phonetics while finding new statistical and computational methods to help me in my research.
 
-My primary area of research is on English in the western United States, and my dissertation focuses on mergers in that region. Because I mostly focus on vowels, I've had to learn the skills required to analyze them: Praat scripting, forced alignment, and cutting-edge statistical methods. I also lean towards the variationist sociolinguistic perspective in data collection and analysis. 
+My primary area of research is on English in the western United States. My dissertation focuses on mergers using data I've collected in Washington, Utah, and other areas of the West. Because I mostly focus on vowels, I've had to learn the skills required to analyze them: Praat scripting, forced alignment, and cutting-edge statistical methods. I also lean towards the variationist sociolinguistic perspective in data collection and analysis. 
 
 I'm actively involved with <a href="https://www.english.uga.edu/directory/495/detail">Bill Kretzschmar</a> and <a href="https://faculty.franklin.uga.edu/mrenwick/about" title="Peggy Renwick">Peggy Renwick</a> and the other student workers at the <a href="http://www.lap.uga.edu/" title="Linguist Atlas Project">Linguistic Atlas Project</a> where my job is to act as the middleman between transcriptions and formant measurements. I write and maintain the Praat, R, and Perl scripts we use in the lab, and manage the various forced aligners and automatic formant extractors we work with. I also manage the project's website, the [*Gazetteer of Southern Vowels*](http://lap3.libs.uga.edu/u/jstanley/vowelcharts/).
 
