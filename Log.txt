@@ -124,6 +124,22 @@ Tuesday, September 5, 2017
 Wednesday, October 11, 2017
 3:48pm - Changed the biglink style so that it's not display: block anymore so that they can be in-line with the text. Allows for them to not be at the top and for multiple on the same page. Also made it Avenir font.
 
+Wednesday, November 1, 2017
+7:36pm - Added subsections to Conference Presentations section of CV and split it up between Oral and Poster presentations.
+
+
+
+# Important: This is a list of all the redirects currently in the site.
+* joeystanley.com/ads2017        -> pages/ads2017.md
+* joeystanley.com/brand-yourself -> _pages/2017-01-27-excel-workshop.md
+* joeystanley.com/colloquium     -> _posts/2017-04-08-mount-st-helens-and-vowels.md
+* joeystanley.com/divar1         -> pages/divar1.md
+* joeystanley.com/excel          -> _posts/2017-01-27-excel-workshop.md
+* joeystanley.com/gsv            -> http://lap3.libs.uga.edu/u/jstanley/vowelcharts/
+* joeystanley.com/lcuga4         -> pages/lcuga4.md
+* joeystanley.com/r              -> pages/r-workshops.md
+* joeystanley.com/secol2017      -> _posts/2017-03-09-secol2017.md
+
 
 Blog posts:
 * Word: formatting, styles, etc.
