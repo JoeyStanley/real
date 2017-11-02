@@ -126,7 +126,7 @@ Wednesday, October 11, 2017
 
 Wednesday, November 1, 2017
 7:36pm - Added subsections to Conference Presentations section of CV and split it up between Oral and Poster presentations.
-
+9:37pm - Added NWAV poster.
 
 
 # Important: This is a list of all the redirects currently in the site.
@@ -137,6 +137,7 @@ Wednesday, November 1, 2017
 * joeystanley.com/excel          -> _posts/2017-01-27-excel-workshop.md
 * joeystanley.com/gsv            -> http://lap3.libs.uga.edu/u/jstanley/vowelcharts/
 * joeystanley.com/lcuga4         -> pages/lcuga4.md
+* joeystanley.com/nwav46         -> pages/nwav46.md
 * joeystanley.com/r              -> pages/r-workshops.md
 * joeystanley.com/secol2017      -> _posts/2017-03-09-secol2017.md
 
