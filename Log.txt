@@ -131,6 +131,10 @@ Wednesday, November 1, 2017
 Monday, November 6, 2017
 6:36am - Added image to NWAV page. Also added the img.rounded CSS style to get rounded corners on that kind of page.
 
+# todo
+* Remove pptx files and replace them with PDFs
+* Get better icons.
+
 
 # Important: This is a list of all the redirects currently in the site.
 * joeystanley.com/ads2017        -> pages/ads2017.md
