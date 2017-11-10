@@ -150,6 +150,8 @@ Monday, November 6, 2017
 
 
 Blog posts:
+* Zotero notes: taking notes at conferences and saying when you used each citation.
+* Comparing cowplot with egg
 * Word: formatting, styles, etc.
 * Powerpoint: master sheets, templates
 * How I did the logo hyperlinks
