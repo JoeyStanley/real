@@ -6,7 +6,7 @@ redirect_from: "/nwav46"
 
 # NWAV46
 
-<div class="biglink"><a href="/downloads/171103.pdf" title="NWAV46 Poster" class="nodot">Download the<br />poster here!</a></div>
+<div class="biglink"><a href="/downloads/171103-nwav46.pdf" title="NWAV46 Poster" class="nodot">Download the<br />poster here!</a></div>
 Thanks for stopping by my poster. In a nutshell, I found a couple interesting things going on in a small town in Washington:
 
 *Linguistic changes*—I focused on two variables: <span style="font-variant: small-caps">bag</span>-raising and <span style="font-variant: small-caps">goat</span>-diphthongization. Specifically, older people raised <span style="font-variant: small-caps">bag</span> and younger people had a more diphthongal <span style="font-variant: small-caps">goat</span>. The generational divide was around 1970 and the difference between older and younger people was sudden.
