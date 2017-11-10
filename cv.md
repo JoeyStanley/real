@@ -142,6 +142,7 @@ Shawn Foster, <strong>Joseph A. Stanley</strong>, & Margaret E. L. Renwick. "Vow
 ## Workshops
 
 <strong>Joey Stanley</strong>. “An Introduction to the Tidyverse.” Workshop given at the University of Georgia DigiLab. Athens, GA. November 10, 2017.
+<a href="/downloads/171110-tidyverse_handout" class="paper" title="download the handout for this presentation"></a> 
 
 <strong>Joey Stanley</strong>. "An Introduction to ggplot2." Workshop given at the University of Georgia DigiLab. Athens, GA. October 12, 2017.
 <a href="/downloads/171012-ggplot2_handout.pdf" class="paper" target="_blank" title="open a pdf of the handout to this presentation a new window"></a>
