@@ -10,6 +10,13 @@ Red:    #924630
 Yellow: #928E33
 */
 
+/*
+@font-face {
+	font-family: "Iowan Old Style";
+	src: url("myFont.ttf");
+  }
+  */
+
 html {
 	background: whitesmoke;
 }
@@ -40,7 +47,7 @@ header, nav, body, aside, footer, h1, h2, p, ul, li, time, a {
 body {
 	width: 960px;
 	margin: 0 auto;
-	font: 110% 'Iowan Old Style', 'Cardo', Georgia, serif;
+	font: 110% 'Iowan Old Style', 'Crimson Text', Georgia, serif;
 }
 
 h1, h2, h3, li, footer p, .biglink {
@@ -283,7 +290,7 @@ p a:after {
 }
 
 p {
-	font: 110% 'Iowan Old Style', 'Cardo', Georgia, serif;
+	font: 110% 'Iowan Old Style', 'Crimson Text', Georgia, serif;
 	text-align: justify;
 	line-height: 1.4em;
 	font-size: 110%;
@@ -612,4 +619,10 @@ footer p {
 	color: whitesmoke;
 	font-size: 0.75em;
 	text-align: center;
+}
+
+/* Make the very bottom footer with rounded corners */
+footer.bottom {
+	border: 0px solid #376092;
+	border-radius: 7pt;
 }
