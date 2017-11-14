@@ -20,11 +20,13 @@ I'm currently giving a series of workshops on how to use R which will include a 
 
 I recently gave a workshop on Microsoft Excel in the main library at UGA. It was very well-attended and included graduate students and faculty from a variety of areas in the humanities and social sciences. I normally wouldn't link to just a blog post, but this one does do a good job at summarizing the main points and has the content available for download.
 
+<!--
 ### MANOVA
 
 In the study of vowel overlaps, we use the Pillai score, which is an output of the MANOVA test. Well what is the MANOVA test anyway? In this extended post (forthcoming), I'll go into detail about the math behind the test and, more importantly for linguists, the assumptions that your data should meet before running it.
+-->
 
-
+<br/>
 ## R Resources
 
 Here is a list of resources I've found for R. I've gone through some of them and others are on my to-do list. These are in no particular order. 
