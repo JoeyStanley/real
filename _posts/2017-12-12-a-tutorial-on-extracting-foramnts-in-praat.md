@@ -5,7 +5,7 @@ date:   2017-12-22 00:11:00 -0400
 tags: [How-to Guides, Phonetics, Skills]
 ---
 
-Just this week I've had three people ask for a Praat script that extracts formant measurements. I've been meaning to create some Praat scripting tutorials so this was a good excuse to get something going. Instead of providing you a Praat script, I'm going to show how to write your own. Instead of giving you a fish to feed you for a knight, I'm teaching you how to fish. 
+Just this week I've had three people ask for a Praat script that extracts formant measurements. I've been meaning to create some Praat scripting tutorials so this was a good excuse to get something going. Instead of providing you a Praat script, I'm going to show how to write your own. Instead of giving you a fish to feed you for a night, I'll teach you how to fish. 
 
 Note, this post was written in small chunks over Christmas break with my in-laws in town and I haven't proofread it carefully. It's lengthy because I explain *what* to do, but I barely skim the surface when it comes to *why* you need to do it that way (for example, I gloss over basic computer coding concepts like for loops and variables). Hopefully it'll work for you.
 
