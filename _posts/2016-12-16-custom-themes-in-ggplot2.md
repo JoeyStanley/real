@@ -9,7 +9,7 @@ I've always enjoyed the R package `ggplot2` because it allows limitless flexibil
 
 Yes! I recently discovered how to make a custom theme in `ggplot2`. It was relatively straightforward to create, a cinch to implement, and everything looks great. 
 
-## Why make a custom theme?
+# Why make a custom theme?
 
 First, I don't like it when I go to conferences and I see plots that have the default R settings: the gray background, the white grid, the standard font. To me it's like seeing a document in default the Helvetica or Calibri: they're almost so bad you'd think they did it on purpose to force you to change it. And yet, they remain. 
 
@@ -21,7 +21,7 @@ I like having my own unique theme because it'll add some continuity between my p
 
 Finally, using a custom theme, especially in tandem with a custom powerpoint template, will make it look like everything goes together. My theme colors and font both match my slideshow colors and font (and this website's!), so incorporating these visualizations into my slides is visually seamless. 
 
-## How I figured this stuff out (and how you can learn more)
+# How I figured this stuff out (and how you can learn more)
 
 I discovered how to do this when I was looking at the code for `theme_bw()`. In case you haven't used it, if you add this function to your `ggplot()` command, it'll make a nice black and white theme for you, which I always found to be nice looking. (It's actually just one of several themes: see the help page at `?theme_bw` for other themes to try out.) Here's the code straight from R for convenience: 
 
@@ -44,7 +44,7 @@ function (base_size = 12, base_family = "")
 
 What I see is a function that is based on `theme_grey()` with lots of modified elements to control different parts of a plot. When I was looking through the code, I figured out what was going on and through some trial and error, was able to make my own custom theme. So I'll try to explain it for you and you might find it useful too.
 
-## The nuts and bolts
+# The nuts and bolts
 
 So the way this works is I create a function called `theme_joey()` and base on `theme_bw()`. The following block does that, but it changes the typeface to one I use called Avenir.
 
@@ -54,7 +54,7 @@ theme_joey <- function () {
 }
 ~~~~~~~
 
-Right now other than the typeface, `theme_joey()` is just a copy of `theme_bw()`. What I want to do now is change just a few of the properties in this function. To do that, I use the `%+replace%` command, which, in all honesty, I have no idea how it works. What I want to replace though are elements of the `theme()` function within `theme_bw()`, so I add that to the function:
+Right now, other than the typeface, `theme_joey()` is just a copy of `theme_bw()`. What I want to do now is change just a few of the properties in this function. To do that, I use the `%+replace%` command, which, in all honesty, I have no idea how it works. What I want to replace though are elements of the `theme()` function within `theme_bw()`, so I add that to the function:
 
 ~~~~~~~
 theme_joey <- function () { 
@@ -73,7 +73,7 @@ The first thing I wanted to to do was remove the background. I didn't want a whi
 panel.background  = element_blank(),
 ~~~
 
-Then I wanted to change was the background to make it what I've seen described as "whitesmoke". In all honesty, I'd prefer a transparent background in my plots so that the whatever I copy and paste the image into will always match, but I couldn't figure out how to do that. Here's how I specified the color: 
+Then I wanted to change was the background to make it what I've seen described as "whitesmoke". I'd prefer a transparent background in my plots so that the whatever I copy and paste the image into will always match, but I couldn't figure out how to do that. Here's how I specified the color: 
 
 ~~~
 plot.background = element_rect(fill="gray96", colour=NA), 
@@ -102,14 +102,14 @@ theme_joey <- function () {
 
 So all I need to do is make sure R knows about this function when I start a new session. What I do is I put it at the top of my R scripts in the same chunk of code where I load my packages and read in my data. I can then just add `theme_joey()` to any `ggplot()` command and like magic all my plots match. It's pretty cool.
 
-## Sample plots
+# Sample plots
 
 So here are some sample plots that show the differences between no theme, `theme_bw()`, and my new `theme_joey()`:
 
 ~~~~
 # Sample data
-df <- data.frame(gp = factor(rep(letters[1:3], each = 10)), y = rnorm(30), color=(rep(c("A", "B"), each=5)))
-plot <- ggplot(df, aes(x = gp, y = y, color=color)) + geom_point()
+df <- data.frame(x = factor(rep(letters[1:3], each = 10)), y = rnorm(30), color=(rep(c("A", "B"), each=5)))
+plot <- ggplot(df, aes(x = x, y = y, color=color)) + geom_point()
 
 plot + ggtitle("No theme")
 ~~~~
@@ -133,6 +133,6 @@ Note that some fonts require different settings if you want to export plots that
 ggsave("themes_joey.pdf", device=cairo_pdf, width = 6, height = 6)
 ~~~
 
-## Conclusion
+# Conclusion
 
 And that's it! Give it an hour or so and I think you can start to make a custom theme. And let me know how it turns out. I'd love to see what you've done.
