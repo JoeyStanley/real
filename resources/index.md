@@ -51,6 +51,8 @@ Here is a list of resources I've found for R. I've gone through some of them and
 
 * *[bookdown: Authoring Books and Technical Documents with R Markdown](https://bookdown.org/yihui/bookdown/)* by Yihui Xie. See an introduction to Bookdown by RStudio [here](https://www.rstudio.com/resources/webinars/introducing-bookdown/).
 
+* *[Visualizing text data with ggplot2](https://github.com/ColinFay/conf/blob/master/2017-11-budapest/fay_colin_text_data_ggplot2.pdf?utm_content=buffer56bdc&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)* by Colin Fay. 
+
 <br/>
 ## Statistics Resources
 
@@ -60,7 +62,18 @@ Here is a list of resources I've found for R. I've gone through some of them and
 
 * *[Generalised Additive Mixed Models for Dynamic Analysis in Linguistics: A Practical Introduction](https://arxiv.org/pdf/1703.05339.pdf)* by Márton Sóskuthy.
 
-* *[Overview GAMM analysis of time series data](http://jacolienvanrij.com/Tutorials/GAMM.html)* by Jacolien van Rij. I haven't had time to go through this one yet, but it's on my todo list. Actually [all of her tutorials](http://www.jacolienvanrij.com/cv.html) look great.   
+* *[Overview GAMM analysis of time series data](http://jacolienvanrij.com/Tutorials/GAMM.html)* by Jacolien van Rij. I haven't had time to go through this one yet, but it's on my todo list. Actually [all of her tutorials](http://www.jacolienvanrij.com/cv.html) look great.  
+
+## Quantitative People
+
+* [Josef Fruehwald](https://jofrhwld.github.io)
+
+* [Daniel Ezra Johnson](http://www.danielezrajohnson.com)
+
+* [Bradley T. Rentz](https://rentzb.github.io/#talks)
+
+* [Margaret E. L. Renwick](http://faculty.franklin.uga.edu/mrenwick/)
+
 
 
 <br/>
