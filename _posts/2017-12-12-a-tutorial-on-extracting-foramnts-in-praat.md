@@ -21,6 +21,8 @@ The important part to note is that I have the word-level transcription in the se
 
 To get started, open Praat and load your Sound file and TextGrid. There are ways to load files in automatically through scripting—which is useful if you need to process many files—but we'll keep it simple for now. Note that if you want to extract formants, you should load it in as a *Sound* file and not as a *LongSound*. 
 
+<img src="/images/screenshots/praat_objects_window.png" style="width: 30em;"/> 
+
 Once you've done that create a script by going to Praat > New Praat Script. 
 
 <img src="/images/screenshots/praat_file_menu.png"/> 
@@ -32,8 +34,7 @@ A blank window should open up for you to write your script in.
 So now we have a blank canvas. Let's pause for a second and think about what the script is going to do. The goal is to turn this phoneme-level transcription and accompanying audio into a spreadsheet of formants. To accomplish this task, tere are the steps I'll take:
 
 1. Go through each phoneme in your TextGrid.
-1. See if it's a vowel.
-1. If it is, find the midpoint.
+1. Find the midpoint.
 1. Extract formant measurements at that midpoint.
 1. Save those formants into some file so I can use it later (in R or something).
 
@@ -41,16 +42,18 @@ That's the gist of the script. Now we "just" need to translate that into Praat's
 
 # Extracting the names of Praat objects 
 
-Before we can do any of that, Praat needs to figure out a few things. First off, it doesn't even know what files to work with! We can tell it to work with the Sound and TextGrid files that are already loaded by putting in these lines of code:
+Before we can do any of that, Praat needs to figure out a few things. First off, it doesn't even know what files to work with! We can tell it to work with the Sound and TextGrid files that are already loaded by putting in these lines of code into your Praat script:
 
 <pre>
 thisSound$ = selected$("Sound")
 thisTextGrid$ = selected$("TextGrid")
 </pre>
 
-What the first line does is it tells Praat to look at whatever Sound file is selected and extract its name. This name is then stored in a variable called `thisSound$`. The dollar sign at the end of that variable name means that the variable contains text rather than a number (in computer circles, text is often called "strings," as in a string of characters). My Sound file is called "Joey", so now the variable `thisSound$` contains the string "Joey".
+<img src="/images/screenshots/praat_basic_script.png" style="width: 30em;"/> 
 
-The second line does the exact same thing, but it looks saves the name of the TextGrid instead. The end result of these two lines of code is that Praat now has the names of the two files you highlighted. They're saved in these variable names so we can call upon them later on in the script.
+What the first line does is it tells Praat to look at whatever Sound file is selected and extract its name. This name is then stored in a variable called `thisSound$`. The dollar sign at the end of that variable name means that the variable contains text rather than a number (in computer circles, text is often called "strings," as in a string of characters). My Sound file is called "Joey", so now the variable `thisSound$` contains the string "`Joey`".
+
+The second line does the exact same thing, but it looks saves the name of the TextGrid instead. The end result of these two lines of code is that Praat now has the names of the two files you highlighted. They're saved in these variable names so we can call upon them later on in the script when we need to.
 
 To run this script, go to where the two files are in the Objects Window and select both of them. 
 
@@ -60,7 +63,7 @@ Then, go to your scripting window and click Run > Run (or command+R in Macs). Th
 
 # Getting feedback from Praat
 
-If you want some visual feedback just to know Praat ran, you can add have Praat write messages with info in it. For example, you can do a simple "Hello, World!" with the `writeInfo` command (be sure to note the capitalization!):
+If you want some visual feedback just to know Praat ran, you can have Praat write messages to you. For example, you can do a simple "Hello, World!" with the `writeInfo` command (be sure to note the capitalized *I* in `writeInfo`!):
 
 <pre>
 writeInfo: "Hello, World!"
@@ -94,12 +97,12 @@ appendInfoLine: newline$, newline$ "Whoo-hoo! It didn't crash!"
 So at this point, your script should match the following block of code, and when you run it your Praat Info box should be the same as mine.
 
 <pre>
-writeInfoLine: "Extracting formants..."
+<b>writeInfoLine: "Extracting formants..."</b>
 
 thisSound$ = selected$("Sound")
 thisTextGrid$ = selected$("TextGrid")
 
-appendInfoLine: newline$, newline$, "Whoo-hoo! It didn't crash!"
+<b>appendInfoLine: newline$, newline$, "Whoo-hoo! It didn't crash!"</b>
 </pre>
 <img src="/images/screenshots/praat_info_window1.png" style="width: 30em;"/> 
 
@@ -116,7 +119,7 @@ numberOfPhonemes = <b>Get number of intervals:</b> 1
 
 The first line of this code selects the TextGrid with the name that's stored inside the `thisTextGrid$` variable name. It we want to work with TextGrids, we have to select them in Praat. Since we need to extract information about the TextGrid (how many phonemes there are) we need to make sure Praat is working with the right object.
 
-What the next line does is it goes to the first tier—hence the `1` in that line—and it finds out how many intervals there are in it. This number is saved into a new variable called `numberOfPhonemes`. Remember that all of these variable names are completely arbitrary and you can call them whatever you want. I tend to use verbose names, but that's just my own style of Praat scripting.
+What the next line does is it goes to the first tier—hence the `1` in that line—and it finds out how many intervals there are in it. This number is saved into a new variable called `numberOfPhonemes`. Remember that all of these variable names are completely arbitrary and you can call them whatever you want. I tend to use verbose names, but that's just my own style of Praat scripting. Also, remember that the variable name `numberOfPhonemes` does *not* end with a `$` sign because this stores a number instead of a string.
 
 To see how many of these intervals there are, let's display this information:
 
@@ -139,11 +142,11 @@ appendInfoLine: "There are ", numberOfPhonemes, " intervals."</b>
 appendInfoLine: newline$, newline$, "Whoo-hoo! It didn't crash!"
 </pre>
 
-So now we have a script that knows what files to look at and how many phonemes there are in the TextGrid.
+So now we have a script that knows what files to look at and how many intervals there are on the phoneme tier in the TextGrid.
 
 # Loop through the intervals
 
-What we now need to do is construct a "for" loop. This is something that can be done in virtually every programming language. We tell Praat to execute the same command some prespecified number of times. In this case, we want to do stuff at every interval—534 times.
+What we now need to do is construct a "for" loop. This is something that can be done in virtually every programming language. We tell Praat to execute the same command some prespecified number of times. In this case, we want to do analyze and extract information from potentially all 534 intervals in the phoneme tier, so we'll run a loop 534 times. 
 
 A for loop example in Praat looks like this:
 
@@ -155,7 +158,7 @@ endfor
 </pre>
 On the outside there is code to indicate where the loop starts and stops. Everything between those lines is what gets executed some number of times. Here, it's going to run 10 times, because we told it to do this `from 1 to 10`. Note that while not necessary, it's a good idea to indent any code that is in the for loop. It just makes the structure of your code easier to see.
 
-To keep track of what iteration we're on, it also creates a variable called `i`, that stores the nth iteration we're on. In fact, we can print out this `i` variable each time:
+To keep track of what iteration we're on, it also creates a variable called `i` that stores the nth iteration we're on. In other words, on the first iteration of the loop, `i` = 1, on the second, `i` = 2, etc. In fact, we can print out this `i` variable each time:
 
 <pre>
 for i from 1 to 10
@@ -165,7 +168,7 @@ endfor
 
 <img src="/images/screenshots/praat_info_window2.png" style="width: 30em;"/> 
 
-So instead of looping from 1 to 10, we can loop from 1 to however many intervals we have. We do this by replacing the `10` with the variable name `numberOfPhonemes`. I'm also going to change the variable name from `i` to `thisInterval` because it's clearer that way. Your script should look like this now:
+So instead of looping from 1 to 10, we can loop from 1 to however many intervals we have. We do this by replacing the `10` with the variable name `numberOfPhonemes`. I'm also going to change the variable name from `i` to `thisInterval` because to me it's clearer that way. Your script should look like this now:
 
 <pre>
 writeInfoLine: "Extracting formants..."
@@ -184,7 +187,7 @@ endfor</b>
 appendInfoLine: newline$, newline$, "Whoo-hoo! It didn't crash!"
 </pre>
 
-When you run your script now (after highlighting both the Sound and the TextGrid as usual), it'll just print a list of numbers from 1 to however many intervals you have. If you have several hundred intervals or more, you'll notice that the rate that it prints things decreases a little bit. I've noticed that Praat loops get slower and slower as they go on, but only when printing things out! They're still lightening fast if you don't print anything.
+When you run your script now (after highlighting both the Sound and the TextGrid as usual), it'll just print a list of numbers from 1 to however many intervals you have. If you have several hundred intervals or more, you'll notice that the rate that it prints things gradually decreases. I've noticed that Praat loops get slower and slower as they go on—but only when printing things out! They're still lightening fast if you don't print anything.
 
 # Comments
 
@@ -214,19 +217,33 @@ appendInfoLine: newline$, newline$, "Whoo-hoo! It didn't crash!"
 
 You can put more comments to explain the nitty-gritty details about things too. Like it might be good to mention that the phoneme tier is on top so that's why the `1` is in that line of code. It's all up to you. It's a *really* good idea to at least put some comments in. Not only is it good coding practice, but you'll thank yourself next time you go look at the script. 
 
-For now I'm going to comment out the one line of code inside the for loop, the one that prints the interval number. This is because it slows Praat down a lot. Putting the pound sign at the start treats it like a comment, meaning it gets ignored by Praat, but is good to have in code you want to put it back in for whatever reason.
+For now I'm going to "comment out" the one line of code inside the for loop, the one that prints the interval number. This is because it slows Praat down a lot. Putting the pound sign at the start treats it like a comment, meaning it gets ignored by Praat, but is good to have in code you want to put it back in for whatever reason.
+
+<pre>
+# Loop through each interval on the phoneme tier.
+for thisInterval from 1 to numberOfPhonemes
+    <b>#appendInfoLine: thisInterval</b>
+endfor
+
+</pre>
 
 # Detecting the phoneme
 
-So we've got a loop going from 1 to 534. But those are just numbers. We need to actually get into the TextGrid itself. We need to start by seeing the contents of those intervals, *i.e.* the label. Next, we'll see whether it's a vowel or not, but for now we just need to see what the label is.
+So we've got a loop going from 1 to 534. But those are just numbers—we're not actually getting any information about the TextGrid itself. We need to actually start working with the intervals in the TextGrid. We can do this using the loop: on the 1st iteration, look at the 1st interval in the TextGrid. On the second iteration of the loop, look at the second interval. Keep doing this until we're on the 534th iteration of the loop and we look at the 534th (and last) interval. So in this way we're technically looping through numbers still but use those to access the TextGrid. I don't know of a way to loop through the intervals themselves.
 
-To do that, we need to use the function `Get label of interval:`. As additional "arguments" to this function, we need to tell it what tier to look at and then what interval. So if we want to look at the third interval of the top tier, we would use this code:
+We need to start by seeing the contents of those intervals, *i.e.* their "labels". To do that, we need to use the function `Get label of interval:`. As additional "arguments" to this function, we need to tell it what tier to look at and then what interval. So if we want to look at the third interval of the top(=first) tier, we would use this code:
 
 <pre>
 Get label of interval: 1, 3
 </pre>
 
-What we can do is put this inside of the loop, and instead of specifying which interval to look at, put in the `thisInterval` variable. Remember that changes for every iteration, from 1 to 534. We'll save this into a new variable that I like to call `thisPhoneme$'. So our for loop might now look like this:
+This command would go to the third interval in the first tier and would pull out whatever text is in there. We can save this text by starting that line of code with "`thisPhoneme$ = `":
+
+<pre>
+<b>thisPhoneme$ = </b>Get label of interval: 1, 3
+</pre>
+
+What we can do is put this inside of the loop, and instead of specifically saying to look at the third interval, we'll put in the `thisInterval` variable. Remember `thisInterval` changes for every iteration of the loop, from 1 to 534. We'll save this into the new variable `thisPhoneme$`. So our for loop might now look like this:
 
 <pre>
 # Loop through each interval on the phoneme tier.
@@ -255,7 +272,7 @@ endfor
 
 Like the previous `appendInfoLine` line, I'll comment it out again, but it's there in case you need to debug or something.
 
-So, our script so far should look like this:
+So, our script with everything so far should look like this:
 
 <pre>
 writeInfoLine: "Extracting formants..."
@@ -284,9 +301,9 @@ appendInfoLine: newline$, newline$, "Whoo-hoo! It didn't crash!"
 
 # Determining the extraction time
 
-So we've got a loop that looks at each interval on the phoneme tier. It's common and relatively straightforward to extract formants at the midpoint of each vowel. So we need to find exactly at what time point in the file the midoint of each interval is.
+So we've got a loop that looks at each interval on the phoneme tier. It's common and relatively straightforward to extract formants at the midpoint of each vowel. So the next step is to find exactly at what time point in the file the midoint of each interval is.
 
-We can use simple math to determine the midpoint. It's just halfway between the beginning and the end of the interval. So let's extract the start and end times of each interval using the `Get start point:` and `Get end point:` functions. Both of these take two arguments: the tier to look at the interval number to look at. In my file, the phoneme tier is tier 1, and the interval number is saved in the variable `thisInterval`. I'll save these numbers into variables called `thisPhonemeStartTime` and `thisPhonemeEndTime` (my Praat variables tend to be verbose for clarity).
+Unfortunately, there's no command that gets the midpoint as far as I'm aware. But we can use simple math to determine the midpoint: it's just halfway between the beginning and the end of the interval. Luckily, we can extract the beginning and end times of the interval. Let's do that using the `Get start point:` and `Get end point:` functions. Both of these take two arguments: the tier and the interval number to look at. In my file, the phoneme tier is tier 1, and the interval number is saved in the variable `thisInterval`. I'll save these numbers into variables called `thisPhonemeStartTime` and `thisPhonemeEndTime` (again, my Praat variables tend to be verbose for clarity).
 
 <pre>
 thisPhonemeStartTime = Get start point: 2, thisInterval
@@ -300,7 +317,7 @@ duration = thisPhonemeEndTime - thisPhonemeStartTime
 midpoint = thisPhonemeStartTime + duration/2
 </pre>
 
-Now, the variable `midpoint` contains the time (in seconds) of how far into the audio to extract formant measurements. Keep in mind that, just like everything inside the loop, this changes for each interval as we loop through them one at a time. At any one point, 'midpoint' only has one number stored in it, but this will change at every iteration of the loop.
+Now, the variable `midpoint` contains the time (in seconds) of how far into the audio to extract formant measurements. Keep in mind that, just like everything inside the loop, this changes for each interval as we loop through them one at a time. At any one point, `midpoint` only has one number stored in it, but this will change at every iteration of the loop.
 
 Now our script looks like this:
 
@@ -390,13 +407,18 @@ Note that creating formant objects takes a relatively long time. Up until now, y
 
 # Formant Extraction
 
-At last, we can now extract formants. We've got the times we need to extrat from, and now we have the formant object to query. To do this, we use the commend `Get value at time...`. This command takes four arguments: the formant number, the time, the units, and the interpolation. The formant number is just a number (1 for F2, 2 for F2, etc.), and the time is the time point we want to extract from (this is saved in the `midpoint` variable in our code). I always use Hertz and Linear for the other two arguments. 
+At last, we can now extract formants. We've got the times we need to extract from (the `midpoint` variable), and now we have the formant object to query. The command we need is `Get value at time...`, which takes four arguments: the formant number, the time, the units, and the interpolation. The formant number is just a number (1 for F2, 2 for F2, etc.), and the time is the time point we want to extract from (this is saved in the `midpoint` variable in our code). I always use Hertz and Linear for the other two arguments because of inherited code I had when I was first learning Praat but you're welcome to explore the other options Praat has available.
 
-To do this, we first select the formant object. Since this object has the same name as the Sound object, we can refer to the Formant object by name using the `thisSound$` variable. We then run the function three times, one for each formant, and save it into three new variables, `f1, `f2`, and `f3`.
+To run this command, we actually need to select the Formant object rather than the Sound or TextGrid. Since this object has the same name as the Sound object, we can refer to the Formant object by name using the `thisSound$` variable. 
 
 <pre>
 # Extract Formant Measurements
 select Formant 'thisSound$'
+</pre>
+
+We then run the function three times, one for each formant, and save it into three new variables, `f1`, `f2`, and `f3`.
+
+<pre>
 f1 = Get value at time... 1 midpoint Hertz Linear
 f2 = Get value at time... 2 midpoint Hertz Linear
 f3 = Get value at time... 3 midpoint Hertz Linear
@@ -450,9 +472,9 @@ Hooray! You've extracted formant measurements! Unfortunately, we didn't save any
 
 # Save to a file
 
-The easiest way to save formants is to write them out to some sort of spreadsheet. Before the loop starts I create the file and write the first line out (the headers). Then, within the loop and after I've extracted the formant measurements, I append to that file one line that contains all the information I've just extracted.
+The easiest way to save formants is to write them out to some sort of spreadsheet. So before the loop starts I create the file and write the first line out (the headers). Then, within the loop and after I've extracted the formant measurements, I append to that file one line that contains all the information I've just extracted.
 
-To start with the first line, we use the command `writeFileLine:`. This is analogous to the `writeInfoLine` function I described previously, only this time it writes the information out onto some file. As the first argument, you need to supply a path name. I'll create a file called `formants.csv`, which is located in the folder `/Users/joeystanley/Desktop/Projects/Praat/`. Note that I'm on a Mac, and Windows users will probably need to use double *forward* slashes instead of backslashes like mine. 
+To start with the first line, we use the command `writeFileLine:`. This is analogous to the `writeInfoLine` function I described previously, only this time it writes the information out onto some file. As the first argument, you need to supply a path name. I'll create a file called `formants.csv`, which is located in the folder `/Users/joeystanley/Desktop/Projects/Praat/`. Note that I'm on a Mac, and Windows users will probably need to use double *forward* slashes instead of backslashes: `C:\\Users\\joeystanley\\Desktop\\Projects\\Praat\\`. 
 
 For convenience, I like to save the path to the file into a variable called `outputPath$`. After doing that, we can then just refer to it in the `writeFileLine:` function. This goes just before your loop.
 
@@ -461,13 +483,13 @@ For convenience, I like to save the path to the file into a variable called `out
 outputPath$ = "/Users/joeystanley/Desktop/Projects/Praat/formants.csv"
 </pre>
 
-We then have to decide what information we want to save. All we have right now is the time, the phoneme, and the first three formants. We'll start with that. In `writeFileLine:`, be sure to put `outputPath$` first, a comma, and then whatever you want to have on the top line, each separated by a comma (since we're making a comma separated value file, a csv). This will go just after the above snippet.  
+We then have to decide what information we want to save. All we have right now is the time, the phoneme, and the first three formants. We'll start with that. In `writeFileLine:`, be sure to put `outputPath$` first, a comma, and then whatever you want to have on the top line, each separated by a comma. (We use commas as separators since we're making a csv, a "comma separated value" file.) Be sure to mind the quotes.
 
 <pre>
 writeFileLine: "'outputPath$'", "time,phoneme,F1,F2,F3"
 </pre>
 
-After you run this, a new spreadsheet should have been created that that top line. Now we need to add the rest of the spreadsheet. Lower in your code, just after the part where you extract the formants, add this block of code:
+After you run this, a new spreadsheet should have been created that contains that top line. Now we need to add the rest of the spreadsheet. Down inside your loop, just after the part where you extract the formants, add this block of code:
 
 <pre>
 # Save to a spreadsheet
@@ -511,26 +533,26 @@ for thisInterval from 1 to numberOfPhonemes
     select TextGrid 'thisTextGrid$'
     thisPhoneme$ = Get label of interval: 1, thisInterval
     #appendInfoLine: thisPhoneme$
+    
+    # Find the midpoint.
+    thisPhonemeStartTime = Get start point: 1, thisInterval
+    thisPhonemeEndTime   = Get end point:   1, thisInterval
+    duration = thisPhonemeEndTime - thisPhonemeStartTime
+    midpoint = thisPhonemeStartTime + duration/2
+    
+    # Extract formant measurements
+    select Formant 'thisSound$'
+    f1 = Get value at time... 1 midpoint Hertz Linear
+    f2 = Get value at time... 1 midpoint Hertz Linear
+    f3 = Get value at time... 1 midpoint Hertz Linear
 
-	# Find the midpoint.
-	thisPhonemeStartTime = Get start point: 1, thisInterval
-	thisPhonemeEndTime   = Get end point:   1, thisInterval
-	duration = thisPhonemeEndTime - thisPhonemeStartTime
-	midpoint = thisPhonemeStartTime + duration/2
-
-	# Extract formant measurements
-	select Formant 'thisSound$'
-	f1 = Get value at time... 1 midpoint Hertz Linear
-	f2 = Get value at time... 1 midpoint Hertz Linear
-	f3 = Get value at time... 1 midpoint Hertz Linear
-
-	<b># Save to a spreadsheet
-	appendFileLine: "'outputPath$'", 
-                        ...midpoint, ",",
-                        ...thisPhoneme$, ",",
-                        ...f1, ",", 
-                        ...f2, ",", 
-                        ...f3</b>
+    <b># Save to a spreadsheet
+    appendFileLine: "'outputPath$'", 
+                    ...midpoint, ",",
+                    ...thisPhoneme$, ",",
+                    ...f1, ",", 
+                    ...f2, ",", 
+                    ...f3</b>
 
 endfor
 
@@ -566,13 +588,13 @@ appendFileLine: "'outputPath$'",
                     ...f3
 </pre>
 
-It would also be good to know what word these formants came from. We have what phoneme it was, but no context about the word. We've seen how to get the label of an interval given an interval number, but now we need to get the interval number given a specific time. First, this will go after formant extraction which is working with the formant object, so we need to switch back to the TextGrid object.
+It would also be good to know what word these formants came from. We have what phoneme it was, but no information about the word. We've seen how to get the label of an interval given an interval number, but now we need to get the interval number given a specific time. First, this will go after formant extraction which is working with the formant object, so we need to switch back to the TextGrid object.
 
 <pre>
 select TextGrid 'thisTextGrid$'
 </pre>
 
-Then, we'll use the `Get interval at time:` function and supply what tier number we want to look at (tier 2 in thsi file) and the time (stored in the `midpoint` variable). This will return a number, which is the nth interval in the word tier that contains that time. We'll save that into a variable called `thisWordInterval`. 
+Then, we'll use the `Get interval at time:` function and supply what tier number we want to look at (tier 2 in this file) and the time (stored in the `midpoint` variable). This will return a number, which is the nth interval in the word tier that contains that time. We'll save that into a variable called `thisWordInterval`. 
 
 <pre>
 thisWordInterval = Get interval at time: 2, midpoint
@@ -636,41 +658,42 @@ for thisInterval from 1 to numberOfPhonemes
     select TextGrid 'thisTextGrid$'
     thisPhoneme$ = Get label of interval: 1, thisInterval
     #appendInfoLine: thisPhoneme$
+    
+    # Find the midpoint.
+    thisPhonemeStartTime = Get start point: 1, thisInterval
+    thisPhonemeEndTime   = Get end point:   1, thisInterval
+    duration = thisPhonemeEndTime - thisPhonemeStartTime
+    midpoint = thisPhonemeStartTime + duration/2
+    
+    # Extract formant measurements
+    select Formant 'thisSound$'
+    f1 = Get value at time... 1 midpoint Hertz Linear
+    f2 = Get value at time... 1 midpoint Hertz Linear
+    f3 = Get value at time... 1 midpoint Hertz Linear
 
-	# Find the midpoint.
-	thisPhonemeStartTime = Get start point: 1, thisInterval
-	thisPhonemeEndTime   = Get end point:   1, thisInterval
-	duration = thisPhonemeEndTime - thisPhonemeStartTime
-	midpoint = thisPhonemeStartTime + duration/2
+    <b># Get the word interval and then the label
+    select TextGrid 'thisTextGrid$'
+    thisWordInterval = Get interval at time: 2, midpoint
+    thisWord$ = Get label of interval: 2, thisWordInterval</b>
 
-	# Extract formant measurements
-	select Formant 'thisSound$'
-	f1 = Get value at time... 1 midpoint Hertz Linear
-	f2 = Get value at time... 1 midpoint Hertz Linear
-	f3 = Get value at time... 1 midpoint Hertz Linear
-
-	<b># Get the word interval and then the label
-	select TextGrid 'thisTextGrid$'
-	thisWordInterval = Get interval at time: 2, midpoint
-	thisWord$ = Get label of interval: 2, thisWordInterval</b>
-
-	# Save to a spreadsheet
-	appendFileLine:  "'outputPath$'", 
-					...thisSound$, ",",
-					...midpoint, ",",
-					<b>...thisWord$, ",",</b>
-					...thisPhoneme$, ",",
-					...f1, ",", 
-					...f2, ",", 
-					...f3
+    # Save to a spreadsheet
+    appendFileLine: "'outputPath$'", 
+		    ...thisSound$, ",",
+		    ...midpoint, ",",
+		    <b>...thisWord$, ",",</b>
+		    ...thisPhoneme$, ",",
+		    ...f1, ",", 
+		    ...f2, ",", 
+		    ...f3
 
 endfor
 
 appendInfoLine: newline$, newline$, "Whoo-hoo! It didn't crash!"
 </pre>
 
+So for now, this is the finished product. There's still a lot of things that could be made to this script to make it easier to use in the future (such as saving the tier numbers as variables, detecting whether an interval contains a vowel, adding flexibility in the formant extraction settings, and running this script on multiple files at once) but that'll have to wait for another blog post. This script should get you the information you want if you want to do a basic formant extraction. 
 
-So for now, this is the finished product. There's still a lot of things that could be made to this script to make it easier to use in the future, but that'll have to wait for another blog post. This script should get you the information you want if you want to do a basic formant extraction. 
+# Conclusion
 
 As I said in the introduction, this tutorial has shown you *what* to do, but not necessarily *how* or *why*. To learn more about how this is done—and especially to learn how to modify it to suit your own needs better—you'll have to get your hands dirty and play around and learn on your own. Google and Praat's built-in documentation will have everything you need. 
 
