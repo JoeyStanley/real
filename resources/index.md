@@ -1,5 +1,5 @@
 ---
-layout: aside
+layout: resources
 title: Resources
 toc: false
 ---

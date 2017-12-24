@@ -448,6 +448,15 @@ a.audio:after {
 	content: url('/images/icons/audio.png');
 }
 
+/* ########################################## */
+/*              Resources Page                */
+/* ########################################## */
+
+/* Make the lists in the resources page slightly indented*/
+#resources li {
+	margin-left: 2em;
+}
+
 
 /* ########################################## */
 /*              TOC Resources                 */
