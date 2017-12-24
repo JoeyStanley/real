@@ -71,6 +71,12 @@ h3 {
 	font-size: 1.25em;
 }
 
+/* Indent and grey background on syntax highlighting.*/
+div.highlighter-rouge, pre {
+	background-color: #D3D3D3;
+	padding-left: 2em;
+}
+
 
 /* ########################################## */
 /*                 Header Styles              */
