@@ -252,11 +252,13 @@ Brigham Young University Department of Linguistics and English Language Conferen
 
 Instructor of Record. LING 3060: Phonetics and Phonology. Fall 2017.
 
+Teacher’s Assistant for Peggy Renwick. LING 4400/6400: Quantitative Methods in Linguistics. Spring 2017.
+
 ### At Brigham Young University
 
-Teaching Assistant for Jason Dzubak. Linguistic Computing and Programming 1. Winter 2013.
+Teaching Assistant for Jason Dzubak. LINGC220: Linguistic Computing and Programming 1. Winter 2013.
 
-Teaching Assistant for Dr. Monte Shelley, “Basic Humanities Computing Skills”. Fall 2011, Winter 2012, Fall 2012.
+Teaching Assistant for Dr. Monte Shelley. LINGC 200: Basic Humanities Computing Skills. Fall 2011, Winter 2012, Fall 2012.
 
 
 <br />
@@ -340,6 +342,7 @@ Portuguese-to-English simultaneous interpretor, Missionary Training Center, Prov
 
 ## Fieldwork Experience
 
+Sociolinguistic fieldwork in Utah and Wasatch Counties, Utah. January, 2018.
 
 Sociolinguistic fieldwork in [Cowlitz County, Washington](https://en.wikipedia.org/wiki/Cowlitz_County,_Washington). July, 2016.
 
