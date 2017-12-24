@@ -71,6 +71,16 @@ Here is a list of resources I've found for R. I've gone through some of them and
 [//]: # * [Bradley T. Rentz](https://rentzb.github.io/#talks)
 [//]: # * [Margaret E. L. Renwick](http://faculty.franklin.uga.edu/mrenwick/)
 
+<br/>
+## Praat Resources
+
+[Will Styler's](http://savethevowels.org/will/) Praat tutorial is probably the most thorough I've seen. The PDF can be found [here](http://savethevowels.org/praat/UsingPraatforLinguisticResearchLatest.pdf) but don't forget to look at the [page](http://savethevowels.org/praat/) it comes from which has more information about it. 
+
+*[Phonetics on Speed: Praat Scripting Tutorial](http://praatscripting.lingphon.net)* by Jörg Mayer is what I find myself coming back to again and again.
+
+[University of Washington Phonetics Lab](https://depts.washington.edu/phonlab/resources.htm) has tutorials and scripts.
+
+And I've written a [tutorial](/blog/a-tutorial-on-extracting-foramnts-in-praat) on writing a script for basic automatic formant extraction. 
 
 
 <br/>
