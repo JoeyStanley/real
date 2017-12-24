@@ -13,7 +13,7 @@ Note, this post was written in small chunks over Christmas break with my in-laws
 
 For this tutorial, I'll work with a recording of myself reading a couple dozen words with the /u/ vowel that I created for something a few months ago. I did the word-level transcription by hand (including boundaries) and then I sent it off to [DARLA](darla.dartmouth.edu) for forced alignment. Here's what one word looks like:
 
-<img src="/images/screenshots/Praat_sound_file.png" style="width: 30em;"/> 
+<img src="/images/screenshots/praat_sound_file.png" style="width: 30em;"/> 
 
 The important part to note is that I have the word-level transcription in the second tier, and a phoneme-level transcription—in ARPABET—in the first tier. I'm going to assume you've used DARLA or FAVE to process your files so they should look like mine does.
 
@@ -23,11 +23,11 @@ To get started, open Praat and load your Sound file and TextGrid. There are ways
 
 Once you've done that create a script by going to Praat > New Praat Script. 
 
-<img src="/images/screenshots/Praat_file_menu.png"/> 
+<img src="/images/screenshots/praat_file_menu.png"/> 
 
 A blank window should open up for you to write your script in.
 
-<img src="/images/screenshots/Praat_new_script.png" style="width: 30em;"/> 
+<img src="/images/screenshots/praat_new_script.png" style="width: 30em;"/> 
 
 So now we have a blank canvas. Let's pause for a second and think about what the script is going to do. The goal is to turn this phoneme-level transcription and accompanying audio into a spreadsheet of formants. To accomplish this task, tere are the steps I'll take:
 
@@ -54,7 +54,7 @@ The second line does the exact same thing, but it looks saves the name of the Te
 
 To run this script, go to where the two files are in the Objects Window and select both of them. 
 
-<img src="/images/screenshots/Praat_objects_window.png" style="width: 30em;"/> 
+<img src="/images/screenshots/praat_objects_window.png" style="width: 30em;"/> 
 
 Then, go to your scripting window and click Run > Run (or command+R in Macs). This will run the entire script all at once. Nothing seemingly happens because it's so simple, but assuming you don't have any errors, then it should run fine. If you do have errors, check to make sure you've typed (or copy and pasted) the code correctly, and make sure that both the Sound file and TextGrid are loaded into Praat and are highlighted.
 
@@ -68,7 +68,7 @@ writeInfo: "Hello, World!"
 
 When you run this, it'll open a new window, the Praat Info window, and will display that text.
 
-<img src="/images/screenshots/Praat_hello_world.png" style="width: 30em;"/> 
+<img src="/images/screenshots/praat_hello_world.png" style="width: 30em;"/> 
 
 A couple things to note. There are four variants of this command:
 
@@ -101,7 +101,7 @@ thisTextGrid$ = selected$("TextGrid")
 
 appendInfoLine: newline$, newline$, "Whoo-hoo! It didn't crash!"
 </pre>
-<img src="/images/screenshots/Praat_info_window1.png" style="width: 30em;"/> 
+<img src="/images/screenshots/praat_info_window1.png" style="width: 30em;"/> 
 
 So far this script is pretty useless. Let's actually get it to work for you.
 
@@ -163,7 +163,7 @@ for i from 1 to 10
 endfor
 </pre>
 
-<img src="/images/screenshots/Praat_info_window2.png" style="width: 30em;"/> 
+<img src="/images/screenshots/praat_info_window2.png" style="width: 30em;"/> 
 
 So instead of looping from 1 to 10, we can loop from 1 to however many intervals we have. We do this by replacing the `10` with the variable name `numberOfPhonemes`. I'm also going to change the variable name from `i` to `thisInterval` because it's clearer that way. Your script should look like this now:
 
