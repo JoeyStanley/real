@@ -73,15 +73,6 @@ h3 {
 	font-size: 1.25em;
 }
 
-/* Indent and grey background on syntax highlighting.*/
-div.highlighter-rouge, pre {
-	background-color: #D3D3D3;
-	padding-left: 2em;
-
-	max-width: 960px;
-	overflow: auto;
-}
-
 
 /* ########################################## */
 /*                 Header Styles              */
@@ -657,6 +648,22 @@ footer.bottom {
 /* ########################################## */
 /*            My own syntax highlighting      */
 /* ########################################## */
+
+/* Indent and grey background on syntax highlighting.*/
+div.highlighter-rouge, pre {
+	background-color: #D3D3D3;
+	padding-left: 2em;
+
+	/* Horizontal scroll if it's too wide */
+	max-width: 960px;
+	overflow: auto;
+
+	/* Rounded corners */
+	border: 0px solid #D3D3D3;
+	border-radius: 7pt;
+}
+
+/* The Praat and R blocks look slightly different and I can't figure out why. */
 
 .language-r	.c1 { color: forestgreen }  /* Comments (one-line comments) */
 .language-r	.kc { color: darkblue }		/* TRUE FALSE (Keyword.Consant) */
