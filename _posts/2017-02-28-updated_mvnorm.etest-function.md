@@ -9,13 +9,13 @@ In Levshina's *How to do Linguistics with R*, the function `mvnorm.etest()` from
 
 I looked into it and it turns out that the book was based on an older version of the `energy` package (<1.7). But if you've updated the package since August 2016 to version 1.7 or later, the code breaks. What happened? Here's the old code:
 
-~~~
+~~~r
 mvnorm.etest(cbind(x, y))
 ~~~
 
 While this worked with the old versions, in the newer versions this returns a *p*-value of "NA". This function does some bootstrapping meaning it runs some function on the data over and over some number of times. In the old version of the package, the default was 999 replicates. In the new version there is no default, so you have to specify the number of replicates with the `R=999` argument:
 
-~~~
+~~~r
 mvnorm.etest(cbind(x, y), R=999)
 ~~~
 

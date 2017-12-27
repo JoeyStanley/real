@@ -25,7 +25,7 @@ Finally, using a custom theme, especially in tandem with a custom powerpoint tem
 
 I discovered how to do this when I was looking at the code for `theme_bw()`. In case you haven't used it, if you add this function to your `ggplot()` command, it'll make a nice black and white theme for you, which I always found to be nice looking. (It's actually just one of several themes: see the help page at `?theme_bw` for other themes to try out.) Here's the code straight from R for convenience: 
 
-~~~~~~
+~~~~~~r
 > theme_bw
 function (base_size = 12, base_family = "") 
 {
@@ -48,7 +48,7 @@ What I see is a function that is based on `theme_grey()` with lots of modified e
 
 So the way this works is I create a function called `theme_joey()` and base on `theme_bw()`. The following block does that, but it changes the typeface to one I use called Avenir.
 
-~~~~~~~
+~~~~~~~r
 theme_joey <- function () { 
     theme_bw(base_size=12, base_family="Avenir")
 }
@@ -56,7 +56,7 @@ theme_joey <- function () {
 
 Right now, other than the typeface, `theme_joey()` is just a copy of `theme_bw()`. What I want to do now is change just a few of the properties in this function. To do that, I use the `%+replace%` command, which, in all honesty, I have no idea how it works. What I want to replace though are elements of the `theme()` function within `theme_bw()`, so I add that to the function:
 
-~~~~~~~
+~~~~~~~r
 theme_joey <- function () { 
     theme_bw(base_size=12, base_family="Avenir") %+replace% 
         theme(
@@ -69,26 +69,26 @@ Now, I just need to specify which elements of `theme()` I want to change. This t
 
 The first thing I wanted to to do was remove the background. I didn't want a white one, so take it out entirely:
 
-~~~
+~~~r
 panel.background  = element_blank(),
 ~~~
 
 Then I wanted to change was the background to make it what I've seen described as "whitesmoke". I'd prefer a transparent background in my plots so that the whatever I copy and paste the image into will always match, but I couldn't figure out how to do that. Here's how I specified the color: 
 
-~~~
+~~~r
 plot.background = element_rect(fill="gray96", colour=NA), 
 ~~~
 
 The legend background and key were both white in `theme_bw()` still, so I wanted to make those transparent. So I'll change those to transparent so they take on the global "gray96" specified above:
 
-~~~
+~~~r
 legend.background = element_rect(fill="transparent", colour=NA),
 legend.key        = element_rect(fill="transparent", colour=NA)
 ~~~
 
 So if we put all these elements in the new theme, we get a fully-functional, custom theme:
 
-~~~~~~~
+~~~~~~~r
 theme_joey <- function () { 
     theme_bw(base_size=12, base_family="Avenir") %+replace% 
         theme(
@@ -106,7 +106,7 @@ So all I need to do is make sure R knows about this function when I start a new 
 
 So here are some sample plots that show the differences between no theme, `theme_bw()`, and my new `theme_joey()`:
 
-~~~~
+~~~~r
 # Sample data
 df <- data.frame(x = factor(rep(letters[1:3], each = 10)), y = rnorm(30), color=(rep(c("A", "B"), each=5)))
 plot <- ggplot(df, aes(x = x, y = y, color=color)) + geom_point()
@@ -115,12 +115,12 @@ plot + ggtitle("No theme")
 ~~~~
 <img src="/images/plots/themes_plain.png" alt="Plot with no theme added" style="width: 30em;"/>
 
-~~~~
+~~~~r
 plot + ggtitle("Black and White") + theme_bw()
 ~~~~
 <img src="/images/plots/themes_bw.png" alt="Plot with black and white theme" style="width: 30em;"/>
 
-~~~
+~~~r
 plot + ggtitle("Custom Theme") + theme_joey()
 ~~~
 <img src="/images/plots/themes_joey.png" alt="Plot with custom theme applied" style="width: 30em;"/>
@@ -129,7 +129,7 @@ Assuming your browser is rendering this webpage like mine is, the last plot shou
 
 Note that some fonts require different settings if you want to export plots that use them as a pdf with `ggsave()`. You just need to add the argument `device=cairo_pdf` to it like so:
 
-~~~
+~~~r
 ggsave("themes_joey.pdf", device=cairo_pdf, width = 6, height = 6)
 ~~~
 

@@ -33,6 +33,10 @@ tagline: "Ph.D. candidate in linguistics"
 markdown: kramdown
 kramdown: 
     auto_ids: false
+    # For syntax highlighting
+    # https://benhur07b.github.io/2017/03/25/add-syntax-highlighting-to-your-jekyll-site-with-rouge.html
+    input: GFM
+    syntax_highlighter: rouge
 paginate: 50
 paginate_path: '/blog/page:num/'
 permalink: /blog/:title

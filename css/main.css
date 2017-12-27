@@ -77,6 +77,9 @@ h3 {
 div.highlighter-rouge, pre {
 	background-color: #D3D3D3;
 	padding-left: 2em;
+
+	max-width: 960px;
+	overflow: auto;
 }
 
 
@@ -648,3 +651,24 @@ footer.bottom {
 	border: 0px solid #376092;
 	border-radius: 7pt;
 }
+
+
+
+/* ########################################## */
+/*            My own syntax highlighting      */
+/* ########################################## */
+
+.language-r	.c1 { color: forestgreen }  /* Comments (one-line comments) */
+.language-r	.kc { color: darkblue }		/* TRUE FALSE (Keyword.Consant) */
+.language-r	.k  { color: darkblue }     /* while break if else (keywords) */
+
+.language-r	.n  { color: black } 		/* Functions and variables (Named variables) */
+.language-r	.p  { color: black }		/* parenthesis (punctuation) */
+.language-r	.w  { color: black }		/* whitespace */
+.language-r	.o  { color: black }		/* operators */
+
+.praat .s { color: maroon } /* strings */
+.praat .d { color: darkgoldenrod } /* digits */
+.praat .k { color: darkblue } /* keywords */
+.praat .c { color: forestgreen } /* comments */
+.praat .v { color: slategrey } /* variables */
