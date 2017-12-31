@@ -34,3 +34,6 @@ gem 'jekyll-feed'
 #group :jekyll_plugins do
 #    gem "jekyll-feed", "~> 0.6"
 # end
+
+# When I updated jekyll (Dec 30, 2017), I received a security warning and was told to update.
+#gem nokogiri ~> 1.8.1
