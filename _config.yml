@@ -54,3 +54,5 @@ exclude:
 tags:
   - jekyll
   - code
+plugins_dir:
+  - jekyll-feed

@@ -22,10 +22,15 @@ gem 'jekyll-redirect-from'
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 # gem "github-pages", group: :jekyll_plugins
 
-# If you have any plugins, put them here!
-group :jekyll_plugins do
-   gem "jekyll-feed", "~> 0.6"
-end
+
 
 # https://github.com/toshimaru/jekyll-toc
 gem 'jekyll-toc'
+
+# For RSS feed (https://github.com/jekyll/jekyll-feed)
+gem 'jekyll-feed'
+# This was here but I'm doing this now. Not sure what this was before.
+# # If you have any plugins, put them here!
+#group :jekyll_plugins do
+#    gem "jekyll-feed", "~> 0.6"
+# end
