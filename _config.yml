@@ -16,6 +16,10 @@
 title: Joey Stanley
 email: joeystan@uga.edu
 
+# Added these so they'd be in /feed.xml for the RSS feed.
+author: Joey Stanley
+description: "News and updates about my research"
+
 # Keep baseurl blank and siteurl as joeystanley.com to get the redirects to work. 
 baseurl: "" 
 url: "http://joeystanley.com"
