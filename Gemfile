@@ -25,7 +25,7 @@ gem 'jekyll-redirect-from'
 
 
 # https://github.com/toshimaru/jekyll-toc
-gem 'jekyll-toc'
+#gem 'jekyll-toc'
 
 # For RSS feed (https://github.com/jekyll/jekyll-feed)
 gem 'jekyll-feed'
