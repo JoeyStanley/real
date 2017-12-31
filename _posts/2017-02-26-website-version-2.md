@@ -2,7 +2,7 @@
 layout: post
 title:  "Website Version 2"
 date:   2017-02-26 17:29:00 -0400
-tags: [CSS, Skills, This Site, Github, How-to Guides]
+tags: [CSS, Skills, Meta, Github, How-to Guides]
 ---
 
 Today I finally rolled out a new version of my website! The previous version was great and was an excellent stepping stone into web design, but it was mostly borrowed code. Unsatisfied with some of the way it was designed, I decided to go ahead and just write a new site completely from scratch. It has taken about a month or so to get it going, but I think it's a lot better than before.

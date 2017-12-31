@@ -2,7 +2,7 @@
 layout: post
 title:  "How I Implemented the Links in this Site"
 date:   2016-11-01 18:53:00 -0400
-tags: [CSS, How-to Guides, This Site]
+tags: [CSS, How-to Guides, Meta]
 ---
 
 A while ago I stumbled across [Butterick's Practical Typography](http://practicaltypography.com). I've never been *that* into typography, but I do make sure my documents look good. I've yet to implement good typography into this webpage, but I did find a neat trick that I was able to pull off.
