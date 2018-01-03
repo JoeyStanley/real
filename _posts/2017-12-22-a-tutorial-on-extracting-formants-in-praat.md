@@ -3,6 +3,7 @@ layout: post
 title:  "A Tutorial on Extracting Formants in Praat"
 date:   2017-12-22 00:11:00 -0400
 language: English
+redirect_from: "/blog/a-tutorial-on-extracting-foramnts-in-praat"
 tags: [How-to Guides, Phonetics, Skills]
 ---
 
