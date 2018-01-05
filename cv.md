@@ -61,9 +61,9 @@ Olsen, Rachel M., Michael L. Olsen, <strong>Joseph A. Stanley</strong>, Margaret
 
 ### Oral Presentations
 
-<strong>Joseph A. Stanley</strong>, Margaret E. L. Renwick, William A. Kretzschmar Jr., Rachel M. Olsen, & Michael Olsen. "The Gazetteer of Southern Vowels." American Dialect Society (ADS) Annual Meeting. Salt Lake City, UT. January 5–8, 2018. (with Linguistic Atlas Project travel award)
+<strong>Joseph A. Stanley</strong> & Kyle Vanderniet. "What el[t]se is happening[k] with Utah English consonants?" American Dialect Society (ADS) Annual Meeting. Salt Lake City, UT. January 5–8, 2018. (With ADS student travel grant)
 
-<strong>Joseph A. Stanley & Kyle Vanderniet</strong>. "What el[t]se is happening[k] with Utah English consonants?" American Dialect Society (ADS) Annual Meeting. Salt Lake City, UT. January 5–8, 2018. (With ADS student travel grant)
+<strong>Joseph A. Stanley</strong>, Margaret E. L. Renwick, William A. Kretzschmar Jr., Rachel M. Olsen, & Michael Olsen. "The Gazetteer of Southern Vowels." American Dialect Society (ADS) Annual Meeting. Salt Lake City, UT. January 5–8, 2018. (with Linguistic Atlas Project travel award)
 
 <strong>Joseph A. Stanley</strong> & Kyle Vanderniet. "Consonantal variation in Utah English: What el[t]se is happening[k]?" The 4th Annual Linguistics Conference at UGA ([LSUGA4](http://www.lsuga.com/conference/2017)). Athens, GA. October 6–8, 2017.
 
@@ -193,6 +193,8 @@ Shawn Foster, <strong>Joseph A. Stanley</strong>, & Margaret E. L. Renwick. "Vow
 
 
 ## Media
+
+"PhD. Candidate Seeks to Interview Multigenerational Wasatch County Families." [*The Wasatch Wave*](http://www.wasatchwave.com). January 3, 2018. A local paper heard about my fieldwork and ran an article on the front page to help me find research participants. (Print only.)
 
 Ehrenberg, Rachel. "The southern drawl gets deconstructed." [*ScienceNews*](https://www.sciencenews.org). June 30, 2017. Based on a Peggy Renwick's and my poster presentation, "A historical perspective on vowel shifting: Acoustic analysis of the Digital Archive of Southern Speech" at the June 2017 ASA conference. <a href="https://www.sciencenews.org/article/southern-drawl-gets-deconstructed" class="link" title="link to this report"></a> 
 
