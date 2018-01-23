@@ -62,6 +62,7 @@ Olsen, Rachel M., Michael L. Olsen, <strong>Joseph A. Stanley</strong>, Margaret
 ### Oral Presentations
 
 <strong>Joseph A. Stanley</strong> & Kyle Vanderniet. "What el[t]se is happening[k] with Utah English consonants?" American Dialect Society (ADS) Annual Meeting. Salt Lake City, UT. January 5–8, 2018. (With ADS student travel grant)
+<a href="/downloads/180107-ads2018-utah.pdf" class="slides" title="download the powerpoint slides for this presentation"></a>
 
 <strong>Joseph A. Stanley</strong>, Margaret E. L. Renwick, William A. Kretzschmar Jr., Rachel M. Olsen, & Michael Olsen. "The Gazetteer of Southern Vowels." American Dialect Society (ADS) Annual Meeting. Salt Lake City, UT. January 5–8, 2018. (with Linguistic Atlas Project travel award)
 
@@ -141,6 +142,35 @@ Shawn Foster, <strong>Joseph A. Stanley</strong>, & Margaret E. L. Renwick. "Vow
 <br/>
 
 ## Workshops
+
+<strong>Joey Stanley</strong>. Working with text. Workshop given at the University of Georgia DigiLab. Athens, GA. April 20.
+
+<strong>Joey Stanley</strong>. 
+
+<strong>Joey Stanley</strong>. Network Analysis. Workshop given at the University of Georgia DigiLab. Athens, GA. April 13.
+
+<strong>Joey Stanley</strong>. Special topics: Regression and mixed-effects modeling. Workshop given at the University of Georgia DigiLab. Athens, GA. April 6.
+
+<strong>Joey Stanley</strong>. Transform, reshape, and modify your data: Tidyverse Part 2. Workshop given at the University of Georgia DigiLab. Athens, GA. March 30.
+
+<strong>Joey Stanley</strong>. Clean and tidy data: Tidyverse Part 1. Workshop given at the University of Georgia DigiLab. Athens, GA. March 23.
+
+<strong>Joey Stanley</strong>. Communicate to your audience with R Markdown. Work-shop given at the University of Georgia DigiLab. Athens, GA. March 9.
+
+<strong>Joey Stanley</strong>. Visualizations III: Advanced topics in ggplot2. Workshop given at the University of Georgia DigiLab. Athens, GA. March 2.
+
+<strong>Joey Stanley</strong>. Visualizations II: Customizing plots in ggplot2. Workshop given at the University of Georgia DigiLab. Athens, GA. February 23.
+
+<strong>Joey Stanley</strong>. Visualizations I: Introduction to ggplot2. Workshop given at the University of Georgia DigiLab. Athens, GA. February 16.
+
+<strong>Joey Stanley</strong>. Building Interactive Webpages in R: Introduction to Shiny (Part 2). Workshop given at the University of Georgia DigiLab. Athens, GA. February 9.
+
+<strong>Joey Stanley</strong>. Building Interactive Webpages in R: Introduction to Shiny (Part 1). Workshop given at the University of Georgia DigiLab. Athens, GA. Febrary 2.
+
+<strong>Joey Stanley</strong>. Intro to R (Part 2). Workshop given at the University of Georgia DigiLab. Athens, GA. January 26.
+
+<strong>Joey Stanley</strong>. Intro to R (Part 1). Workshop given at the University of Georgia DigiLab. Athens, GA. January 19.
+<a href="/downloads/180119-intro-to-r-part1.pdf" class="slides" title="download the slides for this presentation"></a> 
 
 <strong>Joey Stanley</strong>. “An Introduction to the Tidyverse.” Workshop given at the University of Georgia DigiLab. Athens, GA. November 10, 2017.
 <a href="/downloads/171110-tidyverse_handout" class="paper" title="download the handout for this presentation"></a> 
