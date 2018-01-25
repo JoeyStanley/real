@@ -65,7 +65,7 @@ Olsen, Rachel M., Michael L. Olsen, <strong>Joseph A. Stanley</strong>, Margaret
 <a href="/downloads/180108-ads2018-utah.pdf" class="slides" title="download the powerpoint slides for this presentation"></a>
 
 <strong>Joseph A. Stanley</strong>, Margaret E. L. Renwick, William A. Kretzschmar Jr., Rachel M. Olsen, & Michael Olsen. "The Gazetteer of Southern Vowels." American Dialect Society (ADS) Annual Meeting. Salt Lake City, UT. January 5–8, 2018. (with Linguistic Atlas Project travel award)
-<a href="http://lap3.libs.uga.edu/u/jstanley/vowelcharts/" class="link" title="visit this site"></a>
+<a href="http://lap3.libs.uga.edu/u/jstanley/vowelcharts/" class="link" title="visit this site" target="_blank"></a>
 <a href="/downloads/180105-ads2018-gsv.pdf" class="slides" title="download the powerpoint slides for this presentation"></a>
 <a href="/downloads/180105-ads2018-gsv-abstract.pdf" class="abstract" target="_blank" title="open a pdf of the abstract to this presentation in a new window"></a>
 
