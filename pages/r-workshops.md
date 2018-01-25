@@ -1,6 +1,7 @@
 ---
 layout: aside
 title: R Workshops
+redirect_from: "/r2018"
 redirect_from: "/r"
 ---
 
@@ -10,9 +11,10 @@ This semester, I am offering a series of workshops on R. They will be held Frida
 
 ## Spring 2018 Series
 
-<div class="biglink"><a href="/downloads/180119_intro-to-r-part1.csv" title="download PDF" class="nodot">Download the <br />slides here</a></div>
+<div class="biglink"><a href="/downloads/180119_intro-to-r-part1.pdf" title="download PDF" class="nodot">Download the <br />slides here</a></div>
 *Intro to R (Part 1)* (January 19): In this workshop I cover the basics of R itself. I talk about the differences between R and RStudio and I helped folks get both installed and running on their computers. We created a simple "Hello, World!" script using R. 
 
+<div class="biglink"><a href="/downloads/180126-intro-to-r-part2.pdf" title="download PDF" class="nodot">Download the <br />handout here</a></div>
 *Intro to R (Part 2)* (January 26): Now that R is ready to go, this workshop will cover the basics of the R language. It will also be a very simple introduction to some core computer coding concepts like declaring variables and variable types. 
 
 *Building interactive webpages in R: Introduction to Shiny* (February 2 and 9): Due to demand, the Shiny workshop day will be early in the semester. Shiny is an R package that allows you to make your own interactive web pages. An entire semester could be devoted to shiny, so these two days will cover just the essentials.
