@@ -65,10 +65,14 @@ Olsen, Rachel M., Michael L. Olsen, <strong>Joseph A. Stanley</strong>, Margaret
 <a href="/downloads/180107-ads2018-utah.pdf" class="slides" title="download the powerpoint slides for this presentation"></a>
 
 <strong>Joseph A. Stanley</strong>, Margaret E. L. Renwick, William A. Kretzschmar Jr., Rachel M. Olsen, & Michael Olsen. "The Gazetteer of Southern Vowels." American Dialect Society (ADS) Annual Meeting. Salt Lake City, UT. January 5–8, 2018. (with Linguistic Atlas Project travel award)
+<a href="http://lap3.libs.uga.edu/u/jstanley/vowelcharts/" class="link" title="visit this site"></a>
+<a href="/downloads/180103-ads2018-gsv.pdf" class="slides" title="download the powerpoint slides for this presentation"></a>
 
 <strong>Joseph A. Stanley</strong> & Kyle Vanderniet. "Consonantal variation in Utah English: What el[t]se is happening[k]?" The 4th Annual Linguistics Conference at UGA ([LSUGA4](http://www.lsuga.com/conference/2017)). Athens, GA. October 6–8, 2017.
+<a href="/downloads/171007-LCUGA4-UT-slides.pdf" class="slides" title="download the powerpoint slides for this presentation"></a>
 
 <strong>Joseph A. Stanley</strong>. "The linguistic effects of a changing timber industry: Language change in Cowlitz County, WA" The 4th Annual Linguistics Conference at UGA ([LSUGA4](http://www.lsuga.com/conference/2017)). Athens, GA. October 6–8, 2017.
+<a href="/downloads/171006-LCUGA4-WA-slides.pdf" class="slides" title="download the powerpoint slides for this presentation"></a>
 
 Rachel Olsen, Michael Olsen, Katherine Kuiper, <strong>Joseph A. Stanley</strong>, [Margaret E. L. Renwick](http://faculty.franklin.uga.edu/mrenwick/), & William A. Kretzschmar, Jr. “New Perspectives on Historical Southern Speech.” Panel presented at the 2017 Integrative Research and Ideas Symposium ([IRIS](https://graduatestudents.org/)). Athens, GA. March 20, 2017.
 
