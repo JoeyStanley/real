@@ -145,8 +145,6 @@ Shawn Foster, <strong>Joseph A. Stanley</strong>, & Margaret E. L. Renwick. "Vow
 
 <strong>Joey Stanley</strong>. Working with text. Workshop given at the University of Georgia DigiLab. Athens, GA. April 20.
 
-<strong>Joey Stanley</strong>. 
-
 <strong>Joey Stanley</strong>. Network Analysis. Workshop given at the University of Georgia DigiLab. Athens, GA. April 13.
 
 <strong>Joey Stanley</strong>. Special topics: Regression and mixed-effects modeling. Workshop given at the University of Georgia DigiLab. Athens, GA. April 6.
