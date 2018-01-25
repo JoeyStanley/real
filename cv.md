@@ -112,8 +112,9 @@ Shawn Foster, <strong>Joseph A. Stanley</strong>, & Margaret E. L. Renwick. "Vow
 <a href="http://asa.scitation.org/doi/abs/10.1121/1.5014282" class="link" title="link to this presentation"></a>
 
 <strong>Joseph A. Stanley</strong>. "Changes in the Timber Industry as a Catalyst for Linguistic Change." Poster presentation at the 46th New Ways of Analyzing Variation conference ([NWAV46](https://english.wisc.edu/nwav46/)). Madison, WI. November 2–5, 2017. (with UGA Graduate School travel award)
-<a href="/downloads/171103-nwav46.pdf" class="poster" target="_blank" title="download this poster as a PDF"></a>
 <a href="/downloads/171103-nwav46-abstract.pdf" class="abstract" target="_blank" title="download the abstract"></a>
+<a href="/downloads/171103-nwav46.pdf" class="poster" target="_blank" title="download this poster as a PDF"></a>
+
 
 [Margaret E. L. Renwick](http://faculty.franklin.uga.edu/mrenwick/) & <strong>Joseph A. Stanley</strong>. “A historical perspective on vowel shifting: Acoustic analysis of the Digital Archive of Southern Speech” Poster presentation at the 173rd Meeting of the Acoustical Society of America (ASA). Boston, MA. June 25–29, 2017.
 <a href="http://asa.scitation.org/doi/abs/10.1121/1.4989091" class="link" title="link to this presentation"></a>
