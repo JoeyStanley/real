@@ -168,6 +168,7 @@ Shawn Foster, <strong>Joseph A. Stanley</strong>, & Margaret E. L. Renwick. "Vow
 <strong>Joey Stanley</strong>. Building Interactive Webpages in R: Introduction to Shiny (Part 1). Workshop given at the University of Georgia DigiLab. Athens, GA. Febrary 2.
 
 <strong>Joey Stanley</strong>. Intro to R (Part 2). Workshop given at the University of Georgia DigiLab. Athens, GA. January 26.
+<a href="/downloads/180126-intro-to-r-part2.pdf" class="paper" title="download the handout for this workshop"></a> 
 
 <strong>Joey Stanley</strong>. Intro to R (Part 1). Workshop given at the University of Georgia DigiLab. Athens, GA. January 19.
 <a href="/downloads/180119-intro-to-r-part1.pdf" class="slides" title="download the slides for this presentation"></a> 
