@@ -17,6 +17,7 @@ This semester, I am offering a series of workshops on R. They will be held Frida
 <div class="biglink"><a href="/downloads/180126-intro-to-r-part2.pdf" title="download PDF" class="nodot">Download the <br />handout here</a></div>
 *Intro to R (Part 2)* (January 26): Now that R is ready to go, this workshop will cover the basics of the R language. It will also be a very simple introduction to some core computer coding concepts like declaring variables and variable types. 
 
+<div class="biglink"><a href="https://joeystanley.shinyapps.io/intro_to_shiny_180202/" title="view the e-handout" class="nodot" target = "_blank">View the <br />handout online</a></div>
 *Building interactive webpages in R: Introduction to Shiny* (February 2 and 9): Due to demand, the Shiny workshop day will be early in the semester. Shiny is an R package that allows you to make your own interactive web pages. An entire semester could be devoted to shiny, so these two days will cover just the essentials.
 
 *Visualization I: Introduction to ggplot2* (February 16): ggplot2 is a widely used package that allows for high-quality visualizations. In this workshop I cover the basic syntax and how to make some simple types of plots. 
