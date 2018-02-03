@@ -37,21 +37,21 @@ So, I have a new equipment lineup. With other videos like [this](https://www.you
 
 [And yes, the citations and links were in the original. This is how I write notes to myself.]
 
-<br/>
-
 ### Thursday, May 31, 2016
 
 I went ahead and bought the recorder, microphone, and hard drive. They'll be here Thursday. I'm really excited.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Boom. Just bought my recorder, microphone, and hard drive. Sociolinguistic interviews start in less than a month!</p>&mdash; Joey Stanley (@joey_stan) <a href="https://twitter.com/joey_stan/status/737687047863930880?ref_src=twsrc%5Etfw">May 31, 2016</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-<br/>
-
 ### Saturday, July 2, 2016
 
 [I had already done several interviews at this point.] 
 
 The recording equipment is turning out to be pretty good. The lavalier mic and recorder are producing some great quality recordings, though I think the first couple were a little too quiet, in an attempt to reduce background noise. Some of the places I've recorded in have been remarkably quiet, like in a church and houses way out in the mountains. I recorded in stereo, but I realized the mic doesn't pick up stereo so it's just in the left channel. I'll have to fix that in Praat. I had some problems clearing the memory card so-good thing I brought my backup-I used the Yeti mic in the church building. Those two interviews did seem quite a bit more formal, and it could have been the set up (sitting across from each other at a table with the big microphone between us), or maybe it was because the people were younger. The files turn out to be just about a gigabyte per interview, and that's with the higher-than-normal settings of 48kHz and 24-bit something or other, instead of 44kHz and 16-bit.
+
+<br/>
+
+<hr/>
 
 # Additional thoughts on technical stuff
 
