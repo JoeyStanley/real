@@ -11,7 +11,7 @@ This semester, I am offering a series of workshops on R. They will be held Frida
 
 ## Spring 2018 Series
 
-<div class="biglink"><a href="/downloads/180119_intro-to-r-part1.pdf" title="download PDF" class="nodot">Download the <br />slides here</a></div>
+<div class="biglink"><a href="/downloads/180119-intro-to-r-part1.pdf" title="download PDF" class="nodot">Download the <br />slides here</a></div>
 *Intro to R (Part 1)* (January 19): In this workshop I cover the basics of R itself. I talk about the differences between R and RStudio and I helped folks get both installed and running on their computers. We created a simple "Hello, World!" script using R. 
 
 <div class="biglink"><a href="/downloads/180126-intro-to-r-part2.pdf" title="download PDF" class="nodot">Download the <br />handout here</a></div>
