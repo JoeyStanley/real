@@ -462,8 +462,8 @@ To Formant (burg)... <span class="d">0</span> <span class="d">5</span> <span cla
     <b><span class="c"># Extract formant measurements</span>
     select Formant '<span class="v">thisSound$</span>'
     <span class="v">f1</span> = Get value at time... <span class="d">1</span> <span class="v">midpoint</span> Hertz Linear
-    <span class="v">f2</span> = Get value at time... <span class="d">1</span> <span class="v">midpoint</span> Hertz Linear
-    <span class="v">f3</span> = Get value at time... <span class="d">1</span> <span class="v">midpoint</span> Hertz Linear</b>
+    <span class="v">f2</span> = Get value at time... <span class="d">2</span> <span class="v">midpoint</span> Hertz Linear
+    <span class="v">f3</span> = Get value at time... <span class="d">3</span> <span class="v">midpoint</span> Hertz Linear</b>
 
 <span class="k">endfor</span>
 
@@ -545,8 +545,8 @@ To Formant (burg)... <span class="d">0</span> <span class="d">5</span> <span cla
     <span class="c"># Extract formant measurements</span>
     select Formant '<span class="v">thisSound$</span>'
     <span class="v">f1</span> = Get value at time... <span class="d">1</span> <span class="v">midpoint</span> Hertz Linear
-    <span class="v">f2</span> = Get value at time... <span class="d">1</span> <span class="v">midpoint</span> Hertz Linear
-    <span class="v">f3</span> = Get value at time... <span class="d">1</span> <span class="v">midpoint</span> Hertz Linear
+    <span class="v">f2</span> = Get value at time... <span class="d">2</span> <span class="v">midpoint</span> Hertz Linear
+    <span class="v">f3</span> = Get value at time... <span class="d">3</span> <span class="v">midpoint</span> Hertz Linear
 
     <b><span class="c"># Save to a spreadsheet</span>
     <span class="k">appendFileLine</span>: <span class="s">"'</span><span class="v">outputPath$</span><span class="s">'"</span>, 
@@ -670,8 +670,8 @@ To Formant (burg)... <span class="d">0</span> <span class="d">5</span> <span cla
     <span class="c"># Extract formant measurements</span>
     select Formant '<span class="v">thisSound$</span>'
     <span class="v">f1</span> = Get value at time... <span class="d">1</span> <span class="v">midpoint</span> Hertz Linear
-    <span class="v">f2</span> = Get value at time... <span class="d">1</span> <span class="v">midpoint</span> Hertz Linear
-    <span class="v">f3</span> = Get value at time... <span class="d">1</span> <span class="v">midpoint</span> Hertz Linear
+    <span class="v">f2</span> = Get value at time... <span class="d">2</span> <span class="v">midpoint</span> Hertz Linear
+    <span class="v">f3</span> = Get value at time... <span class="d">3</span> <span class="v">midpoint</span> Hertz Linear
 
     <b><span class="c"># Get the word interval and then the label</span>
     <span class="k">select</span> TextGrid <span class="s">'<span class="v">thisTextGrid$</span>'</span>
