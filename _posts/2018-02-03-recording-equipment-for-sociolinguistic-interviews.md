@@ -67,7 +67,7 @@ You also need to be aware that USB microphones like the Blue Yeti not only have 
 
 # TL;DR
 
-I ended going with a [Tascam DR-05](http://www.amazon.com/TASCAM-DR-05-Portable-Digital-Recorder/dp/B004OU2IQG/ref=zg_bs_486500011_2) for my recorder. I couldn't really tell any difference between it and the [Zoom H1](https://www.amazon.com/Zoom-ZH1-Portable-Digital-Recorder/dp/B003QKBVYK/ref=zg_bs_486500011_1?_encoding=UTF8&psc=1&refRID=HK4ZS0PHQH2S5G0P8ZNQ) except that at the time the Tascam was about $10 cheaper. There's a 2nd edition Tascam now, so I think the Zoom is cheaper now. It exceeds my expectations for technical specs (I set it to 24-bit and 28,000Hz) and works great.
+I ended going with a [Tascam DR-05](http://www.amazon.com/TASCAM-DR-05-Portable-Digital-Recorder/dp/B004OU2IQG/ref=zg_bs_486500011_2) for my recorder. I couldn't really tell any difference between it and the [Zoom H1](https://www.amazon.com/Zoom-ZH1-Portable-Digital-Recorder/dp/B003QKBVYK/ref=zg_bs_486500011_1?_encoding=UTF8&psc=1&refRID=HK4ZS0PHQH2S5G0P8ZNQ) except that at the time the Tascam was about $10 cheaper. There's a 2nd edition Tascam now, so I think the Zoom is cheaper now. It exceeds my needs for technical specs (I set it to 24-bit and 28,000Hz) and works great.
 
 For a microphone, I used a [JK MIC-J 044](http://www.amazon.com/gp/product/B009YCI62Y/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B009YCI62Y&linkCode=as2&tag=gadg04-20) lavalier mic. It was surprisingly only $30 and, according to YouTube videos, performed as well as the >$100 ones. I wish it picked up less background noise, but otherwise I've been very impressed with it. It's only 11 grams and people tend to forget pretty quickly that it's there.
 
