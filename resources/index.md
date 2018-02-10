@@ -6,19 +6,27 @@ toc: false
 
 # Resources
 
-This page is mostly under construction still but will eventually be a central place for all things useful for other linguists. It'll  list software I've found useful, book recommendations, and links to resources I've developed and other helpful pages I write. For now, I can list a couple things. 
+This page is still small but will eventually be a central place for all things useful for other linguists. It'll list software I've found useful, book recommendations, and links to resources I've developed and other helpful pages I write. For now, I can list a couple things. 
 
 
 <br/>
-## My handouts
+## My handouts, tutorials, and workshops
 
 ### [R Workshops](/pages/r-workshops.html)
 
 I'm currently giving a series of workshops on how to use R which will include a variety of topics. I have included PDFs and additional information on each installment of this series.
 
+### [Formant extraction tutorial](/blog/a-tutorial-on-extracting-formants-in-praat)
+
+This tutorial walks you through writing a praat script that extracts formant measurements from vowels. If you've never worked with Praat scripting but want to work with vowels, this might be a good starting point.
+
+### [Make yourself googleable](downloads/161111-DigiLab-slides.pptx)
+
+I'm no expert, but I have given a workshop on how grad students can increase their online presence and make themselves more googleable, based in large part to ImpactStory's fantastic 30-day challenge, which you can read [here](http://blog.impactstory.org/research-impact-challenge-ebook/).
+
 ### [Excel Workshop](/excel.html)
 
-I recently gave a workshop on Microsoft Excel in the main library at UGA. It was very well-attended and included graduate students and faculty from a variety of areas in the humanities and social sciences. I normally wouldn't link to just a blog post, but this one does do a good job at summarizing the main points and has the content available for download.
+Last year I gave a workshop on Excel and ended producing a long handout, that goes from the very basics to relatively tricky techniques. The link above will take you to a blog post that summarizes the workshop, and you can also find the handout itself.
 
 <!--
 ### MANOVA
@@ -64,23 +72,24 @@ Here is a list of resources I've found for R. I've gone through some of them and
 
 * *[Overview GAMM analysis of time series data](http://jacolienvanrij.com/Tutorials/GAMM.html)* by Jacolien van Rij. I haven't had time to go through this one yet, but it's on my todo list. Actually [all of her tutorials](http://www.jacolienvanrij.com/cv.html) look great.  
 
-
+<!--
 [//]: # ## Quantitative People
 [//]: # * [Josef Fruehwald](https://jofrhwld.github.io)
 [//]: # * [Daniel Ezra Johnson](http://www.danielezrajohnson.com)
 [//]: # * [Bradley T. Rentz](https://rentzb.github.io/#talks)
 [//]: # * [Margaret E. L. Renwick](http://faculty.franklin.uga.edu/mrenwick/)
+-->
 
 <br/>
 ## Praat Resources
 
-[Will Styler's](http://savethevowels.org/will/) Praat tutorial is probably the most thorough I've seen. The PDF can be found [here](http://savethevowels.org/praat/UsingPraatforLinguisticResearchLatest.pdf) but don't forget to look at the [page](http://savethevowels.org/praat/) it comes from which has more information about it. 
+* [Will Styler's](http://savethevowels.org/will/) Praat tutorial is probably the most thorough I've seen. The PDF can be found [here](http://savethevowels.org/praat/UsingPraatforLinguisticResearchLatest.pdf) but don't forget to look at the [page](http://savethevowels.org/praat/) it comes from which has more information about it. 
 
-*[Phonetics on Speed: Praat Scripting Tutorial](http://praatscripting.lingphon.net)* by Jörg Mayer is what I find myself coming back to again and again.
+* [Phonetics on Speed: Praat Scripting Tutorial](http://praatscripting.lingphon.net)* by Jörg Mayer is what I find myself coming back to again and again.
 
-[University of Washington Phonetics Lab](https://depts.washington.edu/phonlab/resources.htm) has tutorials and scripts.
+* [University of Washington Phonetics Lab](https://depts.washington.edu/phonlab/resources.htm) has tutorials and scripts.
 
-And I've written a [tutorial](/blog/a-tutorial-on-extracting-foramnts-in-praat) on writing a script for basic automatic formant extraction. 
+* And I've written a [tutorial](/blog/a-tutorial-on-extracting-foramnts-in-praat) on writing a script for basic automatic formant extraction. 
 
 
 <br/>
@@ -88,7 +97,7 @@ And I've written a [tutorial](/blog/a-tutorial-on-extracting-foramnts-in-praat) 
 
 ### [DARLA](http://darla.dartmouth.edu)
 
-This is my personal favorite. It's actually a whole collection of tools available through a web interface from Dartmouth University. It can transcribe, align, and extract formants from your (English) audio files all in one go. Its forced aligner is built using Prosody-Lab (see below) and is pretty good in my experience. 
+This is my personal favorite. It's actually a whole collection of tools available through a web interface from Dartmouth University. It can transcribe, align, and extract formants from your (English) audio files all in one go. Previously, its forced aligner is built using Prosody-Lab but now uses the Montreal Forced Aligner (see below).
 
 ### [FAVE](https://github.com/JoFrhwld/FAVE)
 
