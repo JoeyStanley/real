@@ -37,6 +37,8 @@ title: Curriculum Vitae
 
 ### Working Papers and Conference Proceedings
 
+<strong>Joseph A. Stanley</strong> & Kyle Vanderniet (*submitted*). "Consonantal variation in Utah English." *LCUGA4 Conference Proceedings.*
+
 Renwick, Margaret E. L. & <strong>Joseph A. Stanley</strong> (2017). "Static and dynamic approaches to vowel shifting in the Digital Archive of Southern Speech." *Proceedings of Meetings on Acoustics* **30**, 060003; doi: http://dx.doi.org/10.1121/2.0000582.
 <a href="http://asa.scitation.org/doi/pdf/10.1121/2.0000582" class="link" target="_blank" title="link to POMA online"></a>
 
