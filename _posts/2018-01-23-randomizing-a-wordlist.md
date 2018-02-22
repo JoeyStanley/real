@@ -21,9 +21,9 @@ I won't go into detail about exactly how I compiled my wordlist, but I'll share 
 
 # The goal
 
-I recently started watching the TV show *Numb3rs* and this actually came up in the first episode. (It's interesting and on Netflix, so you should see it for yourself). He asks a group of people to randomly place themselves in the room. Once they did, he pointed out that the way they were standing was not random because they were roughly equidistant from each other. Truly random distributions will produce some clusters. So the discrepancy between truly random and what humans perceive as random is different.
+I recently started watching the TV show *Numb3rs* and this actually came up in the first episode. (It's interesting and on Netflix, so you should see it for yourself). He asks a group of people to randomly place themselves in the room. Once they did, he pointed out that the way they were standing was not random because they were roughly equidistant from each other. Truly random distributions will produce some clusters. So there's a discrepancy between truly random and what humans perceive as random.
 
-To bring this back into wordlists, if I randomly sort the words in Excel, I will get a (close to) truly random order. But this inevitably creates clusters, or words from the same lexical class near or next to each other, which is undesireable. What I actually want is a pseudo-random order that humans perceive to be as random but actually has quite a bit of order to it.
+To bring this back into wordlists, if I randomly sort the words in Excel, I will get a (close to) truly random order. But this inevitably creates clusters, or words from the same lexical class near or next to each other, which is undesirable. What I actually want is a pseudo-random order that humans perceive to be as random but actually has quite a bit of order to it.
 
 Specifically, here are the criteria that I came up with for an ideal wordlist order:
 
@@ -43,7 +43,7 @@ The first step to all this is to prepare the data. In my spreadsheet, I've got c
 
 Once that is done, I came up with this workflow for the script: 
 
-1. Pick a random word.
+1. If there no words yet, pick a random word to start.
 1. Compile a list of all the words that haven't been used in the wordlist yet.
 1. Filter out the ones that shouldn't be next based on the criteria specified.
 1. Of the remaining candidates, pick a random one. 
@@ -143,7 +143,7 @@ Here, I do this three times. If the previous word has a pre-lateral vowel, the n
                 filter(context != prev_word$context | is.na(context))
         }
 
-        # Filter by ending (I don't want tow -ing words in a row)
+        # Filter by ending (I don't want two -ing words in a row)
         if (!is.na(two_words_ago$last_three)) {
             potential_words <- potential_words %>%
                 filter(last_three != prev_word$last_three | is.na(last_three)) %>%
@@ -211,7 +211,7 @@ Now that we've selected a word, go back to the *original* dataframe and mark thi
 
 We're done with this inner `while` loop. We exit the loop either because we're done and all the words are in the new wordlist, or because we broke early because there were no more potential words that fit all the criteria.
 
-To finish processing, first we have to use `bind_rows()` to get this list of one-row dataframes into a single dataframe
+To finish processing, first we have to use `bind_rows()` to get this list of one-row dataframes into a single dataframe.
     
 ```r
     newlist <- bind_rows(newlist) %>%
@@ -252,7 +252,7 @@ As a side note, I ended up producing just one list, mostly because it took so lo
 
 # Conclusion
 
-Going through my list, I was impressed with just how random the words seemed. Like the episode of *Numbers*, what I perceived to be *more* random actually had a lot of structure to it and was deliberately devoid of clusters. Previous lists I've used were had close to a truly random order, but this one seems even better. It's much harder to tell that these words come from a relatively small set lexical classes. I think the key is that similar words aren't near each other, which is not what you get with a random number generator. I think this guided pseudo-random order is a better way to go for eliciting linguistic data in a wordlist.
+Going through my list, I was impressed with just how random the words seemed. Like the episode of *Numb3rs*, what I perceived to be *more* random actually had a lot of structure to it and was deliberately devoid of clusters. Previous lists I've used were had close to a truly random order, but this one seems even better. It's much harder to tell that these words come from a relatively small set lexical classes. I think the key is that similar words aren't near each other, which is not what you get with a random number generator. I think this guided pseudo-random order is a better way to go for eliciting linguistic data in a wordlist.
 
 <hr/>
 
