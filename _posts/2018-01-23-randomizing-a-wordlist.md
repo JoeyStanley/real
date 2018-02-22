@@ -21,7 +21,7 @@ I won't go into detail about exactly how I compiled my wordlist, but I'll share 
 
 # The goal
 
-I recently started watching the TV show *Numbers* and this actually came up in the first episode. (It's interesting and on Netflix, so you should see it for yourself). He asks a group of people to randomly place themselves in the room. Once they did, he pointed out that the way they were standing was not random because they were roughly equidistant from each other. Truly random distributions will produce some clusters. So the discrepancy between truly random and what humans perceive as random is different.
+I recently started watching the TV show *Numb3rs* and this actually came up in the first episode. (It's interesting and on Netflix, so you should see it for yourself). He asks a group of people to randomly place themselves in the room. Once they did, he pointed out that the way they were standing was not random because they were roughly equidistant from each other. Truly random distributions will produce some clusters. So the discrepancy between truly random and what humans perceive as random is different.
 
 To bring this back into wordlists, if I randomly sort the words in Excel, I will get a (close to) truly random order. But this inevitably creates clusters, or words from the same lexical class near or next to each other, which is undesireable. What I actually want is a pseudo-random order that humans perceive to be as random but actually has quite a bit of order to it.
 
