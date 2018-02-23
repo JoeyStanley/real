@@ -1,8 +1,9 @@
 ---
 layout: aside
 title: R Workshops
-redirect_from: "/r2018"
-redirect_from: "/r"
+redirect_from: 
+    - "/r2018"
+    - "/r"
 ---
 
 # R Workshops
