@@ -23,7 +23,8 @@ This semester, I am offering a series of workshops on R. They will be held Frida
 <div class="biglink"><a href="/downloads/180216-ggplot2-part1.pdf" title="download PDF" class="nodot">Download the <br />handout here</a></div>
 [*Visualization I: Introduction to ggplot2*](/downloads/180216-ggplot2-part1) (February 16): ggplot2 is a widely used package that allows for high-quality visualizations. In this workshop I cover the basic syntax and how to make some simple types of plots.
 
-*Visualization II: Customizing plots in ggplot2* (February 23): The basic plots in ggplot2 are good, but often you'll want to customize them in some way. In this workshop we'll cover how to mess with properties of the plots like the axes, colors, and legends to make the plot work better for you.
+<div class="biglink"><a href="/downloads/180223-ggplot2-part2.pdf" title="download PDF" class="nodot">Download the <br />handout here</a></div>
+[*Visualization II: Customizing plots in ggplot2*](/downloads/180223-ggplot2-part2) (February 23): The basic plots in ggplot2 are good, but often you'll want to customize them in some way. In this workshop we'll cover how to mess with properties of the plots like the axes, colors, and legends to make the plot work better for you.
 
 *Visualization III: Advanced topics in ggplot2* (March 2): In this workshop we go beyond the simple customization techniques and move on to modifying many other aspects of the plot. Time permitting, I'll show how to create your own themes so that they match your powerpoint themes to create a more appealing presentation.
 
