@@ -27,17 +27,20 @@ This semester, I am offering a series of workshops on R. They will be held Frida
 <div class="biglink"><a href="/downloads/180223-ggplot2-part2.pdf" title="download PDF" class="nodot">Download the <br />handout here</a></div>
 [*Visualization II: Customizing plots in ggplot2*](/downloads/180223-ggplot2-part2) (February 23): The basic plots in ggplot2 are good, but often you'll want to customize them in some way. In this workshop we'll cover how to mess with properties of the plots like the axes, colors, and legends to make the plot work better for you.
 
-*Visualization III: Advanced topics in ggplot2* (March 2): In this workshop we go beyond the simple customization techniques and move on to modifying many other aspects of the plot. Time permitting, I'll show how to create your own themes so that they match your powerpoint themes to create a more appealing presentation.
+<div class="biglink"><a href="/downloads/180302-tidyverse_part1.pdf" title="download PDF" class="nodot">Download the <br />handout here</a></div>
+[*Clean and tidy data: The tidyverse Part 1*](/downloads/180302-tidyverse_part1.html) (March 2): The tidyverse is a suite of packages that helps you wrangle your data. In this two-part workshop, we'll learn some of the common functions in the tidyverse and compare them to base R, showing that there are multiple ways to accomplish the same task in R.
 
-*Communicating to your audience with R Markdown* (March 26): R Markdown is a way to create different types of documents using R (pdfs, word files, html files). In this one-day crash course, I'll show how to make R Markdown files and the kinds of things they would be useful for.
+*Communicating to your audience with R Markdown* (March 9): R Markdown is a way to create different types of documents using R (pdfs, word files, html files). In this one-day crash course, I'll show how to make R Markdown files and the kinds of things they would be useful for.
 
-*Clean and tidy data: The Tidyverse* (March 23 and 30): The Tidyverse is a suite of packages that helps you wrangle your data. In this two-part workshop, we'll learn some of the common functions in the tidyverse and compare them to base R, showing that there are multiple ways to accomplish the same task in R.
+*Reshaping and transforming your data: The tidyverse Part 2* (March 23): This workshop extends what was covered in Part 1. In particular, we'll look at how to reshape and transform your data, merging it with other dataset, and other super useful and powerful tools.
 
 *Special topics: Regression and mixed-effects modeling* (April 6): In more and more fields, quantitative analysis is the norm. I can't begin to cover everything about fitting statistical models to your data, but I'll cover some introductory concepts to hopefully guide you in the right direction for further study.
 
 *Special topics: Network analysis* (April 13): Network analysis is a fascinating field on its own, and learning to create and analyze visualizations of network data can be helpful for some studies. This workshop will cover some basic visualizations and statistical analysis of network data.  
 
 *Special topics: Working with text* (April 20): Most topics in this series have covered numbers and how to work with them. In this final presentation, I introduce the `stringr` package (part of the Tidyverse suite), and how you can use it to your advantage when working with text in R. 
+
+*Visualization III: Advanced topics in ggplot2* (TBD): In this workshop we go beyond the simple customization techniques and move on to modifying many other aspects of the plot. Time permitting, I'll show how to create your own themes so that they match your powerpoint themes to create a more appealing presentation.
 
 <hr/>
 <hr/>
