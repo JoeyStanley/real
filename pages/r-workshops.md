@@ -28,7 +28,7 @@ This semester, I am offering a series of workshops on R. They will be held Frida
 [*Visualization II: Customizing plots in ggplot2*](/downloads/180223-ggplot2-part2) (February 23): The basic plots in ggplot2 are good, but often you'll want to customize them in some way. In this workshop we'll cover how to mess with properties of the plots like the axes, colors, and legends to make the plot work better for you.
 
 <div class="biglink"><a href="/downloads/180302-tidyverse_part1.pdf" title="download PDF" class="nodot">Download the <br />handout here</a></div>
-[*Clean and tidy data: The tidyverse Part 1*](/downloads/180302-tidyverse_part1.html) (March 2): The tidyverse is a suite of packages that helps you wrangle your data. In this two-part workshop, we'll learn some of the common functions in the tidyverse and compare them to base R, showing that there are multiple ways to accomplish the same task in R.
+[*Clean and tidy data: The tidyverse (part 1)*](/downloads/180302-tidyverse_part1.html) (March 2): The tidyverse is a suite of packages that helps you wrangle your data. In this two-part workshop, we'll learn some of the common functions in the tidyverse and compare them to base R, showing that there are multiple ways to accomplish the same task in R.
 
 *Communicating to your audience with R Markdown* (March 9): R Markdown is a way to create different types of documents using R (pdfs, word files, html files). In this one-day crash course, I'll show how to make R Markdown files and the kinds of things they would be useful for.
 
