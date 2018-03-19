@@ -9,10 +9,14 @@ Last week I was approached by a fellow graduate student who asked how they might
 
 The dataset I'll be working with comes from me reading 300 sentences while sitting at my kitchen table. This was transcribed manually, force-aligned using [DARLA](http://darla.dartmouth.edu), with formants extracted using FAVE. I've removed a lot of the outliers already, so the remaining data is relatively clean. 
 
+For this workshop, we'll need just two packages: `dplyr` and `ggplot2`. Let's load those now.
+
 ```r
 library(dplyr)
 library(ggplot2)
 ```
+
+And here we go!
 
 ## Read in and process data
 
