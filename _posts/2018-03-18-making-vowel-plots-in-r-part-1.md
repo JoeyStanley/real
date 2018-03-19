@@ -564,7 +564,7 @@ ggplot(my_five_vowels, aes(x = F2, y = F1, color = vowel, label = vowel, shape =
 
 ## Text instead of points
 
-Okay, last thing, I promise. If your dataset is relatively small, a really slick trick is to plot the words themselves rather than points. We saw how to do this above when we were plotting the means, but let's apply that to the regular data. For this example, I'll just zoom in on my "AA" and "AO" vowels because I've been reading about the *cot*-*caught* merger recently. 
+Okay, last thing, I promise. If your dataset is relatively small, a really slick trick is to plot the words themselves rather than points. We saw how to do this above when we were plotting the means, but let's apply that to the regular data. For this example, I'll just zoom in on my "AA" and "AO" vowels (except for the ones before /ɹ/) because I've been reading about the *cot*-*caught* merger recently. 
 
 ```r
 cot_caught <- subset(my_vowels, vowel %in% c("AA", "AO"))
