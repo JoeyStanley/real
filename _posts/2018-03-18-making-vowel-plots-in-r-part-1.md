@@ -5,7 +5,7 @@ date:   2018-03-18 21:37:00 -0400
 tags: [How-to Guides, Methods, Phonetics, R, Skills]
 ---
 
-Last week I was approached by a fellow graduate student who asked how they might go about making vowel plots in R. I've made a couple of these plots recently and have learend some interesting tricks along the way, so I thought it might make for an interesting blog post. Actually, I thought it would make for an interesting *series* of blog posts. In this first post, I'll stick with scatterplots and look at the code you'll need for them. 
+Last week I was approached by a fellow graduate student who asked how they might go about making vowel plots in R. I've made my share of these plots and have learned some tricks along the way, so I thought it might make for an interesting blog post. Actually, I thought it would make for an interesting *series* of blog posts. In this first post, I'll stick with scatterplots and look at the code you'll need for them. 
 
 The dataset I'll be working with comes from me reading 300 sentences. This was transcribed manually, force-aligned using [DARLA](http://darla.dartmouth.edu), with formants extracted using FAVE. I've removed outliers already, so the remaining data is pretty clean. 
 
@@ -16,7 +16,7 @@ library(ggplot2)
 
 ## Read in and process data
 
-As with any R script, the first step (after loading your packages) is to read in and prepare your data. For maximual reproducibility in your own data, I'm going to work with the FAVE output as is, so you can see how I process the data. This means that we'll be seeing the vowels in "ARPABET", rather than IPA. Since the focus of this post isn't necessarily on the minutia of the data processing, I'll keep that part to a minimum.
+As with any R script, the first step (after loading your packages) is to read in and prepare your data. For maximal reproducibility in your own data, I'm going to work with the FAVE output as is, so you can see how I process the data. This means that we'll be seeing the vowels in "ARPABET", rather than IPA. Since the focus of this post isn't necessarily on the minutia of the data processing, I'll keep that part to a minimum.
 
 ```r
 my_vowels <- read.csv("data/joey.csv") %>%
@@ -26,7 +26,7 @@ my_vowels <- read.csv("data/joey.csv") %>%
     mutate(word = tolower(word))
 ```
 
-So what this chunk does is it reads in file called `joey.csv` that I have saved in a folder called `data`. It then filters the data by keeping just the vowels with primary stress, removing diphthongs and /ɹ/, and removing a couple stopwords. Then it changes all the words so that they're lowercase.
+So what this chunk does is it reads in file called `joey.csv` that I have saved in a folder called `data`. It then filters the data by keeping just the vowels with primary stress, removing diphthongs and /ɹ/, and removing a couple stop words. Then it changes all the words so that they're lowercase.
 
 ## Building a basic scatterplot
 
@@ -61,7 +61,7 @@ Side note. If you want to plot the midpoints, that data is also contained in our
 ggplot(my_vowels, aes(x = F2.50., y = F1.50.))
 ```
 
-Side-side note. If you read your data in using `read_csv` (with an underscore) from the `readxl` package (which is part of the "tidyverse"), it actually handles the real name of the column. However, you'll have to put little ticks (that apostrphe-looking thing next to your "1" key) around them:
+Side-side note. If you read your data in using `read_csv` (with an underscore) from the `readxl` package (which is part of the "tidyverse"), it actually handles the real name of the column. However, you'll have to put little ticks (that apostrophe-looking thing next to your "1" key) around them:
 
 ```r
 my_vowels_readr <- readr::read_csv("data/joey.csv")
@@ -97,7 +97,7 @@ ggplot(my_vowels, aes(x = F2, y = F1)) +
 
 Because English has so many vowels, there's no really good way to show them all on a plot. Typically, I use color, but it's hard to get a set of 11 colors that are all easily distinguishable and easy on the eyes. There's no real way to win here. For now, let's just add the default colors and see how it looks.
 
-So how do we add color? If you think about it, what we want `ggplot` to do is to change the color of the dot depending on what the vowel is. Fortuantely, we have a column in our spreadsheet, `vowel`, that has a different value for each vowel. So let's tell `ggplot` to simply change the color so that each value in the `vowel` column has its own color. 
+So how do we add color? If you think about it, what we want `ggplot` to do is to change the color of the dot depending on what the vowel is. Fortunately, we have a column in our spreadsheet, `vowel`, that has a different value for each vowel. So let's tell `ggplot` to simply change the color so that each value in the `vowel` column has its own color. 
 
 ```r
 ggplot(my_vowels, aes(x = F2, y = F1, color = vowel)) + 
@@ -174,7 +174,7 @@ Great. Now the colors are distinct from one another, but the order of the legend
 
 The problem with the plot the way it is, is you still have to constantly check back and forth between the legend and the plot to see what vowel you're looking at. An easier solution would be to plot the name of the vowel itself inside of its cluster. 
 
-One solution that I think I've seen before is to use the `stat_summary` function. Supposedly this works, and if you know how to use it, by all means go for it. I've never gotten it to work and I found a workaround that I like. It involves creating a separate dataset and essentially overlaing a second scatterplot over the main one. 
+One solution that I think I've seen before is to use the `stat_summary` function. Supposedly this works, and if you know how to use it, by all means go for it. I've never gotten it to work and I found a workaround that I like. It involves creating a separate dataset and essentially overlaying a second scatterplot over the main one. 
 
 To create this, I pull out some black magic from the `dplyr` package. First, I start with the `my_vowels` dataset. I then "pipe" it (the `%>%` function) to the `summarise` function. This function makes it easy to get summary statistics from your data. We're creating a new, arbitrarily-named column called `mean_F1`, which is calculated as the mean of the values in the `F1` column. Same thing for `mean_F2`. However, as it is, we'll end up with two numbers: the average F1 and F2 of all your data, which would probably be somewhere near the middle of your vowel space. 
 
@@ -246,9 +246,9 @@ ggplot(means, aes(x = mean_F2, y = mean_F1, label = vowel)) +
 
 Perfect. So we've seen how to plot the points themselves, and now we've seen how to plot the means. Now comes the fun part of actually overlaying them into one plot. 
 
-It's perfectly possible to plot two (or more) different datasets, but you'll have to be careful about the `aes()` functions. Anything in the `ggplot(aes())` function will apply to all other layers, unless they're overridden. That's why we didn't need to provide any additional information in `geom_plot` because it *inhereited* all its information (the data, the axes, the color) from `ggplot`. 
+It's perfectly possible to plot two (or more) different datasets, but you'll have to be careful about the `aes()` functions. Anything in the `ggplot(aes())` function will apply to all other layers, unless they're overridden. That's why we didn't need to provide any additional information in `geom_plot` because it *inherited* all its information (the data, the axes, the color) from `ggplot`. 
 
-If we want to add the means, we're using a different dataset, so that right off that bat has to be overriden in our `geom_label` function:
+If we want to add the means, we're using a different dataset, so that right off that bat has to be overridden in our `geom_label` function:
 
 ```r
     # Don't plot this yet...
@@ -267,7 +267,7 @@ ggplot(my_vowels, aes(x = F2, y = F1, color = vowel, label = vowel)) +
     ...
 ```
 
-However, we're going to have to supply our own `aes()` function within `geom_label`. The reason for that is because right now we've got `x = F2` and `y = F1` as global settings. Our new `means` dataframe doens't have columsn with those names. So we'll have to override these by adding a second `aes()` function, this time within `geom_label`:
+However, we're going to have to supply our own `aes()` function within `geom_label`. The reason for that is because right now we've got `x = F2` and `y = F1` as global settings. Our new `means` dataframe doesn't have columns with those names. So we'll have to override these by adding a second `aes()` function, this time within `geom_label`:
 
 ```r
 # Still don't run this.
@@ -374,7 +374,7 @@ ggplot(my_vowels, aes(x = F2, y = F1, color = vowel, label = vowel)) +
 
 ### Tangent: Ordering
 
-You might be wondering why I order the layers in the block of code the way I do. For the most part, the order doens't matter, but for some things it does. So if you look carefully, you'll see that the ellipses lines actually cover the labels. The reason for that is simply because the `stat_ellipse` function came after `geom_label`. I think it looks better with the labels on top, so you can switch those. 
+You might be wondering why I order the layers in the block of code the way I do. For the most part, the order doesn't matter, but for some things it does. So if you look carefully, you'll see that the ellipses lines actually cover the labels. The reason for that is simply because the `stat_ellipse` function came after `geom_label`. I think it looks better with the labels on top, so you can switch those. 
 
 ```r
 ggplot(my_vowels, aes(x = F2, y = F1, color = vowel, label = vowel)) + 
@@ -456,7 +456,7 @@ ggplot(my_vowels, aes(x = F2, y = F1, color = vowel, label = vowel)) +
 
 ### Shaded ellipses
 
-I want to touch on how to shade the ellipses in. This takes slightly more finangling within `stat_ellipse`, but the result is pretty cool.
+I want to touch on how to shade the ellipses in. This takes slightly more finagling within `stat_ellipse`, but the result is pretty cool.
 
 The main argument that you need to add is `geom = "polygon"` within `stat_ellipse`. Try that and see what the result is:
 
@@ -564,7 +564,7 @@ ggplot(my_five_vowels, aes(x = F2, y = F1, color = vowel, label = vowel, shape =
 
 ## Text instead of points
 
-Okay, last thing, I promise. If your dataset is relatively small, a really slick trick is to plot the words themselves rather than points. We saw how to do this above when we were plotting the means, but let's apply that to the reguar data. For this example, I'll just zoom in on my "AA" and "AO" vowels because I've been reading about the *cot*-*caught* merger recently. 
+Okay, last thing, I promise. If your dataset is relatively small, a really slick trick is to plot the words themselves rather than points. We saw how to do this above when we were plotting the means, but let's apply that to the regular data. For this example, I'll just zoom in on my "AA" and "AO" vowels because I've been reading about the *cot*-*caught* merger recently. 
 
 ```r
 cot_caught <- subset(my_vowels, vowel %in% c("AA", "AO"))
