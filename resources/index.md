@@ -61,6 +61,8 @@ Here is a list of resources I've found for R. I've gone through some of them and
 
 * *[Visualizing text data with ggplot2](https://github.com/ColinFay/conf/blob/master/2017-11-budapest/fay_colin_text_data_ggplot2.pdf?utm_content=buffer56bdc&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)* by Colin Fay. 
 
+* *[r-statistics.co](http://r-statistics.co)* by Selva Prabhakaran which has great tutorials on R itself, ggplot2, and advanced statistical modeling.
+
 <br/>
 ## Statistics Resources
 
