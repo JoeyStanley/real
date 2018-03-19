@@ -20,6 +20,10 @@ I'm currently giving a series of workshops on how to use R which will include a 
 
 This tutorial walks you through writing a praat script that extracts formant measurements from vowels. If you've never worked with Praat scripting but want to work with vowels, this might be a good starting point.
 
+### [Vowel plots in R tutorial](/blog/making-vowel-plots-in-r-part-1)
+
+This blog post walks you through how to make typical vowel plots in R, with a mild introduction to ggplot2 along the way. 
+
 ### [Make yourself googleable](downloads/161111-DigiLab-slides.pptx)
 
 I'm no expert, but I have given a workshop on how grad students can increase their online presence and make themselves more googleable, based in large part to ImpactStory's fantastic 30-day challenge, which you can read [here](http://blog.impactstory.org/research-impact-challenge-ebook/).
