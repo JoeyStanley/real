@@ -609,5 +609,6 @@ Aha! There we go. So this is a really slick way to make a plot look cooler. Part
 
 The way you present your data is all up to you. I often prefer a set of settings when I'm playing around with my data, but then switch to a different set when I want to copy and paste into a presentation or paper. It's good to be comfortable enough with ggplot2 so that you know what is going on and what changes you can make. Hopefully this post made a few things clearer.
 
-In the near future, I'll make another post on some slightly more advanced topics in vowel plots. Things like how to draw trajectory lines in a vowel plot like this, or how to draw formants similar to what you might see in Praat, how to highlight specific vowels or specific tokens (like I do in [this blog post]), or how to make 3D scatterplots. Should be fun.
+In the near future, I'll make another post on some slightly more advanced topics in vowel plots. Things like how to draw trajectory lines in a vowel plot like this, or how to draw formants similar to what you might see in Praat, how to highlight specific vowels or specific tokens (like I do in [this blog post](/blog/ar-raising)
+), or how to make 3D scatterplots. Should be fun.
 
