@@ -2,7 +2,7 @@
 layout: post
 title:  "Making vowel plots in R (Part 1)"
 date:   2018-03-18 21:37:00 -0400
-tags: [Methods, Phonetics, ]
+tags: [How-to Guides, Methods, Phonetics, R, Skills]
 ---
 
 Last week I was approached by a fellow graduate student who asked how they might go about making vowel plots in R. I’ve made a couple of these plots recently and have learend some interesting tricks along the way, so I thought it might make for an interesting blog post. Actually, I thought it would make for an interesting <em>series</em> of blog posts. In this first post, I’ll stick with scatterplots and look at the code you’ll need for them. In later posts, I show how work with trajectory data and 3D scatterplots, but for now we’ll stick with the basics.
