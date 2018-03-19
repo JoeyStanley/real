@@ -1,0 +1,613 @@
+---
+layout: post
+title:  "Making vowel plots in R (Part 1)"
+date:   2018-03-18 21:37:00 -0400
+tags: [Methods, Phonetics, ]
+---
+
+Last week I was approached by a fellow graduate student who asked how they might go about making vowel plots in R. I’ve made a couple of these plots recently and have learend some interesting tricks along the way, so I thought it might make for an interesting blog post. Actually, I thought it would make for an interesting <em>series</em> of blog posts. In this first post, I’ll stick with scatterplots and look at the code you’ll need for them. In later posts, I show how work with trajectory data and 3D scatterplots, but for now we’ll stick with the basics.
+
+## Introduction
+
+Last week I was approached by a fellow graduate student who asked how they might go about making vowel plots in R. I've made a couple of these plots recently and have learend some interesting tricks along the way, so I thought it might make for an interesting blog post. Actually, I thought it would make for an interesting *series* of blog posts but in this first post, I'll stick with scatterplots and look at the code you'll need for them. 
+
+The dataset I'll be working with comes from me reading 300 sentences. This was transcribed manually, force-aligned using [DARLA](http://darla.dartmouth.edu), with formants extracted using FAVE. I've removed outliers already, so the remaining data is pretty clean. 
+
+```r
+library(dplyr)
+library(ggplot2)
+```
+
+
+## Read in and process data
+
+As with any R script, the first step (after loading your packages) is to read in and prepare your data. For maximual reproducibility in your own data, I'm going to work with the FAVE output as is, so you can see how I process the data. This means that we'll be seeing the vowels in "ARPABET", rather than IPA. Since the focus of this post isn't necessarily on the minutia of the data processing, I'll keep that part to a minimum.
+
+```r
+my_vowels <- read.csv("data/joey.csv") %>%
+    filter(stress == 1, 
+           !vowel %in% c("AY", "AW", "OY", "ER"),
+           !word %in% c("TO", "US")) %>%
+    mutate(word = tolower(word))
+```
+
+So what this chunk does is it reads in file called `joey.csv` that I have saved in a folder called `data`. It then filters the data by keeping just the vowels with primary stress, removing diphthongs and /ɹ/, and removing a couple stopwords. Then it changes all the words so that they're lowercase.
+
+## Building a basic scatterplot
+
+As with anything in ggplot2, we'll be building it layer by layer. The base later can be created by just using the `ggplot()` function.
+
+```r
+ggplot()
+```
+![](/images/plots/vowel_plots_1/plot2.png)
+
+It's just a blank rectangle, but it is valid code. To make this actually useful, we can tell it to work with the `my_vowels` data.
+
+```r
+ggplot(my_vowels)
+```
+![](/images/plots/vowel_plots_1/plot2.png)
+
+Still no visualization, but we're getting there. The next part of a `ggplot` function is what's called the `mapping` argument. This is where you tell `ggplot` which columns of your data should correspond to what parts of the visualization. Traditionally in vowel plots, we want F2 along the *x*-axis F1 along the *y*-axis. We can do that using the `aes()` function and specify that we want to work with the columns from our spreadsheet called `F1` and `F2`. 
+
+```r
+ggplot(my_vowels, aes(x = F2, y = F1))
+```
+![](/images/plots/vowel_plots_1/plot3.png)
+
+We're getting closer. What `ggplot` has done at this point is added some information to your plot already. There are now *x*- and *y*-axis labels, ticks, and even a faint white grid. 
+
+### Tangent: Column names
+
+Side note. If you want to plot the midpoints, that data is also contained in our spreadsheet. If you open the file in Excel, the column names are `F1@50%` and `F2@50%`. However, R doesn't really like having the `@` or `%` in the column names, so if you read it in using `read.csv` like I did, those characters will be changed to periods, meaning the column names are actually `F1.50.` and `F2.50.`. So if you want to use midpoints, be sure to do that instead:
+
+```r
+ggplot(my_vowels, aes(x = F2.50., y = F1.50.))
+```
+
+Side-side note. If you read your data in using `read_csv` (with an underscore) from the `readxl` package (which is part of the "tidyverse"), it actually handles the real name of the column. However, you'll have to put little ticks (that apostrphe-looking thing next to your "1" key) around them:
+
+```r
+my_vowels_readr <- readr::read_csv("data/joey.csv")
+ggplot(my_vowels_readr, aes(x = `F2@50%`, y = `F1@50%`))
+```
+
+For now, we'll stick with the basic `F1` and `F2` columns.
+
+### Anyway, back to the scatterplot
+
+All we need to do at this point is to add the scatterplot. We can do that by adding a separate later to the `ggplot` function. To do this, just add a plus sign (`+`) at the end of the line, start a new line, and add the function `geom_point`, which makes a scatterplot. 
+
+```r
+ggplot(my_vowels, aes(x = F2, y = F1)) + 
+    geom_point()
+```
+![](/images/plots/vowel_plots_1/plot4.png)
+
+Aha! We now have a scatterplot! It's not the most useful one because we can't tell what vowel or word each point came from. But it is a start. 
+
+## Themes
+
+Right now, you might be wondering why we have a gray background. This is on purpose by the designers of ggplot2 because it makes colors pop out. You can change the overall look and feel of your plot using various theme functions. I like `theme_bw()`, `theme_classic()`, and `theme_minimal()` myself, so I'll stick with `theme_classic()` for today. You can explore the other themes by typing the command `?theme_classic` and see the other options.
+
+```r
+ggplot(my_vowels, aes(x = F2, y = F1)) + 
+    geom_point() + 
+    theme_classic()
+```
+![](/images/plots/vowel_plots_1/plot5.png)
+
+## Coloring vowels
+
+Because English has so many vowels, there's no really good way to show them all on a plot. Typically, I use color, but it's hard to get a set of 11 colors that are all easily distinguishable and easy on the eyes. There's no real way to win here. For now, let's just add the default colors and see how it looks.
+
+So how do we add color? If you think about it, what we want `ggplot` to do is to change the color of the dot depending on what the vowel is. Fortuantely, we have a column in our spreadsheet, `vowel`, that has a different value for each vowel. So let's tell `ggplot` to simply change the color so that each value in the `vowel` column has its own color. 
+
+```r
+ggplot(my_vowels, aes(x = F2, y = F1, color = vowel)) + 
+    geom_point() + 
+    theme_classic()
+```
+![](/images/plots/vowel_plots_1/plot6.png)
+
+Okay, so let's look at the result. The most obvious thing we see is that there is now color, but there's also a legend too. Each unique vowel in our data is now represented in this legend, and the name of the column in our spreadsheet, `vowel`, is the title of that legend. One subtler change is that the plotting area is actually a little bit narrower to make room for the legend.
+
+How is this color assigned? First, it puts all the vowels in alphabetical order. But keep in mind that this is based on the ARPABET notation, which might not be the order you want. In IPA, it ends up being /ɑ/, /æ/, /ʌ/, /ɔ/, /ɛ/, /e/, /ɪ/, /i/, /o/, /ʊ/, /u/. It then takes that order and, going around the color wheel from red to pink, picks 11 equidistant, maximally-distinct colors. Because of the nature of how color works, there are several shades of blue and green, but not very many warm colors. We'll see how to fix the order of these colors, as well as the specific color values, in just a sec.
+
+### Tangent: reversing the axes
+
+Now wait a second. The high front vowel /i/---represented by the sequence "IY" here---is in the bottom right of the plot when it traditionally is in the top left. That's true. Vowel plots typically reverse both the *x*- and the *y*-axes so that high vowels are at the top, and front vowels are on the right. This is just convention but it has to do with the inverse relationship with the actual formant values and how we perceive the sounds to be. Anyway, the functions you're looking for are `scale_x_reverse()` and `scale_y_reverse()`, which should each be added as their own layer.
+
+```r
+ggplot(my_vowels, aes(x = F2, y = F1, color = vowel)) + 
+    geom_point() + 
+    scale_x_reverse() + scale_y_reverse() + 
+    theme_classic()
+```
+![](/images/plots/vowel_plots_1/plot7.png)
+
+Okay, much better. Now we can see that the bright blue IY vowel is in the top left, the pink UW is in the top right-ish, and my unmerged AA and AO (/ɑ/ and /ɔ/, as in *cot* and *caught*) are in the bottom right.
+
+### Changing the order
+
+If you want to change the order of the colors and the order in the legend, there are two ways to do that. The first is my leaving your underlying data alone and making superficial changes only within `ggplot` itself. This is a useful thing to know how to do, but I won't cover that here. If you're interested, I'd highly recommend [this page](http://www.cookbook-r.com/Graphs/Legends_(ggplot2)/) on that, or you can peruse one of the [ggplot2 workshops](pages/r-workshops.html) I did. 
+
+At least for the order of the vowels, what I think is the most useful option is to actually modify your dataset and then plot the modified version. The way to do this is the `factor` function and manually specifying the order you want them to be in. This is the order that I typically do, but you're of course free to do whatever you want.
+
+```r
+my_vowels$vowel <- factor(my_vowels$vowel, 
+                          levels = c("IY", "IH", "EY", "EH", "AE", 
+                                     "AA", "AO", "OW", "UH", "UW", "AH"))
+ggplot(my_vowels, aes(x = F2, y = F1, color = vowel)) + 
+    geom_point() + 
+    scale_x_reverse() + scale_y_reverse() + 
+    theme_classic()
+```
+![](/images/plots/vowel_plots_1/plot8.png)
+
+The benefit to this is that now the vowels are in a somewhat logical order in the legend. The downside is that the colors of each vowel are very close to other vowels near them in the vowel space. What would be better is to have vowels near each other to be different visually.
+
+Just for funsies, I tried a different order essentially by just choosing every third vowel. 
+
+```r
+my_vowels$vowel <- factor(my_vowels$vowel, 
+                          levels = c("IY", "EH", "AO", "UH", "IH", 
+                                     "AE", "AH", "UW", "EY", "AA", "OW"))
+ggplot(my_vowels, aes(x = F2, y = F1, color = vowel)) + 
+    geom_point() + 
+    scale_x_reverse() + scale_y_reverse() + 
+    theme_classic()
+```
+![](/images/plots/vowel_plots_1/plot9.png)
+
+This is the first time I've done this and I kinda like it. I'll stick with it. The good part is that the vowels are for the most part relatively easy to see. The major downside is that the legend is the exact order I specified, which is useless for finding something. What we need to do is actually modify the legend order. We can do that with the `scale_color_discrete` function added to our growing stack of `ggplot` code and then supply the order you want it to be in as the `breaks` argument.
+
+```r
+ggplot(my_vowels, aes(x = F2, y = F1, color = vowel)) + 
+    geom_point() + 
+    scale_x_reverse() + scale_y_reverse() + 
+    scale_color_discrete(breaks = c("IY", "IH", "EY", "EH", "AE", 
+                                     "AA", "AO", "OW", "UH", "UW", "AH")) + 
+    theme_classic()
+```
+![](/images/plots/vowel_plots_1/plot10.png)
+
+Great. Now the colors are distinct from one another, but the order of the legend is back to an order we might expect.
+
+## Adding vowel means
+
+The problem with the plot the way it is, is you still have to constantly check back and forth between the legend and the plot to see what vowel you're looking at. An easier solution would be to plot the name of the vowel itself inside of its cluster. 
+
+One solution that I think I've seen before is to use the `stat_summary` function. Supposedly this works, and if you know how to use it, by all means go for it. I've never gotten it to work and I found a workaround that I like. It involves creating a separate dataset and essentially overlaing a second scatterplot over the main one. 
+
+To create this, I pull out some black magic from the `dplyr` package. First, I start with the `my_vowels` dataset. I then "pipe" it (the `%>%` function) to the `summarise` function. This function makes it easy to get summary statistics from your data. We're creating a new, arbitrarily-named column called `mean_F1`, which is calculated as the mean of the values in the `F1` column. Same thing for `mean_F2`. However, as it is, we'll end up with two numbers: the average F1 and F2 of all your data, which would probably be somewhere near the middle of your vowel space. 
+
+```r
+means <- my_vowels %>%
+    summarise(mean_F1 = mean(F1),
+              mean_F2 = mean(F2)) %>%
+    print()
+```
+
+What we actually want is the mean F1 and F2 per vowel. So, what we do is insert the `group_by` function just before `summarise`. By itself, `group_by` doesn't really do much except change some stuff about the data frame under the hood. But these changes are especially useful when that is then "piped" (`%>%`) to `summarise`. Because I did `group_by(vowel)` first, whatever summary information you want from your dataset will apply to each vowel independently. So, instead of the average overall, you're getting the average per group. The result is a new dataframe that we're calling `means`, that has all the information we want. (I'm then piping it to a `print` function so we can see the output.)
+
+```r
+means <- my_vowels %>%
+    group_by(vowel) %>%
+    summarise(mean_F1 = mean(F1),
+              mean_F2 = mean(F2)) %>%
+    print(n = 11)
+```
+
+This new dataset, `means`,  is a perfectly good, stand-alone dataset that we can plot by itself. Note that because we called the columns `mean_F1` and `mean_F2`, we'll have to use those in the `ggplot2` function. 
+
+```r
+ggplot(means, aes(x = mean_F2, y = mean_F1)) + 
+    geom_point() + 
+    theme_classic()
+```
+![](/images/plots/vowel_plots_1/plot11.png)
+
+The points themselves aren't very enlightening. To ad some pizzazz, I'm going to use `geom_label`. This is essentially the same thing, but instead of dots, it'll print this nice little labels. Of course, you have to tell `ggplot` what text to use for these labels, so we'll tell it to use the labels in the `vowel` column in the `means` dataset.
+
+```r
+ggplot(means, aes(x = mean_F2, y = mean_F1, label = vowel)) + 
+    geom_label() + 
+    theme_classic()
+```
+![](/images/plots/vowel_plots_1/plot12.png)
+
+Ooh! Okay, so now we're geting somewhere. Here it becomes obvious that we need to reverse the *x*- and *y*-axes. Let's do that too.
+
+```r
+ggplot(means, aes(x = mean_F2, y = mean_F1, label = vowel)) + 
+    geom_label() + 
+    scale_x_reverse() + scale_y_reverse() + 
+    theme_classic()
+```
+![](/images/plots/vowel_plots_1/plot13.png)
+
+Perfect. So we've seen how to plot the points themselves, and now we've seen how to plot the means. Now comes the fun part of actually overlaying them into one plot. 
+
+It's perfectly possible to plot two (or more) different datasets, but you'll have to be careful about the `aes()` functions. Anything in the `ggplot(aes())` function will apply to all other layers, unless they're overridden. That's why we didn't need to provide any additional information in `geom_plot` because it *inhereited* all its information (the data, the axes, the color) from `ggplot`. 
+
+If we want to add the means, we're using a different dataset, so that right off that bat has to be overriden in our `geom_label` function:
+
+```r
+    # Don't plot this yet...
+    ...
+    geom_label(data = means) + 
+    ...
+```
+
+Because we're using `geom_label`, we're going to need to put `label = vowel` somewhere. You can put it in the main `ggplot(aes())` function with everything else and that'll work out fine:
+
+```r
+    # Don't plot this yet...
+ggplot(my_vowels, aes(x = F2, y = F1, color = vowel, label = vowel)) + 
+    ...
+    geom_label(data = means) + 
+    ...
+```
+
+However, we're going to have to supply our own `aes()` function within `geom_label`. The reason for that is because right now we've got `x = F2` and `y = F1` as global settings. Our new `means` dataframe doens't have columsn with those names. So we'll have to override these by adding a second `aes()` function, this time within `geom_label`:
+
+```r
+# Still don't run this.
+ggplot(my_vowels, aes(x = F2, y = F1, color = vowel, label = vowel)) + 
+    ...
+    geom_label(data = means, aes(x = mean_F2, y = mean_F1)) + 
+```
+
+Add all the other pieces to the plot, and let'er rip.
+
+```r
+ggplot(my_vowels, aes(x = F2, y = F1, color = vowel, label = vowel)) + 
+    geom_point() + 
+    geom_label(data = means, aes(x = mean_F2, y = mean_F1)) + 
+    scale_x_reverse() + scale_y_reverse() + 
+    scale_color_discrete(breaks = c("IY", "IH", "EY", "EH", "AE", 
+                                     "AA", "AO", "OW", "UH", "UW", "AH"))  + 
+    theme_classic()
+```
+![](/images/plots/vowel_plots_1/plot14.png)
+
+Aha! so now we have a vowel plot that has the points, and on top of them it has the labels for these vowels right where the averages are. Pretty cool. 
+
+A couple things to note here. In the legend, notice that the dots have now all turned into little *a*'s. This is because we're using `geom_label` now. I don't know how to change this. I kinda wish they would go back to dots, but I don't know how to fix that. We can actually remove the legend entirely with `guides(color = FALSE)` because now it's not providing any additional clarity.
+
+```r
+ggplot(my_vowels, aes(x = F2, y = F1, color = vowel, label = vowel)) + 
+    geom_point() + 
+    geom_label(data = means, aes(x = mean_F2, y = mean_F1)) + 
+    scale_x_reverse() + scale_y_reverse() + 
+    scale_color_discrete(breaks = c("IY", "IH", "EY", "EH", "AE", 
+                                     "AA", "AO", "OW", "UH", "UW", "AH")) +
+    guides(color = FALSE) + 
+    theme_classic()
+```
+![](/images/plots/vowel_plots_1/plot15.png)
+
+Another thing to notice is that the labels are automatically colored the same as the vowels! How did it do that? We'll, as it turns out, `geom_label` inherited the `color = vowel` argument from the main `ggplot(aes())` function. Pretty cool. If you want to override it, perhaps by making them all black, you can certainly do so. Just put it within `geom_label` but not inside of `aes`:
+
+```r
+ggplot(my_vowels, aes(x = F2, y = F1, color = vowel, label = vowel)) + 
+    geom_point() + 
+    geom_label(data = means, aes(x = mean_F2, y = mean_F1), color = "black") + 
+    scale_x_reverse() + scale_y_reverse() + 
+    scale_color_discrete(breaks = c("IY", "IH", "EY", "EH", "AE", 
+                                     "AA", "AO", "OW", "UH", "UW", "AH")) +
+    guides(color = FALSE) + 
+    theme_classic()
+```
+![](/images/plots/vowel_plots_1/plot16.png)
+
+If course, now it's not quite as clear which cluster the labels belong to. It's up to you.
+
+### Tangent: An alternative approach
+
+Side note, we could have saved ourselves some headache by planning ahead. When we created the `means` dataframe, we could have called the new columns `F1` and `F2` to match the columns in `my_vowels`. By doing that, we wouldn't need to override the *x* and *y* arguments. All of that code would look like this.
+
+```r
+means <- my_vowels %>%
+    group_by(vowel) %>%
+    summarise(F1 = mean(F1),
+              F2 = mean(F2))
+ggplot(my_vowels, aes(x = F2, y = F1, color = vowel, label = vowel)) + 
+    geom_point() + 
+    geom_label(data = means) + 
+    scale_x_reverse() + scale_y_reverse() + 
+    scale_color_discrete(breaks = c("IY", "IH", "EY", "EH", "AE", 
+                                     "AA", "AO", "OW", "UH", "UW", "AH")) + 
+    guides(color = FALSE) + 
+    theme_classic()
+```
+
+## Ellipses
+
+One final thing that would be good to show in a vowel plot are ellipses. These are often used to get an idea of the distribution of the vowels or to show degree of overlap. Fortunately, they're pretty easy to implement (a lot easier than means at least). The main function that takes care of these is `stat_ellipse`. 
+
+```r
+ggplot(my_vowels, aes(x = F2, y = F1, color = vowel, label = vowel)) + 
+    geom_point() + 
+    geom_label(data = means, aes(x = mean_F2, y = mean_F1), color = "black") + 
+    stat_ellipse() + 
+    scale_x_reverse() + scale_y_reverse() + 
+    scale_color_discrete(breaks = c("IY", "IH", "EY", "EH", "AE", 
+                                     "AA", "AO", "OW", "UH", "UW", "AH")) +
+    guides(color = FALSE) + 
+    theme_classic()
+```
+![](/images/plots/vowel_plots_1/plot17.png)
+
+Easy-peasy. By default, these ellipses cover about a 95% confidence interval around the means of each vowel. We can change that to whatever we want using the `level` function. I usually set mine to 0.67, which corresponds to about one standard deviation:
+
+```r
+ggplot(my_vowels, aes(x = F2, y = F1, color = vowel, label = vowel)) + 
+    geom_point() + 
+    geom_label(data = means, aes(x = mean_F2, y = mean_F1), color = "black") + 
+    stat_ellipse(level = 0.67) + 
+    scale_x_reverse() + scale_y_reverse() + 
+    scale_color_discrete(breaks = c("IY", "IH", "EY", "EH", "AE", 
+                                     "AA", "AO", "OW", "UH", "UW", "AH")) +
+    guides(color = FALSE) + 
+    theme_classic()
+```
+![](/images/plots/vowel_plots_1/plot18.png)
+
+### Tangent: Ordering
+
+You might be wondering why I order the layers in the block of code the way I do. For the most part, the order doens't matter, but for some things it does. So if you look carefully, you'll see that the ellipses lines actually cover the labels. The reason for that is simply because the `stat_ellipse` function came after `geom_label`. I think it looks better with the labels on top, so you can switch those. 
+
+```r
+ggplot(my_vowels, aes(x = F2, y = F1, color = vowel, label = vowel)) + 
+    geom_point() + 
+    stat_ellipse(level = 0.67) + 
+    geom_label(data = means, aes(x = mean_F2, y = mean_F1), color = "black") + 
+    scale_x_reverse() + scale_y_reverse() + 
+    scale_color_discrete(breaks = c("IY", "IH", "EY", "EH", "AE", 
+                                     "AA", "AO", "OW", "UH", "UW", "AH")) +
+    guides(color = FALSE) + 
+    theme_classic()
+```
+![](/images/plots/vowel_plots_1/plot19.png)
+
+As far as I can tell, many of the other things like `scale_x_reverse`, `scale_y_reverse`, and `scale_color_discrete` can go anywhere. Generally, I order my block with the important things first (like `geom_point` since this is a scatterplot after all), then the small cosmetic changes (like `scale_x_reverse`), and then any themes.
+
+### Back to ellipses
+
+Sometimes, you just have too much data and you lose the forest for the trees with all those points. You can easy remove them and leave just the means and the ellipses by removing (or just commenting out) the `geom_point` line.
+
+```r
+ggplot(my_vowels, aes(x = F2, y = F1, color = vowel, label = vowel)) + 
+    #geom_point() + 
+    stat_ellipse(level = 0.67) + 
+    geom_label(data = means, aes(x = mean_F2, y = mean_F1)) + 
+    scale_x_reverse() + scale_y_reverse() + 
+    scale_color_discrete(breaks = c("IY", "IH", "EY", "EH", "AE", 
+                                     "AA", "AO", "OW", "UH", "UW", "AH")) +
+    guides(color = FALSE) + 
+    theme_classic()
+```
+![](/images/plots/vowel_plots_1/plot20.png)
+
+That's one way to clean it up. We could also keep them but make them a bit transparent by adding the `alpha = 0.2` argument. The range of values for `alpha` is from 0 to 1, with 1 being completely opaque and 0 being invisible. An `alpha` level of `0.2` means that it takes 5 (0.1 = 1/*5*) overlapping points to become completely opaque. In other words it's only shaded in 20%. 
+
+```r
+ggplot(my_vowels, aes(x = F2, y = F1, color = vowel, label = vowel)) + 
+    geom_point(alpha = 0.2) + 
+    stat_ellipse(level = 0.67) + 
+    geom_label(data = means, aes(x = mean_F2, y = mean_F1)) + 
+    scale_x_reverse() + scale_y_reverse() + 
+    scale_color_discrete(breaks = c("IY", "IH", "EY", "EH", "AE", 
+                                     "AA", "AO", "OW", "UH", "UW", "AH")) +
+    guides(color = FALSE) + 
+    theme_classic()
+```
+![](/images/plots/vowel_plots_1/plot21.png)
+
+We could also change the size so that they're smaller. The exact size depends on how much data you have, but if you make it smaller than the default of 1.5, you might have better results.
+
+```r
+ggplot(my_vowels, aes(x = F2, y = F1, color = vowel, label = vowel)) + 
+    geom_point(size = 0.75) + 
+    stat_ellipse(level = 0.67) + 
+    geom_label(data = means, aes(x = mean_F2, y = mean_F1)) + 
+    scale_x_reverse() + scale_y_reverse() + 
+    scale_color_discrete(breaks = c("IY", "IH", "EY", "EH", "AE", 
+                                     "AA", "AO", "OW", "UH", "UW", "AH")) +
+    guides(color = FALSE) + 
+    theme_classic()
+```
+![](/images/plots/vowel_plots_1/plot22.png)
+
+You could even change the size to a lot smaller, like 0.1 or even 0.01. You could also keep them relatively large but change the transparency as well (`size = 2, alpha = 0.5`). The sky's the limit!
+
+```r
+ggplot(my_vowels, aes(x = F2, y = F1, color = vowel, label = vowel)) + 
+    geom_point(size = 1, alpha = 0.5) + 
+    stat_ellipse(level = 0.67) + 
+    geom_label(data = means, aes(x = mean_F2, y = mean_F1)) + 
+    scale_x_reverse() + scale_y_reverse() + 
+    scale_color_discrete(breaks = c("IY", "IH", "EY", "EH", "AE", 
+                                     "AA", "AO", "OW", "UH", "UW", "AH")) +
+    guides(color = FALSE) + 
+    theme_classic()
+```
+![](/images/plots/vowel_plots_1/plot23.png)
+
+
+### Shaded ellipses
+
+I want to touch on how to shade the ellipses in. This takes slightly more finangling within `stat_ellipse`, but the result is pretty cool.
+
+The main argument that you need to add is `geom = "polygon"` within `stat_ellipse`. Try that and see what the result is:
+
+```r
+ggplot(my_vowels, aes(x = F2, y = F1, color = vowel, label = vowel)) + 
+    stat_ellipse(level = 0.67, geom = "polygon") + 
+    geom_label(data = means, aes(x = mean_F2, y = mean_F1)) + 
+    scale_x_reverse() + scale_y_reverse() + 
+    scale_color_discrete(breaks = c("IY", "IH", "EY", "EH", "AE", 
+                                     "AA", "AO", "OW", "UH", "UW", "AH")) +
+    guides(color = FALSE) + 
+    theme_classic()
+```
+![](/images/plots/vowel_plots_1/plot24.png)
+
+Okay, so that has the effect of filling them all in black. We don't want that. Let's make them all a bit transparent by adding the `alpha = 0.2` argument. The range of values for `alpha` is from 0 to 1, with 1 being completely opaque and 0 being invisible. An `alpha` level of `0.2` means that it takes 5 (0.1 = 1/*5*) overlapping ellipses to become completely opaque. In other words it's only shaded in 20%. 
+
+```r
+ggplot(my_vowels, aes(x = F2, y = F1, color = vowel, label = vowel)) + 
+    stat_ellipse(level = 0.67, geom = "polygon", alpha = 0.1) + 
+    geom_label(data = means, aes(x = mean_F2, y = mean_F1)) + 
+    scale_x_reverse() + scale_y_reverse() + 
+    scale_color_discrete(breaks = c("IY", "IH", "EY", "EH", "AE", 
+                                     "AA", "AO", "OW", "UH", "UW", "AH")) +
+    guides(color = FALSE) + 
+    theme_classic()
+```
+![](/images/plots/vowel_plots_1/plot25.png)
+
+Finally, we can actually color these ellipses based on the vowels themselves by adding `fill = vowel` to our `aes` function:
+
+```r
+ggplot(my_vowels, aes(x = F2, y = F1, color = vowel, label = vowel, fill = vowel)) + 
+    stat_ellipse(level = 0.67, geom = "polygon", alpha = 0.1) + 
+    geom_label(data = means, aes(x = mean_F2, y = mean_F1)) + 
+    scale_x_reverse() + scale_y_reverse() + 
+    scale_color_discrete(breaks = c("IY", "IH", "EY", "EH", "AE", 
+                                     "AA", "AO", "OW", "UH", "UW", "AH")) +
+    guides(color = FALSE) + 
+    theme_classic()
+```
+![](/images/plots/vowel_plots_1/plot26.png)
+
+Whoops! What did that do? Yes, the ellipses are shaded in correctly, but now the labels are too! Turns out, in `geom_label`, the `fill` argument also modifies the background color, which is normally white. We could either override the fill on `geom_label` and set it to `"white"`, or, better yet, let's just add `aes(fill = vowel)` just to `stat_ellipse` to prevent any other potential bugs.
+
+```r
+ggplot(my_vowels, aes(x = F2, y = F1, color = vowel, label = vowel)) + 
+    stat_ellipse(level = 0.67, geom = "polygon", alpha = 0.1, aes(fill = vowel)) + 
+    geom_label(data = means, aes(x = mean_F2, y = mean_F1)) + 
+    scale_x_reverse() + scale_y_reverse() + 
+    scale_color_discrete(breaks = c("IY", "IH", "EY", "EH", "AE", 
+                                     "AA", "AO", "OW", "UH", "UW", "AH")) +
+    guides(color = FALSE) + 
+    theme_classic()
+```
+![](/images/plots/vowel_plots_1/plot27.png)
+
+Aha. Now we get the desired result. Note though that our legend is back. This is because we removed it for *color* using `guides(color = FALSE)`, but it's still there with this new *fill* aesthetic. We can just add `fill = FALSE` there and it'll take it out. 
+
+```r
+ggplot(my_vowels, aes(x = F2, y = F1, color = vowel, label = vowel)) + 
+    stat_ellipse(level = 0.67, geom = "polygon", alpha = 0.1, aes(fill = vowel)) + 
+    geom_label(data = means, aes(x = mean_F2, y = mean_F1)) + 
+    scale_x_reverse() + scale_y_reverse() + 
+    scale_color_discrete(breaks = c("IY", "IH", "EY", "EH", "AE", 
+                                     "AA", "AO", "OW", "UH", "UW", "AH")) +
+    guides(color = FALSE, fill = FALSE) + 
+    theme_classic()
+```
+![](/images/plots/vowel_plots_1/plot28.png)
+
+Really though, the `guides` option is only good if you want to remove specific aspects of the legend but not all of it. Alternatively, we can just use `theme(legend.position="none")` instead and that'll remove the legend no matter what else we add to the plot. However, this has to come *after* any themes you might apply to the plot.
+
+```r
+ggplot(my_vowels, aes(x = F2, y = F1, color = vowel, label = vowel)) + 
+    stat_ellipse(level = 0.67, geom = "polygon", alpha = 0.1, aes(fill = vowel)) + 
+    geom_label(data = means, aes(x = mean_F2, y = mean_F1)) + 
+    scale_x_reverse() + scale_y_reverse() + 
+    scale_color_discrete(breaks = c("IY", "IH", "EY", "EH", "AE", 
+                                     "AA", "AO", "OW", "UH", "UW", "AH")) +
+    theme_classic() + 
+    theme(legend.position="none")
+```
+![](/images/plots/vowel_plots_1/plot29.png)
+
+So shaded ellipses are cool, but because we have so many vowels in English they can get a little muddy. If you're only working with a subset of English vowels or a language with fewer vowels, it'll look a little crisper, even if you add the points back in. (I'll even add `shape` in there too for fun.)
+
+```r
+my_five_vowels <- subset(my_vowels, vowel %in% c("IY", "EH", "AA", "OW", "UW"))
+five_means <- my_five_vowels %>%
+    group_by(vowel) %>%
+    summarise(mean_F1 = mean(F1),
+              mean_F2 = mean(F2))
+ggplot(my_five_vowels, aes(x = F2, y = F1, color = vowel, label = vowel, shape = vowel)) + 
+    geom_point() + 
+    stat_ellipse(level = 0.67, geom = "polygon", alpha = 0.1, aes(fill = vowel)) + 
+    geom_label(data = five_means, aes(x = mean_F2, y = mean_F1)) + 
+    scale_x_reverse() + scale_y_reverse() + 
+    scale_color_discrete(breaks = c("IY", "IH", "EY", "EH", "AE", 
+                                     "AA", "AO", "OW", "UH", "UW", "AH")) +
+    theme_classic() + 
+    theme(legend.position="none")
+```
+![](/images/plots/vowel_plots_1/plot30.png)
+
+## Text instead of points
+
+Okay, last thing, I promise. If your dataset is relatively small, a really slick trick is to plot the words themselves rather than points. We saw how to do this above when we were plotting the means, but let's apply that to the reguar data. For this example, I'll just zoom in on my "AA" and "AO" vowels because I've been reading about the *cot*-*caught* merger recently. 
+
+```r
+cot_caught <- subset(my_vowels, vowel %in% c("AA", "AO"))
+cot_caught_means <- cot_caught %>%
+    group_by(vowel) %>%
+    summarise(mean_F1 = mean(F1),
+              mean_F2 = mean(F2))
+```
+
+So here's what this would look like with points.
+
+```r
+ggplot(cot_caught, aes(x = F2, y = F1, color = vowel, label = vowel, shape = vowel)) + 
+    geom_point() + 
+    stat_ellipse(level = 0.67, geom = "polygon", alpha = 0.1, aes(fill = vowel)) + 
+    geom_label(data = cot_caught_means, aes(x = mean_F2, y = mean_F1)) + 
+    scale_x_reverse() + scale_y_reverse() + 
+    scale_color_discrete(breaks = c("IY", "IH", "EY", "EH", "AE", 
+                                     "AA", "AO", "OW", "UH", "UW", "AH")) +
+    theme_classic() + 
+    theme(legend.position="none")
+```
+![](/images/plots/vowel_plots_1/plot31.png)
+
+The trick here is to use `geom_text` instead of `geom_point`. Note that `geom_text` is very similar to `geom_label`, which is what we used for the means. The only difference I've been able to see is that there's a nice little box around `geom_label` and not one for `geom_text`. 
+
+```r
+ggplot(cot_caught, aes(x = F2, y = F1, color = vowel, label = vowel, shape = vowel)) + 
+    geom_text() + 
+    stat_ellipse(level = 0.67, geom = "polygon", alpha = 0.1, aes(fill = vowel)) + 
+    geom_label(data = cot_caught_means, aes(x = mean_F2, y = mean_F1)) + 
+    scale_x_reverse() + scale_y_reverse() + 
+    scale_color_discrete(breaks = c("IY", "IH", "EY", "EH", "AE", 
+                                     "AA", "AO", "OW", "UH", "UW", "AH")) +
+    theme_classic() + 
+    theme(legend.position="none")
+```
+![](/images/plots/vowel_plots_1/plot32.png)
+
+Oops! that's not what we wanted! For the means, yes, we want the vowel. But for the points we want the actual word. This means we have to add `label = word` to our code somewhere. For clarity, I'll move `label = vowel` out of the main function and into `geom_label` as well. That way there is no default label and every time we call `geom_text` or `geom_label` we need to specify `label` individually. (Also, I'll get rid of `shape = vowel` since that's not being used anymore.)
+
+```r
+ggplot(cot_caught, aes(x = F2, y = F1, color = vowel)) + 
+    geom_text(aes(label = word)) + 
+    stat_ellipse(level = 0.67, geom = "polygon", alpha = 0.1, aes(fill = vowel)) + 
+    geom_label(data = cot_caught_means, aes(x = mean_F2, y = mean_F1, label = vowel)) + 
+    scale_x_reverse() + scale_y_reverse() + 
+    scale_color_discrete(breaks = c("IY", "IH", "EY", "EH", "AE", 
+                                     "AA", "AO", "OW", "UH", "UW", "AH")) +
+    theme_classic() + 
+    theme(legend.position="none")
+```
+![](/images/plots/vowel_plots_1/plot33.png)
+
+Aha! There we go. So this is a really slick way to make a plot look cooler. Particularly if you don't have a lot of data to show at once. If you want, try it with the full dataset just to see how not helpful it is. Also, it can be slow to render if you have a lot of data to show.
+
+## Final remarks
+
+The way you present your data is all up to you. I often prefer a set of settings when I'm playing around with my data, but then switch to a different set when I want to copy and paste into a presentation or paper. It's good to be comfortable enough with ggplot2 so that you know what is going on and what changes you can make. Hopefully this post made a few things clearer.
+
+In the near future, I'll make another post on some slightly more advanced topics in vowel plots. Things like how to draw trajectory lines in a vowel plot like this, or how to draw formants similar to what you might see in Praat, how to highlight specific vowels or specific tokens (like I do in [this blog post]), or how to make 3D scatterplots. Should be fun.
+
