@@ -5,7 +5,7 @@ date:   2018-03-18 21:37:00 -0400
 tags: [How-to Guides, Methods, Phonetics, R, Skills]
 ---
 
-Last week I was approached by a fellow graduate student who asked how they might go about making vowel plots in R. I've made my share of these plots and have learned some tricks along the way, so I thought it might make for an interesting blog post. Actually, I thought it would make for an interesting *series* of blog posts. In this first post, I'll stick with scatterplots and look at the code you'll need for them. 
+Last week I was approached by a fellow graduate student who asked how they might go about making vowel plots in R. I've made my share of these plots and have learned some tricks along the way, so I thought it might make for an interesting blog post. Actually, I thought it would make for an interesting *series* of blog posts. In this first one, I'll stick with scatterplots and look at the code you'll need for them. 
 
 The dataset I'll be working with comes from me reading 300 sentences. This was transcribed manually, force-aligned using [DARLA](http://darla.dartmouth.edu), with formants extracted using FAVE. I've removed outliers already, so the remaining data is pretty clean. 
 
