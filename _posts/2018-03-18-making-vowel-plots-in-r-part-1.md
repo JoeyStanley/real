@@ -185,6 +185,12 @@ means <- my_vowels %>%
     print()
 ```
 
+    ## # A tibble: 1 x 3
+    ##   class  mean_F1  mean_F2
+    ##   <chr>    <dbl>    <dbl>
+    ## 1 other 445.4199 1575.914
+
+
 What we actually want is the mean F1 and F2 per vowel. So, what we do is insert the `group_by` function just before `summarise`. By itself, `group_by` doesn't really do much except change some stuff about the data frame under the hood. But these changes are especially useful when that is then "piped" (`%>%`) to `summarise`. Because I did `group_by(vowel)` first, whatever summary information you want from your dataset will apply to each vowel independently. So, instead of the average overall, you're getting the average per group. The result is a new dataframe that we're calling `means`, that has all the information we want. (I'm then piping it to a `print` function so we can see the output.)
 
 ```r
@@ -194,6 +200,21 @@ means <- my_vowels %>%
               mean_F2 = mean(F2)) %>%
     print(n = 11)
 ```
+
+    ## # A tibble: 11 x 3
+    ##     vowel  mean_F1  mean_F2
+    ##    <fctr>    <dbl>    <dbl>
+    ##  1     IY 317.0699 2030.771
+    ##  2     EH 487.3722 1647.031
+    ##  3     AO 517.7386 1081.349
+    ##  4     UH 404.4727 1357.095
+    ##  5     IH 399.0982 1791.415
+    ##  6     AE 533.5477 1705.010
+    ##  7     AH 527.8912 1298.181
+    ##  8     UW 366.0528 1529.975
+    ##  9     EY 435.1557 1865.936
+    ## 10     AA 566.9966 1165.282
+    ## 11     OW 459.6221 1217.016
 
 This new dataset, `means`,  is a perfectly good, stand-alone dataset that we can plot by itself. Note that because we called the columns `mean_F1` and `mean_F2`, we'll have to use those in the `ggplot2` function. 
 
@@ -239,7 +260,7 @@ If we want to add the means, we're using a different dataset, so that right off 
 Because we're using `geom_label`, we're going to need to put `label = vowel` somewhere. You can put it in the main `ggplot(aes())` function with everything else and that'll work out fine:
 
 ```r
-    # Don't plot this yet...
+# Don't plot this yet...
 ggplot(my_vowels, aes(x = F2, y = F1, color = vowel, label = vowel)) + 
     ...
     geom_label(data = means) + 
