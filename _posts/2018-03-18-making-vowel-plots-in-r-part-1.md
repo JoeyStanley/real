@@ -65,7 +65,7 @@ Side note. In FAVE output, there are several column names with formant data. The
 ggplot(my_vowels, aes(x = F2.50., y = F1.50.))
 ```
 
-Side-side note. If you read your data in using `read_csv` (with an underscore) from the `readxl` package (which is part of the "tidyverse"), it actually handles the real name of the column. However, you'll have to put little ticks (that apostrophe-looking thing next to your "1" key) around them:
+Side-side note. If you read your data in using `read_csv` (with an underscore) from the `readr` package (which is part of the "tidyverse"), it actually handles the real name of the column. However, you'll have to put little ticks (that apostrophe-looking thing next to your "1" key) around them:
 
 ```r
 my_vowels_readr <- readr::read_csv("data/joey.csv")
@@ -229,7 +229,7 @@ ggplot(means, aes(x = mean_F2, y = mean_F1)) +
 ```
 ![](/images/plots/vowel_plots_1/plot11.png)
 
-The points themselves aren't very enlightening. To ad some pizzazz, I'm going to use `geom_label`. This is essentially the same thing at `geom_point` because it makes a scatterplot, but instead of dots it'll print this nice little labels. Of course, you have to tell `ggplot` what text to use for these labels, so we'll tell it to use the text in the `vowel` column in the `means` dataset.
+The points themselves aren't very enlightening. To add some pizzazz, I'm going to use `geom_label`. This is essentially the same thing at `geom_point` because it makes a scatterplot, but instead of dots it'll print these nice little labels. Of course, you have to tell `ggplot` what text to use for these labels, so we'll tell it to use the text in the `vowel` column in the `means` dataset.
 
 ```r
 ggplot(means, aes(x = mean_F2, y = mean_F1, label = vowel)) + 
