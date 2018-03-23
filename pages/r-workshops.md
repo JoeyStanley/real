@@ -33,7 +33,8 @@ This semester, I am offering a series of workshops on R. They will be held Frida
 <div class="biglink"><a href="/downloads/180309-rmarkdown.pdf" title="download PDF" class="nodot">Download the <br />handout here</a></div>
 [*Communicate with your audience: An intro to RMarkdown*](/downloads/180309-rmarkdown.html) (March 9): R Markdown is a way to create different types of documents using R (pdfs, word files, html files). In this one-day crash course, I'll show how to make R Markdown files and the kinds of things they would be useful for.
 
-*Reshaping and transforming your data: The tidyverse Part 2* (March 23): This workshop extends what was covered in Part 1. In particular, we'll look at how to reshape and transform your data, merging it with other dataset, and other super useful and powerful tools.
+<div class="biglink"><a href="/downloads/180323-tidyverse_II.pdf" title="download PDF" class="nodot">Download the <br />handout here</a></div>
+[*Reshaping and transforming your data: The tidyverse Part 2*](/downloads/180323-tidyverse_II.html) (March 23): This workshop extends what was covered in Part 1. In particular, we'll look at how to reshape and transform your data, merging it with other dataset, and other super useful and powerful tools.
 
 *Special topics: Regression and mixed-effects modeling* (April 6): In more and more fields, quantitative analysis is the norm. I can't begin to cover everything about fitting statistical models to your data, but I'll cover some introductory concepts to hopefully guide you in the right direction for further study.
 
