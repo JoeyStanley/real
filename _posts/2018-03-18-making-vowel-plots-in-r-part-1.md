@@ -59,7 +59,9 @@ We're getting closer. What `ggplot` has done at this point is added some informa
 
 ### Tangent: Column names
 
-Side note. In FAVE output, there are several column names with formant data. The `F1` and `F2` columns have measurements at slightly different points depending on the vowel (see [Labov, Rosenfelder, & Fruehwald's 2013 article in *Language*](https://muse.jhu.edu/article/503024) for details). If you want to plot the midpoints specifically, you'll have to use different column names. If you open the file in Excel, the column names are `F1@50%` and `F2@50%`. However, R doesn't really like having the `@` or `%` in the column names, so if you read it in using `read.csv` like I did, those characters will be changed to periods, meaning the column names are actually `F1.50.` and `F2.50.`. So if you want to use midpoints, be sure to do use those columns instead:
+<div class="sidenote">See Labov, Rosenfelder, & Fruehwald's 2013 article in <i>Language</i> <a href="https://muse.jhu.edu/article/503024">here</a> for details on these columns.</div>
+
+Side note. In FAVE output, there are several column names with formant data. The `F1` and `F2` columns have measurements at slightly different points depending on the vowel. If you want to plot the midpoints specifically, you'll have to use different column names. If you open the file in Excel, the column names are `F1@50%` and `F2@50%`. However, R doesn't really like having the `@` or `%` in the column names, so if you read it in using `read.csv` like I did, those characters will be changed to periods, meaning the column names are actually `F1.50.` and `F2.50.`. So if you want to use midpoints, be sure to do use those columns instead:
 
 ```r
 ggplot(my_vowels, aes(x = F2.50., y = F1.50.))
@@ -88,7 +90,9 @@ Aha! We now have a scatterplot! It's not the most useful one because we can't te
 
 ## Themes
 
-Right now, you might be wondering why we have a gray background. This is on purpose by the designers of ggplot2 because it makes colors pop out. You can change the overall look and feel of your plot using various theme functions. I like `theme_bw()`, `theme_classic()`, and `theme_minimal()` myself, so I'll stick with `theme_classic()` for today. You can explore the other themes by typing the command `?theme_classic` and see the other options.
+<div class="sidenote">You can explore the other themes by typing the command <code class="highlighter-rouge">?theme_classic</code> and looking at the other options.</div>
+
+Right now, you might be wondering why we have a gray background. This is on purpose by the designers of ggplot2 because it makes colors pop out. You can change the overall look and feel of your plot using various theme functions. I like `theme_bw()`, `theme_classic()`, and `theme_minimal()` myself, so I'll stick with `theme_classic()` for today. 
 
 ```r
 ggplot(my_vowels, aes(x = F2, y = F1)) + 

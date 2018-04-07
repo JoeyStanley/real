@@ -7,7 +7,9 @@ tags: [Pacific Northwest, Research, West, MTurk]
 
 I'm so happy to announce I've been selected as a recipient of the UGA Graduate School Innovative and Interdisciplinary Research Grant! This $2,500 grant is part of the Graduate School's strategic initiative to support innovation and interdisciplinarity in the research being conducted by doctoral students. My project is entitled "A Survey of Western American English using Amazon Mechanic Turk." 
 
-Amazon Mechanical Turk ("Mturk") is a crowdsourcing marketplace through Amazon.com where people and business can post tasks for others to perform for a small amount of payment. They are usually menial tasks like completing surveys or data entry. At NWAV last year, Kim, Reddy, Wyschogrod, and Stanford did a presentation on how they cleverly used Mturk to gather recordings of people across the Northeast<sup>1</sup>. After some discussion with some of the authors, I decided to apply for a grant that would pay for the same kind of data collection but targeting the West. 
+<div class="sidenote-left">¹ Kim, Chaeyoon, Sravana Reddy, Ezra Wyschogrod & James Stanford. 2016. A large-scale online study of dialect variation in the US Northeast: Crowdsourcing with Amazon Mechanical Turk. Paper presented at the New Ways of Analyzing Variation 45, Victoria, BC.</div>
+
+Amazon Mechanical Turk ("Mturk") is a crowdsourcing marketplace through Amazon.com where people and business can post tasks for others to perform for a small amount of payment. They are usually menial tasks like completing surveys or data entry. At NWAV last year, Kim, Reddy, Wyschogrod, and Stanford did a presentation on how they cleverly used Mturk to gather recordings of people across the Northeast¹. After some discussion with some of the authors, I decided to apply for a grant that would pay for the same kind of data collection but targeting the West. 
 
 Compared to other parts of the country, the West has relatively little linguistic research. Some of that is changing, thanks to some of the folks in Stanford, University of Washington, and other universities. But there are large portions of the country like Montana, Wyoming, and other places that have very little written about them. The population isn't huge, but there are people there, and those people do speak. So what do they sound like?
 
@@ -19,4 +21,4 @@ I'm really excited to have gotten this grant and to get started. I will post upd
 
 ---
 
-<sup>1</sup> Kim, Chaeyoon, Sravana Reddy, Ezra Wyschogrod & James Stanford. 2016. A large-scale online study of dialect variation in the US Northeast: Crowdsourcing with Amazon Mechanical Turk. Paper presented at the New Ways of Analyzing Variation 45, Victoria, BC.
+

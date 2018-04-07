@@ -35,8 +35,6 @@ So, I noticed at the bottom of the YouTube video I saw, he listed the [lavalier 
 
 So, I have a new equipment lineup. With other videos like [this](https://www.youtube.com/watch?v=YI_3MwwQUDw) on how set one up, [this](https://www.youtube.com/watch?v=44v8EGGW_HA) which showed me why those that work with recorders won't work with iPhones, [this](https://www.youtube.com/watch?v=bR4f8zTmmag) which showed how bad an iPhone set up is, and [this](https://www.youtube.com/watch?v=bR4f8zTmmag) which showed me where to hook it on, I feel like a pro. 
 
-[And yes, the citations and links were in the original. This is how I write notes to myself.]
-
 ### Thursday, May 31, 2016
 
 I went ahead and bought the recorder, microphone, and hard drive. They'll be here Thursday. I'm really excited.

@@ -126,7 +126,9 @@ Now once we're here, we compile a list of potential words.
                    first_letter != prev_word$first_letter)
 ```
 
-Now I actually filter out this list of potential words based on various criteria I've come up with. The code is slightly more complex because not every word has properties that I care about (for example, in a word that focuses on the consonants elicited, I'm not too concerned about the vowel quality<sup>1</sup>) so there are `NA`s. So I need to first see if the previous word in the list is an `NA`. If it's not, then I need to select from only the words that do not share that property, or are also `NA`s. Does that makes sense?
+<div class="sidenote">¹ This came back to bite me and I only realized it until after the data collection was over. I included the word <i>scale</i> to get at /e/ before /l/, so it was tagged as a pre-lateral word. I also had the word <i>whale</i> to get a (wh)-aspiration. Since I didn't care about the vowel qualities of words included for their consonants, sure enough <i>scale</i> and <i>whale</i> ended up next to each other. Figures.</div>
+
+Now I actually filter out this list of potential words based on various criteria I've come up with. The code is slightly more complex because not every word has properties that I care about (for example, in a word that focuses on the consonants elicited, I'm not too concerned about the vowel quality¹) so there are `NA`s. So I need to first see if the previous word in the list is an `NA`. If it's not, then I need to select from only the words that do not share that property, or are also `NA`s. Does that makes sense?
 
 Here, I do this three times. If the previous word has a pre-lateral vowel, the next one can too, just not with the same vowel. Or a word without a pre-lateral vowel is okay too. Same thing with syllabic/morphological structure (the `context` column). And same thing with the last three letters of the word.
                 
@@ -186,7 +188,9 @@ So that's the filtering that I've done. Now I need to see if there are any words
         if (nrow(potential_words) == 0) { break }
 ```
 
-At this point, we only make it this far in the loop if there are any potential words left. This'll happen most of the time. It's here that we select a random word.<sup>2</sup> 
+<div class="sidenote">I had code for a while where it selected the next word alphabetically instead of randomly. This was good for debugging and let me see how it chose the next word. To do this, replace <code class="highlight-rouge">sample_n(1)</code> with <code class="highlight-rouge">arrange(word) %>% head(1)</code>.</div>
+
+At this point, we only make it this far in the loop if there are any potential words left. This'll happen most of the time. It's here that we select a random word.
 
 ```r
         # Get the next word
@@ -219,7 +223,7 @@ To finish processing, first we have to use `bind_rows()` to get this list of one
         select(-used_yet)
 ```
 
-Then, we see if we need to continue looping. If we've alreay made 100 attempts and no complete list was found, break out and end: I don't want to loop for infinity if no order is even possible. If the list contains all the words, that means we're done: set `keep_going` to false to stop the outer `while` loop. Otherwise (meaning, not all the words are included but we haven't hit 100 attempts), save the list (for future examination), send a message, and increment the attempts counter. The loop starts all over again and a new list is created from scratch.
+Then, we see if we need to continue looping. If we've already made 100 attempts and no complete list was found, break out and end: I don't want to loop for infinity if no order is even possible. If the list contains all the words, that means we're done: set `keep_going` to false to stop the outer `while` loop. Otherwise (meaning, not all the words are included but we haven't hit 100 attempts), save the list (for future examination), send a message, and increment the attempts counter. The loop starts all over again and a new list is created from scratch.
 
 ```r
     if (attempt > 100) {
@@ -253,19 +257,3 @@ As a side note, I ended up producing just one list, mostly because it took so lo
 # Conclusion
 
 Going through my list, I was impressed with just how random the words seemed. Like the episode of *Numb3rs*, what I perceived to be *more* random actually had a lot of structure to it and was deliberately devoid of clusters. Previous lists I've used were had close to a truly random order, but this one seems even better. It's much harder to tell that these words come from a relatively small set lexical classes. I think the key is that similar words aren't near each other, which is not what you get with a random number generator. I think this guided pseudo-random order is a better way to go for eliciting linguistic data in a wordlist.
-
-<hr/>
-
-<sup>1</sup> This came back to bite me and I only realized it until after the data collection was over. I included the word *scale* to get at /e/ before /l/, so it was tagged as a pre-lateral word. I also had the word *whale* to get a (wh)-aspiration. Since I didn't care about the vowel qualities of words included for their consonants, sure enough *scale* and *whale* ended up next to each other. Figures.
-
-<sup>2</sup> I had code for a while where it selected the next word alphabetically instead of randomly.
-
-```r
-        # Get the next word
-        next_word <- potential_words %>%
-            #sample_n(1)
-            arrange(word) %>% 
-            head(1)
-```
-
-This was good for debugging and let me see how it chose the next word.
