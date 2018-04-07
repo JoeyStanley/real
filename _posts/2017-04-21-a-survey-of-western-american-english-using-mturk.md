@@ -17,8 +17,4 @@ This project will hopefully get recordings from possibly up to 500 people in spe
 
 I'm really excited to have gotten this grant and to get started. I will post updates as they come. Stay tuned.
 
-<br/>
-
----
-
 
