@@ -623,7 +623,7 @@ img.rounded {
 	width: 80%;
 }
 
-.sidenote {
+.sidenote, .sidenote-left {
 
 	border-left: 5px solid #376092;
 	padding-left: 0.5em;
@@ -634,6 +634,10 @@ img.rounded {
 	/* This works because the #main selector is "relative." */
 	position: absolute;
 	right: 0;
+}
+
+.sidenote-left {
+	left: -15em;
 }
 
 /* ########################################## */
