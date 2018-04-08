@@ -5,7 +5,7 @@ title: Curriculum Vitae
 
 # Curriculum Vitae
 
-<p id="updated">Updated January 5, 2018. Download PDF <a href="/downloads/180105-CV.pdf" target="_blank" title="open a pdf of my CV in a new window">here</a>.</p>
+<p id="updated">Updated April 7, 2018. Download PDF <a href="/downloads/180105-CV.pdf" target="_blank" title="open a pdf of my CV in a new window">here</a>.</p>
 
 <br/>
 
@@ -153,19 +153,11 @@ Shawn Foster, <strong>Joseph A. Stanley</strong>, & Margaret E. L. Renwick. "Vow
 
 ## Workshops
 
-<strong>Joey Stanley</strong>. Working with text. Workshop given at the University of Georgia DigiLab. Athens, GA. April 20.
-
-<strong>Joey Stanley</strong>. Network Analysis. Workshop given at the University of Georgia DigiLab. Athens, GA. April 13.
-
-<strong>Joey Stanley</strong>. Special topics: Regression and mixed-effects modeling. Workshop given at the University of Georgia DigiLab. Athens, GA. April 6.
-
-<strong>Joey Stanley</strong>. Transform, reshape, and modify your data: Tidyverse Part 2. Workshop given at the University of Georgia DigiLab. Athens, GA. March 30.
-
-<strong>Joey Stanley</strong>. Clean and tidy data: Tidyverse Part 1. Workshop given at the University of Georgia DigiLab. Athens, GA. March 23.
+<strong>Joey Stanley</strong>. Transform, reshape, and modify your data: Tidyverse Part 2. Workshop given at the University of Georgia DigiLab. Athens, GA. March 23.
 
 <strong>Joey Stanley</strong>. Communicate to your audience with R Markdown. Work-shop given at the University of Georgia DigiLab. Athens, GA. March 9.
 
-<strong>Joey Stanley</strong>. Visualizations III: Advanced topics in ggplot2. Workshop given at the University of Georgia DigiLab. Athens, GA. March 2.
+<strong>Joey Stanley</strong>. Clean and tidy data: Tidyverse Part 1. Workshop given at the University of Georgia DigiLab. Athens, GA. March 2.
 
 <strong>Joey Stanley</strong>. Visualizations II: Customizing plots in ggplot2. Workshop given at the University of Georgia DigiLab. Athens, GA. February 23.
 
@@ -206,6 +198,10 @@ Shawn Foster, <strong>Joseph A. Stanley</strong>, & Margaret E. L. Renwick. "Vow
 
 
 ## Other Presentations
+
+"/ɛɡ/-raising is straightforward? I <font style="font-variant: small-caps">beg</font> to differ!" The Linguistic Society of the University of Georgia (LSUGA) Tiny Talks. Athens, GA. April 13.
+
+"Hey, Siri. Can you understand me?" Three Minute Thesis (3MT™) Competition at the University of Georgia. March 22, 2017.
 
 "Volcanic Vocalic Changes". University of Georgia Linguistics Colloquium. Athens, GA. April 7, 2017 
 <a href="/downloads/170407-Colloquium.pptx" class="slides" title="download the powerpoint slides for this presentation"></a> 
@@ -363,6 +359,8 @@ Thesis Reader for Shawn C. Foster (UGA Center for Undergraduate Research Opportu
 <br/>
 
 ## Professional Service
+
+Member of the conference committee for the 4th Linguistics Conference at UGA (LCUGA4). Member of the social media subcommittee.
 
 Editor of the *[UGA Working Papers in Linguistics](http://www.lsuga.com/working-papers)* (4). 
 
