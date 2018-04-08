@@ -154,27 +154,41 @@ Shawn Foster, <strong>Joseph A. Stanley</strong>, & Margaret E. L. Renwick. "Vow
 ## Workshops
 
 <strong>Joey Stanley</strong>. Transform, reshape, and modify your data: Tidyverse Part 2. Workshop given at the University of Georgia DigiLab. Athens, GA. March 23.
+<a href="/downloads/180323-tidyverse_II" class="link" target ="_blank" title="view the handout online"></a> 
+<a href="/downloads/180323-tidyverse_II.pdf" class="paper" target ="_blank" title="download the handout for this presentation"></a> 
 
 <strong>Joey Stanley</strong>. Communicate to your audience with R Markdown. Work-shop given at the University of Georgia DigiLab. Athens, GA. March 9.
+<a href="/downloads/180309-rmarkdown" class="link" target ="_blank"  title="view the handout online"></a> 
+<a href="/downloads/180309-rmarkdown.pdf" class="paper" target ="_blank" title="download the handout for this presentation"></a> 
 
 <strong>Joey Stanley</strong>. Clean and tidy data: Tidyverse Part 1. Workshop given at the University of Georgia DigiLab. Athens, GA. March 2.
+<a href="/downloads/180302-tidyverse_part1" class="link" target ="_blank"  title="view the handout online"></a> 
+<a href="/downloads/180302-tidyverse_part1.pdf" class="paper" target ="_blank" title="download the handout for this presentation"></a> 
 
 <strong>Joey Stanley</strong>. Visualizations II: Customizing plots in ggplot2. Workshop given at the University of Georgia DigiLab. Athens, GA. February 23.
+<a href="/downloads/180223-ggplot2-part2" class="link" target ="_blank"  title="view the handout online"></a> 
+<a href="/downloads/180223-ggplot2-part2.pdf" class="paper" target ="_blank" title="download the handout for this presentation"></a> 
 
 <strong>Joey Stanley</strong>. Visualizations I: Introduction to ggplot2. Workshop given at the University of Georgia DigiLab. Athens, GA. February 16.
+<a href="/downloads/180216-ggplot2-part1" class="link" target ="_blank"  title="view the handout online"></a> 
+<a href="/downloads/180216-ggplot2-part1.pdf" class="paper" target ="_blank" title="download the handout for this presentation"></a> 
 
 <strong>Joey Stanley</strong>. Building Interactive Webpages in R: Introduction to Shiny (Part 2). Workshop given at the University of Georgia DigiLab. Athens, GA. February 9.
+<a href="https://joeystanley.shinyapps.io/intro_to_shiny/" class="link" target ="_blank" title="view the handout online"></a> 
 
-<strong>Joey Stanley</strong>. Building Interactive Webpages in R: Introduction to Shiny (Part 1). Workshop given at the University of Georgia DigiLab. Athens, GA. Febrary 2.
+<strong>Joey Stanley</strong>. Building Interactive Webpages in R: Introduction to Shiny (Part 1). Workshop given at the University of Georgia DigiLab. Athens, GA. February 2.
+<a href="https://joeystanley.shinyapps.io/intro_to_shiny/" class="link" target ="_blank" title="view the handout online"></a> 
 
 <strong>Joey Stanley</strong>. Intro to R (Part 2). Workshop given at the University of Georgia DigiLab. Athens, GA. January 26.
-<a href="/downloads/180126-intro-to-r-part2.pdf" class="paper" title="download the handout for this workshop"></a> 
+<a href="/downloads/180126-intro-to-r-part2" class="link" target ="_blank"  title="view the handout online"></a> 
+<a href="/downloads/180126-intro-to-r-part2.pdf" class="paper" target ="_blank" title="download the handout for this presentation"></a> 
 
 <strong>Joey Stanley</strong>. Intro to R (Part 1). Workshop given at the University of Georgia DigiLab. Athens, GA. January 19.
-<a href="/downloads/180119-intro-to-r-part1.pdf" class="slides" title="download the slides for this presentation"></a> 
+<a href="/downloads/180119-intro-to-r-part1" class="link" target ="_blank"  title="view the handout online"></a> 
+<a href="/downloads/180119-intro-to-r-part1.pdf" class="powerpoint" target ="_blank" title="download the handout for this presentation"></a> 
 
 <strong>Joey Stanley</strong>. “An Introduction to the Tidyverse.” Workshop given at the University of Georgia DigiLab. Athens, GA. November 10, 2017.
-<a href="/downloads/171110-tidyverse_handout" class="paper" title="download the handout for this presentation"></a> 
+<a href="/downloads/171110-tidyverse_handout" class="paper" target ="_blank" title="download the handout for this presentation"></a> 
 
 <strong>Joey Stanley</strong>. "An Introduction to ggplot2." Workshop given at the University of Georgia DigiLab. Athens, GA. October 12, 2017.
 <a href="/downloads/171012-ggplot2_handout.pdf" class="paper" target="_blank" title="open a pdf of the handout to this presentation a new window"></a>
