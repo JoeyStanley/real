@@ -220,7 +220,7 @@ Shawn Foster, <strong>Joseph A. Stanley</strong>, & Margaret E. L. Renwick. "Vow
 
 "New methods in outlier detection and formant measurement using a modified Mahalanobis distance and 'mistplots.'" University of Georgia Linguistics Colloquium. Athens, GA. February 9, 2018.
 
-"Volcanic Vocalic Changes". University of Georgia Linguistics Colloquium. Athens, GA. April 7, 2017
+"Volcanic Vocalic Changes". University of Georgia Linguistics Colloquium. Athens, GA. April 7, 2017.
 <a href="/downloads/170407-Colloquium.pptx" class="slides" title="download the powerpoint slides for this presentation"></a> 
 <a href="/downloads/170407-Colloquium.pdf" class="paper" title="download a pdf of the powerpoint slides for this presentation"></a> 
 
