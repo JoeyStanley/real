@@ -78,6 +78,8 @@ Here is a list of resources I've found for R. I've gone through some of them and
 
 * *[Overview GAMM analysis of time series data](http://jacolienvanrij.com/Tutorials/GAMM.html)* by Jacolien van Rij. I haven't had time to go through this one yet, but it's on my todo list. Actually [all of her tutorials](http://www.jacolienvanrij.com/cv.html) look great.  
 
+* *[tidymv: Tidy Model Visualisation](https://github.com/stefanocoretta/tidymv)* is an R package by [Stefano Coretta](https://stefanocoretta.github.io) that lets you visualize GAMMs using tidyverse-friendly code.
+
 <!--
 [//]: # ## Quantitative People
 [//]: # * [Josef Fruehwald](https://jofrhwld.github.io)
