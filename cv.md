@@ -213,7 +213,7 @@ Shawn Foster, <strong>Joseph A. Stanley</strong>, & Margaret E. L. Renwick. "Vow
 
 ## Other Presentations
 
-"/ɛɡ/-raising is straightforward? I <font style="font-variant: small-caps">beg</font> to differ!" The Linguistic Society of the University of Georgia (LSUGA) Tiny Talks. Athens, GA. April 13.
+"/ɛɡ/-raising is straightforward? I <font style="font-variant: small-caps">beg</font> to differ!" The Linguistic Society of the University of Georgia (LSUGA) Tiny Talks. Athens, GA. April 13, 2018.
 <a href="/downloads/180413-TinyTalks.pdf" class="poster" title="download a pdf of the poster"></a> 
 
 "Hey, Siri. Can you understand me?" Three Minute Thesis (3MT™) Competition at the University of Georgia. March 22, 2017.
