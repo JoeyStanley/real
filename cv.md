@@ -266,7 +266,7 @@ Guest host on *Faith Promoting Rumors* podcast. “Brother Joseph,” April 10, 
 
 ### Grants
 
-Graduate Research Award ($1000), awarded by the University of Georgia Willson Center for Humanities and Arts. Project title: “Intra-Family Variation in Utah County, Utah.” October 12, 2017.
+Graduate Research Award ($1000), awarded by the University of Georgia Willson Center for Humanities and Arts. Project title: “Intra-Family Language Variation in Utah County, Utah.” October 12, 2017.
 
 Innovative and Interdisciplinary Research Grant ($2,500), awarded by the University of Georgia Graduate School. Project title: "A Survey of Western American English using Amazon Mechanical Turk." April 20, 2017.
 
