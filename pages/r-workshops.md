@@ -8,9 +8,11 @@ redirect_from:
 
 # R Workshops
 
-This semester, I am offering a series of workshops on R. They will be held Fridays at 3:30 in the DigiLab at the UGA Main Library.
+
 
 ## Spring 2018 Series
+
+This semester, I offered a series of workshops on R. They were held Fridays at 3:30 in the DigiLab at the UGA Main Library. Videos for some of these are available [here](https://digilabuga.github.io/Resources/VideoTutorials.html). 
 
 <div class="biglink"><a href="/downloads/180119-intro-to-r-part1.pdf" title="download PDF" class="nodot" target = "_blank">Download the <br />slides here</a></div>
 [*Intro to R (Part 1)*](/downloads/180119-intro-to-r-part1) (January 19): In this workshop I cover the basics of R itself. I talk about the differences between R and RStudio and I helped folks get both installed and running on their computers. We created a simple "Hello, World!" script using R. 
