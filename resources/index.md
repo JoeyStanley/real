@@ -143,3 +143,7 @@ This site automatically creates a new conlang, based on parameters that you spec
 ### [IPA Phonetics](https://itunes.apple.com/us/app/ipa-phonetics/id869642260?mt=8)
 
 This iPhone app has what they call an "elaborated" IPA chart with lots of extra places and manners of articulation, complete with audio clips of all the sounds. You can play a game where it'll play a sound and you can guess what you heard. It's just fun to see things like a voiced uvular fricative (ɢʁ) or a dentolabial fricative [θ̼] on an IPA chart. Credits to University of Victoria linguistics and John Esling's "Phonetic Notation" (chapter 18 of the Handbook of Phonetic Sciences, 2nd ed.).
+
+### [The EMU-webApp](https://ips-lmu.github.io/EMU-webApp/)
+
+"The EMU-webApp is a fully fledged browser-based labeling and correction tool that offers a multitude of labeling and visualization features." I haven't given this enough time to learn to use it properly, but it seems very helpful.
