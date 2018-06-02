@@ -5,7 +5,7 @@ title: Curriculum Vitae
 
 # Curriculum Vitae
 
-<p id="updated">Updated April 7, 2018. Download PDF <a href="/downloads/180105-CV.pdf" target="_blank" title="open a pdf of my CV in a new window">here</a>.</p>
+<p id="updated">Updated June 1, 2018. Download PDF <a href="/downloads/180105-CV.pdf" target="_blank" title="open a pdf of my CV in a new window">here</a>.</p>
 
 <br/>
 
@@ -37,7 +37,9 @@ title: Curriculum Vitae
 
 ### Working Papers and Conference Proceedings
 
-<strong>Joseph A. Stanley</strong> & Kyle Vanderniet (*submitted*). "Consonantal variation in Utah English." *LCUGA4 Conference Proceedings.*
+<strong>Joseph A. Stanley</strong> & Kyle Vanderniet (*in press*). "Consonantal Variation in Utah English." *LCUGA4 Conference Proceedings.*
+
+<strong>Joseph A. Stanley</strong> (*submitted*). "Changes in the Timber Industry as a Catastrophic Event: <span style="font-variant:small-caps;">bag</span>-Raising in Cowlitz County, Washington" *Penn Working Papers in Linguistics, 24(2).*
 
 Renwick, Margaret E. L. & <strong>Joseph A. Stanley</strong> (2017). "Static and dynamic approaches to vowel shifting in the Digital Archive of Southern Speech." *Proceedings of Meetings on Acoustics* **30**, 060003; doi: http://dx.doi.org/10.1121/2.0000582.
 <a href="http://asa.scitation.org/doi/pdf/10.1121/2.0000582" class="link" target="_blank" title="link to POMA online"></a>
@@ -138,6 +140,8 @@ Shawn Foster, <strong>Joseph A. Stanley</strong>, & Margaret E. L. Renwick. "Vow
 <br/>
 
 ## Invited Presentations
+
+"Data Visualization and Basic Statistical Modeling in R." Invited workshop for an NSF-funded "Research Experience for Undergraduates" site program, helping students analyze osteological data from skeletons at the 7–5th c. BCE Greek colony of Himera. June 21, 2018.
 
 “Basics, Review, Summary, Help.” Guest lecturer in LING 4400/6400: Quantitative Methods in Linguistics. Athens, GA. April 20.
 
@@ -264,7 +268,9 @@ Guest host on *Faith Promoting Rumors* podcast. “Brother Joseph,” April 10, 
 
 ## Funding and Awards
 
-### Grants
+### Grants and Fellowships
+
+Summer Doctoral Research Fellowship ($3,500), awarded by the University of Georgia Graduate School. Project title: A New Method for Extracting Acoustic Measurements from Speech Audio. May–June, 2018
 
 Graduate Research Award ($1000), awarded by the University of Georgia Willson Center for Humanities and Arts. Project title: “Intra-Family Language Variation in Utah County, Utah.” October 12, 2017.
 
@@ -274,7 +280,7 @@ University of Georgia Graduate School Dean’s Award ($1,250). Project title: "L
 
 ### Research Assistantships
 
-Complex Systems and the Humanities Research Assistantship awarded by the Graduate School at the University of Georgia. 2016--2017.
+Complex Systems and the Humanities Research Assistantship awarded by the Graduate School at the University of Georgia. 2016--2019.
 
 University of Georgia stipend enhancement awarded by the Franklin College of Arts and Sciences. 2014--2015.
 
@@ -304,7 +310,7 @@ Brigham Young University Department of Linguistics and English Language Conferen
 
 ### At the University of Georgia
 
-Instructor of Record. LING 3060: Phonetics and Phonology. Fall 2017.
+Instructor of Record. LING 3060: Phonetics and Phonology. Fall 2017, Spring 2019.
 
 Teacher’s Assistant for Peggy Renwick. LING 4400/6400: Quantitative Methods in Linguistics. Spring 2017.
 
@@ -377,17 +383,19 @@ Thesis Reader for Shawn C. Foster (UGA Center for Undergraduate Research Opportu
 
 ## Professional Service
 
-Member of the conference committee for the 4th Linguistics Conference at UGA (LCUGA4). Member of the social media subcommittee.
+Member of the conference committee for the [5th Linguistics Conference at UGA (LCUGA5)](http://www.linguistics.uga.edu/lcuga-5). Member of the social media subcommittee. 2018.
 
-Editor of the *[UGA Working Papers in Linguistics](http://www.lsuga.com/working-papers)* (4). 
+Co-Editor of the *[UGA Working Papers in Linguistics](http://www.linguistics.uga.edu/working-papers-vol-4-2018), 4. 2018.
 
-Member of the conference committee for the 4th Linguistics Conference at UGA (LCUGA4). Member of the social media subcommittee.
+Web developer for the Linguistics Society at UGA. 2018.
 
-Organizer of the UGA Sociolinguistics reading group.
+Member of the conference committee for the [4th Linguistics Conference at UGA (LCUGA4)](http://www.linguistics.uga.edu/lcuga-4). Member of the social media subcommittee. 2017.
 
-Organizer of the UGA Perl Study group.
+Organizer of the UGA Sociolinguistics reading group. 2017.
 
-Organizer of the UGA Typology reading group.
+Organizer of the UGA Perl Study group. 2016.
+
+Organizer of the UGA Typology reading group. 2016.
 
 Portuguese-to-English simultaneous interpretor, Missionary Training Center, Provo, Utah. 2011–2013. 
 
