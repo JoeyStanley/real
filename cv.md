@@ -38,6 +38,8 @@ title: Curriculum Vitae
 ### Working Papers and Conference Proceedings
 
 <strong>Joseph A. Stanley</strong> & Kyle Vanderniet (*in press*). "Consonantal Variation in Utah English." *LCUGA4 Conference Proceedings.*
+<a href="http://hdl.handle.net/10724/37876" class="link" target="_blank" title="link to this paper online"></a>
+<a href="https://athenaeum.libs.uga.edu/bitstream/handle/10724/37876/Stanley%20and%20Vanderniet.pdf?sequence=1&isAllowed=y" class="paper" target="_blank" title="open a pdf of this paper in a new window"></a>
 
 <strong>Joseph A. Stanley</strong> (*submitted*). "Changes in the Timber Industry as a Catastrophic Event: <span style="font-variant:small-caps;">bag</span>-Raising in Cowlitz County, Washington" *Penn Working Papers in Linguistics, 24(2).*
 
