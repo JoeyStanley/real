@@ -37,11 +37,11 @@ title: Curriculum Vitae
 
 ### Working Papers and Conference Proceedings
 
-<strong>Joseph A. Stanley</strong> & Kyle Vanderniet (*in press*). "Consonantal Variation in Utah English." *LCUGA4 Conference Proceedings.*
+<strong>Joseph A. Stanley</strong> (*submitted*). "Changes in the Timber Industry as a Catastrophic Event: <span style="font-variant:small-caps;">bag</span>-Raising in Cowlitz County, Washington" *Penn Working Papers in Linguistics, 24(2).*
+
+<strong>Joseph A. Stanley</strong> & Kyle Vanderniet (2018). "Consonantal Variation in Utah English." *Proceedings of the 4th Annual Linguistics Conference at UGA*, 50--65. 
 <a href="https://athenaeum.libs.uga.edu/handle/10724/37876" class="link" target="_blank" title="link to this paper online"></a>
 <a href="https://athenaeum.libs.uga.edu/bitstream/handle/10724/37876/Stanley%20and%20Vanderniet.pdf?sequence=1&isAllowed=y" class="paper" target="_blank" title="open a pdf of this paper in a new window"></a>
-
-<strong>Joseph A. Stanley</strong> (*submitted*). "Changes in the Timber Industry as a Catastrophic Event: <span style="font-variant:small-caps;">bag</span>-Raising in Cowlitz County, Washington" *Penn Working Papers in Linguistics, 24(2).*
 
 Renwick, Margaret E. L. & <strong>Joseph A. Stanley</strong> (2017). "Static and dynamic approaches to vowel shifting in the Digital Archive of Southern Speech." *Proceedings of Meetings on Acoustics* **30**, 060003; doi: http://dx.doi.org/10.1121/2.0000582.
 <a href="http://asa.scitation.org/doi/pdf/10.1121/2.0000582" class="link" target="_blank" title="link to POMA online"></a>
@@ -50,16 +50,15 @@ Olsen, Rachel M., Michael L. Olsen, <strong>Joseph A. Stanley</strong>, Margaret
 <a href="http://asa.scitation.org/doi/abs/10.1121/2.0000559" class="link" target="_blank" title="link to POMA online"></a>
 
 <strong>Stanley, Joseph A.</strong> (2016). "Pacific Northwest English: Historical Overview and Current Directions". *UGA Working Papers in Linguistics*, 3. 
-<a href="http://www.lsuga.com/working-papers/volume-3" class="link" target="_blank" title="link to lsuga.com"></a>
-<a href="/downloads/161213-UGAWP3.pdf" class="paper" target="_blank" title="open a pdf of this paper in a new window"></a>
+<a href="http://www.linguistics.uga.edu/pacific-northwest-english-historical-overview-and-current-directions" class="link" target="_blank" title="link to this issue"></a>
+<a href="https://athenaeum.libs.uga.edu/bitstream/handle/10724/38074/WP2016_Stanley.pdf?sequence=1&isAllowed=y" class="paper" target="_blank" title="open a pdf of this paper in a new window"></a>
 
 <strong>Stanley, Joseph A.</strong> (2016). "When do Mormons Call Each Other by First Name?" *University of Pennsylvania Working Papers in Linguistics*, 22(1). 
 <a href="http://repository.upenn.edu/pwpl/vol22/iss1/31/" class="link" target="_blank" title="link to repository.upenn.edu/pwpl/"></a>
 <a href="/downloads/160101-PWPL22.pdf" class="paper" target="_blank" title="open a pdf of this paper in a new window"></a>
 
-<strong>Stanley, Joseph A.</strong> (2015). "Merging Phonemes in Real Time". *Proceedings of LSUGA’s Second Interdisciplinary Conference in Linguistics* ([LSUGA2](http://www.lsuga.com/conference/2015)), 1. 
-<a href="http://www.lsuga.com/conference-proceedings/volume-1-2015" class="link" target="_blank" title="link to lsuga.com"></a>
-<a href="/downloads/151009-LSUGAProceedings1.pdf" class="paper" target="_blank" title="open a pdf of this paper in a new window"></a>
+<strong>Stanley, Joseph A.</strong> (2015). "Merging Phonemes in Real Time". *Proceedings of LSUGA’s Second Interdisciplinary Conference in Linguistics* ([LSUGA2](http://www.linguistics.uga.edu/lcuga-2)), 1. 
+<a href="https://athenaeum.libs.uga.edu/bitstream/handle/10724/38060/CP2015_Stanley.pdf?sequence=1&isAllowed=y" class="paper" target="_blank" title="open a pdf of this paper in a new window"></a>
 
 <br/>
 
@@ -75,7 +74,7 @@ Olsen, Rachel M., Michael L. Olsen, <strong>Joseph A. Stanley</strong>, Margaret
 <a href="/downloads/180105-ads2018-gsv.pdf" class="slides" title="download the powerpoint slides for this presentation"></a>
 <a href="/downloads/180105-ads2018-gsv-abstract.pdf" class="abstract" target="_blank" title="open a pdf of the abstract to this presentation in a new window"></a>
 
-<strong>Joseph A. Stanley</strong> & Kyle Vanderniet. "Consonantal variation in Utah English: What el[t]se is happening[k]?" The 4th Annual Linguistics Conference at UGA ([LSUGA4](http://www.lsuga.com/conference/2017)). Athens, GA. October 6–8, 2017.
+<strong>Joseph A. Stanley</strong> & Kyle Vanderniet. "Consonantal variation in Utah English: What el[t]se is happening[k]?" The 4th Annual Linguistics Conference at UGA ([LSUGA4](http://www.linguistics.uga.edu/lcuga-4)). Athens, GA. October 6–8, 2017.
 <a href="/downloads/171006-LCUGA4-UT_abstract.pdf" class="abstract" target="_blank" title="open a pdf of the abstract to this presentation in a new window"></a>
 <a href="/downloads/171007-LCUGA4-UT-slides.pdf" class="slides" title="download the powerpoint slides for this presentation"></a>
 

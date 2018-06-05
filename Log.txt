@@ -151,6 +151,13 @@ Monday, November 6, 2017
 
 
 Blog posts:
+* Mormon Forms of Address: for a non-specialist audience.
+* BEG maps--Somehow do this without stepping on the toes of future publications. 
+* Vowels part 2: Trajectories.
+* Vowels part 3: Highlighting specific points in vowel plots (like my [gar] post), overlaying means, etc.
+* Vowels part 4: 3D scatterplots.
+* From Renwick: How my silence detection didn't work.
+* From Renwick: Modifying FAVE for Southern means and how it didn't really work.
 * Zotero notes: taking notes at conferences and saying when you used each citation.
 * Comparing cowplot with egg
 * Word: formatting, styles, etc.
