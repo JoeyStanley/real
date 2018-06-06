@@ -5,7 +5,7 @@ date:   2018-03-18 21:37:00 -0400
 tags: [How-to Guides, Methods, Phonetics, R, Skills]
 ---
 
-Last week I was approached by a fellow graduate student who asked how they might go about making vowel plots in R. I've made my share of these plots and have learned some tricks along the way, so I thought it might make for an interesting blog post. Actually, I thought it would make for an interesting *series* of blog posts. In this first one, I'll stick with scatterplots and look at the code you'll need for them. 
+Last week I was approached by a fellow graduate student who asked how they might go about making vowel plots in R. I've made my share of these plots and have learned some tricks along the way, so I thought it might make for an interesting blog post. Actually, I thought it would make for an interesting *series* of blog posts. In this first one, I'll stick with scatterplots and look at the code you'll need for them. In the [next one]({% post_url 2018-06-06-making-vowel-plots-in-r-part-2 %}) I show how to plot vowel trajectories. 
 
 The dataset I'll be working with comes from me reading 300 sentences while sitting at my kitchen table. This was transcribed manually, force-aligned using [DARLA](http://darla.dartmouth.edu), with formants extracted using FAVE. I've removed a lot of the outliers already, so the remaining data is relatively clean. 
 
@@ -633,5 +633,5 @@ Aha! There we go. So this is a way to make a plot look cooler. Especially if ind
 
 The way you present your data is all up to you. I often prefer a set of settings when I'm playing around with my data, but then switch to a different set when I want to copy and paste into a presentation or paper. It's good to be comfortable enough with ggplot2 so that you know what is going on and what changes you can make. Hopefully this post made a few things clearer.
 
-In the near future, I'll make another post on some slightly more advanced topics in vowel plots. Things like how to draw trajectory lines in a vowel plot like this, or how to draw formants similar to what you might see in Praat, how to highlight specific vowels or specific tokens (like I do in [this blog post](/blog/ar-raising)), or how to make 3D scatterplots. Should be fun.
+If you're interested in plotting trajectories, feel free to look at [Part 2]({% post_url 2018-06-06-making-vowel-plots-in-r-part-2 %}) of this tutorial. In the near future, I'll make another post on some slightly more advanced topics in vowel plots, like how to highlight specific vowels or specific tokens (like I do in [this blog post](blog/ar-raising)), or how to make 3D scatterplots. Should be fun.
 
