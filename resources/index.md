@@ -111,13 +111,13 @@ This is my personal favorite. It's actually a whole collection of tools availabl
 
 This probably the most well-known forced aligner. It's open source and you can download it on your own computer from [Joe Fruehwald's Github page](https://github.com/JoFrhwld). Or if you'd prefer, you can UPenn's their [web interface](http://fave.ling.upenn.edu) instead.
 
-### [Prosodylab-Aligner](http://prosodylab.org/tools/aligner/)
-
-According to their website, this "is a set of Python and shell scripts for performing automated alignment of text to audio of speech using Hidden Markov Models." This is a software available through McGill University that actually allows you to train your own acoustic model (*e.g.* on a non-English audio corpus). I haven't done ths yet, but I've been meaning to start.
-
 ### [Montreal Forced Aligner](https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner)
 
 This is a new forced aligner that I heard about for the first time at the 2017 LSA conference. It is fundamentally different than other ones in that it uses a software called Kaldi. I don't know much beyond that and I haven't used it yet (though I intend to soon).
+
+### [Prosodylab-Aligner](http://prosodylab.org/tools/aligner/)
+
+According to their website, this "is a set of Python and shell scripts for performing automated alignment of text to audio of speech using Hidden Markov Models." This is a software available through McGill University that actually allows you to train your own acoustic model (*e.g.* on a non-English audio corpus). I haven't done ths yet, but I've been meaning to start.
 
 ### [SPPAS](http://www.sppas.org/index.html)
 
@@ -126,6 +126,10 @@ This is a software package with several functions including forced alignment in 
 ### [WebMAUS](http://clarin.phonetik.uni-muenchen.de/BASWebServices/#/services)
 
 This is another web interface with multiple functions including a forced aligner for several languages.
+
+### [Gentle](https://lowerquality.com/gentle/)
+
+This advertises itself as a "robust yet lenient forced aligner built on Kaldi." It's easy to download and use and produces what appear to be very good word-level alignments of a provided transcript. It even ignored the interviewer's voice in the file I tried. The output is a .csv file, so I'm not sure how to turn that into a TextGrid, and if you need phoneme-level acoustic measurements, a word-level transcription isn't going to work. 
 
 
 <br/>
