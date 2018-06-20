@@ -15,7 +15,7 @@ This page contains the handouts for the workshop for the "Research Experience fo
 ## Part 1: Intro to R
 *9:00–9:45*
 
-In this first part, we'll do an introduction to R. We'll talk about what R is, look at the differences between R and RStudio, and then get our hands dirty with actual R code. We'll see how to do some of the basics, get your data into R, and how to work with it. Most importantly, we'll see how to get help. In theory, this should go from 9:00 to 9:45.
+In this first part, we'll do an introduction to R. We'll talk about what R is, look at the differences between R and RStudio, and then get our hands dirty with actual R code. We'll see how to do some of the basics, get your data into R, and how to work with it. Most importantly, we'll see how to get help.
 
 <br/>
 
@@ -38,4 +38,4 @@ This last part of the workshop is specifically devoted to how to run some statis
 ## Part 4: Work on your own
 *11:00–12:00*
 
-Assuming I don't go over time, my goal is to have an hour devoted to you working on your own data (from 11:00 until noon). I'll wander around and help with specific questions when needed. This cushion is also there in case I go long, which I most likely will do…
+Assuming I don't go over time, my goal is to have an hour devoted to you working on your own data. I'll wander around and help with specific questions when needed. This cushion is also there in case I go long, which I most likely will do…
