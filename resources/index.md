@@ -43,6 +43,8 @@ In the study of vowel overlaps, we use the Pillai score, which is an output of t
 
 Here is a list of resources I've found for R. I've gone through some of them and others are on my to-do list. These are in no particular order. 
 
+### General R Coding
+
 * The website for [Tidyverse](https://www.tidyverse.org) is a great go-to place for learning how to use `dplyr`, `tidyr`, and many other packages.
 
 * *[R for Data Science](http://r4ds.had.co.nz/index.html)* by Garrett Grolemund & Hadley Wickham is a fantastic overview of tidyverse functions. 
@@ -55,22 +57,50 @@ Here is a list of resources I've found for R. I've gone through some of them and
 
 * *[Hands-On Programming with R](https://d1b10bmlvqabco.cloudfront.net/attach/ighbo26t3ua52t/igp9099yy4v10/igz7vp4w5su9/OReilly_HandsOn_Programming_with_R_2014.pdf)* by Garrett Grolemund & Hadley Wickham for writing functions and simulations. Haven't read it, but it looks good.
 
+* *[r-statistics.co](http://r-statistics.co)* by Selva Prabhakaran which has great tutorials on R itself, ggplot2, and advanced statistical modeling.
+
+### Data Visualization
+
 * *[ggplot2](http://www.springer.com/us/book/9783319242750)* by Hadley Wickham is a comprehensive resource for learning all the ins and outs of ggplot2.
 
+* The *[scion](https://www.data-imaginist.com/2018/scico-and-the-colour-conundrum/)* package has a bunch of colorblind-safe, perceptually uniform, ggplot2-friendly color palettes for use in visuals. Very cool.
+
+* The [color brewer website](http://colorbrewer2.org), while best for maps, offers great color palettes that are colorblind and sometimes also printer-safe. The have native integration with `ggplot2` with the `scale_[color|fill]_[brewer|distiller]` [functions](https://ggplot2.tidyverse.org/reference/scale_brewer.html). 
+
+* This [blog post](https://www.jessesadler.com/post/network-analysis-with-r/) by Jesse Sadler is a great tutorial on how to use R to visualize network data.
+
+### Working with Text
+
 * *[Text Mining with R](http://tidytextmining.com)* by Julia Silge & David Robinson. Haven't read it, but it looks great.
+
+* *[Handling Strings with R](http://www.gastonsanchez.com/r4strings/)* by Gaston Sanchez.
+
+* *[Visualizing text data with ggplot2](https://github.com/ColinFay/conf/blob/master/2017-11-budapest/fay_colin_text_data_ggplot2.pdf?utm_content=buffer56bdc&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)* by Colin Fay. 
+
+
+### Other
 
 * *[Elegant, flexible, and fast dynamic report generation with R](https://yihui.name/knitr/)* by Yihui Xie is a great resource for RMarkdown.
 
 * *[bookdown: Authoring Books and Technical Documents with R Markdown](https://bookdown.org/yihui/bookdown/)* by Yihui Xie. See an introduction to Bookdown by RStudio [here](https://www.rstudio.com/resources/webinars/introducing-bookdown/).
 
-* *[Visualizing text data with ggplot2](https://github.com/ColinFay/conf/blob/master/2017-11-budapest/fay_colin_text_data_ggplot2.pdf?utm_content=buffer56bdc&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)* by Colin Fay. 
-
-* *[r-statistics.co](http://r-statistics.co)* by Selva Prabhakaran which has great tutorials on R itself, ggplot2, and advanced statistical modeling.
 
 <br/>
 ## Statistics Resources
 
+### General Statistics Knowledge
+
+* The American Statistical Association, which is essentially the statistics equivalent in scope and prestige as the the Linguistic Society of America, put out a [statement on *p*-values](https://amstat.tandfonline.com/doi/full/10.1080/00031305.2016.1154108#.WzA-Wi2ZPOR). It is brief and written in accessible language and in my opinoin should be required reading if you ever use or interpret *p*-values in your research. 
+
 * *[Same Stats, Different Graphs: Generating Datasets with Varied Appearance and Identical Statistics through Simulated Annealing](https://www.autodeskresearch.com/publications/samestats)* by Justin Matejka and George Fitzmaurice. This went viral in some circles and shows that you can get the exact same summary statistics with wildly different distributions. Very cool. 
+
+* *[15 Types of Regression You Should Know](https://www.listendata.com/2018/03/regression-analysis.html#.WrqjTxC-HWE.twitter) is a post on the blog *Listen Data* that is a nice overview of different kinds of regression and how to implement them in R.
+
+* *[Mixed Modeling as a Foreign Language](http://thestudyofthehousehold.com/2018/02/28/2018-02-28-formulae-are-a-lot-like-french-slang/)*, a blog post by Andrew McDonald, first off is a good explanation of what mixed modeling is all about. But more importantly, it makes the point that "if you only partly understand the words you are using, you *will* humiliate yourself eventually." In other words, it's important to know what you're doing when you use statistics, and if you don't, maybe you should reconsider before you do something wrong.
+
+* Here's a [BuzzFeed article](https://www.buzzfeed.com/stephaniemlee/brian-wansink-cornell-p-hacking?utm_term=.rkMwm8D0J#.ffAq3aVye) by Stephanie M. Lee about a researcher who made the news because of his unbelieveable amount of *p*-hacking and using "statistics" to lie about his data.
+
+### How-Tos and Tutorials
 
 * *[Studying Pronunciation Changes with gamms](http://jofrhwld.github.io/papers/edinbr_gamm/)* by Josef Fruehwald.
 
@@ -135,6 +165,9 @@ This advertises itself as a "robust yet lenient forced aligner built on Kaldi." 
 <br/>
 ## Miscellaneous
 
+### [Collecting, organizing, and citing scientific literature: an intro to Zotero](http://ideophone.org/slides-for-a-hands-on-zotero-workshop/)
+
+Zotero is a fantastic tool for, well, collecting, organizing, and citing scientific literature. This is a great tutorial by Mark Dingemanse on the software and how to use it. I'm not exaggerating when I say that I literally could not write a paper if it weren't for Zotero. 
 
 ### [Pink Trombone](http://dood.al/pinktrombone/)
 
@@ -151,3 +184,7 @@ This iPhone app has what they call an "elaborated" IPA chart with lots of extra 
 ### [The EMU-webApp](https://ips-lmu.github.io/EMU-webApp/)
 
 "The EMU-webApp is a fully fledged browser-based labeling and correction tool that offers a multitude of labeling and visualization features." I haven't given this enough time to learn to use it properly, but it seems very helpful.
+
+### [Jonhannes Haushofer's CV of Failures](https://www.princeton.edu/~joha/Johannes_Haushofer_CV_of_Failures.pdf)
+
+Other people have written this more elegantly than I could, but sometimes it's nice to see that other academics fail too. You're not going to get into all the conferences you apply for, your papers are sometimes going to be rejected, and you're definitely not getting all the funding you apply for. I find it therapeutic to put together a CV of failures like his researcher did and to keep it updated and formatted just as would a regular CV. Don't let impostor syndrome get in the way by thinking others haven't failed too.
