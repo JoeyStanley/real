@@ -6,7 +6,7 @@ toc: false
 
 # Resources
 
-This page is still small but will eventually be a central place for all things useful for other linguists. It'll list software I've found useful, book recommendations, and links to resources I've developed and other helpful pages I write. For now, I can list a couple things. 
+On this page you'll find links to all sorts of stuff that I have found useful, including software, tutorials, books, general reading on R, statistics, Praat, and other stuff.
 
 
 <br/>
