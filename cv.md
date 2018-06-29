@@ -451,7 +451,7 @@ Society for the Study of the Indigenous Languages of the Americas ([SSILA](http:
 <br/>
 <br/>
 
-<div style="font-size:0.6em">
+<div class="icon-credit">
     The icons 
     <img src='/images/icons/audio.svg' height="10"/>
     <img src='/images/icons/document.svg' height="10"/> 
@@ -461,4 +461,5 @@ Society for the Study of the Indigenous Languages of the Americas ([SSILA](http:
     <img src='/images/icons/flyer.svg' height="10"/>
     <img src='/images/icons/presentation.svg' height="10"/>
     by <a href="http://www.freepik.com" title="Freepik">Freepik</a>. 
-    They're all from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> and are licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a>.</div>
+    They're all from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> and are licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a>.
+</div>
