@@ -325,6 +325,9 @@ aside img {
 	width: 32px;
 	height: 32px;
 }
+#email {
+	background: url(../images/icons/email.svg) no-repeat;
+}
 #github {
 	background: url(../images/icons/github.svg) no-repeat;
 }
@@ -335,7 +338,7 @@ aside img {
 	background: url(../images/icons/twitter.svg) no-repeat;
 }
 #googleScholar {
-	background: url(../images/icons/google.svg) no-repeat;
+	background: url(../images/icons/scholar.svg) no-repeat;
 }
 #feed {
 	background: url(../images/icons/rss.svg) no-repeat;
