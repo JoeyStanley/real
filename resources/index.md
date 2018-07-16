@@ -165,6 +165,10 @@ This advertises itself as a "robust yet lenient forced aligner built on Kaldi." 
 <br/>
 ## Miscellaneous
 
+### [The great American word mapper](https://qz.com/862325/the-great-american-word-mapper/#int/words=dinner_supper&smoothing=3)
+
+An interactive tool put together by Diansheng Guo, [Jack Grieve](https://sites.google.com/view/grievejw), and [Andrea Nini](https://andreanini.com) that lets you see regional trends in how words are used on Twitter.
+
 ### [Collecting, organizing, and citing scientific literature: an intro to Zotero](http://ideophone.org/slides-for-a-hands-on-zotero-workshop/)
 
 Zotero is a fantastic tool for, well, collecting, organizing, and citing scientific literature. This is a great tutorial by Mark Dingemanse on the software and how to use it. I'm not exaggerating when I say that I literally could not write a paper if it weren't for Zotero. 
