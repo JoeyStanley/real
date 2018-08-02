@@ -5,7 +5,7 @@ title: Curriculum Vitae
 
 # Curriculum Vitae
 
-<p id="updated">Updated June 1, 2018. Download PDF <a href="/downloads/180105-CV.pdf" target="_blank" title="open a pdf of my CV in a new window">here</a>.</p>
+<p id="updated">Updated August 1, 2018. Download PDF <a href="/downloads/180801-CV.pdf" target="_blank" title="open a pdf of my CV in a new window">here</a>.</p>
 
 <br/>
 
@@ -36,6 +36,8 @@ title: Curriculum Vitae
 <a href="/downloads/160101-IJAL82.pdf" class="paper" target="_blank" title="open a pdf of this paper in a new window"></a>
 
 ### Working Papers and Conference Proceedings
+
+<strong>Joseph A. Stanley</strong> (*submitted*). "Phonological Patterns in <span style="font-variant:small-caps;">beg</span>-Raising." *UGA Working Papers in Linguistics*, 4.
 
 <strong>Joseph A. Stanley</strong> (*submitted*). "Changes in the Timber Industry as a Catastrophic Event: <span style="font-variant:small-caps;">bag</span>-Raising in Cowlitz County, Washington" *Penn Working Papers in Linguistics, 24(2).*
 
@@ -119,13 +121,14 @@ William A. Kretzschmar, <strong>Joseph Stanley</strong>, & Katherine Kuiper. “
 
 ### Poster Presentations
 
+<strong>Joseph A. Stanley</strong>. "The differences between and within BEG and BAG: Phonological, morphological, and lexical effects in prevelar raising." Poster presentation at the 47th annual meeting of New Ways of Analyzing Variation (NWAV47). New York City, New York. October 18–21, 2018.
+
 Shawn Foster, <strong>Joseph A. Stanley</strong>, & Margaret E. L. Renwick. "Vowel Mergers in the American South." Poster presentation at the 174th Meeting of the Acoustical Society of America (ASA). New Orleans, LA. December 4–8, 2017.
 <a href="http://asa.scitation.org/doi/abs/10.1121/1.5014282" class="link" title="link to this presentation"></a>
 
 <strong>Joseph A. Stanley</strong>. "Changes in the Timber Industry as a Catalyst for Linguistic Change." Poster presentation at the 46th New Ways of Analyzing Variation conference ([NWAV46](https://english.wisc.edu/nwav46/)). Madison, WI. November 2–5, 2017. (with UGA Graduate School travel award)
 <a href="/downloads/171103-nwav46-abstract.pdf" class="abstract" target="_blank" title="download the abstract"></a>
 <a href="/downloads/171103-nwav46.pdf" class="poster" target="_blank" title="download this poster as a PDF"></a>
-
 
 [Margaret E. L. Renwick](http://faculty.franklin.uga.edu/mrenwick/) & <strong>Joseph A. Stanley</strong>. “A historical perspective on vowel shifting: Acoustic analysis of the Digital Archive of Southern Speech” Poster presentation at the 173rd Meeting of the Acoustical Society of America (ASA). Boston, MA. June 25–29, 2017.
 <a href="http://asa.scitation.org/doi/abs/10.1121/1.4989091" class="link" title="link to this presentation"></a>
@@ -142,7 +145,7 @@ Shawn Foster, <strong>Joseph A. Stanley</strong>, & Margaret E. L. Renwick. "Vow
 
 ## Invited Presentations
 
-"Data Visualization and Basic Statistical Modeling in R." Invited workshop for an NSF-funded "Research Experience for Undergraduates" site program, helping students analyze osteological data from skeletons at the 7–5th c. BCE Greek colony of Himera. June 21, 2018.
+"Data Visualization and Basic Statistical Modeling in R." Invited workshop for an NSF-funded "Research Experience for Undergraduates" site program, helping bioanthropology students analyze osteological data from skeletons at the 7–5th c. BCE Greek colony of Himera. June 21 and 25, 2018. <a href="/pages/bones_workshop.html" class="link" title="view the materials for this workshop here"></a> 
 
 “Basics, Review, Summary, Help.” Guest lecturer in LING 4400/6400: Quantitative Methods in Linguistics. Athens, GA. April 20.
 
