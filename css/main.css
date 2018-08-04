@@ -224,8 +224,11 @@ p a, p a:visited {
 	color: black;
 }
 p a:hover {
-	color: #376092
+	color: #376092;
+	border-bottom-style: dotted;
+	border-bottom-width: 1.5px;
 }
+
 p a:after {
 	content: 'º';
 	color: #132A45;
