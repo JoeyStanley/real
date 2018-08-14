@@ -2,7 +2,7 @@
 layout: post
 title:  "The Linguistic Atlas of the Pacific Northwest"
 date:   2016-09-30 16:23:00 -0400
-tags: [Linguistic Atlas Project, Pacific Northwest, Research]
+tags: [Linguistic Atlas, Pacific Northwest, Research]
 ---
 
 As a part of my research assistantship this year, I work with the Linguistic Atlas Project (<a href="http://lap.uga.edu">lap.uga.edu</a>), under the direction of Dr. William Kretzschmar. It's an exciting project to be a part of. 
