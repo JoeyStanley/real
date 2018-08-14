@@ -5,7 +5,7 @@ date:   2018-08-13 22:15:00 -0400
 tags: [Jealousy Lists, R, Skills, Statistics, GIS, Data Viz]
 ---
 
-This year, FiveThirtyEight started a monthly [Jealousy List](https://fivethirtyeight.com/tag/envy/), which is essentially a list of really cool articles they saw other people do that they wish they had been the ones to write. This is an idea they got from [Bloomberg](https://www.bloomberg.com/features/2017-jealousy-list/) and I think others are starting to do their own as well. It's kind of a fun way to showcase some of the best stuff that have come out recently and to share others' work. I kinda like the idea so I thought I'd start an occasional jealousy list of my own.
+This year, FiveThirtyEight started a monthly [Jealousy List](https://fivethirtyeight.com/tag/envy/), which is essentially a list of really cool articles they saw other people do that they wish they had been the ones to write. This is an idea they got from [Bloomberg](https://www.bloomberg.com/features/2017-jealousy-list/) and I think others are starting to do their own as well. It's kind of a fun way to showcase some of the best stuff that has come out recently and to share others' work. I kinda like the idea so I thought I'd start an occasional jealousy list of my own.
 
 I'm a linguist at heart, but because I'm interested learning more about R and statistics, I tend to keep tabs on a lot of what's going on in the data science world. I follow a lot of data scientists on Twitter and I'm also subscribed to something like 50 academics' blogs that I read when I have a spare minute. Consequently, most of what I'll post here will probably not be directly related to linguistics, but they'll show off some really cool R skills. Things that I find really cool or I wish I could have been the one to do write it. I tend to share some of this kind of stuff on Twitter, but I thought I'd start compiling them here.
 
@@ -29,7 +29,7 @@ So, in no particular order, here is a list of some of the things I liked the mos
 
 1. Timo Grossenbacher. [Categorical spatial interpolation with R](https://timogrossenbacher.ch/2018/03/categorical-spatial-interpolation-with-r/)
 
-    I recently got a fair amount of spatial data and I've been meaning to learn how to visualize some of what I got. This post gives a complete tutorial for how to do k-nearest neighbor categorical iinterpolation using the `kkNN` package. Because this involves some pretty complicated calculations, I also learned I could utilize the multiple cores I have on my computer for super intense stuff, which is always fun. I ended up creating this map, thanks to this tutorial:
+    I recently got a fair amount of spatial data and I've been meaning to learn how to visualize some of what I got. This post gives a complete tutorial for how to do k-nearest neighbor categorical interpolation using the `kkNN` package. Because this involves some pretty complicated calculations, I also learned I could utilize the multiple cores I have on my computer for super intense stuff, which is always fun. I ended up creating this map, thanks to this tutorial:
 
     <img src="/images/plots/map_raster.png" style="width: 30em;"/> 
 
