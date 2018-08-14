@@ -2,7 +2,7 @@
 layout: post
 title:  "Jealousy List 1"
 date:   2018-08-06 15:10:00 -0400
-tags: [Jealousy Lists, R, Skills, Statistics, GIS, Data Visualization]
+tags: [Jealousy Lists, R, Skills, Statistics, GIS, Data Viz]
 ---
 
 This year, FiveThirtyEight started a monthly [Jealousy List](https://fivethirtyeight.com/tag/envy/), which is essentially a list of really cool articles they saw other people do that they wish they had been the ones to write. This is an idea they got from [Bloomberg](https://www.bloomberg.com/features/2017-jealousy-list/) and I think others are starting to do their own as well. It's kind of a fun way to showcase some of the best stuff that have come out recently, as well as sharing others' work, I kinda like the idea so I thought I'd start an occasional jealousy list of my own.
