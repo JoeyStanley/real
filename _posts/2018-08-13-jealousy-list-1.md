@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Jealousy List 1"
-date:   2018-08-06 15:10:00 -0400
+date:   2018-08-13 22:15:00 -0400
 tags: [Jealousy Lists, R, Skills, Statistics, GIS, Data Viz]
 ---
 
