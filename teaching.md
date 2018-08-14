@@ -6,4 +6,4 @@ title: Teaching
 Teaching
 ========
 
-This page is under construction… Come back soon for information on what I teach and pedegogical materials I've developed. 
+This page is under construction… Come back soon for information on what I teach and pedagogical materials I've developed. 
