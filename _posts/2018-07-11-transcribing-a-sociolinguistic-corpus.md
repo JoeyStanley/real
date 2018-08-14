@@ -2,7 +2,7 @@
 layout: post
 title:  "Transcribing a Sociolinguistic Corpus"
 date:   2018-08-06 15:10:00 -0400
-tags: [Pacific Northwest, Research]
+tags: [Pacific Northwest, Research, Dissertation, Research, Methods]
 ---
 
 In the summer of 2016, I went to Cowlitz County, Washington to do traditional sociolinguistic interviews. I talked to 54 people and gathered my first audio corpus. It took a lot of preparation beforehand and it took a lot of time in the field. What I could not have expected was the amount of time it would take to transcribe that corpus. Now, two years later, I have finally finished transcriptions. 

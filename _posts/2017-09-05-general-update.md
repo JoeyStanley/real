@@ -2,7 +2,7 @@
 layout: post
 title:  "General Update"
 date:   2017-09-05 10:30:00 -0400
-tags: [West, Utah, MTurk, Research, Conferences, Linguistic Atlas, Washington, Pacific Northwest, Dissertation]
+tags: [West, Utah, MTurk, Research, Conferences, Linguistic Atlas, Pacific Northwest, Dissertation]
 ---
 
 Because I know I have such a *massive* following, I thought I'd give an update on my research since it's been a few months since the last time I wrote. 
