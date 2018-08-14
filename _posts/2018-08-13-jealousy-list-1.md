@@ -31,7 +31,7 @@ So, in no particular order, here is a list of some of the things I liked the mos
 
     I recently got a fair amount of spatial data and I've been meaning to learn how to visualize some of what I got. This post gives a complete tutorial for how to do k-nearest neighbor categorical iinterpolation using the `kkNN` package. Because this involves some pretty complicated calculations, I also learned I could utilize the multiple cores I have on my computer for super intense stuff, which is always fun. I ended up creating this map, thanks to this tutorial:
 
-    <img src="/images/plots/map_raster.jpeg" style="width: 30em;"/> 
+    <img src="/images/plots/map_raster.png" style="width: 30em;"/> 
 
     As far as *what* this map shows, well, no spoilers, but I'm waiting to hear back from ADS about whether I get to present on this data.
 
