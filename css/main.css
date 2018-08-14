@@ -305,6 +305,10 @@ p {
 	margin-bottom: 1em;
 }
 
+sup {
+	font-size: 50%;
+}
+
 /* ########################################## */
 /*                  Aside Styles              */
 /* ########################################## */
@@ -590,9 +594,7 @@ aside#tags {
 }
 
 /* Lists within posts */
-.posts li {
-	font: 110% 'Iowan Old Style', 'Palatino', 'Times New Roman', serif;
-}
+
 
 .posts footer {
 	background: whitesmoke;
