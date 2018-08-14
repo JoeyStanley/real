@@ -2,7 +2,7 @@
 layout: post
 title:  "Making vowel plots in R (Part 2)"
 date:   2018-06-06 10:12:00 -0400
-tags: [How-to Guides, Methods, Phonetics, R, Skills]
+tags: [How-to Guides, Methods, Phonetics, R, Skills, Data Viz]
 ---
 
 This is Part 2 of a four-part series of blog posts on how to make vowel plots in R. In [Part 1]({% post_url 2018-03-18-making-vowel-plots-in-r-part-1 %}), we looked primarily at how to plot individual data points as a scatterplot. This time, I'll focus entirely on trajectory data, that is, formant measurements per vowel at multiple points along its duration. Today, I'll cover three things: how to prepare FAVE output for trajectory plots, plotting trajectories in the F1-F2 space, and in the time-Hz space (like what you see in Praat). For both kinds of plots, we'll see how to show all tokens as well as averages per vowel.

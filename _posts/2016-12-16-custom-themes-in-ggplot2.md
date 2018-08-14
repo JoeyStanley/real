@@ -2,7 +2,7 @@
 layout: post
 title:  "Custom Themes in ggplot2"
 date:   2016-12-17 21:25:00 -0400
-tags: [How-to Guides, Methods, Skills, R]
+tags: [How-to Guides, Methods, Skills, R, Data Viz]
 ---
 
 I've always enjoyed the R package `ggplot2` because it allows limitless flexibility in how a plot looks—if you're willing to put in the time. After a while though I found myself adding the same commands to all my plots so that they all match. Shouldn't there be an easier way to do that? 
