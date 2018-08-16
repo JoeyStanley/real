@@ -43,7 +43,7 @@ title: Curriculum Vitae
 
 <strong>Joseph A. Stanley</strong> & Kyle Vanderniet (2018). "Consonantal Variation in Utah English." *Proceedings of the 4th Annual Linguistics Conference at UGA*, 50--65. 
 <a href="https://athenaeum.libs.uga.edu/handle/10724/37876" class="link" target="_blank" title="link to this paper online"></a>
-<a href="https://athenaeum.libs.uga.edu/bitstream/handle/10724/37876/Stanley%20and%20Vanderniet.pdf?sequence=1&isAllowed=y" class="paper" target="_blank" title="open a pdf of this paper in a new window"></a>
+<a href="https://athenaeum.libs.uga.edu/bitstream/handle/10724/37876/stanley-and-vanderniet.pdf?sequence=8&isAllowed=y" class="paper" target="_blank" title="open a pdf of this paper in a new window"></a>
 
 Renwick, Margaret E. L. & <strong>Joseph A. Stanley</strong> (2017). "Static and dynamic approaches to vowel shifting in the Digital Archive of Southern Speech." *Proceedings of Meetings on Acoustics* **30**, 060003; doi: http://dx.doi.org/10.1121/2.0000582.
 <a href="http://asa.scitation.org/doi/pdf/10.1121/2.0000582" class="link" target="_blank" title="link to POMA online"></a>
@@ -389,7 +389,7 @@ Thesis Reader for Shawn C. Foster (UGA Center for Undergraduate Research Opportu
 
 Member of the conference committee for the [5th Linguistics Conference at UGA (LCUGA5)](http://www.linguistics.uga.edu/lcuga-5). Member of the social media subcommittee. 2018.
 
-Co-Editor of the *[UGA Working Papers in Linguistics](http://www.linguistics.uga.edu/working-papers-vol-4-2018), 4. 2018.
+Co-Editor of the [*UGA Working Papers in Linguistics*](http://www.linguistics.uga.edu/working-papers-vol-4-2018), Volume 4. 2018.
 
 Web developer for the Linguistics Society at UGA. 2018.
 
