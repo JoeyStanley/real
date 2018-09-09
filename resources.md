@@ -65,15 +65,19 @@ Here is a list of resources I've found for R. I've gone through some of them and
 
 * *[ggplot2](http://www.springer.com/us/book/9783319242750)* by Hadley Wickham is a comprehensive resource for learning all the ins and outs of ggplot2.
 
-* The *[scion](https://www.data-imaginist.com/2018/scico-and-the-colour-conundrum/)* package has a bunch of colorblind-safe, perceptually uniform, ggplot2-friendly color palettes for use in visuals. Very cool.
+* Not satisfied with R's default colors? Try some of these alternatives:
 
-* The [color brewer website](http://colorbrewer2.org), while best for maps, offers great color palettes that are colorblind and sometimes also printer-safe. The have native integration with `ggplot2` with the `scale_[color|fill]_[brewer|distiller]` [functions](https://ggplot2.tidyverse.org/reference/scale_brewer.html). 
+    * The [`scion`](https://www.data-imaginist.com/2018/scico-and-the-colour-conundrum/) package has a bunch of colorblind-safe, perceptually uniform, ggplot2-friendly color palettes for use in visuals. Very cool.
+
+    * The [color brewer website](http://colorbrewer2.org), while best for maps, offers great color palettes that are colorblind and sometimes also printer-safe. The have native integration with `ggplot2` with the `scale_[color|fill]_[brewer|distiller]` [functions](https://ggplot2.tidyverse.org/reference/scale_brewer.html). 
+
+    * Paul Tol has come up with some [additional color themes](https://personal.sron.nl/~pault/), which you can access with `scale_color_ptol` in the [`ggthemes`](https://www.rdocumentation.org/packages/ggthemes/versions/3.5.0) package.
 
 * This [blog post](https://www.jessesadler.com/post/network-analysis-with-r/) by Jesse Sadler is a great tutorial on how to use R to visualize network data.
 
 * [*Data Visualization: A Practical Introduction*](http://socviz.co) by [Kieran Healy](kieranhealy.org). I haven't had the time to look through it, and as I write this it's an incomplete draft of the forthcoming book, but it looks quite good. It covers data prep, basic plots, visualizing statistical models, maps, and a whole bunch of other stuff. 
 
-* Edward Tufte is a statistician known for his series of four books that focus on best practices in the presentation of data:  [*The Visual Display of Quantitative Information*](https://www.edwardtufte.com/tufte/books_vdqi), [*Envisioning Information*](https://www.edwardtufte.com/tufte/books_ei), [*Visual Explanations*](https://www.edwardtufte.com/tufte/books_visex), and [*Beautiful Evidence*](https://www.edwardtufte.com/tufte/books_be). I haven't read them, but have thumbed through them and they look very cool. As a practical application of them, [this page](http://motioninsocial.com/tufte/) by Lukasz Piwek shows how to implement many of these visualizations in R.
+* Edward Tufte is a statistician known for his series of four books that focus on best practices in the presentation of data:  [*The Visual Display of Quantitative Information*](https://www.edwardtufte.com/tufte/books_vdqi), [*Envisioning Information*](https://www.edwardtufte.com/tufte/books_ei), [*Visual Explanations*](https://www.edwardtufte.com/tufte/books_visex), and [*Beautiful Evidence*](https://www.edwardtufte.com/tufte/books_be). I haven't read them, but have thumbed through them and they look very cool. As a practical application of them, [this page](http://motioninsocial.com/tufte/) by Lukasz Piwek shows how to implement many of these visualizations in R. You can also use `ggthemes` to get some of this implementation. 
 
 * Joey Cherdarchuk of [Darkhorse Analytics](https://www.darkhorseanalytics.com) has put together some really succinct presentations on how to simplify things you might put in a paper like [maps](https://www.darkhorseanalytics.com/blog/data-looks-better-naked-maps-edition), [charts](https://www.darkhorseanalytics.com/blog/salvaging-the-pie), [tables](https://www.darkhorseanalytics.com/blog/clear-off-the-table), and [reducing the data to ink ratio](https://www.darkhorseanalytics.com/blog/data-looks-better-naked).
 
@@ -93,6 +97,16 @@ Here is a list of resources I've found for R. I've gone through some of them and
 * [*R Markdown: The Definitive Guide*](https://bookdown.org/yihui/rmarkdown/) Yihui Xie, J. J. Allaire, and Garrett Grolemund is the comprehensive guide to R Markdown and Bookdown. 
 
 * *[bookdown: Authoring Books and Technical Documents with R Markdown](https://bookdown.org/yihui/bookdown/)* by Yihui Xie. See an introduction to Bookdown by RStudio [here](https://www.rstudio.com/resources/webinars/introducing-bookdown/).
+
+### GIS and Spatial Stuff
+
+* *[An Introduction to Spatial Analysis in R](http://www.seascapemodels.org/rstats/rspatial/2015/06/22/R_Spatial_course.html)* by [Chris Brown](http://www.seascapemodels.org).
+
+* *[Geocomputation with R](https://geocompr.robinlovelace.net)* by Robin Lovelace, Jakub Nowosad, and Jannes Muenchow.
+
+* I get all my shape files from the [National Historical Geographic Information System (NHGIS) website](https://www.nhgis.org).
+
+* And because I haven't quite gotten the hang of it yet in R, I do all my mapmaking using the [QGIS](https://qgis.org/en/site/), the open-source, Mac-friendly, and free alternative to [ArcGIS](https://www.arcgis.com/index.html). Shout-out to [@mjduever](https://twitter.com/mjduever) of UGA Libraries for teaching me everything I know about GIS.
 
 
 <br/>
@@ -160,13 +174,21 @@ I've got a lot of audio that I need to process, so a crucial part of all that is
 * [Gentle](https://lowerquality.com/gentle/) advertises itself as a "robust yet lenient forced aligner built on Kaldi." It's easy to download and use and produces what appear to be very good word-level alignments of a provided transcript. It even ignored the interviewer's voice in the file I tried. The output is a .csv file, so I'm not sure how to turn that into a TextGrid, and if you need phoneme-level acoustic measurements, a word-level transcription isn't going to work. 
 
 <br/>
-## Beautiful Websites
+## Typography, Web Design and CSS
+
+I enjoy reading and attempting to implement good typography into my website. Here are some resources that I have found helpfu for that.
+
+### Beautiful Websites
 
 I designed this website more or less from scratch, so I can appreciate the work others put into their own academic sites. Here are some examples of beautiful websites that I have found that I really like.
 
 * [Kieran Healy](https://kieranhealy.org) has one of the beautiful academic websites I've ever seen. I created this category on this page just so I could include his page on here. Wow.
 
 * [Practical Typography](https://practicaltypography.com) by Matthew Butterick is was my gateway into typography. My font selection and many other little details on my site (slides, posters, CV, etc.) were influenced by this book. 
+
+### CSS
+
+* If you enjoy the work of Edward Tufte and would like to incorporate some of his design principles into your website, you'll be interested in Tufte CSS by [Dave Liepmann](https://www.daveliepmann.com). If you're interested in your RMarkdown files rendering in a Tufte-style (like [this](https://bookdown.org/yihui/bookdown-demo3/2-intro.html)), there are ways to do that too, which you can read in [chapter 3 of *bookdown*](https://bookdown.org/yihui/bookdown/html.html#tufte-style) by Yihui Xie or [chapter 6 of *R Markdown*](https://rstudio.github.io/tufte/), by Yihui Xie, J. J. Allaire, and Garrett Grolemund (*cf.* [this](https://rstudio.github.io/tufte/)).
 
 
 <br/>
