@@ -124,7 +124,7 @@ Here is a list of resources I've found for R. I've gone through some of them and
 
 * Here's a [BuzzFeed article](https://www.buzzfeed.com/stephaniemlee/brian-wansink-cornell-p-hacking?utm_term=.rkMwm8D0J#.ffAq3aVye) by Stephanie M. Lee about a researcher who made the news because of his unbelieveable amount of *p*-hacking and using "statistics" to lie about his data.
 
-### How-Tos and Tutorials
+### GAMMs
 
 * *[Studying Pronunciation Changes with gamms](http://jofrhwld.github.io/papers/edinbr_gamm/)* by Josef Fruehwald.
 
@@ -176,7 +176,7 @@ I've got a lot of audio that I need to process, so a crucial part of all that is
 <br/>
 ## Typography, Web Design and CSS
 
-I enjoy reading and attempting to implement good typography into my website. Here are some resources that I have found helpfu for that.
+I enjoy reading and attempting to implement good typography into my website. Here are some resources that I have found helpful for that.
 
 ### Beautiful Websites
 
