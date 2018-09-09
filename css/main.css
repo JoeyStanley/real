@@ -10,12 +10,16 @@ Red:    #924630
 Yellow: #928E33
 */
 
-/*
+/* To use these fonts I need to import them like this. */
 @font-face {
 	font-family: "Iowan Old Style";
-	src: url("myFont.ttf");
+	src: url("Iowan Old Style.ttc");
   }
-*/
+  @font-face{
+    font-family: "Alegreya";
+    src: url('Alegreya.ttf');
+}
+
 
 html {
 	background: whitesmoke;
@@ -48,7 +52,7 @@ header, nav, body, aside, footer, h1, h2, p, ul, li, time, a {
 body {
 	width: 960px;
 	margin: 0 auto;
-	font: 110% 'Iowan Old Style', 'Palatino', 'Times New Roman', serif;
+	font: 110% 'Iowan Old Style', 'Alegreya', 'Palatino', 'Times New Roman', serif;
 }
 
 h1, h2, h3, footer p, .biglink {
@@ -302,7 +306,7 @@ p a:after {
 }
 
 p {
-	font: 110% 'Iowan Old Style', 'Palatino', 'Times New Roman', serif;
+	font: 110% 'Iowan Old Style', 'Alegreya', 'Palatino', 'Times New Roman', serif;
 	text-align: justify;
 	line-height: 1.4em;
 	font-size: 110%;
