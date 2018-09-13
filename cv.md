@@ -5,7 +5,7 @@ title: Curriculum Vitae
 
 # Curriculum Vitae
 
-<p id="updated">Updated August 1, 2018. Download PDF <a href="/downloads/180801-CV.pdf" target="_blank" title="open a pdf of my CV in a new window">here</a>.</p>
+<p id="updated">Updated September 12, 2018. Download PDF <a href="/downloads/180912-CV.pdf" target="_blank" title="open a pdf of my CV in a new window">here</a>.</p>
 
 <br/>
 
@@ -68,7 +68,11 @@ Olsen, Rachel M., Michael L. Olsen, <strong>Joseph A. Stanley</strong>, Margaret
 
 ### Oral Presentations
 
-<strong>Joseph A. Stanley</strong> & Margaret E. L. Renwick. “Finding pockets of social variation in the Digital Archive of Southern Speech.” The 5th Annual Linguistics conference at UGA (LCUGA5). Athens, GA. October 12–13, 2018.
+<strong>Joseph A. Stanley</strong>. “Are <span style="font-variant: small-caps">beg</span> and <span style="font-variant: small-caps">bag</span>-raising distinct? Regional patterns in prevelar raising in North American English.” American Dialect Society Annual Meeting. New York City, NY. January 3–6, 2019.
+
+Rachel M. Olsen, <strong>Joseph A. Stanley</strong>, Michael Olsen, Lisa Lipani, & Margaret E. L. Renwick. "Reconciling perception with production in Southern speech." American Dialect Society Annual Meeting. New York City, NY. January 3–6, 2019.
+
+<strong>Joseph A. Stanley</strong> & Margaret E. L. Renwick. "Finding pockets of social variation in the Digital Archive of Southern Speech." The 5th Annual Linguistics conference at UGA (LCUGA5). Athens, GA. October 12–13, 2018.
 
 <strong>Joseph A. Stanley</strong>. “(thr)-tapping in American English: Articulatory motivations and social factors.” The 5th Annual Linguistics conference at UGA (LCUGA5). Athens, GA. October 12–13, 2018.
 
@@ -127,7 +131,7 @@ William A. Kretzschmar, <strong>Joseph Stanley</strong>, & Katherine Kuiper. “
 
 <strong>Joseph A. Stanley</strong> & Margaret E. L. Renwick. "Social factors in Southern US speech: Acoustic analysis of a large-scale legacy corpus." The 93rd Annual Meeting of the Linguistic Society of America. New York City, NY. January 3–6, 2019.
 
-<strong>Joseph A. Stanley</strong>. "The differences between and within BEG and BAG: Phonological, morphological, and lexical effects in prevelar raising." Poster presentation at the 47th annual meeting of New Ways of Analyzing Variation (NWAV47). New York City, New York. October 18–21, 2018.
+<strong>Joseph A. Stanley</strong>. "The differences between and within <span style="font-variant: small-caps">beg</span> and <span style="font-variant: small-caps">bag</span>: Phonological, morphological, and lexical effects in prevelar raising." Poster presentation at the 47th annual meeting of New Ways of Analyzing Variation (NWAV47). New York City, New York. October 18–21, 2018.
 
 Shawn Foster, <strong>Joseph A. Stanley</strong>, & Margaret E. L. Renwick. "Vowel Mergers in the American South." Poster presentation at the 174th Meeting of the Acoustical Society of America (ASA). New Orleans, LA. December 4–8, 2017.
 <a href="http://asa.scitation.org/doi/abs/10.1121/1.5014282" class="link" title="link to this presentation"></a>
@@ -392,6 +396,8 @@ Thesis Reader for Shawn C. Foster (UGA Center for Undergraduate Research Opportu
 <br/>
 
 ## Professional Service
+
+UGA Linguistics Graduate Student Representative. 2018--2019.
 
 Member of the conference committee for the [5th Linguistics Conference at UGA (LCUGA5)](http://www.linguistics.uga.edu/lcuga-5). Member of the social media subcommittee. 2018.
 
