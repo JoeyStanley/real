@@ -156,7 +156,8 @@ Shawn Foster, <strong>Joseph A. Stanley</strong>, & Margaret E. L. Renwick. "Vow
 ## Invited Presentations
 
 "Brand Yourself: Creating a Digital, Professional Presence." Invited workshop at the DigiLab, Main Library, University of Georgia, Athens, GA. September 27, 2018.
-<a href="/downloads/180927-brand_yourself_flyer.pdf" class="flyer" title="download the flyer for this presentation"></a> 
+<a href="/downloads/180928-brand_yourself_flyer.pdf" class="flyer" title="download the flyer for this presentation"></a> 
+<a href="/downloads/180928-brand-yourself.pptx" class="slides" title="download the slides for this presentation"></a> 
 
 "Data Visualization and Basic Statistical Modeling in R." Invited workshop for an NSF-funded "Research Experience for Undergraduates" site program, helping bioanthropology students analyze osteological data from skeletons at the 7–5th c. BCE Greek colony of Himera. June 21 and 25, 2018. <a href="/pages/bones_workshop.html" class="link" title="view the materials for this workshop here"></a> 
 
