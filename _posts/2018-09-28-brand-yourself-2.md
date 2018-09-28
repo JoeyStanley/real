@@ -10,7 +10,12 @@ excerpt: Today, I was asked to do a professionalization workshop on different wa
 <div class="biglink"><a href="/downloads/180928-brand-yourself.pptx" title="download slideshow" class="nodot">Download the <br />slides here!</a></div>
 
 <div class="sidenote-left">I've given this presentation multiple times now. You can see the (very similar) slides from April 13, 2017 <a href="/downloads/170413-brand-yourself.pptx">here</a> and the ones from November 11, 2016 <a href="/blog/brand-yourself-1">here</a>.</div>
-Today, I was asked to do a professionalization workshop on different ways grad students can boost their online presence through building a personal webpage, utilizing social media, and finding their field's conversation---basically, how to make yourself more googleable.. At the end, I challenged people to not leave the room until they had built some sort of new online profile they didn't have when they walked in.
+Today, I was asked to do a professionalization workshop on different ways grad students can boost their online presence through building a personal webpage, utilizing social media, and finding their field's conversation---basically, how to make yourself more googleable. At the end, I challenged people to not leave the room until they had built some sort of new online profile they didn't have when they walked in.
+
+*Note: If you attended these workshops, please consider giving me some feedback through this anonymous survey so I can know how to improve:* 
+<center><a href="feedback">joeystanley.com/feedback</a></center>
+
+<br/>
 
 ## Social Media
 

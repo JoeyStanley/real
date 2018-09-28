@@ -8,6 +8,8 @@ redirect_from:
 
 # R Workshops
 
+Note: If you attended these workshops, please consider giving me some feedback with [this anonymous survey](/survey) so I can know how to improve. 
+
 ## Spring 2018 Series
 
 This semester, I offered a series of workshops on R. They were held Fridays at 3:30 in the DigiLab at the UGA Main Library. Videos for some of these are available [here](https://digilabuga.github.io/Resources/VideoTutorials.html). 

@@ -8,6 +8,9 @@ redirect_from:  "/bones"
 
 This page contains the handouts for the workshop for the "Research Experience for Undergraduates" site program. I am told the students spent three weeks collecting osteological data from skeletons at the 7--5th c. BCE Greek colony of Himera. The workshop took take place June 21 and 25, 2018 in the DigiLab.
 
+*Note: If you attended these workshops, please consider giving me some feedback through this anonymous survey so I can know how to improve:* 
+<center><a href="feedback">joeystanley.com/feedback</a></center>
+
 <br/>
 
 
