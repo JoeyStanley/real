@@ -507,6 +507,10 @@ a.audio:after {
 	overflow: auto;
 }
 
+#blog a {
+	color: #376092;
+}
+
 /* The date of each blog post */
 #blog time a {
 	clear: left;
@@ -526,9 +530,7 @@ a.audio:after {
 	clear: right;
 }
 
-#blog a {
-	color: #376092;
-}
+
 
 .posted_in, .excerpt {
 	margin-left: 120px;
