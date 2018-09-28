@@ -11,7 +11,7 @@ excerpt: Today, I was asked to do a professionalization workshop on different wa
 
 Today, I was asked to do a professionalization workshop on different ways grad students can boost their online presence through building a personal webpage, utilizing social media, and finding their field's conversation---basically, how to make yourself more googleable. At the end, I challenged people to not leave the room until they had built some sort of new online profile they didn't have when they walked in.
 
-*Note: If you attended these workshops, please consider giving me some feedback through this anonymous survey so I can know how to improve:* 
+*Note: If you attended this workshop, please consider giving me some feedback through this anonymous survey so I can know how to improve:* 
 <center><a href="feedback">joeystanley.com/feedback</a></center>
 
 <br/>
@@ -64,8 +64,8 @@ In some fields, these are a listserv. As far as I know, network analysis and Sla
 
 One thing I will mention is that a lot of action happens on Twitter, like livetweeting conferences. I've covered this in more depth in [an earlier blog post](http://joeystanley.com/blog/the-importance-of-twitter), but basically a lot of good stuff can come out of following the right people and seeing just the right tweets. 
 
+<div class="sidenote">I've given this presentation multiple times now. You can see the (very similar) slides from April 13, 2017 <a href="/downloads/170413-brand-yourself.pptx">here</a> and the ones from November 11, 2016 <a href="/blog/brand-yourself-1">here</a>.</div>
 
 ## Conclusion
 
-<div class="sidenote">I've given this presentation multiple times now. You can see the (very similar) slides from April 13, 2017 <a href="/downloads/170413-brand-yourself.pptx">here</a> and the ones from November 11, 2016 <a href="/blog/brand-yourself-1">here</a>.</div>
 In today's job market, there's no surefire way to ensure you'll get hired. But increasing your online presence and making yourself more googleable probably helps.
