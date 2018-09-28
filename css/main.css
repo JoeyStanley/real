@@ -508,7 +508,7 @@ a.audio:after {
 }
 
 /* The date of each blog post */
-#blog time {
+#blog time a {
 	clear: left;
 	float: left;
 	padding: 1em 5px;
