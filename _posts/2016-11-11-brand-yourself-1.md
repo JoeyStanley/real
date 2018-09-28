@@ -1,11 +1,14 @@
 ---
 layout: post
-title:  "Branding Yourself"
+title:  "Brand Yourself"
 date:   2016-11-11 20:23:00 -0400
 tags: [CSS, Github, How-to Guides, Meta, Presentations, Twitter]
-redirect_from: "/brand-yourself"
 excerpt: Today Emily McGinn of the Digital Humanities Lab at UGA and I did a professionalization workshop for grad students. We gave a presentation on different ways grad students can boost their online presence through building a personal webpage, utilizing social media, and finding your field's conversation. We then let the attendees a chance to work on their own to create a new online profile, using what they learned.
 ---
+
+<br/>
+Edit: Go [here](/blog/brand-yourself-2) to see a more recent version of this talk.
+<br/>
 
 <div class="biglink"><a href="/downloads/170413-brand-yourself.pptx" title="download slideshow" class="nodot">Download the <br />slides here!</a></div>
 
@@ -60,6 +63,6 @@ Overall, I thought the workshop went very well. Most of the attendees did end up
 
 -------------
 
-You can download the old version slideshow we used for this presentation [here](../downloads/BrandYourself.pptx).
+You can download the old version slideshow we used for this presentation [here](../downloads/161111-DigiLab-slides.pptx).
 
 I am indebted to the [Impact Challenge blog series](http://blog.impactstory.org/category/impact-challenge/), with the [accompanying 200+ page pdf](http://blog.impactstory.org/research-impact-challenge-ebook/), from which I learned a lot about all this. I would highly recommend that you download it and take a look. Not only does it include much more than what I've mentioned here, including step-by-step how-to guides to getting these profiles set up, but also many more topics to get yourself more visible. Thanks, Impact Challenge.
