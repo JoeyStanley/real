@@ -131,7 +131,7 @@ William A. Kretzschmar, <strong>Joseph Stanley</strong>, & Katherine Kuiper. “
 
 <strong>Joseph A. Stanley</strong> & Margaret E. L. Renwick. "Social factors in Southern US speech: Acoustic analysis of a large-scale legacy corpus." The 93rd Annual Meeting of the Linguistic Society of America. New York City, NY. January 3–6, 2019.
 
-<strong>Joseph A. Stanley</strong>. "The differences between and within <span style="font-variant: small-caps">beg</span> and <span style="font-variant: small-caps">bag</span>: Phonological, morphological, and lexical effects in prevelar raising." Poster presentation at the 47th annual meeting of New Ways of Analyzing Variation (NWAV47). New York City, New York. October 18–21, 2018.
+<strong>Joseph A. Stanley</strong>. "The differences between and within <span style="font-variant: small-caps">beg</span> and <span style="font-variant: small-caps">bag</span>: Phonological, morphological, and lexical effects in prevelar raising." Poster presentation at the 47th annual meeting of New Ways of Analyzing Variation (NWAV47). New York City, New York. October 18–21, 2018. (with UGA Graduate School travel award)
 
 Shawn Foster, <strong>Joseph A. Stanley</strong>, & Margaret E. L. Renwick. "Vowel Mergers in the American South." Poster presentation at the 174th Meeting of the Acoustical Society of America (ASA). New Orleans, LA. December 4–8, 2017.
 <a href="http://asa.scitation.org/doi/abs/10.1121/1.5014282" class="link" title="link to this presentation"></a>
@@ -306,6 +306,8 @@ University of Georgia stipend enhancement awarded by the Franklin College of Art
 University of Georgia Graduate Research Assistantship. 2014–2016.
 
 ### Travel Awards
+
+University of Georgia Graduate School travel award ($600). For travel to the 47th New Ways of Analyzing Variation Conference in New York City, NY. October, 2018.
 
 American Dialect Society student travel grant ($500). For travel to the American Dialect Society annual meeting in Salt Lake City, UT. January 2018.
 
