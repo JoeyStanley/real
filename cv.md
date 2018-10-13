@@ -39,7 +39,8 @@ title: Curriculum Vitae
 
 <strong>Joseph A. Stanley</strong> (*submitted*). "Phonological Patterns in <span style="font-variant:small-caps;">beg</span>-Raising." *UGA Working Papers in Linguistics*, 4.
 
-<strong>Joseph A. Stanley</strong> (*submitted*). "Changes in the Timber Industry as a Catastrophic Event: <span style="font-variant:small-caps;">bag</span>-Raising in Cowlitz County, Washington" *Penn Working Papers in Linguistics, 24(2).*
+<strong>Joseph A. Stanley</strong> (2018). "Changes in the Timber Industry as a Catastrophic Event: <span style="font-variant:small-caps;">bag</span>-Raising in Cowlitz County, Washington" *Penn Working Papers in Linguistics, 24(2).*
+<a href="https://repository.upenn.edu/pwpl/vol24/iss2/16/" class="link" target="_blank" title="link to this paper online"></a>
 
 <strong>Joseph A. Stanley</strong> & [Kyle Vanderniet](https://clyguy.wixsite.com/profile) (2018). "Consonantal Variation in Utah English." *Proceedings of the 4th Annual Linguistics Conference at UGA*, 50--65. 
 <a href="https://athenaeum.libs.uga.edu/handle/10724/37876" class="link" target="_blank" title="link to this paper online"></a>
@@ -73,8 +74,10 @@ Olsen, Rachel M., Michael L. Olsen, <strong>Joseph A. Stanley</strong>, Margaret
 Rachel M. Olsen, <strong>Joseph A. Stanley</strong>, Michael Olsen, Lisa Lipani, & Margaret E. L. Renwick. "Reconciling perception with production in Southern speech." American Dialect Society Annual Meeting. New York City, NY. January 3–6, 2019.
 
 <strong>Joseph A. Stanley</strong> & Margaret E. L. Renwick. "Finding pockets of social variation in the Digital Archive of Southern Speech." The 5th Annual Linguistics conference at UGA (LCUGA5). Athens, GA. October 12–13, 2018.
+<a href="/downloads/181012-lcuga5_dass.pdf" class="slides" title="download the powerpoint slides for this presentation"></a>
 
 <strong>Joseph A. Stanley</strong>. “(thr)-tapping in American English: Articulatory motivations and social factors.” The 5th Annual Linguistics conference at UGA (LCUGA5). Athens, GA. October 12–13, 2018.
+<a href="/downloads/181012-lcuga5_thr.pdf" class="slides" title="download the powerpoint slides for this presentation"></a>
 
 <strong>Joseph A. Stanley</strong> & [Kyle Vanderniet](https://clyguy.wixsite.com/profile). "What el[t]se is happening[k] with Utah English consonants?" American Dialect Society (ADS) Annual Meeting. Salt Lake City, UT. January 5–8, 2018. (With ADS student travel grant)
 <a href="/downloads/180108-ads2018-utah.pdf" class="slides" title="download the powerpoint slides for this presentation"></a>
