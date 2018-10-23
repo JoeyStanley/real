@@ -131,21 +131,30 @@ Wednesday, November 1, 2017
 Monday, November 6, 2017
 6:36am - Added image to NWAV page. Also added the img.rounded CSS style to get rounded corners on that kind of page.
 
+
+
+
+
+
+
 # todo
 * Remove pptx files and replace them with PDFs
-* Get better icons.
 
 
 # Important: This is a list of all the redirects currently in the site.
 * joeystanley.com/ads2017        -> pages/ads2017.md
-* joeystanley.com/brand-yourself -> _pages/2017-01-27-excel-workshop.md
+* joeystanley.com/bones          -> pages/bones_workshop.md
+* joeystanley.com/brand-yourself -> pages/2018-09-28-brand-yourself-2.md
 * joeystanley.com/colloquium     -> _posts/2017-04-08-mount-st-helens-and-vowels.md
 * joeystanley.com/divar1         -> pages/divar1.md
 * joeystanley.com/excel          -> _posts/2017-01-27-excel-workshop.md
 * joeystanley.com/gsv            -> http://lap3.libs.uga.edu/u/jstanley/vowelcharts/
-* joeystanley.com/lcuga4         -> pages/lcuga4.md
-* joeystanley.com/nwav46         -> pages/nwav46.md
-* joeystanley.com/r              -> pages/r-workshops.md
+* joeystanley.com/lcuga4         -> _posts/lcuga4.md
+* joeystanley.com/lcuga5         -> _posts/lcuga5.md
+* joeystanley.com/nwav46         -> _posts/nwav46.md
+* joeystanley.com/nwav47         -> _posts/nwav47.md
+* joeystanley.com/r              -> pages/r-workshops.md (I'm trying to phase this one out)
+* joeystanley.com/r2018          -> pages/r-workshops.md
 * joeystanley.com/secol2017      -> _posts/2017-03-09-secol2017.md
 * joeystanley.com/tinytalks2018  -> pages/tinytalks2018.md -> /downloads/181403_tinytalks2018.pdf
 
@@ -153,7 +162,6 @@ Monday, November 6, 2017
 Blog posts:
 * Mormon Forms of Address: for a non-specialist audience.
 * BEG maps--Somehow do this without stepping on the toes of future publications. 
-* Vowels part 2: Trajectories.
 * Vowels part 3: Highlighting specific points in vowel plots (like my [gar] post), overlaying means, etc.
 * Vowels part 4: 3D scatterplots.
 * From Renwick: How my silence detection didn't work.
@@ -165,9 +173,9 @@ Blog posts:
 * How I did the logo hyperlinks
 * Google Analytics
     * Include how to filter out myself (https://support.google.com/analytics/answer/1034823)
-* Make a blog post about BubblePlots. JMP says that Hans Rosling pioneered them, which I didn't know. http://www.jmp.com/support/help/Bubble_Plots.shtml#222083
-* Make a blog post about my formatting branding. Include ggplot2 and how I get the graphics and colors to match.
-* Make a mega post about what R packages I use and what functions within them. It might be good to have a post organized by package, and other one organized by purpose. Basically, I'd have to go through the books I've used and summarize them. Could potentially take a long time but might be useful at least for me to keep track of what I use. 
+* BubblePlots. JMP says that Hans Rosling pioneered them, which I didn't know. http://www.jmp.com/support/help/Bubble_Plots.shtml#222083
+* Formatting branding. Include ggplot2 and how I get the graphics and colors to match.
+* What R packages I use and what functions within them. It might be good to have a post organized by package, and other one organized by purpose. Basically, I'd have to go through the books I've used and summarize them. Could potentially take a long time but might be useful at least for me to keep track of what I use. 
 
 
 Debugging notes
