@@ -8,7 +8,6 @@ toc: false
 
 On this page you'll find links to all sorts of stuff that I have found useful, including software, tutorials, books, general reading on R, statistics, Praat, and other stuff.
 
-
 <br/>
 ## My handouts, tutorials, and workshops
 
