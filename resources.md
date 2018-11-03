@@ -6,7 +6,7 @@ toc: false
 
 # Resources
 
-On this page you'll find links to all sorts of stuff that I have found useful, including software, tutorials, books, general reading on R, statistics, Praat, and other stuff.
+On this page you'll find links to all sorts of stuff that I have found useful, including tutorials, books, and general reading on R and Praat, statistics, software, corpora, design, and other stuff.
 
 <br/>
 ## My handouts, tutorials, and workshops
@@ -117,7 +117,7 @@ Here is a list of resources I've found for R. I've gone through some of them and
 
 * *[Same Stats, Different Graphs: Generating Datasets with Varied Appearance and Identical Statistics through Simulated Annealing](https://www.autodeskresearch.com/publications/samestats)* by Justin Matejka and George Fitzmaurice. This went viral in some circles and shows that you can get the exact same summary statistics with wildly different distributions. Very cool. 
 
-* *[15 Types of Regression You Should Know](https://www.listendata.com/2018/03/regression-analysis.html#.WrqjTxC-HWE.twitter) is a post on the blog *Listen Data* that is a nice overview of different kinds of regression and how to implement them in R.
+* *[15 Types of Regression You Should Know](https://www.listendata.com/2018/03/regression-analysis.html#.WrqjTxC-HWE.twitter)* is a post on the blog *Listen Data* that is a nice overview of different kinds of regression and how to implement them in R.
 
 * *[Mixed Modeling as a Foreign Language](http://thestudyofthehousehold.com/2018/02/28/2018-02-28-formulae-are-a-lot-like-french-slang/)*, a blog post by Andrew McDonald, first off is a good explanation of what mixed modeling is all about. But more importantly, it makes the point that "if you only partly understand the words you are using, you *will* humiliate yourself eventually." In other words, it's important to know what you're doing when you use statistics, and if you don't, maybe you should reconsider before you do something wrong.
 
@@ -148,17 +148,29 @@ Here is a list of resources I've found for R. I've gone through some of them and
 
 * [Phonetics on Speed: Praat Scripting Tutorial](http://praatscripting.lingphon.net)* by Jörg Mayer is what I find myself coming back to again and again.
 
-* [University of Washington Phonetics Lab](https://depts.washington.edu/phonlab/resources.htm) has tutorials and scripts.
+* [University of Washington Phonetics Lab](https://depts.washington.edu/phonlab/resources.htm) has a bunch of tutorials and scripts.
 
 * And I've written a [tutorial](/blog/a-tutorial-on-extracting-foramnts-in-praat) on writing a script for basic automatic formant extraction. 
 
 
 <br/>
-## Forced Aligners
+## Working with audio
+
+There are three main steps for processing audio: transcription, forced alignment, and formant extraction. 
+
+### Automatic Transcription
+
+There is software available that you can use to transcribe in like Praat, [Transcriber](http://trans.sourceforge.net/en/presentation.php), and [ELAN](https://tla.mpi.nl/tools/tla-tools/elan/). But here are some tools I've seen that do automatic transcription. 
+
+* [CLO<sub>x</sub>](https://clox.ling.washington.edu/index.html) is a new automatic transcriber available from the University of Washington. It's a web-based service that uses Microsoft Bing's Speech Recognition system to transcribe your audio. It's estimated that a sociolinguistic interview can be transcribed in a fifth the time as a manual transcription. The great news is that it's available for several languages!
+
+* [DARLA](http://darla.dartmouth.edu) is actually a whole collection of tools available through a web interface from Dartmouth University. It can transcribe, align, and extract formants from your (English) audio files all in one go. For automatic transcription, you can use their own in-house system by using the "Completely Automated" method. They admit the transcriptions won't be perfect, but they provide a handy tool for manual correcting.
+
+### Forced Aligners
 
 I've got a lot of audio that I need to process, so a crucial part of all that is force aligning the text to the audio. Smart people have come up with free software to do this. Here's a list of the ones I've seen.
 
-* [DARLA](http://darla.dartmouth.edu) is probably my personal favorite. It's actually a whole collection of tools available through a web interface from Dartmouth University. It can transcribe, align, and extract formants from your (English) audio files all in one go. Previously, its forced aligner is built using Prosody-Lab but now uses the Montreal Forced Aligner (see below).
+* [DARLA](http://darla.dartmouth.edu), avilable from Dartmouth University, is the one I've used the most. It can transcribe, align, and extract formants from your (English) audio files all in one go. Previously, its forced aligner is built using Prosody-Lab but now uses the Montreal Forced Aligner (see below).
 
 * The [Montreal Forced Aligner](https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner) is a relatively new one that I heard about for the first time at the 2017 LSA conference. It is fundamentally different than other ones in that it uses a software called Kaldi. It's easy to set up and install and I've used it on my own data. The benefit of this over DARLA is that it's on your own computer so you don't have to wait for files to upload. And you can process files in bulk. 
 
@@ -170,10 +182,42 @@ I've got a lot of audio that I need to process, so a crucial part of all that is
 
 * [WebMAUS](http://clarin.phonetik.uni-muenchen.de/BASWebServices/#/services) is another web interface with multiple functions including a forced aligner for several languages.
 
-* [Gentle](https://lowerquality.com/gentle/) advertises itself as a "robust yet lenient forced aligner built on Kaldi." It's easy to download and use and produces what appear to be very good word-level alignments of a provided transcript. It even ignored the interviewer's voice in the file I tried. The output is a .csv file, so I'm not sure how to turn that into a TextGrid, and if you need phoneme-level acoustic measurements, a word-level transcription isn't going to work. 
+* [Gentle](https://lowerquality.com/gentle/) advertises itself as a "robust yet lenient forced aligner built on Kaldi." It's easy to download and use and produces what appear to be very good word-level alignments of a provided transcript. It even ignored the interviewer's voice in the file I tried. The output is a .csv file, so I'm not sure how to turn that into a TextGrid, and if you need phoneme-level acoustic measurements, a word-level transcription isn't going to work.
+
+### Formant Extractors
+
+* [FAVE-Extract](https://github.com/JoFrhwld/FAVE/wiki/FAVE-extract) is the gold-standard that tons of people use.
+
+* If you want to do write a script yourself, I've written a [tutorial](/blog/a-tutorial-on-extracting-foramnts-in-praat) on writing a script for basic automatic formant extraction. 
 
 <br/>
-## Typography, Web Design and CSS
+## Corpora
+
+For whatever reason, sometimes it's nice to uses data that already exists rather than collect your own. Here are just a few of the sites I've seen for downloading audio for (potential) linguistic research.
+
+### Audio Corpora
+
+* [CORAAL](https://oraal.uoregon.edu/coraal) is the Corpus of Regional African American English, the first public corpus of African American Language. You can download the audio and transcriptions in their entirety [here](http://lingtools.uoregon.edu/coraal/) or search and browse the corpus [from the website](http://lingtools.uoregon.edu/coraal/explorer/). 
+
+* The [Linguistic Atlas Project](http://www.lap.uga.edu) is an important work for American dialectology. Early linguists interviewed thousands of people from across the country, mostly between the 1930s and the 1980s. If you've heard of the Linguistic Atlas of New England (LANE), the Linguistic Atlas of the Middle Atlantic States (LAMSAS), or the Linguistic Atlas of the Gulf States (LAGS), these are all under the umbrella of the Linguistic Atlas Project and serve as a baseline from which contemporary data compared against to study language change in real time. Many of the recordings are available to download online (for those that were recorded after portable technology existed, so around 1950 or later). There arne't too many full transcriptions yet, but there are scans of handwritten transcriptions of key words available to download.  
+
+* The [Dictionary of American Regional English (DARE)](http://dare.wisc.edu) recently made [all of their audio](https://uwdc.library.wisc.edu/collections/AmerLangs/) available online. This is a nice collection of older recordings from all over the country. 
+
+* The [International Dialects of English Archive (IDEA)](https://www.dialectsarchive.com) has a nice collection of over 1000 short audio clips featuring basically every variety of English (native and non-native) you can think of. It's designed with voice actors in mind, but it can still be used for linguistic analysis. 
+
+* [StoryCorps](https://storycorps.org) has tons of recorded interviews available for download. I've seen audio from this site used a couple times for linguistic analysis. 
+
+* The Library of Congress hosts thousands of [recorded interviews](https://www.loc.gov/audio/?fa=subject:interviews). I don't recall seeing these used in linguistic research, but some of them are older and could be good for something.
+
+
+### Text Corpora
+
+* [COCA](https://corpus.byu.edu/coca/), [COHA](https://corpus.byu.edu/coha/), and [many others](https://corpus.byu.edu) are all created by Mark Davies at Brigham Young University. These are said to be the gold standard when it comes to balanced, large corpora. 
+
+* Jason Baumbartner has done the legwork to make [the entirety of Reddit](https://files.pushshift.io/reddit/) available for download. I worked with this data when he first released it in 2015, and it was about a 50-*billion* word corpus back then. Reddit has grown tremendously even since then so you're looking at some truly big data. Super cool. 
+
+<br/>
+## Typography, Web Design, and CSS
 
 I enjoy reading and attempting to implement good typography into my website. Here are some resources that I have found helpful for that.
 
@@ -197,7 +241,7 @@ Just random stuff that doesn't fit elsewhere.
 
 * [The great American word mapper](https://qz.com/862325/the-great-american-word-mapper/#int/words=dinner_supper&smoothing=3) is an interactive tool put together by Diansheng Guo, [Jack Grieve](https://sites.google.com/view/grievejw), and [Andrea Nini](https://andreanini.com) that lets you see regional trends in how words are used on Twitter.
 
-* [Collecting, organizing, and citing scientific literature: an intro to Zotero](http://ideophone.org/slides-for-a-hands-on-zotero-workshop/) is a great tutorial on how to use Zotero by Mark Dingemanse. Zotero is a fantastic tool for, well, collecting, organizing, and citing scientific literature and I'm not exaggerating when I say that I could not be in academics without it.
+* *[Collecting, organizing, and citing scientific literature: an intro to Zotero](http://ideophone.org/slides-for-a-hands-on-zotero-workshop/)* is a great tutorial on how to use Zotero by Mark Dingemanse. Zotero is a fantastic tool for, well, collecting, organizing, and citing scientific literature and I'm not exaggerating when I say that I could not be in academics without it.
 
 * [Pink Trombone](http://dood.al/pinktrombone/) is an interesting site that has a interactive simulator of the vocal tract. You can click around and make different vowels and consonants. Pretty fun resource for teaching how speech works.
 
