@@ -47,7 +47,7 @@ permalink: /blog/:title
 
 # Stuff that came default on mine but not his
 theme: minima
-gems:
+plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-redirect-from
