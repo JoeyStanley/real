@@ -68,7 +68,7 @@ Here is a list of resources I've found for R. I've gone through some of them and
 
     * The [`scion`](https://www.data-imaginist.com/2018/scico-and-the-colour-conundrum/) package has a bunch of colorblind-safe, perceptually uniform, ggplot2-friendly color palettes for use in visuals. Very cool.
 
-    * The [color brewer website](http://colorbrewer2.org), while best for maps, offers great color palettes that are colorblind and sometimes also printer-safe. The have native integration with `ggplot2` with the `scale_[color|fill]_[brewer|distiller]` [functions](https://ggplot2.tidyverse.org/reference/scale_brewer.html). 
+    * The [color brewer website](http://colorbrewer2.org), while best for maps, offers great color palettes that are colorblind and sometimes also printer-safe. The have native integration with `ggplot2` with the `scale_[color|fill]_ [brewer|distiller]` [functions](https://ggplot2.tidyverse.org/reference/scale_brewer.html). 
 
     * Paul Tol has come up with some [additional color themes](https://personal.sron.nl/~pault/), which you can access with `scale_color_ptol` in the [`ggthemes`](https://www.rdocumentation.org/packages/ggthemes/versions/3.5.0) package.
 
@@ -103,6 +103,8 @@ Here is a list of resources I've found for R. I've gone through some of them and
 
 * *[Geocomputation with R](https://geocompr.robinlovelace.net)* by Robin Lovelace, Jakub Nowosad, and Jannes Muenchow.
 
+* *[R Ready to Map](https://github.com/momiji15/apptomap/tree/master/R%20Ready%20to%20Map)* is a tutorial by [Dorris Scott](https://dscott.netlify.com) that starts off using the rtweet package to extract some Twitter data, shows you how to map it, and then walks you through creating an interactive RMarkdown document that integrates leaflet maps and plots.
+
 * I get all my shape files from the [National Historical Geographic Information System (NHGIS) website](https://www.nhgis.org).
 
 * And because I haven't quite gotten the hang of it yet in R, I do all my mapmaking using the [QGIS](https://qgis.org/en/site/), the open-source, Mac-friendly, and free alternative to [ArcGIS](https://www.arcgis.com/index.html). Shout-out to [@mjduever](https://twitter.com/mjduever) of UGA Libraries for teaching me everything I know about GIS.
@@ -123,11 +125,17 @@ Here is a list of resources I've found for R. I've gone through some of them and
 
 * Here's a [BuzzFeed article](https://www.buzzfeed.com/stephaniemlee/brian-wansink-cornell-p-hacking?utm_term=.rkMwm8D0J#.ffAq3aVye) by Stephanie M. Lee about a researcher who made the news because of his unbelieveable amount of *p*-hacking and using "statistics" to lie about his data.
 
+### Linear mixed-effects models
+
+* [Bodo Winter's](http://www.bodowinter.com/index.html) [mixed-effects modeling tutorials](http://www.bodowinter.com/tutorials.html) are the best resource I've found on using these in linguistics research. It's a two-part tutorial, so be sure to look through both of them. 
+
+* [Mixed-Effects Regression Models in Linguistics](https://www.springer.com/us/book/9783319698281), edited by Dirk Speelman, Kris Heylen, & Dirk Geeraerts and published by Springer is an entire book on mixed-effects models, specifically for linguists. 
+
 ### GAMMs
 
-* *[Studying Pronunciation Changes with gamms](http://jofrhwld.github.io/papers/edinbr_gamm/)* by Josef Fruehwald.
-
 * *[Generalised Additive Mixed Models for Dynamic Analysis in Linguistics: A Practical Introduction](https://arxiv.org/pdf/1703.05339.pdf)* by Márton Sóskuthy.
+
+* *[Studying Pronunciation Changes with gamms](http://jofrhwld.github.io/papers/edinbr_gamm/)* by Josef Fruehwald.
 
 * *[Overview GAMM analysis of time series data](http://jacolienvanrij.com/Tutorials/GAMM.html)* by Jacolien van Rij. I haven't had time to go through this one yet, but it's on my todo list. Actually [all of her tutorials](http://www.jacolienvanrij.com/cv.html) look great.  
 
