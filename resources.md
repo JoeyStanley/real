@@ -103,6 +103,8 @@ Here is a list of resources I've found for R. I've gone through some of them and
 
 * *[Geocomputation with R](https://geocompr.robinlovelace.net)* by Robin Lovelace, Jakub Nowosad, and Jannes Muenchow.
 
+* *[A Guide to Working with US Census Data in R](https://rconsortium.github.io/censusguide/)* by Ari Lamstein and Logan Powell is a nice, brief guide to census data and some places to go if you want to work with it in R.
+
 * *[R Ready to Map](https://github.com/momiji15/apptomap/tree/master/R%20Ready%20to%20Map)* is a tutorial by [Dorris Scott](https://dscott.netlify.com) that starts off using the rtweet package to extract some Twitter data, shows you how to map it, and then walks you through creating an interactive RMarkdown document that integrates leaflet maps and plots.
 
 * I get all my shape files from the [National Historical Geographic Information System (NHGIS) website](https://www.nhgis.org).
@@ -154,7 +156,9 @@ Here is a list of resources I've found for R. I've gone through some of them and
 
 * [Will Styler's](http://savethevowels.org/will/) Praat tutorial is probably the most thorough I've seen. The PDF can be found [here](http://savethevowels.org/praat/UsingPraatforLinguisticResearchLatest.pdf) but don't forget to look at the [page](http://savethevowels.org/praat/) it comes from which has more information about it. 
 
-* [Phonetics on Speed: Praat Scripting Tutorial](http://praatscripting.lingphon.net)* by Jörg Mayer is what I find myself coming back to again and again.
+* *[Phonetics on Speed: Praat Scripting Tutorial](http://praatscripting.lingphon.net)* by Jörg Mayer is what I find myself coming back to again and again.
+
+* *[SpeCT - The Speech Corpus Toolkit for Praat](https://lennes.github.io/spect/)* is a collection of well-documented Praat scripts written by [Mietta Lennes](http://orcid.org/0000-0003-4735-3017). I often find my way to this page when I need help for a specific task in Praat and incorporate some of the code in these scripts into my own.
 
 * [University of Washington Phonetics Lab](https://depts.washington.edu/phonlab/resources.htm) has a bunch of tutorials and scripts.
 
