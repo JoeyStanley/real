@@ -114,7 +114,7 @@ William A. Kretzschmar, <strong>Joseph Stanley</strong>, & Katherine Kuiper. “
 <a href="/downloads/161008-LCUGA3-abstract.pdf" class="abstract" target="_blank" title="open a pdf of the abstract to this presentation in a new window"></a>
 <a href="/downloads/161008-LCUGA3-slides.pptx" class="slides" title="download the powerpoint slides for this presentation"></a>
 
-<strong>Joseph A. Stanley</strong>. "Separate Phonemes <span style="white-space: nowrap;">/ɔr/</span> Merging? The [Cord-Card Merger](https://en.wikipedia.org/wiki/English-language_vowel_changes_before_historic_/r/#Card.E2.80.93cord_merger) in Real-Time". The Second Interdisciplinary Linguistics Conference at UGA ([LSUGA2](http://www.lsuga.com/conference)). Athens, GA. October 9–11, 2015. 
+<strong>Joseph A. Stanley</strong>. "Separate Phonemes <span style="white-space: nowrap;">/ɔr/</span> Merging? The [Cord-Card Merger](https://en.wikipedia.org/wiki/English-language_vowel_changes_before_historic_/r/#Card.E2.80.93cord_merger) in Real-Time". The Second Interdisciplinary Linguistics Conference at UGA ([LCUGA2](http://www.lsuga.com/conference)). Athens, GA. October 9–11, 2015. 
 <a href="/downloads/151009-LSUGA2-abstract.pdf" class="abstract" target="_blank" title="open a pdf of the abstract to this presentation in a new window"></a>
 <a href="/downloads/151009-LSUGA2-slides.pptx" class="slides" title="download the powerpoint slides for this presentation"></a>
 <a href="https://www.youtube.com/watch?v=v3BvpMyxPv8" class="video" target="_blank" title="open a youtube video of this presentation in a new window"></a>
