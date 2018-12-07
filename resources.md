@@ -143,13 +143,6 @@ Here is a list of resources I've found for R. I've gone through some of them and
 
 * *[tidymv: Tidy Model Visualisation](https://github.com/stefanocoretta/tidymv)* is an R package by [Stefano Coretta](https://stefanocoretta.github.io) that lets you visualize GAMMs using tidyverse-friendly code.
 
-<!--
-[//]: # ## Quantitative People
-[//]: # * [Josef Fruehwald](https://jofrhwld.github.io)
-[//]: # * [Daniel Ezra Johnson](http://www.danielezrajohnson.com)
-[//]: # * [Bradley T. Rentz](https://rentzb.github.io/#talks)
-[//]: # * [Margaret E. L. Renwick](http://faculty.franklin.uga.edu/mrenwick/)
--->
 
 <br/>
 ## Praat Resources
