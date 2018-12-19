@@ -133,6 +133,7 @@ William A. Kretzschmar, <strong>Joseph Stanley</strong>, & Katherine Kuiper. “
 ### Poster Presentations
 
 <strong>Joseph A. Stanley</strong> & Margaret E. L. Renwick. "Social factors in Southern US speech: Acoustic analysis of a large-scale legacy corpus." The 93rd Annual Meeting of the Linguistic Society of America. New York City, NY. January 3–6, 2019.
+<a href="/downloads/190103_lsa2019.pdf" class="poster" target="_blank" title="download this poster as a PDF"></a>
 
 <strong>Joseph A. Stanley</strong>. "The differences between and within <span style="font-variant: small-caps">beg</span> and <span style="font-variant: small-caps">bag</span>: Phonological, morphological, and lexical effects in prevelar raising." Poster presentation at the 47th annual meeting of New Ways of Analyzing Variation (NWAV47). New York City, New York. October 18–21, 2018. (with UGA Graduate School travel award)
 <a href="/downloads/181019-nwav47.pdf" class="poster" target="_blank" title="download this poster as a PDF"></a>
