@@ -37,7 +37,10 @@ title: Curriculum Vitae
 
 ### Working Papers and Conference Proceedings
 
-<strong>Joseph A. Stanley</strong> (*submitted*). "Phonological Patterns in <span style="font-variant:small-caps;">beg</span>-Raising." *UGA Working Papers in Linguistics*, 4.
+<strong>Joseph A. Stanley</strong> (*submitted*). "(thr)-Flapping in American English: Social factors and articulatory motivations." *Proceedings of the 5th Annual Linguistics Conference at UGA*.
+
+<strong>Joseph A. Stanley</strong> (*forthcoming*). "Phonological Patterns in <span style="font-variant:small-caps;">beg</span>-Raising." *UGA Working Papers in Linguistics*, 4.
+<a href="http://linguistics.uga.edu/working-papers" class="link" target="_blank" title="link to this paper online"></a>
 
 <strong>Joseph A. Stanley</strong> (2018). "Changes in the Timber Industry as a Catastrophic Event: <span style="font-variant:small-caps;">bag</span>-Raising in Cowlitz County, Washington" *Penn Working Papers in Linguistics, 24(2).*
 <a href="https://repository.upenn.edu/pwpl/vol24/iss2/16/" class="link" target="_blank" title="link to this paper online"></a>
