@@ -23,11 +23,11 @@ So, in no particular order, here is a list of some of the things I liked the mos
 
     Something that you might need to do in ggplot2 is to highlight data. This author explains two ways to do that. I had been doing what they refer to as the "old school" way, which is essentially overlay a second layer using just a subset of the data (which is *exactly* what I did [here](ar-raising)). After reading this, I think I should switch to the new school way, which uses [Hiroaki Yutani's](https://note.mu/yutannihilation) [`gghighlight`](https://yutannihilation.github.io/gghighlight/articles/gghighlight.html) package. I can't wait to try it out.
 
-1. Josef Fruehwald. [Why does Labov have such weird transcriptions?](https://val-systems.blogspot.com/2018/07/why-does-labov-have-such-weird.html)
+1. Josef Fruehwald. ["Why does Labov have such weird transcriptions?"](https://val-systems.blogspot.com/2018/07/why-does-labov-have-such-weird.html)
 
     The title of this post is literally something I've asked myself. If I had really dug around for an answer, I probably could have found some of the early sources that explain it, but this blog post summarizes it all up nicely for you. One of the reasons is that the "transcriptional system is now encoding a phonological analysis." 
 
-1. Timo Grossenbacher. [Categorical spatial interpolation with R](https://timogrossenbacher.ch/2018/03/categorical-spatial-interpolation-with-r/)
+1. Timo Grossenbacher. ["Categorical spatial interpolation with R"](https://timogrossenbacher.ch/2018/03/categorical-spatial-interpolation-with-r/)
 
     I recently got a fair amount of spatial data and I've been meaning to learn how to visualize some of what I got. This post gives a complete tutorial for how to do k-nearest neighbor categorical interpolation using the `kkNN` package. Because this involves some pretty complicated calculations, I also learned I could utilize the multiple cores I have on my computer for super intense stuff, which is always fun. I ended up creating this map, thanks to this tutorial:
 
