@@ -60,6 +60,8 @@ Here is a list of resources I've found for R. I've gone through some of them and
 
 * [*Tidymodels*](https://www.tidyverse.org/articles/2018/08/tidymodels-0-0-1/) is like the Tidyverse suite of packages, but it's meant for better handling of many statistical models. Also see it's [GitHub](https://github.com/tidymodels/tidymodels) page.
 
+* *[Modern R with the Tidyverse](https://b-rodrigues.github.io/modern_R/)* by Bruno Rodriguez is a work in progress, but it's another free eBook that shows R and the Tidyverse.
+
 ### Data Visualization
 
 * *[ggplot2](http://www.springer.com/us/book/9783319242750)* by Hadley Wickham is a comprehensive resource for learning all the ins and outs of ggplot2.
@@ -79,6 +81,8 @@ Here is a list of resources I've found for R. I've gone through some of them and
 * Edward Tufte is a statistician known for his series of four books that focus on best practices in the presentation of data:  [*The Visual Display of Quantitative Information*](https://www.edwardtufte.com/tufte/books_vdqi), [*Envisioning Information*](https://www.edwardtufte.com/tufte/books_ei), [*Visual Explanations*](https://www.edwardtufte.com/tufte/books_visex), and [*Beautiful Evidence*](https://www.edwardtufte.com/tufte/books_be). I haven't read them, but have thumbed through them and they look very cool. As a practical application of them, [this page](http://motioninsocial.com/tufte/) by Lukasz Piwek shows how to implement many of these visualizations in R. You can also use `ggthemes` to get some of this implementation. 
 
 * Joey Cherdarchuk of [Darkhorse Analytics](https://www.darkhorseanalytics.com) has put together some really succinct presentations on how to simplify things you might put in a paper like [maps](https://www.darkhorseanalytics.com/blog/data-looks-better-naked-maps-edition), [charts](https://www.darkhorseanalytics.com/blog/salvaging-the-pie), [tables](https://www.darkhorseanalytics.com/blog/clear-off-the-table), and [reducing the data to ink ratio](https://www.darkhorseanalytics.com/blog/data-looks-better-naked).
+
+* In case you've wanted to make animations in R, be sure to check out Thomas Lin Pedersen's [gganimate](https://gganimate.com) package.
 
 ### Working with Text
 
