@@ -82,4 +82,4 @@ Basically, the whole reason I did this survey was to produce this map. I wanted 
 
 Again, if you took the survey, a *huge* thank you. I've had a lot of fun playing with this data, and it has been interesting to read the your comments on Reddit and in the survey. 
 
-If you're a linguist and want to learn more, feel free to look at the poster I did at [NWAV](/NWAV47) this year and if you'll be at LSA you can see me present Friday morning in the ADS sessions.
+If you're a linguist and want to learn more, feel free to look at the poster I did at [NWAV](/blog/nwav47) this year and if you'll be at LSA you can see me present Friday morning in the ADS sessions.
