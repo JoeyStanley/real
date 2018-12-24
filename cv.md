@@ -341,7 +341,7 @@ Brigham Young University Department of Linguistics and English Language Conferen
 
 Instructor of Record. LING 3060: Phonetics and Phonology. Fall 2017, Spring 2019.
 
-Teacher’s Assistant for Peggy Renwick. LING 4400/6400: Quantitative Methods in Linguistics. Spring 2017.
+Teaching Assistant for Peggy Renwick. LING 4400/6400: Quantitative Methods in Linguistics. Spring 2017.
 
 ### At Brigham Young University
 
@@ -355,7 +355,7 @@ Teaching Assistant for Dr. Monte Shelley. LINGC 200: Basic Humanities Computing 
 
 ## Research Assistantships
 
-Complex Systems and the Humanities Research Assistant in support of the [Linguistic Atlas Project](http://www.lap.uga.edu) and the Willson Center Digital Humanities Lab ([DigiLab](http://digi.uga.edu/digilab/)) under the direction of [Dr. William Kretzschmar]([William A. Kretzschmar, Jr.](https://www.english.uga.edu/directory/495/detail)). 2016--2017.
+Complex Systems and the Humanities Research Assistant in support of the [Linguistic Atlas Project](http://www.lap.uga.edu) and the Willson Center Digital Humanities Lab ([DigiLab](http://digi.uga.edu/digilab/)) under the direction of [Dr. William Kretzschmar]([William A. Kretzschmar, Jr.](https://www.english.uga.edu/directory/495/detail)) and [Emily McGinn](https://emilymcginn.com). 2016--2019.
 
 Graduate Research Assistant for Dr. [Chad Howe](https://faculty.franklin.uga.edu/chowe/), Associate Professor in the Department of Romance Languages at the University of Georgia. 2016.
 
@@ -414,13 +414,13 @@ Thesis Reader for Shawn C. Foster (UGA Center for Undergraduate Research Opportu
 
 UGA Linguistics Graduate Student Representative. 2018--2019.
 
-Member of the conference committee for the [5th Linguistics Conference at UGA (LCUGA5)](http://www.linguistics.uga.edu/lcuga-5). Member of the social media subcommittee. 2018.
+Member of the conference committee for the [5th Linguistics Conference at UGA (LCUGA5)](http://www.linguistics.uga.edu/lcuga-5). Abstract reviewer and member of the social media subcommittee. 2018.
 
-Co-Editor of the [*UGA Working Papers in Linguistics*](http://www.linguistics.uga.edu/working-papers-vol-4-2018), Volume 4. 2018.
+Co-Editor (with Conni Covington) of the [*UGA Working Papers in Linguistics*](http://www.linguistics.uga.edu/working-papers-vol-4-2018), Volume 4. 2018.
 
-Web developer for the Linguistics Society at UGA. 2018.
+Web developer for the Linguistics Society at UGA. 2018--.
 
-Member of the conference committee for the [4th Linguistics Conference at UGA (LCUGA4)](http://www.linguistics.uga.edu/lcuga-4). Member of the social media subcommittee. 2017.
+Member of the conference committee for the [4th Linguistics Conference at UGA (LCUGA4)](http://www.linguistics.uga.edu/lcuga-4). Abstract reviewer and member of the social media subcommittee. 2017.
 
 Organizer of the UGA Sociolinguistics reading group. 2017.
 
