@@ -5,7 +5,7 @@ date:   2018-12-24 08:59:00 -0400
 tags: [Side Projects]
 ---
 
-In April and May this year, posted a survey to a bunch of different subreddits that asked people how they pronounced certain words. If you took the survey, THANK YOU! The number of responses I got was overwhelming and took *much* longer to analyze than I could have ever anticiapted. So, after many months, I'm finally happy to post the results for you. Hopefully you'll find them intersting.
+In April and May this year, I posted a survey to a bunch of different subreddits that asked people how they pronounced certain words. If you took the survey, THANK YOU! The number of responses I got was overwhelming and took *much* longer to analyze than I could have ever anticiapted. So, after many months, I'm finally ready to post the results for you. Hopefully you'll find them intersting.
 
 TL;DR I asked a bunch of people how they pronounced words that rhyme with *bag* or *beg*. Basically, people from the northern US and Canadians tend to pronounce them with the same vowel as the word *bake*. Also, if you do though, it's less likely in longer words. 
 
