@@ -92,6 +92,8 @@ Here is a list of resources I've found for R. I've gone through some of them and
 
 * *[Visualizing text data with ggplot2](https://github.com/ColinFay/conf/blob/master/2017-11-budapest/fay_colin_text_data_ggplot2.pdf?utm_content=buffer56bdc&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)* by Colin Fay. 
 
+* If you use the CMU Pronouncing Dictionary, you should look at the new *[phon](https://coolbutuseless.github.io/2018/12/03/phon-a-package-for-rhymes-etc/)* package. It makes the whole thing searchable and easy to find rhymes. Personally, this'll make it a lot easier to find potential words for a word list.  
+
 
 ### RMarkdown and Bookdown
 

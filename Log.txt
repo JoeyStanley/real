@@ -142,24 +142,29 @@ Monday, November 6, 2017
 
 
 # Important: This is a list of all the redirects currently in the site.
-* joeystanley.com/ads2017        -> pages/ads2017.md
+* joeystanley.com/ads2017        -> blog/ads2017.md
+* joeystanley.com/ads2018        -> blog/ads2018.md
+* joeystanley.com/ads2019        -> blog/ads-and-lsa-2019.md
 * joeystanley.com/bones          -> pages/bones_workshop.md
-* joeystanley.com/brand-yourself -> pages/2018-09-28-brand-yourself-2.md
-* joeystanley.com/colloquium     -> _posts/2017-04-08-mount-st-helens-and-vowels.md
+* joeystanley.com/brand-yourself -> blog/brand-yourself-2.md
+* joeystanley.com/colloquium     -> blog/mount-st-helens-and-vowels.md
 * joeystanley.com/divar1         -> pages/divar1.md
-* joeystanley.com/excel          -> _posts/2017-01-27-excel-workshop.md
+* joeystanley.com/excel          -> blog/2017-01-27-excel-workshop.md
 * joeystanley.com/gsv            -> http://lap3.libs.uga.edu/u/jstanley/vowelcharts/
-* joeystanley.com/lcuga4         -> _posts/lcuga4.md
-* joeystanley.com/lcuga5         -> _posts/lcuga5.md
-* joeystanley.com/nwav46         -> _posts/nwav46.md
-* joeystanley.com/nwav47         -> _posts/nwav47.md
+* joeystanley.com/lcuga4         -> blog/lcuga4.md
+* joeystanley.com/lcuga5         -> blog/lcuga5.md
+* joeystanley.com/lsa2019        -> blog/ads-and-lsa-2019.md
+* joeystanley.com/nwav46         -> blog/nwav46.md
+* joeystanley.com/nwav47         -> blog/nwav47.md
 * joeystanley.com/r              -> pages/r-workshops.md (I'm trying to phase this one out)
 * joeystanley.com/r2018          -> pages/r-workshops.md
-* joeystanley.com/secol2017      -> _posts/2017-03-09-secol2017.md
+* joeystanley.com/secol2017      -> blog/secol2017.md
 * joeystanley.com/tinytalks2018  -> pages/tinytalks2018.md -> /downloads/181403_tinytalks2018.pdf
 
 
 Blog posts:
+* Everything on my Resources page  
+    * The phon package
 * Mormon Forms of Address: for a non-specialist audience.
 * BEG maps--Somehow do this without stepping on the toes of future publications. 
 * Vowels part 3: Highlighting specific points in vowel plots (like my [gar] post), overlaying means, etc.
