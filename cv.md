@@ -106,8 +106,7 @@ William A. Kretzschmar, <strong>Joseph Stanley</strong>, & Katherine Kuiper. “
 <a href="/downloads/170310-SECOL84a-slides.pdf" class="slides" title="download the powerpoint slides for this presentation"></a>
 
 <strong>Joseph A. Stanley</strong>. “V[ɛ]ry v[e]ried vowel mergers in the Pacific Northwest.” Diversity and Variation in Language ([DiVar 1](http://linguistics.emory.edu/home/conferences/divar1/index.html)). Atlanta, GA. February 10–11, 2017. (with LCUGA travel award)
-<a href="/downloads/160813-ADS2017.pdf" class="abstract" target="_blank" title="open a pdf of the abstract to this presentation in a new window"></a>
-<a href="/downloads/170211-DiVar1-slides.pptx" class="slides" title="download the powerpoint slides for this presentation"></a>
+<a href="/downloads/170211-DiVar1-slides.pdf" class="slides" title="download the powerpoint slides for this presentation"></a>
 
 <strong>Joseph A. Stanley</strong>. “The perception and production of two vowel mergers in Cowlitz County, Washington.” The American Dialect Society ([ADS](http://www.americandialect.org)) Annual Meeting. Austin, TX. January 5–8, 2017. (with UGA Linguistics Program travel award and UGA Graduate School travel award)
 <a href="/downloads/160813-ADS2017.pdf" class="abstract" target="_blank" title="open a pdf of the abstract to this presentation in a new window"></a>
@@ -165,14 +164,14 @@ Shawn Foster, <strong>Joseph A. Stanley</strong>, & Margaret E. L. Renwick. "Vow
 
 "Brand Yourself: Creating a Digital, Professional Presence." Invited workshop at the DigiLab, Main Library, University of Georgia, Athens, GA. September 27, 2018.
 <a href="/downloads/180928-brand_yourself_flyer.pdf" class="flyer" title="download the flyer for this presentation"></a> 
-<a href="/downloads/180928-brand-yourself.pptx" class="slides" title="download the slides for this presentation"></a> 
+<a href="/downloads/180928-brand_yourself.pdf" class="slides" title="download the slides for this presentation"></a> 
 
 "Data Visualization and Basic Statistical Modeling in R." Invited workshop for an NSF-funded "Research Experience for Undergraduates" site program, helping bioanthropology students analyze osteological data from skeletons at the 7–5th c. BCE Greek colony of Himera. June 21 and 25, 2018. <a href="/pages/bones_workshop.html" class="link" title="view the materials for this workshop here"></a> 
 
 “Basics, Review, Summary, Help.” Guest lecturer in LING 4400/6400: Quantitative Methods in Linguistics. Athens, GA. April 20.
 
 “Brand Yourself: A professionalization workshop for grad students.” Guest lecturer in ANTH 8755: Topics in (Anthropology) Research. Athens, GA. April 13, 2017.
-<a href="/downloads/170413-brand-yourself.pptx" class="slides" title="download the powerpoint slides for this presentation"></a> 
+<a href="/downloads/170413-brand_yourself.pdf" class="slides" title="download the powerpoint slides for this presentation"></a> 
 
 "Build a better project: Starting a DH project from primary sources." Presented at the First [DigiLab](http://digi.uga.edu/digilab/) Colloquium. Athens, GA. October 6, 2016. 
 <a href="https://digi.uga.edu/news/build-a-better-project-digi-colloquium-review/" class="link" target="_blank" title="link to digi.uga.edu"></a>
@@ -252,8 +251,7 @@ Shawn Foster, <strong>Joseph A. Stanley</strong>, & Margaret E. L. Renwick. "Vow
 "New methods in outlier detection and formant measurement using a modified Mahalanobis distance and 'mistplots.'" University of Georgia Linguistics Colloquium. Athens, GA. February 9, 2018.
 
 "Volcanic Vocalic Changes". University of Georgia Linguistics Colloquium. Athens, GA. April 7, 2017.
-<a href="/downloads/170407-Colloquium.pptx" class="slides" title="download the powerpoint slides for this presentation"></a> 
-<a href="/downloads/170407-Colloquium.pdf" class="paper" title="download a pdf of the powerpoint slides for this presentation"></a> 
+<a href="/downloads/170407-Colloquium.pdf" class="slides" title="download a pdf of the powerpoint slides for this presentation"></a> 
 
 “Linguistic Identity in Longview, Washington.” Three Minute Thesis (3MT™) Competition at the University of Georgia. March 23, 2017.
 

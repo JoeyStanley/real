@@ -10,7 +10,7 @@ excerpt: Today Emily McGinn of the Digital Humanities Lab at UGA and I did a pro
 Edit: Go [here](/blog/brand-yourself-2) to see a more recent version of this talk.
 <br/>
 
-<div class="biglink"><a href="/downloads/170413-brand-yourself.pptx" title="download slideshow" class="nodot">Download the <br />slides here!</a></div>
+<div class="biglink"><a href="/downloads/170413-brand_yourself.pdf" title="download slideshow" class="nodot">Download the <br />slides here!</a></div>
 
 Today [Emily McGinn](http://emilymcginn.com) of the Digital Humanities Lab at UGA and I did a workshop called "Brand Yourself: A professionalization workshop for grad students" [Edit: and again by invitation April 13, 2017]. We gave a presentation on different ways grad students can boost their online presence through building a personal webpage, utilizing social media, and finding your field's conversation. We then let the attendees a chance to work on their own to create a new online profile, using what they learned.
 
