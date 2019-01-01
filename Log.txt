@@ -151,6 +151,7 @@ Monday, November 6, 2017
 * joeystanley.com/divar1         -> pages/divar1.md
 * joeystanley.com/excel          -> blog/2017-01-27-excel-workshop.md
 * joeystanley.com/gsv            -> http://lap3.libs.uga.edu/u/jstanley/vowelcharts/
+* joeystanley.com/hymns          -> /hymns/main.md
 * joeystanley.com/lcuga4         -> blog/lcuga4.md
 * joeystanley.com/lcuga5         -> blog/lcuga5.md
 * joeystanley.com/lsa2019        -> blog/ads-and-lsa-2019.md
