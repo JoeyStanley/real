@@ -123,6 +123,8 @@ Here is a list of resources I've found for R. I've gone through some of them and
 
 ### General Statistics Knowledge
 
+* The book [Modern Dive: An Introduction to Statistical and Data Sciences via R](https://moderndive.com) by Chester Ismay and Albert Y. Kim is a free eBook available that teachest the basics of R and statistics. See [Andrew Heiss's post](https://www.andrewheiss.com/blog/2018/12/05/test-any-hypothesis/) about this book for more information.
+
 * The American Statistical Association, which is essentially the statistics equivalent in scope and prestige as the the Linguistic Society of America, put out a [statement on *p*-values](https://amstat.tandfonline.com/doi/full/10.1080/00031305.2016.1154108#.WzA-Wi2ZPOR). It is brief and written in accessible language and in my opinoin should be required reading if you ever use or interpret *p*-values in your research. 
 
 * *[Same Stats, Different Graphs: Generating Datasets with Varied Appearance and Identical Statistics through Simulated Annealing](https://www.autodeskresearch.com/publications/samestats)* by Justin Matejka and George Fitzmaurice. This went viral in some circles and shows that you can get the exact same summary statistics with wildly different distributions. Very cool. 
@@ -263,3 +265,5 @@ Just random stuff that doesn't fit elsewhere.
 * [The EMU-webApp](https://ips-lmu.github.io/EMU-webApp/) "is a fully fledged browser-based labeling and correction tool that offers a multitude of labeling and visualization features." I haven't given this enough time to learn to use it properly, but it seems very helpful.
 
 * [Jonhannes Haushofer's CV of Failures](https://www.princeton.edu/~joha/Johannes_Haushofer_CV_of_Failures.pdf). Other people have written this more elegantly than I could, but sometimes it's nice to see that other academics fail too. You're not going to get into all the conferences you apply for, your papers are sometimes going to be rejected, and you're definitely not getting all the funding you apply for. I find it therapeutic to put together a CV of failures like his researcher did and to keep it updated and formatted just as would a regular CV. Don't let impostor syndrome get in the way by thinking others haven't failed too.
+
+* Kieran Healey's *[The Plain Person’s Guide to Plain Text Social Science](http://plain-text.co)* is an entire book on an aspect of productivity that I've only thought about occasionally: what kind of software should you do your work? Before you get too entrenched in your workflow, it's good to consider what your options are. 
