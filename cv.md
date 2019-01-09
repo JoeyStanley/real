@@ -73,7 +73,7 @@ Olsen, Rachel M., Michael L. Olsen, <strong>Joseph A. Stanley</strong>, Margaret
 ### Oral Presentations
 
 <strong>Joseph A. Stanley</strong>. “Are <span style="font-variant: small-caps">beg</span> and <span style="font-variant: small-caps">bag</span>-raising distinct? Regional patterns in prevelar raising in North American English.” American Dialect Society Annual Meeting. New York City, NY. January 3–6, 2019.
-<a href="/downloads/190106-ads2019_prevelar.pdf" class="slides" title="download the powerpoint slides for this presentation"></a> 
+<a href="/downloads/190104-ads2019_prevelar.pdf" class="slides" title="download the powerpoint slides for this presentation"></a> 
 
 Rachel M. Olsen, <strong>Joseph A. Stanley</strong>, Michael Olsen, Lisa Lipani, & Margaret E. L. Renwick. "Reconciling perception with production in Southern speech." American Dialect Society Annual Meeting. New York City, NY. January 3–6, 2019.
 <a href="/downloads/190106-ads2019_dass.pdf" class="slides" title="download the powerpoint slides for this presentation"></a> 
