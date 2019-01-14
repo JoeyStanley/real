@@ -136,3 +136,7 @@ ggsave("themes_joey.pdf", device=cairo_pdf, width = 6, height = 6)
 # Conclusion
 
 And that's it! Give it an hour or so and I think you can start to make a custom theme. And let me know how it turns out. I'd love to see what you've done.
+
+<center>
+<script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Buy me a Soda', '#376092', 'E1E1OQ2R');kofiwidget2.draw();</script> 
+</center>
