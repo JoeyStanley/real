@@ -636,5 +636,5 @@ The way you present your data is all up to you. I often prefer a set of settings
 If you're interested in plotting trajectories, feel free to look at [Part 2]({% post_url 2018-06-06-making-vowel-plots-in-r-part-2 %}) of this tutorial. In the near future, I'll make another post on some slightly more advanced topics in vowel plots, like how to highlight specific vowels or specific tokens (like I do in [this blog post](blog/ar-raising)), or how to make 3D scatterplots. Should be fun.
 
 <center>
-<script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Buy me a Soda', '#376092', 'E1E1OQ2R');kofiwidget2.draw();</script> 
+<script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Buy me a Coffee', '#376092', 'E1E1OQ2R');kofiwidget2.draw();</script> 
 </center>

@@ -702,5 +702,5 @@ As I said in the introduction, this tutorial has shown you *what* to do, but not
 More importantly, what I can't teach is the thought process of how the code should be set up. How did I know to do it as a loop? How did I know to use those functions? My answer is trial and error. When faced with a task ("I want to extract formant measurements automatically in Praat. How can I do that?"), I started googling. I found other Praat scripts—lots of others—that had pieces of what I wanted, and pretty much all of mine are Frankensteined together from whatever I could find online. I had to see what they did and how they did it in order to learn. You can too! 
 
 <center>
-<script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Buy me a Soda', '#376092', 'E1E1OQ2R');kofiwidget2.draw();</script> 
+<script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Buy me a Coffee', '#376092', 'E1E1OQ2R');kofiwidget2.draw();</script> 
 </center>

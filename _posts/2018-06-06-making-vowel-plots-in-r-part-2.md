@@ -758,5 +758,5 @@ By the way, in the past few months, I've seen two other similar tutorials for ho
 In the next tutorial, we'll look at how to augment the plots covered in Part 1 and Part 2 by adding labels, and overlaying means. But also how to essentially plot many different datasets all in one, creating complicated but very cool plots. 
 
 <center>
-<script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Buy me a Soda', '#376092', 'E1E1OQ2R');kofiwidget2.draw();</script> 
+<script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Buy me a Coffee', '#376092', 'E1E1OQ2R');kofiwidget2.draw();</script> 
 </center>
