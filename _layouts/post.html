@@ -10,6 +10,10 @@ layout: skeleton
       {{ page.date | date: "%B %-d, %Y" }}</time>
     </header>
     {{content}}
+    <!--This is the code for the "Buy me a Coffee" thing.-->
+    <center>
+      <script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Buy me a Coffee', '#376092', 'E1E1OQ2R');kofiwidget2.draw();</script> 
+    </center>
     <footer>
       <p>Posted in
         {% for tag in page.tags %}

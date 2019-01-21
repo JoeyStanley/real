@@ -164,8 +164,12 @@ Monday, November 6, 2017
 
 
 Blog posts:
+* Tutorials
+    * How to calculate the various dynmaic measures.
+    * How to do various vowel normalization techniques.
+    * How to calculate vowel space. (Bradlow et al 1996; Jacewicz et al 2007; phonR package).
 * Everything on my Resources page  
-    * The phon package
+    * Linguistics-related packages: phon, vowels, phonTools, phonR
 * Mormon Forms of Address: for a non-specialist audience.
 * BEG maps--Somehow do this without stepping on the toes of future publications. 
 * Vowels part 3: Highlighting specific points in vowel plots (like my [gar] post), overlaying means, etc.

@@ -700,7 +700,3 @@ So for now, this is the finished product. There's still a lot of things that cou
 As I said in the introduction, this tutorial has shown you *what* to do, but not necessarily *how* or *why*. To learn more about how this is done—and especially to learn how to modify it to suit your own needs better—you'll have to get your hands dirty and play around and learn on your own. Google and Praat's built-in documentation will have everything you need. 
 
 More importantly, what I can't teach is the thought process of how the code should be set up. How did I know to do it as a loop? How did I know to use those functions? My answer is trial and error. When faced with a task ("I want to extract formant measurements automatically in Praat. How can I do that?"), I started googling. I found other Praat scripts—lots of others—that had pieces of what I wanted, and pretty much all of mine are Frankensteined together from whatever I could find online. I had to see what they did and how they did it in order to learn. You can too! 
-
-<center>
-<script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Buy me a Coffee', '#376092', 'E1E1OQ2R');kofiwidget2.draw();</script> 
-</center>
