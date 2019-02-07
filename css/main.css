@@ -10,7 +10,8 @@ Red:    #924630
 Yellow: #928E33
 */
 
-/* To use these fonts I need to import them like this. */
+/* To use these fonts I need to import them like this. 
+Never mind these are not working and always give error mesages. (Feb 6, 2019)
 @font-face {
 	font-family: "Iowan Old Style";
 	src: url("Iowan Old Style.ttc");
@@ -19,7 +20,7 @@ Yellow: #928E33
     font-family: "Alegreya";
     src: url('Alegreya.ttf');
 }
-
+*/
 
 html {
 	background: whitesmoke;
@@ -643,7 +644,7 @@ img.rounded {
 	width: 80%;
 }
 
-.sidenote, .sidenote-left {
+.sidenote, .sidenote-left, .sidenote-wide {
 
 	/* A blue vertical line on left side. */
 	border-left: 5px solid #376092;
@@ -653,17 +654,41 @@ img.rounded {
 
 	padding: 0.25em 0.5em;
 	background: #D3D3D3;
-	width: 12em;
-	font-size: 80%;
+	width: 14em;
+	font-size: 70%;
+
+	hyphens: auto;
 
 	/* This works because the #main selector is "relative." */
 	position: absolute;
 	right: 0;
+
+	/* The line height looked too spread out so this consenses it */
+	line-height: 1.35;
 }
 
 .sidenote-left {
 	left: -15em;	
+	width: 13em;
 }
+
+/* Sometimes, I just can't get the line breaks to work nice, or I have code in the sidenote, so here's a wider version.*/
+.sidenote-wide {
+	width:18em;
+	right:-3em;
+}
+
+
+.message {
+	float: center;
+	width: 80%;
+	background: #3760926c;
+	border: 0px solid 376092;
+	border-radius: 7pt;
+	padding: 0.25em 0.5em;
+	margin: auto;
+}
+
 
 /* ########################################## */
 /*                 Footer Styles              */
