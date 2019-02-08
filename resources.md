@@ -13,7 +13,7 @@ On this page you'll find links to all sorts of stuff that I have found useful, i
 
 ### [R Workshops](/pages/r-workshops.html)
 
-I'm currently giving a series of workshops on how to use R which will include a variety of topics. I have included PDFs and additional information on each installment of this series.
+This is a series of workshops on how to use R which includes a variety of topics. I have included PDFs and additional information on each installment of this series.
 
 ### [Formant extraction tutorial](/blog/a-tutorial-on-extracting-formants-in-praat)
 
@@ -22,6 +22,10 @@ This tutorial walks you through writing a praat script that extracts formant mea
 ### Vowel plots in R tutorials ([Part 1]({% post_url 2018-03-18-making-vowel-plots-in-r-part-1 %}) and [Part 2]({% post_url 2018-06-06-making-vowel-plots-in-r-part-2 %}))
 
 This is a multi-part tutorial on how to make sort of the typical vowel plots in R. Part 1 shows plotting single-point measurements as scatter plots and serves as a mild introduction to `ggplot2`. Part 2 shows how to plot trajectories, both in the F1-F2 space and in a Praat-like time-Hz space, and is a bit of an introduction to `tidyverse` as well.
+
+### Measuring vowel overlap in R ([Part 1](a-tutorial-in-calculating-vowel-overlap)) and [Part 2](vowel-overlap-in-r-advanced-topics))
+
+This is a two-part tutorial on calculating Pillai scores and Bhattacharyya's Affinity in R. The first covers what I consider the bare necessities, culminating custom R functions for each. The second is a bit more in-depth as it looks at ways to make the functions more robust, but it also shows some simple visualizations you can make with the output.
 
 ### [Make yourself googleable](downloads/161111-DigiLab-slides.pptx)
 
