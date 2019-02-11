@@ -23,7 +23,7 @@ This tutorial walks you through writing a praat script that extracts formant mea
 
 This is a multi-part tutorial on how to make sort of the typical vowel plots in R. Part 1 shows plotting single-point measurements as scatter plots and serves as a mild introduction to `ggplot2`. Part 2 shows how to plot trajectories, both in the F1-F2 space and in a Praat-like time-Hz space, and is a bit of an introduction to `tidyverse` as well.
 
-### Measuring vowel overlap in R ([Part 1](/blog/a-tutorial-in-calculating-vowel-overlap)) and [Part 2](/blog/vowel-overlap-in-r-advanced-topics))
+### Measuring vowel overlap in R ([Part 1](/blog/a-tutorial-in-calculating-vowel-overlap) and [Part 2](/blog/vowel-overlap-in-r-advanced-topics))
 
 This is a two-part tutorial on calculating Pillai scores and Bhattacharyya's Affinity in R. The first covers what I consider the bare necessities, culminating custom R functions for each. The second is a bit more in-depth as it looks at ways to make the functions more robust, but it also shows some simple visualizations you can make with the output.
 
