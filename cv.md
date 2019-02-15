@@ -5,7 +5,7 @@ title: Curriculum Vitae
 
 # Curriculum Vitae
 
-<p id="updated">Updated October 15, 2018. Download PDF <a href="/downloads/181015-CV.pdf" target="_blank" title="open a pdf of my CV in a new window">here</a>.</p>
+<p id="updated">Updated February 15, 2019. Download PDF <a href="/downloads/190215-CV.pdf" target="_blank" title="open a pdf of my CV in a new window">here</a>.</p>
 
 <br/>
 
@@ -29,18 +29,24 @@ title: Curriculum Vitae
 
 ## Publications
 
-### Journal Articles
+### Book Chapters
+
+<strong>Joseph A. Stanley</strong>. (*in progress*) "Mixing ethnoreligious and local identity: Mormon speech in southwest Washington." In Valerie Fridland, Alicia Wassink, Lauren Hall-Lew, & Tyler Kendall (eds.) *Speech in the Western States Volume III: Understudied dialects.*
+
+### Refereed Articles
+
+Margaret E. L. Renwick & <strong>Joseph A. Stanley</strong>. "Modeling dynamic trajecto-ries of tense vs. lax vowels in the American South." Under revision with the *Journal of the Acoustical Society of America*.
+
+<strong>Joseph A. Stanley</strong> (*forthcoming*). "Phonological Patterns in <span style="font-variant:small-caps;">beg</span>-Raising." *UGA Working Papers in Linguistics*, 4.
+<a href="http://linguistics.uga.edu/working-papers" class="link" target="_blank" title="link to this paper online"></a>
 
 <a href="http://linguistics.byu.edu/directory/jbn34/" title="Janis Nuckolls">Nuckolls, Janis</a>, <strong>Joseph Stanley</strong>, Elizabeth Nielson, & Roseanna Hopper (2016). "The Systematic Stretching and Contracting of Ideophonic Phonology in Pastaza Quichua". *International Journal of American Linguistics*, 82(1). 95--116. 
 <a href="http://dx.doi.org/10.1086/684425" class="link" target="_blank" title="link to IJAL online"></a>
 <a href="/downloads/160101-IJAL82.pdf" class="paper" target="_blank" title="open a pdf of this paper in a new window"></a>
 
-### Working Papers and Conference Proceedings
+### Other Publications
 
 <strong>Joseph A. Stanley</strong> (*submitted*). "(thr)-Flapping in American English: Social factors and articulatory motivations." *Proceedings of the 5th Annual Linguistics Conference at UGA*.
-
-<strong>Joseph A. Stanley</strong> (*forthcoming*). "Phonological Patterns in <span style="font-variant:small-caps;">beg</span>-Raising." *UGA Working Papers in Linguistics*, 4.
-<a href="http://linguistics.uga.edu/working-papers" class="link" target="_blank" title="link to this paper online"></a>
 
 <strong>Joseph A. Stanley</strong> (2018). "Changes in the Timber Industry as a Catastrophic Event: <span style="font-variant:small-caps;">bag</span>-Raising in Cowlitz County, Washington" *Penn Working Papers in Linguistics, 24(2).*
 <a href="https://repository.upenn.edu/pwpl/vol24/iss2/16/" class="link" target="_blank" title="link to this paper online"></a>
@@ -244,6 +250,8 @@ Shawn Foster, <strong>Joseph A. Stanley</strong>, & Margaret E. L. Renwick. "Vow
 
 
 ## Other Presentations
+
+"Linguistics Papers Collection in Athenaeum" with Mariann Burright and Mary Willoughby. Libraries Spring Forum. Athens, GA. February 26, 2019.
 
 "/ɛɡ/-raising is straightforward? I <font style="font-variant: small-caps">beg</font> to differ!" The Linguistic Society of the University of Georgia (LSUGA) Tiny Talks. Athens, GA. April 13, 2018.
 <a href="/downloads/180413-TinyTalks.pdf" class="poster" title="download a pdf of the poster"></a> 
