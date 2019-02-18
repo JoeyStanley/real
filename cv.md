@@ -29,13 +29,7 @@ title: Curriculum Vitae
 
 ## Publications
 
-### Book Chapters
-
-<strong>Joseph A. Stanley</strong>. (*in progress*) "Mixing ethnoreligious and local identity: Mormon speech in southwest Washington." In Valerie Fridland, Alicia Wassink, Lauren Hall-Lew, & Tyler Kendall (eds.) *Speech in the Western States Volume III: Understudied dialects.*
-
 ### Refereed Articles
-
-Margaret E. L. Renwick & <strong>Joseph A. Stanley</strong>. "Modeling dynamic trajectories of tense vs. lax vowels in the American South." Under revision with the *Journal of the Acoustical Society of America*.
 
 <strong>Joseph A. Stanley</strong> (*forthcoming*). "Phonological Patterns in <span style="font-variant:small-caps;">beg</span>-Raising." *UGA Working Papers in Linguistics*, 4.
 <a href="http://linguistics.uga.edu/working-papers" class="link" target="_blank" title="link to this paper online"></a>
