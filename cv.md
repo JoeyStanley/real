@@ -72,7 +72,7 @@ Olsen, Rachel M., Michael L. Olsen, <strong>Joseph A. Stanley</strong>, Margaret
 
 ### Oral Presentations
 
-William A. Kretzschmar, Jr. & <strong>Joseph A. Stanley</strong>. "Visualization of Big Data Phonetics." [Digitial Humanities Confernce 2019](https://dh2019.adho.org). Utrecht, Netherlands. July 9–12, 2019. 
+William A. Kretzschmar, Jr. & <strong>Joseph A. Stanley</strong>. "Visualization of Big Data Phonetics." [Digitial Humanities Confernce 2019](https://dh2019.adho.org). Utrecht, the Netherlands. July 9–12, 2019. 
 
 <strong>Joseph A. Stanley</strong>. "Are <span style="font-variant: small-caps">beg</span> and <span style="font-variant: small-caps">bag</span>-raising distinct? Regional patterns in prevelar raising in North American English." American Dialect Society Annual Meeting. New York City, NY. January 3–6, 2019.
 <a href="/downloads/190104-ads2019_prevelar.pdf" class="slides" title="download the powerpoint slides for this presentation"></a> 
