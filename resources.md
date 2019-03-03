@@ -111,6 +111,8 @@ Here is a list of resources I've found for R. I've gone through some of them and
 
 ### GIS and Spatial Stuff
 
+* *[Maps and Data Visualisations with R](http://spatial.ly/r/)* by [James Cheshire](http://spatial.ly/about/) is a treasure trove of tutorials on doing a whole bunch of maps in R.
+
 * *[An Introduction to Spatial Analysis in R](http://www.seascapemodels.org/rstats/rspatial/2015/06/22/R_Spatial_course.html)* by [Chris Brown](http://www.seascapemodels.org).
 
 * *[Geocomputation with R](https://geocompr.robinlovelace.net)* by Robin Lovelace, Jakub Nowosad, and Jannes Muenchow.
