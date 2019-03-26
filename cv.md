@@ -5,7 +5,7 @@ title: Curriculum Vitae
 
 # Curriculum Vitae
 
-<p id="updated">Updated February 15, 2019. Download PDF <a href="/downloads/190215-CV.pdf" target="_blank" title="open a pdf of my CV in a new window">here</a>.</p>
+<p id="updated">Updated March 25, 2019. Download PDF <a href="/downloads/190215-CV.pdf" target="_blank" title="open a pdf of my CV in a new window">here</a>.</p>
 
 <br/>
 
@@ -31,8 +31,10 @@ title: Curriculum Vitae
 
 ### Refereed Articles
 
-<strong>Joseph A. Stanley</strong> (*forthcoming*). "Phonological Patterns in <span style="font-variant:small-caps;">beg</span>-Raising." *UGA Working Papers in Linguistics*, 4.
-<a href="http://linguistics.uga.edu/working-papers" class="link" target="_blank" title="link to this paper online"></a>
+<strong>Joseph A. Stanley</strong> (2019). "Phonological Patterns in <span style="font-variant:small-caps;">beg</span>-Raising." *UGA Working Papers in Linguistics*, 4, 69--91.
+<a href="https://ling.franklin.uga.edu/wp2019-Stanley" class="link" target="_blank" title="link to this paper online"></a>
+<a href="https://athenaeum.libs.uga.edu/bitstream/handle/10724/38626/WP2019_Stanley.pdf?sequence=2&isAllowed=y" class="paper" target="_blank" title="open a pdf of this paper in a new window"></a>
+
 
 <a href="http://linguistics.byu.edu/directory/jbn34/" title="Janis Nuckolls">Nuckolls, Janis</a>, <strong>Joseph Stanley</strong>, Elizabeth Nielson, & Roseanna Hopper (2016). "The Systematic Stretching and Contracting of Ideophonic Phonology in Pastaza Quichua". *International Journal of American Linguistics*, 82(1). 95--116. 
 <a href="http://dx.doi.org/10.1086/684425" class="link" target="_blank" title="link to IJAL online"></a>
