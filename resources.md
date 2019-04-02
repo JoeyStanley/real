@@ -151,7 +151,15 @@ Here is a list of resources I've found for R. I've gone through some of them and
 
 ### GAMMs
 
+My dissertation makes heavy use of generalized additive mixed-effects models (GAMMs). Here are some resources that I used to help learn about these.
+
 * *[Generalised Additive Mixed Models for Dynamic Analysis in Linguistics: A Practical Introduction](https://arxiv.org/pdf/1703.05339.pdf)* by Márton Sóskuthy.
+
+* *[How to analyze linguistic change using mixed models, Growth Curve Analysis and Generalized Additive Modeling](https://academic.oup.com/jole/article/1/1/7/2281883)* by [Bodo Winter](http://www.bodowinter.com) and [Martijn Wieling](http://www.martijnwieling.nl) is a tutorial on using GAMs---with one *M*---and Growth Curve Analysis.
+
+* *[Analyzing dynamic phonetic data using generalized additive mixed modeling: A tutorial focusing on articulatory differences between L1 and L2 speakers of English](https://www.sciencedirect.com/science/article/pii/S0095447017301377?via%3Dihub)* is another tutorial by [Martijn Wieling](http://www.martijnwieling.nl) in the Journal of Phonetics.
+
+* In fact, [Martijn Wieling](http://www.martijnwieling.nl) has the slides for a graduate course in statistical methods, including GAMMs, avilable on his [website](http://www.martijnwieling.nl/statistics.php). 
 
 * *[Studying Pronunciation Changes with gamms](http://jofrhwld.github.io/papers/edinbr_gamm/)* by Josef Fruehwald.
 
