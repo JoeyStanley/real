@@ -12,16 +12,15 @@ title: Curriculum Vitae
 
 ## Education
 
-**Ph.D. Linguistics**, [University of Georgia](http://www.linguistics.uga.edu/), 2018 (expected) 
+**Ph.D. Linguistics**, [University of Georgia](http://www.linguistics.uga.edu/), 2019 (expected) 
 
-<!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dissertation: *Linguistic Identity and the Founder Effect in Cowlitz County, Washington* -->
+<p style = "margin-left:3em;">Dissertation: <i>Vowel Dynamics of the Elsewhere Shift: A Sociophonetic Analysis of English in Cowlitz County, Washington</i></p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Committee: [L. Chad Howe](https://faculty.franklin.uga.edu/chowe/) (chair), [Margaret E. L. Renwick](http://faculty.franklin.uga.edu/mrenwick/), [William A. Kretzschmar, Jr.](https://www.english.uga.edu/directory/495/detail)
-
+<p style = "margin-left:3em;">Committee: <a href="https://faculty.franklin.uga.edu/chowe/">L. Chad Howe</a> (chair), <a href="http://faculty.franklin.uga.edu/mrenwick/">Margaret E. L. Renwick</a>, <a href="https://www.english.uga.edu/directory/495/detail">William A. Kretzschmar, Jr.</a></p>
 
 **B.A. Linguistics**, [Brigham Young University](http://linguistics.byu.edu/), 2013
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Minor: Linguistics Computing
+<p style = "margin-left:3em;">Minor: Linguistics Computing</p>
 
 
 <br/>
