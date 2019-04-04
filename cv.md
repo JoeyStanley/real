@@ -5,7 +5,7 @@ title: Curriculum Vitae
 
 # Curriculum Vitae
 
-<p id="updated">Updated March 25, 2019. Download PDF <a href="/downloads/190215-CV.pdf" target="_blank" title="open a pdf of my CV in a new window">here</a>.</p>
+<p id="updated">Updated April 4, 2019. Download PDF <a href="/downloads/190404-CV.pdf" target="_blank" title="open a pdf of my CV in a new window">here</a>.</p>
 
 <br/>
 
@@ -320,23 +320,25 @@ University of Georgia Graduate Research Assistantship. 2014–2016.
 
 ### Travel Awards
 
-University of Georgia Graduate School travel award ($600). For travel to the 47th New Ways of Analyzing Variation Conference in New York City, NY. October, 2018.
+Linguistic Atlas Project travel award. ADS and LSA. Salt Lake City, UT. January 2018.
 
-American Dialect Society student travel grant ($500). For travel to the American Dialect Society annual meeting in Salt Lake City, UT. January 2018.
+University of Georgia Graduate School travel award. NWAV47. New York City, NY. October, 2018.
 
-Linguistic Atlas Project travel award ($500). For travel to the American Dialect Society annual meeting in Salt Lake City, UT. January 2018.
+American Dialect Society student travel grant. ADS. Salt Lake City, UT. January 2018.
 
-University of Georgia Department of Linguistics travel award ($150). For travel to the 46th New Ways of Analyzing Variation Conference in Madison, WI. November, 2017.
+Linguistic Atlas Project travel award. ADS. Salt Lake City, UT. January 2018.
 
-University of Georgia Graduate School travel award ($300). For travel to the 46th New Ways of Analyzing Variation Conference in Madison, WI. November, 2017.
+University of Georgia Department of Linguistics travel award. NWAV46. Madison, WI. November, 2017.
 
-Linguistics Society of the University of Georgia travel award ($50). For travel to Diversity in Variation conference in Atlanta, GA. February, 2017. 
+University of Georgia Graduate School travel award. NWAV46. Madison, WI. November, 2017.
 
-University of Georgia Graduate School travel award ($220). For travel to the American Dialect Society Annual Meeting in Austin, TX. January, 2017. 
+Linguistics Society of the University of Georgia travel award. DiVar1. Atlanta, GA. February, 2017. 
 
-University of Georgia Linguistics Program travel award ($200). For travel to the American Dialect Society Annual Meeting in Austin, TX. January, 2016. 
+University of Georgia Graduate School travel award. ADS. Austin, TX. January, 2017. 
 
-Brigham Young University Department of Linguistics and English Language Conference Travel Grant ($500). For travel to the annual meeting of the Society for the Study of Indigenous Languages of America. January, 2013. 
+University of Georgia Linguistics Program travel award. ADS. Austin, TX. January, 2016. 
+
+Brigham Young University Department of Linguistics and English Language Conference Travel Grant. SSILA. January, 2013. 
 
 <br/>
 
@@ -417,11 +419,13 @@ Thesis Reader for Shawn C. Foster (UGA Center for Undergraduate Research Opportu
 
 ## Professional Service
 
+Co-Editor (with Conni Covington) of the [*UGA Working Papers in Linguistics*](http://www.linguistics.uga.edu/working-papers-vol-4-2018), Volume 4. 2019.
+
+Member of the conference committee for the [6th Linguistics Conference at UGA (LCUGA6)](http://www.linguistics.uga.edu/lcuga-6). Social media subcommittee and webmaster.
+
 UGA Linguistics Graduate Student Representative. 2018--2019.
 
 Member of the conference committee for the [5th Linguistics Conference at UGA (LCUGA5)](http://www.linguistics.uga.edu/lcuga-5). Abstract reviewer and member of the social media subcommittee. 2018.
-
-Co-Editor (with Conni Covington) of the [*UGA Working Papers in Linguistics*](http://www.linguistics.uga.edu/working-papers-vol-4-2018), Volume 4. 2018.
 
 Web developer for the Linguistics Society at UGA. 2018--.
 
