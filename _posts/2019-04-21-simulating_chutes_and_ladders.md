@@ -2,7 +2,7 @@
 layout: post
 title:  "Simulating Chutes and Ladders"
 date:   2019-04-24 15:41:00 -0400
-tags: [How-to Guides, Methods, R, Side Projects, Skills]
+tags: [Side Projects]
 ---
 
 We tried teaching our little almost-three-year-old *Chutes and Ladders* today. She wasn't very good at counting tiles. But, as I was sitting there climbing up and sliding down over and over, I wondered what the average number of turns it would take to finish the game. So I decided to take a stab at simulating the game. So here's a post on a simple simulation of *Chutes and Ladders*  that demonstrates absoluately nothing about linguistics and instead shows off some R skills.
