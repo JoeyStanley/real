@@ -100,6 +100,11 @@ Here is a list of resources I've found for R. I've gone through some of them and
 
 * If you use the CMU Pronouncing Dictionary, you should look at the new *[phon](https://coolbutuseless.github.io/2018/12/03/phon-a-package-for-rhymes-etc/)* package. It makes the whole thing searchable and easy to find rhymes. Personally, this'll make it a lot easier to find potential words for a word list.  
 
+### Working with Twitter
+
+* *[21 Recipes for Mining Twitter Data with rtweet](https://rud.is/books/21-recipes/)* by Bob Rudis is a tutorial that illustrates how to extract and do a whole bunch of stuff with Twitter data in R.
+
+* *[R Ready to Map](https://github.com/momiji15/apptomap/tree/master/R%20Ready%20to%20Map)* is a tutorial by [Dorris Scott](https://dscott.netlify.com) that starts off using the rtweet package to extract some Twitter data, shows you how to map it, and then walks you through creating an interactive RMarkdown document that integrates leaflet maps and plots.
 
 ### RMarkdown and Bookdown
 
@@ -118,8 +123,6 @@ Here is a list of resources I've found for R. I've gone through some of them and
 * *[Geocomputation with R](https://geocompr.robinlovelace.net)* by Robin Lovelace, Jakub Nowosad, and Jannes Muenchow.
 
 * *[A Guide to Working with US Census Data in R](https://rconsortium.github.io/censusguide/)* by Ari Lamstein and Logan Powell is a nice, brief guide to census data and some places to go if you want to work with it in R.
-
-* *[R Ready to Map](https://github.com/momiji15/apptomap/tree/master/R%20Ready%20to%20Map)* is a tutorial by [Dorris Scott](https://dscott.netlify.com) that starts off using the rtweet package to extract some Twitter data, shows you how to map it, and then walks you through creating an interactive RMarkdown document that integrates leaflet maps and plots.
 
 * I get all my shape files from the [National Historical Geographic Information System (NHGIS) website](https://www.nhgis.org).
 
