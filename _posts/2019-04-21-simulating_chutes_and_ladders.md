@@ -15,6 +15,8 @@ library(readxl)
 library(gganimate)
 ```
 
+Edit: I'm trying to increase my Github presence, so the code for this project can be found on my [Github](http://joeystanley.com/blog/simulating_chutes_and_ladders).
+
 ## The game
 
 For those of you deprived people who have never played *Chutes and Ladders*, the game is quite simple. There are 100 tiles arranged in a 10 by 10 board. With 1--3 of your closest friends, you start at Tile 1, roll a die, and advance that number of tiles. Players take turns moving up the board boustrophedonically<sup>1</sup><span class="sidenote-left"><sup>1</sup> I'll admit that half the reason I wrote this post was so I could use this word!</span> until one person reaches 100. The catch is that there are various "chutes" and "ladders" on the board. If you land on the bottom of one of about half a dozen ladders, you climb to the top, advancing anywhere from 10 to 54 tiles. But, if you land at the top of about a dozen chutes, you slide down anywhere from 4 to 63 tiles. There is no skill and it's 100% luck---perfect for small kids. 
