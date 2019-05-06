@@ -2,7 +2,7 @@
 layout: post
 title:  "Assigning Pseudonyms in R with the babynames package"
 date:   2019-04-09 13:41:00 -0400
-tags: [How-to Guides, Methods, R, Side Projects, Skills]
+tags: [Github, How-to Guides, Methods, R, Side Projects, Skills]
 ---
 
 Recently, on [RWeekly.org](https://rweekly.org/#UpdatedPackages89), I saw that Hadley Wickham's [babynames](http://hadley.github.io/babynames/) package had been updated. I had never heard of it, but when I saw that it contained Social Security data for births in the US from 1880 to 2017, I immediately thought that it would make coming up with pseudonyms a lot quicker in the future. So here's a tutorial on how I've done that.
@@ -19,7 +19,7 @@ As long as the pseuodnym isn't the person's actual name, you're free to call the
 
 I like to take a more personal approach and give them real, plausible names, leaving the metadata to other spreadsheets. Tagliamonte (2006:51) and Schilling (2013:253--254)<sup>2</sup><span class="sidenote-left"><sup>2</sup> Tagliamonte, Sali A. (2006) <a href="https://doi.org/10.1017/CBO9780511801624"><i>Analy&shy;sing socio&shy;linguis&shy;tic var&shy;iation</i></a>. Cambridge: Cam&shy;bridge Univer&shy;sity Press.<br/><br/>Schilling, Natalie. (2013) <a href="https://doi.org/10.1017/CBO9780511980541"><i>Socio&shy;linguistic field&shy;work</i></a>. Cam&shy;bridge: Cam&shy;bridge Un&shy;iver&shy;sity Press.</span> both recommend this approach. It gives a little more life to any quotations you might pull from the interviews and the names are easier to remember, which is helpful not only for yourself but also for your readers if you use multiple quotes from any one person (especially when spread across multiple papers). 
 
-Exactly how you choose these pseudonyms is up to you, but typically you pick something that is consistent with the age, gender, and ethnicity of the speaker. As it turns out, you can use the `babynames` package to help automate some of this name selection.
+Exactly how you choose these pseudonyms is up to you, but typically you pick something that is consistent with the age, gender, and ethnicity of the speaker. As it turns out, you can use the `babynames` package to help automate some of this name selection. (Edit: The code for this post is now available on [GitHub](https://github.com/JoeyStanley/generating-pseudonyms).)
 
 ## The `babynames` package
 
