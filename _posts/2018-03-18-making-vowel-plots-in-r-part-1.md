@@ -633,4 +633,4 @@ Aha! There we go. So this is a way to make a plot look cooler. Especially if ind
 
 The way you present your data is all up to you. I often prefer a set of settings when I'm playing around with my data, but then switch to a different set when I want to copy and paste into a presentation or paper. It's good to be comfortable enough with ggplot2 so that you know what is going on and what changes you can make. Hopefully this post made a few things clearer.
 
-If you're interested in plotting trajectories, feel free to look at [Part 2]({% post_url 2018-06-06-making-vowel-plots-in-r-part-2 %}) of this tutorial. In the future, I'd like make another post on some slightly more advanced topics in vowel plots, like how to highlight specific vowels or specific tokens (like I do in [this blog post](blog/ar-raising)), or how to make 3D scatterplots. Should be fun.
+If you're interested in plotting trajectories, feel free to look at [Part 2]({% post_url 2018-06-06-making-vowel-plots-in-r-part-2 %}) of this tutorial. In the future, I'd like make some other posts on some slightly more advanced topics in vowel plots. I hope this one at least has helped you and your research.
