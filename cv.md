@@ -5,18 +5,20 @@ title: Curriculum Vitae
 
 # Curriculum Vitae
 
-<p id="updated">Updated April 4, 2019. Download PDF <a href="/downloads/190404-CV.pdf" target="_blank" title="open a pdf of my CV in a new window">here</a>.</p>
+<p id="updated">Updated June 23, 2019. Download PDF <a href="/downloads/190404-CV.pdf" target="_blank" title="open a pdf of my CV in a new window">here</a>.</p>
 
 <br/>
 
 
 ## Education
 
-**Ph.D. Linguistics**, [University of Georgia](http://www.linguistics.uga.edu/), 2019 (expected) 
+**Ph.D. Linguistics**, [University of Georgia](http://www.linguistics.uga.edu/), 2020 (expected) 
 
 <p style = "margin-left:3em;">Dissertation: <i>Vowel Dynamics of the Elsewhere Shift: A Sociophonetic Analysis of English in Cowlitz County, Washington</i></p>
 
 <p style = "margin-left:3em;">Committee: <a href="https://faculty.franklin.uga.edu/chowe/">L. Chad Howe</a> (chair), <a href="http://faculty.franklin.uga.edu/mrenwick/">Margaret E. L. Renwick</a>, <a href="https://www.english.uga.edu/directory/495/detail">William A. Kretzschmar, Jr.</a></p>
+
+**M.S. Statistics**, [University of Georgia](http://www.stat.uga.edu/), 2020 (expected) 
 
 **B.A. Linguistics**, [Brigham Young University](http://linguistics.byu.edu/), 2013
 
@@ -87,10 +89,10 @@ Rachel M. Olsen, <strong>Joseph A. Stanley</strong>, Michael Olsen, Lisa Lipani,
 <strong>Joseph A. Stanley</strong>. “(thr)-tapping in American English: Articulatory motivations and social factors.” The 5th Annual Linguistics conference at UGA (LCUGA5). Athens, GA. October 12–13, 2018.
 <a href="/downloads/181012-lcuga5_thr.pdf" class="slides" title="download the powerpoint slides for this presentation"></a>
 
-<strong>Joseph A. Stanley</strong> & [Kyle Vanderniet](https://clyguy.wixsite.com/profile). "What el[t]se is happening[k] with Utah English consonants?" American Dialect Society (ADS) Annual Meeting. Salt Lake City, UT. January 5–8, 2018. (With ADS student travel grant)
+<strong>Joseph A. Stanley</strong> & [Kyle Vanderniet](https://clyguy.wixsite.com/profile). "What el[t]se is happening[k] with Utah English consonants?" American Dialect Society (ADS) Annual Meeting. Salt Lake City, UT. January 5–8, 2018.
 <a href="/downloads/180108-ads2018-utah.pdf" class="slides" title="download the powerpoint slides for this presentation"></a>
 
-<strong>Joseph A. Stanley</strong>, Margaret E. L. Renwick, William A. Kretzschmar Jr., Rachel M. Olsen, & Michael Olsen. "The Gazetteer of Southern Vowels." American Dialect Society (ADS) Annual Meeting. Salt Lake City, UT. January 5–8, 2018. (with Linguistic Atlas Project travel award)
+<strong>Joseph A. Stanley</strong>, Margaret E. L. Renwick, William A. Kretzschmar Jr., Rachel M. Olsen, & Michael Olsen. "The Gazetteer of Southern Vowels." American Dialect Society (ADS) Annual Meeting. Salt Lake City, UT. January 5–8, 2018.
 <a href="http://lap3.libs.uga.edu/u/jstanley/vowelcharts/" class="link" title="visit this site" target="_blank"></a>
 <a href="/downloads/180105-ads2018-gsv.pdf" class="slides" title="download the powerpoint slides for this presentation"></a>
 <a href="/downloads/180105-ads2018-gsv-abstract.pdf" class="abstract" target="_blank" title="open a pdf of the abstract to this presentation in a new window"></a>
@@ -110,10 +112,10 @@ Rachel Olsen, Michael Olsen, <strong>Joseph A. Stanley</strong> & [Margaret E. L
 William A. Kretzschmar, <strong>Joseph Stanley</strong>, & Katherine Kuiper. “Automated Large-Scale Phonetic Analysis: DASS.” 84th Meeting of the SouthEastern Conference on Linguistics ([SECOL84](http://conf2017.secol.org">)). Charleston, SC. March 8–11, 2017.
 <a href="/downloads/170310-SECOL84a-slides.pdf" class="slides" title="download the powerpoint slides for this presentation"></a>
 
-<strong>Joseph A. Stanley</strong>. “V[ɛ]ry v[e]ried vowel mergers in the Pacific Northwest.” Diversity and Variation in Language ([DiVar 1](http://linguistics.emory.edu/home/conferences/divar1/index.html)). Atlanta, GA. February 10–11, 2017. (with LCUGA travel award)
+<strong>Joseph A. Stanley</strong>. “V[ɛ]ry v[e]ried vowel mergers in the Pacific Northwest.” Diversity and Variation in Language ([DiVar 1](http://linguistics.emory.edu/home/conferences/divar1/index.html)). Atlanta, GA. February 10–11, 2017.
 <a href="/downloads/170211-DiVar1-slides.pdf" class="slides" title="download the powerpoint slides for this presentation"></a>
 
-<strong>Joseph A. Stanley</strong>. “The perception and production of two vowel mergers in Cowlitz County, Washington.” The American Dialect Society ([ADS](http://www.americandialect.org)) Annual Meeting. Austin, TX. January 5–8, 2017. (with UGA Linguistics Program travel award and UGA Graduate School travel award)
+<strong>Joseph A. Stanley</strong>. “The perception and production of two vowel mergers in Cowlitz County, Washington.” The American Dialect Society ([ADS](http://www.americandialect.org)) Annual Meeting. Austin, TX. January 5–8, 2017.
 <a href="/downloads/160813-ADS2017.pdf" class="abstract" target="_blank" title="open a pdf of the abstract to this presentation in a new window"></a>
 <a href="/downloads/170105-ADS-slides.pptx" class="slides" title="download the powerpoint slides for this presentation"></a>
 
@@ -134,7 +136,7 @@ William A. Kretzschmar, <strong>Joseph Stanley</strong>, & Katherine Kuiper. “
 <a href="/downloads/150321-PLC39-abstract.pdf" class="abstract" target="_blank" title="open a pdf of the abstract to this presentation in a new window"></a>
 <a href="/downloads/150321-PLC39-slides.pptx" class="slides" title="download the powerpoint slides for this presentation"></a>
 
-[Janis Nuckolls](http://linguistics.byu.edu/directory/jbn34/), <strong>Joseph Stanley</strong>, Elizabeth Nielsen, and Roseanna Hopper. "The systematic stretching and adjusting of ideophonic phonology in Pastaza Quichua". Annual Meeting of the Society for the Study of Indigenous Languages of America ([SSILA 2013](http://www.ssila.org/members/join-or-renew/)). Boston, MA. January 3–6, 2013. (with BYU Department of Linguistics and English Language conference travel grant) 
+[Janis Nuckolls](http://linguistics.byu.edu/directory/jbn34/), <strong>Joseph Stanley</strong>, Elizabeth Nielsen, and Roseanna Hopper. "The systematic stretching and adjusting of ideophonic phonology in Pastaza Quichua". Annual Meeting of the Society for the Study of Indigenous Languages of America ([SSILA 2013](http://www.ssila.org/members/join-or-renew/)). Boston, MA. January 3–6, 2013.
 <a href="/downloads/130103-SSILA-abstract.pdf" class="abstract" target="_blank" title="open a pdf of the abstract to this presentation in a new window"></a> 
 
 ### Poster Presentations
@@ -142,13 +144,13 @@ William A. Kretzschmar, <strong>Joseph Stanley</strong>, & Katherine Kuiper. “
 <strong>Joseph A. Stanley</strong> & Margaret E. L. Renwick. "Social factors in Southern US speech: Acoustic analysis of a large-scale legacy corpus." The 93rd Annual Meeting of the Linguistic Society of America. New York City, NY. January 3–6, 2019.
 <a href="/downloads/190103-lsa2019.pdf" class="poster" target="_blank" title="download this poster as a PDF"></a>
 
-<strong>Joseph A. Stanley</strong>. "The differences between and within <span style="font-variant: small-caps">beg</span> and <span style="font-variant: small-caps">bag</span>: Phonological, morphological, and lexical effects in prevelar raising." Poster presentation at the 47th annual meeting of New Ways of Analyzing Variation (NWAV47). New York City, New York. October 18–21, 2018. (with UGA Graduate School travel award)
+<strong>Joseph A. Stanley</strong>. "The differences between and within <span style="font-variant: small-caps">beg</span> and <span style="font-variant: small-caps">bag</span>: Phonological, morphological, and lexical effects in prevelar raising." Poster presentation at the 47th annual meeting of New Ways of Analyzing Variation (NWAV47). New York City, New York. October 18–21, 2018.
 <a href="/downloads/181019-nwav47.pdf" class="poster" target="_blank" title="download this poster as a PDF"></a>
 
 Shawn Foster, <strong>Joseph A. Stanley</strong>, & Margaret E. L. Renwick. "Vowel Mergers in the American South." Poster presentation at the 174th Meeting of the Acoustical Society of America (ASA). New Orleans, LA. December 4–8, 2017.
 <a href="http://asa.scitation.org/doi/abs/10.1121/1.5014282" class="link" title="link to this presentation"></a>
 
-<strong>Joseph A. Stanley</strong>. "Changes in the Timber Industry as a Catalyst for Linguistic Change." Poster presentation at the 46th New Ways of Analyzing Variation conference ([NWAV46](https://english.wisc.edu/nwav46/)). Madison, WI. November 2–5, 2017. (with UGA Graduate School travel award)
+<strong>Joseph A. Stanley</strong>. "Changes in the Timber Industry as a Catalyst for Linguistic Change." Poster presentation at the 46th New Ways of Analyzing Variation conference ([NWAV46](https://english.wisc.edu/nwav46/)). Madison, WI. November 2–5, 2017.
 <a href="/downloads/171103-nwav46-abstract.pdf" class="abstract" target="_blank" title="download the abstract"></a>
 <a href="/downloads/171103-nwav46.pdf" class="poster" target="_blank" title="download this poster as a PDF"></a>
 
@@ -312,7 +314,7 @@ University of Georgia Graduate School Dean’s Award ($1,250). Project title: "L
 
 ### Research Assistantships
 
-Complex Systems and the Humanities Research Assistantship awarded by the Graduate School at the University of Georgia. 2016--2019.
+Complex Systems and the Humanities Research Assistantship awarded by the Graduate School at the University of Georgia. 2016--2020.
 
 University of Georgia stipend enhancement awarded by the Franklin College of Arts and Sciences. 2014--2015.
 
@@ -320,7 +322,9 @@ University of Georgia Graduate Research Assistantship. 2014–2016.
 
 ### Travel Awards
 
-Linguistic Atlas Project travel award. ADS and LSA. Salt Lake City, UT. January 2018.
+Linguistic Atlas Project travel award. DH2019. Utrecht, the Netherlands. July 2019.
+
+Linguistic Atlas Project travel award. ADS and LSA. Salt Lake City, UT. January 2019.
 
 University of Georgia Graduate School travel award. NWAV47. New York City, NY. October, 2018.
 
@@ -362,7 +366,7 @@ Teaching Assistant for Dr. Monte Shelley. LINGC 200: Basic Humanities Computing 
 
 ## Research Assistantships
 
-Complex Systems and the Humanities Research Assistant in support of the [Linguistic Atlas Project](http://www.lap.uga.edu) and the Willson Center Digital Humanities Lab ([DigiLab](http://digi.uga.edu/digilab/)) under the direction of [Dr. William Kretzschmar]([William A. Kretzschmar, Jr.](https://www.english.uga.edu/directory/495/detail)) and [Emily McGinn](https://emilymcginn.com). 2016--2019.
+Complex Systems and the Humanities Research Assistant in support of the [Linguistic Atlas Project](http://www.lap.uga.edu) and the Willson Center Digital Humanities Lab ([DigiLab](http://digi.uga.edu/digilab/)) under the direction of [Dr. William Kretzschmar]([William A. Kretzschmar, Jr.](https://www.english.uga.edu/directory/495/detail)) and [Emily McGinn](https://emilymcginn.com). 2016--2020.
 
 Graduate Research Assistant for Dr. [Chad Howe](https://faculty.franklin.uga.edu/chowe/), Associate Professor in the Department of Romance Languages at the University of Georgia. 2016.
 
