@@ -66,30 +66,6 @@ Here is a list of resources I've found for R. I've gone through some of them and
 
 * *[Modern R with the Tidyverse](https://b-rodrigues.github.io/modern_R/)* by Bruno Rodriguez is a work in progress, but it's another free eBook that shows R and the Tidyverse.
 
-### Data Visualization
-
-* *[ggplot2](http://www.springer.com/us/book/9783319242750)* by Hadley Wickham is a comprehensive resource for learning all the ins and outs of ggplot2.
-
-* Not satisfied with R's default colors? Try some of these alternatives:
-
-    * The [`scion`](https://www.data-imaginist.com/2018/scico-and-the-colour-conundrum/) package has a bunch of colorblind-safe, perceptually uniform, ggplot2-friendly color palettes for use in visuals. Very cool.
-
-    * The [color brewer website](http://colorbrewer2.org), while best for maps, offers great color palettes that are colorblind and sometimes also printer-safe. The have native integration with `ggplot2` with the `scale_[color|fill]_ [brewer|distiller]` [functions](https://ggplot2.tidyverse.org/reference/scale_brewer.html). 
-
-    * Paul Tol has come up with some [additional color themes](https://personal.sron.nl/~pault/), which you can access with `scale_color_ptol` in the [`ggthemes`](https://www.rdocumentation.org/packages/ggthemes/versions/3.5.0) package.
-
-* This [blog post](https://www.jessesadler.com/post/network-analysis-with-r/) by Jesse Sadler is a great tutorial on how to use R to visualize network data.
-
-* [*Data Visualization: A Practical Introduction*](http://socviz.co) by [Kieran Healy](kieranhealy.org). I haven't had the time to look through it, but this books looks quite good. It covers data prep, basic plots, visualizing statistical models, maps, and a whole bunch of other stuff. 
-
-* [*Fundamentals of Data Visualization*](https://serialmentor.com/dataviz/) by [Claus O. Wilke](https://integrativebio.utexas.edu/component/cobalt/item/7-integrative-biology/237-wilke-claus-o?Itemid=1224) is still in preview mode, but it is "meant as a guide to making visualizations that accurately reflect the data, tell a story, and look professional." 
-
-* Edward Tufte is a statistician known for his series of four books that focus on best practices in the presentation of data:  [*The Visual Display of Quantitative Information*](https://www.edwardtufte.com/tufte/books_vdqi), [*Envisioning Information*](https://www.edwardtufte.com/tufte/books_ei), [*Visual Explanations*](https://www.edwardtufte.com/tufte/books_visex), and [*Beautiful Evidence*](https://www.edwardtufte.com/tufte/books_be). I haven't read them, but have thumbed through them and they look very cool. As a practical application of them, [this page](http://motioninsocial.com/tufte/) by Lukasz Piwek shows how to implement many of these visualizations in R. You can also use `ggthemes` to get some of this implementation. 
-
-* Joey Cherdarchuk of [Darkhorse Analytics](https://www.darkhorseanalytics.com) has put together some really succinct presentations on how to simplify things you might put in a paper like [maps](https://www.darkhorseanalytics.com/blog/data-looks-better-naked-maps-edition), [charts](https://www.darkhorseanalytics.com/blog/salvaging-the-pie), [tables](https://www.darkhorseanalytics.com/blog/clear-off-the-table), and [reducing the data to ink ratio](https://www.darkhorseanalytics.com/blog/data-looks-better-naked).
-
-* In case you've wanted to make animations in R, be sure to check out Thomas Lin Pedersen's [gganimate](https://gganimate.com) package.
-
 ### Working with Text
 
 * *[Text Mining with R](http://tidytextmining.com)* by Julia Silge & David Robinson. Haven't read it, but it looks great.
@@ -114,6 +90,8 @@ Here is a list of resources I've found for R. I've gone through some of them and
 
 * *[bookdown: Authoring Books and Technical Documents with R Markdown](https://bookdown.org/yihui/bookdown/)* by Yihui Xie. See an introduction to Bookdown by RStudio [here](https://www.rstudio.com/resources/webinars/introducing-bookdown/).
 
+* If your love for Zotero is what's preventing you from using RMarkdown, never fear! *[Zotero hacks: unlimited synced storage and its smooth use with rmarkdown](https://ikashnitsky.github.io/2019/zotero/)* by [Ilya Kashnitsky](https://ikashnitsky.github.io) is the perfect guide to getting those two integrated.
+
 ### GIS and Spatial Stuff
 
 * *[Maps and Data Visualisations with R](http://spatial.ly/r/)* by [James Cheshire](http://spatial.ly/about/) is a treasure trove of tutorials on doing a whole bunch of maps in R.
@@ -127,6 +105,46 @@ Here is a list of resources I've found for R. I've gone through some of them and
 * I get all my shape files from the [National Historical Geographic Information System (NHGIS) website](https://www.nhgis.org).
 
 * And because I haven't quite gotten the hang of it yet in R, I do all my mapmaking using the [QGIS](https://qgis.org/en/site/), the open-source, Mac-friendly, and free alternative to [ArcGIS](https://www.arcgis.com/index.html). Shout-out to [@mjduever](https://twitter.com/mjduever) of UGA Libraries for teaching me everything I know about GIS.
+
+
+
+
+<br/>
+## Data Visualization
+
+### Books
+
+* *[ggplot2](http://www.springer.com/us/book/9783319242750)* by Hadley Wickham is a comprehensive resource for learning all the ins and outs of ggplot2.
+
+* [*Data Visualization: A Practical Introduction*](http://socviz.co) by [Kieran Healy](kieranhealy.org). I haven't had the time to look through it, but this books looks quite good. It covers data prep, basic plots, visualizing statistical models, maps, and a whole bunch of other stuff. 
+
+* [*Fundamentals of Data Visualization*](https://serialmentor.com/dataviz/) by [Claus O. Wilke](https://integrativebio.utexas.edu/component/cobalt/item/7-integrative-biology/237-wilke-claus-o?Itemid=1224) is still in preview mode, but it is "meant as a guide to making visualizations that accurately reflect the data, tell a story, and look professional." 
+
+* *[Interactive web-based data visualization with R, plotly, and shiny](https://plotly-r.com)* by [Carson Sievert](https://cpsievert.me) is another free online book on data visualizatio in in R. This has a good focus on interactivity since it involves [plotly](https://plot.ly) and [Shiny](https://shiny.rstudio.com).
+
+### Colors
+
+* The [`scion`](https://www.data-imaginist.com/2018/scico-and-the-colour-conundrum/) package has a bunch of colorblind-safe, perceptually uniform, ggplot2-friendly color palettes for use in visuals. Very cool.
+
+* The [color brewer website](http://colorbrewer2.org), while best for maps, offers great color palettes that are colorblind and sometimes also printer-safe. The have native integration with `ggplot2` with the `scale_[color|fill]_ [brewer|distiller]` [functions](https://ggplot2.tidyverse.org/reference/scale_brewer.html). 
+
+* Paul Tol has come up with some [additional color themes](https://personal.sron.nl/~pault/), which you can access with `scale_color_ptol` in the [`ggthemes`](https://www.rdocumentation.org/packages/ggthemes/versions/3.5.0) package.
+
+
+### Making better plots
+
+* Edward Tufte is a statistician known for his series of four books that focus on best practices in the presentation of data:  [*The Visual Display of Quantitative Information*](https://www.edwardtufte.com/tufte/books_vdqi), [*Envisioning Information*](https://www.edwardtufte.com/tufte/books_ei), [*Visual Explanations*](https://www.edwardtufte.com/tufte/books_visex), and [*Beautiful Evidence*](https://www.edwardtufte.com/tufte/books_be). I haven't read them, but have thumbed through them and they look very cool. As a practical application of them, [this page](http://motioninsocial.com/tufte/) by Lukasz Piwek shows how to implement many of these visualizations in R. You can also use `ggthemes` to get some of this implementation. 
+
+* Joey Cherdarchuk of [Darkhorse Analytics](https://www.darkhorseanalytics.com) has put together some really succinct presentations on how to simplify things you might put in a paper like [maps](https://www.darkhorseanalytics.com/blog/data-looks-better-naked-maps-edition), [charts](https://www.darkhorseanalytics.com/blog/salvaging-the-pie), [tables](https://www.darkhorseanalytics.com/blog/clear-off-the-table), and [reducing the data to ink ratio](https://www.darkhorseanalytics.com/blog/data-looks-better-naked).
+
+
+### Miscellany
+
+* This [blog post](https://www.jessesadler.com/post/network-analysis-with-r/) by Jesse Sadler is a great tutorial on how to use R to visualize network data.
+
+* In case you've wanted to make animations in R, be sure to check out Thomas Lin Pedersen's [gganimate](https://gganimate.com) package.
+
+* Plotting special characters or unique fonts can be tricky. [Yixuan Qiu](https://statr.me)'s tutorial [showtext: Using Fonts More Easily in R Graphs](https://cran.rstudio.com/web/packages/showtext/vignettes/introduction.html) can help you with that.
 
 
 <br/>
@@ -152,7 +170,9 @@ Here is a list of resources I've found for R. I've gone through some of them and
 
 * [Mixed-Effects Regression Models in Linguistics](https://www.springer.com/us/book/9783319698281), edited by Dirk Speelman, Kris Heylen, & Dirk Geeraerts and published by Springer is an entire book on mixed-effects models, specifically for linguists. 
 
-### GAMMs
+* [Michael Clark's](https://m-clark.github.io) post called [Shrinkage in Mixed Effects Models](https://m-clark.github.io/posts/2019-05-14-shrinkage-in-mixed-models/) has some beautiful illustrations that demonstrate shirnkage. In fact, he has written [a much larger document](https://m-clark.github.io/mixed-models-with-R/) explaining what mixed-effects models and how to run them in R.
+
+### GAM(M)s
 
 My dissertation makes heavy use of generalized additive mixed-effects models (GAMMs). Here are some resources that I used to help learn about these.
 
@@ -169,6 +189,8 @@ My dissertation makes heavy use of generalized additive mixed-effects models (GA
 * *[Overview GAMM analysis of time series data](http://jacolienvanrij.com/Tutorials/GAMM.html)* by Jacolien van Rij. I haven't had time to go through this one yet, but it's on my todo list. Actually [all of her tutorials](http://www.jacolienvanrij.com/cv.html) look great.  
 
 * *[tidymv: Tidy Model Visualisation](https://github.com/stefanocoretta/tidymv)* is an R package by [Stefano Coretta](https://stefanocoretta.github.io) that lets you visualize GAMMs using tidyverse-friendly code.
+
+* *[GAMs in R](https://noamross.github.io/gams-in-r-course/)* by [Noam Ross](https://www.ecohealthalliance.org/personnel/dr-noam-ross) is a free interactive course on GAMs in R.
 
 
 <br/>
