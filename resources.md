@@ -144,7 +144,7 @@ Here is a list of resources I've found for R. I've gone through some of them and
 
 * In case you've wanted to make animations in R, be sure to check out Thomas Lin Pedersen's [gganimate](https://gganimate.com) package.
 
-* Plotting special characters or unique fonts can be tricky. [Yixuan Qiu](https://statr.me)'s tutorial [showtext: Using Fonts More Easily in R Graphs](https://cran.rstudio.com/web/packages/showtext/vignettes/introduction.html) can help you with that.
+* Plotting special characters or unique fonts can be tricky. [Yixuan Qiu](https://statr.me)'s tutorial *[showtext: Using Fonts More Easily in R Graphs](https://cran.rstudio.com/web/packages/showtext/vignettes/introduction.html)* can help you with that.
 
 
 <br/>
