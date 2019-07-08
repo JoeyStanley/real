@@ -1,6 +1,9 @@
 <!DOCTYPE HTML>
 <html class="no-js" lang="en">
-  {% include google-analytics.html %}
+  <!--Found how to exclude myself here:https://michaelsoolee.com/google-analytics-jekyll/-->
+  {% if jekyll.environment == 'production' %}
+    {% include google-analytics.html %}
+  {% endif %}
   {% include head.html %}
   <body>
     {% include header.html %}
