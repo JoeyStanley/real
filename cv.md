@@ -193,7 +193,7 @@ Shawn Foster, <strong>Joseph A. Stanley</strong>, & Margaret E. L. Renwick. "Vow
 <a href="/downloads/180323-tidyverse_II" class="link" target ="_blank" title="view the handout online"></a> 
 <a href="/downloads/180323-tidyverse_II.pdf" class="paper" target ="_blank" title="download the handout for this presentation"></a> 
 
-<strong>Joey Stanley</strong>. Communicate to your audience with R Markdown. Work-shop given at the University of Georgia DigiLab. Athens, GA. March 9.
+<strong>Joey Stanley</strong>. Communicate to your audience with R Markdown. Workshop given at the University of Georgia DigiLab. Athens, GA. March 9.
 <a href="/downloads/180309-rmarkdown" class="link" target ="_blank"  title="view the handout online"></a> 
 <a href="/downloads/180309-rmarkdown.pdf" class="paper" target ="_blank" title="download the handout for this presentation"></a> 
 
@@ -255,7 +255,7 @@ Shawn Foster, <strong>Joseph A. Stanley</strong>, & Margaret E. L. Renwick. "Vow
 "/ɛɡ/-raising is straightforward? I <font style="font-variant: small-caps">beg</font> to differ!" The Linguistic Society of the University of Georgia (LSUGA) Tiny Talks. Athens, GA. April 13, 2018.
 <a href="/downloads/180413-TinyTalks.pdf" class="poster" title="download a pdf of the poster"></a> 
 
-"Hey, Siri. Can you understand me?" Three Minute Thesis (3MT™) Competition at the University of Georgia. March 22, 2017.
+"Hey, Siri. Can you understand me?" Three Minute Thesis (3MT™) Competition at the University of Georgia. March 22, 2018.
 
 "New methods in outlier detection and formant measurement using a modified Mahalanobis distance and 'mistplots.'" University of Georgia Linguistics Colloquium. Athens, GA. February 9, 2018.
 
