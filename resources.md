@@ -220,6 +220,8 @@ There is software available that you can use to transcribe in like Praat, [Trans
 
 * [DARLA](http://darla.dartmouth.edu) is actually a whole collection of tools available through a web interface from Dartmouth University. It can transcribe, align, and extract formants from your (English) audio files all in one go. For automatic transcription, you can use their own in-house system by using the "Completely Automated" method. They admit the transcriptions won't be perfect, but they provide a handy tool for manual correcting.
 
+* [OH-Portal](https://www.phonetik.uni-muenchen.de/apps/oh-portal/) is by the [Institute of Phonetics and Speech Processing](https://www.en.phonetik.uni-muenchen.de/index.html). It works on several languages, and on clean lab data, it's a little faster to run this and correct the transcription than it is to do a transcription from scratch. Runs entirely through the web browser, so you don't have to download anything.
+
 ### Forced Aligners
 
 I've got a lot of audio that I need to process, so a crucial part of all that is force aligning the text to the audio. Smart people have come up with free software to do this. Here's a list of the ones I've seen.
