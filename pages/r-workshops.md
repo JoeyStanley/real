@@ -16,7 +16,7 @@ Note: If you attended these workshops, please consider giving me some feedback w
 
 ## *Intro to R ([Part 1](/downloads/180119-intro-to-r-part1) and [Part 2]((/downloads/180126-intro-to-r-part2)))*
 
-In the first workshop I cover the basics of R itself. I talk about the differences between R and RStudio and I helped folks get both installed and running on their computers. We created a simple "Hello, World!" script using R. Part 2 covers the basics of the R language. It will also be a very simple introduction to some core computer coding concepts like declaring variables and variable types.
+In this first workshop I cover the basics of R itself. I talk about the differences between R and RStudio and I help folks get both installed and running on their computers. We creat a simple "Hello, World!" script using R. Part 2 covers the basics of the R language. It is also be a very simple introduction to some core computer coding concepts like declaring variables and variable types.
 
 *Additional Materials:* You may also be interested in [a PDF of the slides I used in Part 1](/downloads/180119-intro-to-r-part1.pdf) or [a PDF verson of Part 2's handout](/downloads/180126-intro-to-r-part2.pdf). An older version that combines elements of both parts can be found here as a [PDF](/downloads/170912-intro-to-r-handout.pdf) or [RMarkdown](/downloads/170913-intro_to_R.html) file.
 
@@ -32,7 +32,7 @@ ggplot2 is a widely used package that allows for high-quality visualizations. In
 
 ## Introduction to the Tidyverse ([Part 1](/downloads/180302-tidyverse_part1.html) and [Part 2](/downloads/180323-tidyverse_II.html))
 
-The tidyverse is a suite of packages that includes `dplyr` and `tidyr` which help you wrangle your data. In this two-part workshop, we'll learn some of the common functions in the tidyverse and compare them to base R, showing that there are multiple ways to accomplish the same task in R. Part 2 in particular looks at how to reshape and transform your data, merging it with other dataset, and other super useful and powerful tools.
+The tidyverse is a suite of packages that includes `dplyr` and `tidyr` which help you wrangle your data. In this two-part workshop, we learn some of the common functions in the tidyverse and compare them to base R, showing that there are multiple ways to accomplish the same task in R. Part 2 in particular looks at how to reshape and transform your data, merging it with other dataset, and other super useful and powerful tools.
 
 *Additional Materials:* You may also be interested in PDFs for [Part 1](/downloads/180302-tidyverse_part1.pdf) and [Part 2](/downloads/180323-tidyverse_II.pdf). An older version that combines elements of both parts can be found here as a [PDF](/downloads/171110-tidyverse_handout.pdf) or [RMarkdown](/downloads/171110-tidyverse.html) file.
 
