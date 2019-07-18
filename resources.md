@@ -146,6 +146,8 @@ Here is a list of resources I've found for R. I've gone through some of them and
 
 * Plotting special characters or unique fonts can be tricky. [Yixuan Qiu](https://statr.me)'s tutorial *[showtext: Using Fonts More Easily in R Graphs](https://cran.rstudio.com/web/packages/showtext/vignettes/introduction.html)* can help you with that.
 
+* [George Bailey's](http://www-users.york.ac.uk/~gb1055/) excelent workshop materials for visualizing vowel formant data can be found [here](http://www-users.york.ac.uk/~gb1055/sociophonetics_workshop/index.html).
+
 
 <br/>
 ## Statistics Resources
