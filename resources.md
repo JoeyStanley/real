@@ -76,6 +76,8 @@ Here is a list of resources I've found for R. I've gone through some of them and
 
 * If you use the CMU Pronouncing Dictionary, you should look at the new *[phon](https://coolbutuseless.github.io/2018/12/03/phon-a-package-for-rhymes-etc/)* package. It makes the whole thing searchable and easy to find rhymes. Personally, this'll make it a lot easier to find potential words for a word list.  
 
+* The [ggtext package](https://github.com/clauswilke/ggtext) by [Claus O. Wilke](https://serialmentor.com/blog/) makes it a lot easier to work with text if you want to add a little bit of rich text to your plots.
+
 ### Working with Twitter
 
 * *[21 Recipes for Mining Twitter Data with rtweet](https://rud.is/books/21-recipes/)* by Bob Rudis is a tutorial that illustrates how to extract and do a whole bunch of stuff with Twitter data in R.
@@ -133,12 +135,14 @@ Here is a list of resources I've found for R. I've gone through some of them and
 
 ### Making better plots
 
-* Edward Tufte is a statistician known for his series of four books that focus on best practices in the presentation of data:  [*The Visual Display of Quantitative Information*](https://www.edwardtufte.com/tufte/books_vdqi), [*Envisioning Information*](https://www.edwardtufte.com/tufte/books_ei), [*Visual Explanations*](https://www.edwardtufte.com/tufte/books_visex), and [*Beautiful Evidence*](https://www.edwardtufte.com/tufte/books_be). I haven't read them, but have thumbed through them and they look very cool. As a practical application of them, [this page](http://motioninsocial.com/tufte/) by Lukasz Piwek shows how to implement many of these visualizations in R. You can also use `ggthemes` to get some of this implementation. 
+* Edward Tufte is a statistician known for his series of four books that focus on best practices in the presentation of data:  [*The Visual Display of Quantitative Information*](https://www.edwardtufte.com/tufte/books_vdqi), [*Envisioning Information*](https://www.edwardtufte.com/tufte/books_ei), [*Visual Explanations*](https://www.edwardtufte.com/tufte/books_visex), and [*Beautiful Evidence*](https://www.edwardtufte.com/tufte/books_be). I read them over several months on the bus and they are very cool. As a practical application of them, [this page](http://motioninsocial.com/tufte/) by Lukasz Piwek shows how to implement many of these visualizations in R. You can also use `ggthemes` to get some of this implementation. 
 
 * Joey Cherdarchuk of [Darkhorse Analytics](https://www.darkhorseanalytics.com) has put together some really succinct presentations on how to simplify things you might put in a paper like [maps](https://www.darkhorseanalytics.com/blog/data-looks-better-naked-maps-edition), [charts](https://www.darkhorseanalytics.com/blog/salvaging-the-pie), [tables](https://www.darkhorseanalytics.com/blog/clear-off-the-table), and [reducing the data to ink ratio](https://www.darkhorseanalytics.com/blog/data-looks-better-naked).
 
 
 ### Miscellany
+
+* My friend [Andres Karjus](https://andreskarjus.github.io) has given several workshops on wide range of data visualization topics, collectively called *[aRt of the figure: explore and visualize your data using R](https://andreskarjus.github.io/artofthefigure/)*. You should definitely explore his github and check out his materials.
 
 * This [blog post](https://www.jessesadler.com/post/network-analysis-with-r/) by Jesse Sadler is a great tutorial on how to use R to visualize network data.
 
@@ -147,6 +151,7 @@ Here is a list of resources I've found for R. I've gone through some of them and
 * Plotting special characters or unique fonts can be tricky. [Yixuan Qiu](https://statr.me)'s tutorial *[showtext: Using Fonts More Easily in R Graphs](https://cran.rstudio.com/web/packages/showtext/vignettes/introduction.html)* can help you with that.
 
 * [George Bailey's](http://www-users.york.ac.uk/~gb1055/) excelent workshop materials for visualizing vowel formant data can be found [here](http://www-users.york.ac.uk/~gb1055/sociophonetics_workshop/index.html).
+
 
 
 <br/>
@@ -193,6 +198,8 @@ My dissertation makes heavy use of generalized additive mixed-effects models (GA
 * *[tidymv: Tidy Model Visualisation](https://github.com/stefanocoretta/tidymv)* is an R package by [Stefano Coretta](https://stefanocoretta.github.io) that lets you visualize GAMMs using tidyverse-friendly code.
 
 * *[GAMs in R](https://noamross.github.io/gams-in-r-course/)* by [Noam Ross](https://www.ecohealthalliance.org/personnel/dr-noam-ross) is a free interactive course on GAMs in R.
+
+* Since model objects can get huge, you might want to try [Joyce Cahoon's](https://jcahoon.netlify.com/#about) [butcher](https://jcahoon.netlify.com/post/2019/08/08/model-butcher/) package to reduce the size of those giant objects. 
 
 
 <br/>
