@@ -197,7 +197,7 @@ Shawn Foster, **Joseph A. Stanley**, & Margaret E. L. Renwick. "Vowel Mergers in
 
 **Joey Stanley**. Brand Yourself: Boosting Your Online Presence. Workshop given at the University of Georgia. Athens, GA. September 20 and 26, 2019.
 
-**Joey Stanley**. Generalize your plot appearance using custom themes in ggplot2. Workshop given at the University of Georgia DigiLab. Athens, GA. September 4, 2019.
+**Joey Stanley**. Generalize your aesthetics using custom themes in ggplot2. Workshop given at the University of Georgia DigiLab. Athens, GA. September 4, 2019.
 
 **Joey Stanley**. Customizing your plots to make that perfect visual. Workshop given at the University of Georgia DigiLab. Athens, GA. August 28, 2019.
 
