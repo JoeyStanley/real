@@ -100,6 +100,10 @@ Here is a list of resources I've found for R. I've gone through some of them and
 
 * *[An Introduction to Spatial Analysis in R](http://www.seascapemodels.org/rstats/rspatial/2015/06/22/R_Spatial_course.html)* by [Chris Brown](http://www.seascapemodels.org).
 
+* *[Spatial Data Science](https://keen-swartz-3146c4.netlify.com)* by [Edzer Pebesma](https://www.uni-muenster.de/Geoinformatics/en/institute/staff/index.php/119/Edzer_Pebesma) and [Roger Bivand](https://www.nhh.no/en/employees/faculty/roger-bivand/).
+
+* *[Spatial and Spatioteporal Data Analysis in R](https://github.com/edzer/User2019)*, a workshop [Edzer Pebesma](https://www.uni-muenster.de/Geoinformatics/en/institute/staff/index.php/119/Edzer_Pebesma), [Roger Bivand](https://www.nhh.no/en/employees/faculty/roger-bivand/), and Angela Li at the useR! 2019 conference on Jul 9, 2019.
+
 * *[Geocomputation with R](https://geocompr.robinlovelace.net)* by Robin Lovelace, Jakub Nowosad, and Jannes Muenchow.
 
 * *[A Guide to Working with US Census Data in R](https://rconsortium.github.io/censusguide/)* by Ari Lamstein and Logan Powell is a nice, brief guide to census data and some places to go if you want to work with it in R.
@@ -107,6 +111,8 @@ Here is a list of resources I've found for R. I've gone through some of them and
 * I get all my shape files from the [National Historical Geographic Information System (NHGIS) website](https://www.nhgis.org).
 
 * And because I haven't quite gotten the hang of it yet in R, I do all my mapmaking using the [QGIS](https://qgis.org/en/site/), the open-source, Mac-friendly, and free alternative to [ArcGIS](https://www.arcgis.com/index.html). Shout-out to [@mjduever](https://twitter.com/mjduever) of UGA Libraries for teaching me everything I know about GIS.
+
+
 
 
 
@@ -124,6 +130,8 @@ Here is a list of resources I've found for R. I've gone through some of them and
 
 * *[Interactive web-based data visualization with R, plotly, and shiny](https://plotly-r.com)* by [Carson Sievert](https://cpsievert.me) is another free online book on data visualizatio in in R. This has a good focus on interactivity since it involves [plotly](https://plot.ly) and [Shiny](https://shiny.rstudio.com).
 
+* *[Mastering Shiny](https://mastering-shiny.org)* by Hadley Wickham is under development and will be released late 2020. I'm looking forward to this comprehensive book on Winston Chang's [shiny](https://shiny.rstudio.com) package a lot actually, but in the meantime though you and I can peruse the online version for free.
+
 ### Colors
 
 * The [`scion`](https://www.data-imaginist.com/2018/scico-and-the-colour-conundrum/) package has a bunch of colorblind-safe, perceptually uniform, ggplot2-friendly color palettes for use in visuals. Very cool.
@@ -131,6 +139,18 @@ Here is a list of resources I've found for R. I've gone through some of them and
 * The [color brewer website](http://colorbrewer2.org), while best for maps, offers great color palettes that are colorblind and sometimes also printer-safe. The have native integration with `ggplot2` with the `scale_[color|fill]_ [brewer|distiller]` [functions](https://ggplot2.tidyverse.org/reference/scale_brewer.html). 
 
 * Paul Tol has come up with some [additional color themes](https://personal.sron.nl/~pault/), which you can access with `scale_color_ptol` in the [`ggthemes`](https://www.rdocumentation.org/packages/ggthemes/versions/3.5.0) package.
+
+
+### Animation
+
+* Thomas Lin Pedersen's [gganimate](https://gganimate.com) package has now made it possible to make really cool animations in R. Sometimes you want to add a bit of pizzazz to your presentation, but other times animation really is the best way to visualize something. Either way, this package will help you out a lot.
+
+### Rayshader
+
+* Definitely check out [Tyler Morgan-Wall's](https://www.tylermw.com) [rayshader](https://www.rayshader.com) package. It makes it pretty simple to make absolutely *stunning* 3D images of your data in R. You can make 3D maps if you have spatial data, but you can also turn any boring ggplot2 plot into a 3D work of art. Seriously, go try it out.
+
+* [Lego World Map - Rayshader Walkthrough](https://arthurwelle.github.io/RayshaderWalkthrough/index.html) by [Arthur Welle](https://twitter.com/ArthurWelle) is an awesome walkthrough on rayshader and maps made out of virtual Legos. It's a lot of fun.
+
 
 
 ### Making better plots
@@ -145,8 +165,6 @@ Here is a list of resources I've found for R. I've gone through some of them and
 * My friend [Andres Karjus](https://andreskarjus.github.io) has given several workshops on wide range of data visualization topics, collectively called *[aRt of the figure: explore and visualize your data using R](https://andreskarjus.github.io/artofthefigure/)*. You should definitely explore his github and check out his materials.
 
 * This [blog post](https://www.jessesadler.com/post/network-analysis-with-r/) by Jesse Sadler is a great tutorial on how to use R to visualize network data.
-
-* In case you've wanted to make animations in R, be sure to check out Thomas Lin Pedersen's [gganimate](https://gganimate.com) package.
 
 * Plotting special characters or unique fonts can be tricky. [Yixuan Qiu](https://statr.me)'s tutorial *[showtext: Using Fonts More Easily in R Graphs](https://cran.rstudio.com/web/packages/showtext/vignettes/introduction.html)* can help you with that.
 
@@ -165,10 +183,6 @@ Here is a list of resources I've found for R. I've gone through some of them and
 
 * *[Same Stats, Different Graphs: Generating Datasets with Varied Appearance and Identical Statistics through Simulated Annealing](https://www.autodeskresearch.com/publications/samestats)* by Justin Matejka and George Fitzmaurice. This went viral in some circles and shows that you can get the exact same summary statistics with wildly different distributions. Very cool. 
 
-* *[15 Types of Regression You Should Know](https://www.listendata.com/2018/03/regression-analysis.html#.WrqjTxC-HWE.twitter)* is a post on the blog *Listen Data* that is a nice overview of different kinds of regression and how to implement them in R.
-
-* *[Mixed Modeling as a Foreign Language](http://thestudyofthehousehold.com/2018/02/28/2018-02-28-formulae-are-a-lot-like-french-slang/)*, a blog post by Andrew McDonald, first off is a good explanation of what mixed modeling is all about. But more importantly, it makes the point that "if you only partly understand the words you are using, you *will* humiliate yourself eventually." In other words, it's important to know what you're doing when you use statistics, and if you don't, maybe you should reconsider before you do something wrong.
-
 * Here's a [BuzzFeed article](https://www.buzzfeed.com/stephaniemlee/brian-wansink-cornell-p-hacking?utm_term=.rkMwm8D0J#.ffAq3aVye) by Stephanie M. Lee about a researcher who made the news because of his unbelieveable amount of *p*-hacking and using "statistics" to lie about his data.
 
 ### Linear mixed-effects models
@@ -178,6 +192,8 @@ Here is a list of resources I've found for R. I've gone through some of them and
 * [Mixed-Effects Regression Models in Linguistics](https://www.springer.com/us/book/9783319698281), edited by Dirk Speelman, Kris Heylen, & Dirk Geeraerts and published by Springer is an entire book on mixed-effects models, specifically for linguists. 
 
 * [Michael Clark's](https://m-clark.github.io) post called [Shrinkage in Mixed Effects Models](https://m-clark.github.io/posts/2019-05-14-shrinkage-in-mixed-models/) has some beautiful illustrations that demonstrate shirnkage. In fact, he has written [a much larger document](https://m-clark.github.io/mixed-models-with-R/) explaining what mixed-effects models and how to run them in R.
+
+* *[Mixed Modeling as a Foreign Language](http://thestudyofthehousehold.com/2018/02/28/2018-02-28-formulae-are-a-lot-like-french-slang/)*, a blog post by Andrew McDonald, first off is a good explanation of what mixed modeling is all about. But more importantly, it makes the point that "if you only partly understand the words you are using, you *will* humiliate yourself eventually." In other words, it's important to know what you're doing when you use statistics, and if you don't, maybe you should reconsider before you do something wrong.
 
 ### GAM(M)s
 
@@ -200,6 +216,17 @@ My dissertation makes heavy use of generalized additive mixed-effects models (GA
 * *[GAMs in R](https://noamross.github.io/gams-in-r-course/)* by [Noam Ross](https://www.ecohealthalliance.org/personnel/dr-noam-ross) is a free interactive course on GAMs in R.
 
 * Since model objects can get huge, you might want to try [Joyce Cahoon's](https://jcahoon.netlify.com/#about) [butcher](https://jcahoon.netlify.com/post/2019/08/08/model-butcher/) package to reduce the size of those giant objects. 
+
+### Other Models
+
+I know there are other types of models out there but I haven't had the opportunity to use them. Here are some resources I've found that might be good for me down the road.
+
+
+* *[15 Types of Regression You Should Know](https://www.listendata.com/2018/03/regression-analysis.html#.WrqjTxC-HWE.twitter)* is a post on the blog *Listen Data* that is a nice overview of different kinds of regression and how to implement them in R.
+
+* [Introduction to Generalized Linear Models](http://statmath.wu.ac.at/courses/heather_turner/) by [Heather Turner](http://www.heatherturner.net/)
+
+* [Course materials](https://github.com/hturner/gnm-half-day-course) for the generalized nonlinear models (GNM) half-day course at the useR! 2019 conference by [Heather Turner](http://www.heatherturner.net/). Here's her [full-day version](https://github.com/hturner/gnm-day-course) from Zurich R Course series. 
 
 
 <br/>
