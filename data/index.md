@@ -17,7 +17,7 @@ A dataset of each menu item at McDonald's. I use this in some of my ggplot2 work
 
 ## Olympic Games ([athletes](/data/athletes.csv), [events](/data/events.csv), [years](/data/years.csv))
 
-This is data about the atheletes, events, from the Olympic games. I use this in my tidyverse workshops to illustrate joining different datasetes. 
+This is data about the atheletes, events, from the Olympic games. The dataset was downloaded from [Kaggle.com](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results), which was made available thanks to user [Randi Griffin](https://www.kaggle.com/heesoo37). I use this in my tidyverse workshops to illustrate joining different datasetes. 
 
 ## [Snoozing](/data/snoozing.xlsx)
 
