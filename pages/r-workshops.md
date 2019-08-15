@@ -8,7 +8,9 @@ redirect_from:
 
 # R Workshops
 
-In Fall 2017 and Spring 2018, I offered a series of workshops on R. They were held Fridays at 3:30 in the DigiLab at the UGA Main Library. Videos for some of these are available [here](https://digilabuga.github.io/Resources/VideoTutorials.html). Below you will find materials for these workshops. I hope they are thorough enough that you can make use of them as stand-alone documents. 
+For two years I have offered workshops on a variety of topics. In Fall 2017 and Spring 2018, I offered a series of workshops on R. They were held Fridays at 3:30 in the DigiLab at the UGA Main Library. Videos for some of these are available [here](https://digilabuga.github.io/Resources/VideoTutorials.html). In Fall 2019, I am offering additional workshops on data visualization. Below you will find materials for these workshops. I hope they are thorough enough that you can make use of them as stand-alone documents. 
+
+The data used in these workshops can be found at my [datasets page](/data).
 
 Note: If you attended these workshops, please consider giving me some feedback with [this anonymous survey](/survey) so I can know how to improve. 
 
