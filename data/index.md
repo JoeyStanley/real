@@ -5,7 +5,7 @@ layout: aside
 Datasets
 ========
 
-Below you will find some datasets I use for various workshops. They are all either my own data (so like, based on my voice or behavior) or are publically available.
+Below you will find some datasets I use for various workshops. They are all either my own data (so like, based on my voice or behavior) or are publicly available.
 
 ## Cereal ([.csv](/data/cereal.csv) or [.txt](/data/cereal.txt).)
 
