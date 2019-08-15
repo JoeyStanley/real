@@ -14,7 +14,7 @@ Note: If you attended these workshops, please consider giving me some feedback w
 
 <br/>
 
-## *Intro to R ([Part 1](/downloads/180119-intro-to-r-part1) and [Part 2]((/downloads/180126-intro-to-r-part2)))*
+## *Intro to R ([Part 1](/downloads/180119-intro-to-r-part1) and [Part 2](/downloads/180126-intro-to-r-part2))*
 
 In this first workshop I cover the basics of R itself. I talk about the differences between R and RStudio and I help folks get both installed and running on their computers. We creat a simple "Hello, World!" script using R. Part 2 covers the basics of the R language. It is also be a very simple introduction to some core computer coding concepts like declaring variables and variable types.
 
@@ -22,7 +22,7 @@ In this first workshop I cover the basics of R itself. I talk about the differen
 
 <br/>
 
-## *Visualizations with ggplot2 ([Part 1](/downloads/180216-ggplot2-part1) and [Part 2](/downloads/180223-ggplot2-part2.pdf))*
+## *Visualizations with ggplot2 ([Part 1](/downloads/180216-ggplot2-part1) and [Part 2](/downloads/180223-ggplot2-part2))*
 
 ggplot2 is a widely used package that allows for high-quality visualizations. In Part 1 of this workshop I cover the basic syntax and how to make some simple types of plots. But often you'll want to customize them in some way. So, in Part 2, we cover how to mess with properties of the plots like the axes, colors, and legends to make the plot work better for you.
 
