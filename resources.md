@@ -151,16 +151,15 @@ Here is a list of resources I've found for R. I've gone through some of them and
 
 * [Lego World Map - Rayshader Walkthrough](https://arthurwelle.github.io/RayshaderWalkthrough/index.html) by [Arthur Welle](https://twitter.com/ArthurWelle) is an awesome walkthrough on rayshader and maps made out of virtual Legos. It's a lot of fun.
 
-
-
 ### Making better plots
 
 * Edward Tufte is a statistician known for his series of four books that focus on best practices in the presentation of data:  [*The Visual Display of Quantitative Information*](https://www.edwardtufte.com/tufte/books_vdqi), [*Envisioning Information*](https://www.edwardtufte.com/tufte/books_ei), [*Visual Explanations*](https://www.edwardtufte.com/tufte/books_visex), and [*Beautiful Evidence*](https://www.edwardtufte.com/tufte/books_be). I read them over several months on the bus and they are very cool. As a practical application of them, [this page](http://motioninsocial.com/tufte/) by Lukasz Piwek shows how to implement many of these visualizations in R. You can also use `ggthemes` to get some of this implementation. 
 
 * Joey Cherdarchuk of [Darkhorse Analytics](https://www.darkhorseanalytics.com) has put together some really succinct presentations on how to simplify things you might put in a paper like [maps](https://www.darkhorseanalytics.com/blog/data-looks-better-naked-maps-edition), [charts](https://www.darkhorseanalytics.com/blog/salvaging-the-pie), [tables](https://www.darkhorseanalytics.com/blog/clear-off-the-table), and [reducing the data to ink ratio](https://www.darkhorseanalytics.com/blog/data-looks-better-naked).
 
-
 ### Miscellany
+
+* The [R Graph Gallary](https://www.r-graph-gallery.com) has hundreds of plots, with code, illustrating what the plots are typically used for and different variants of the same plot. Very cool.
 
 * My friend [Andres Karjus](https://andreskarjus.github.io) has given several workshops on wide range of data visualization topics, collectively called *[aRt of the figure: explore and visualize your data using R](https://andreskarjus.github.io/artofthefigure/)*. You should definitely explore his github and check out his materials.
 
