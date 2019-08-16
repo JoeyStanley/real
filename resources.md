@@ -106,12 +106,15 @@ Here is a list of resources I've found for R. I've gone through some of them and
 
 * *[Geocomputation with R](https://geocompr.robinlovelace.net)* by Robin Lovelace, Jakub Nowosad, and Jannes Muenchow.
 
-* *[A Guide to Working with US Census Data in R](https://rconsortium.github.io/censusguide/)* by Ari Lamstein and Logan Powell is a nice, brief guide to census data and some places to go if you want to work with it in R.
-
-* I get all my shape files from the [National Historical Geographic Information System (NHGIS) website](https://www.nhgis.org).
+* I get all my shape files from the [National Historical Geographic Information System (NHGIS) website](https://www.nhgis.org). 
 
 * And because I haven't quite gotten the hang of it yet in R, I do all my mapmaking using the [QGIS](https://qgis.org/en/site/), the open-source, Mac-friendly, and free alternative to [ArcGIS](https://www.arcgis.com/index.html). Shout-out to [@mjduever](https://twitter.com/mjduever) of UGA Libraries for teaching me everything I know about GIS.
 
+### Working with Census Data
+
+* *[A Guide to Working with US Census Data in R](https://rconsortium.github.io/censusguide/)* by Ari Lamstein and Logan Powell is a nice, brief guide to census data and some places to go if you want to work with it in R.
+
+* The *[tidycensus](https://walkerke.github.io/tidycensus/) package by [Kyle Walker](http://personal.tcu.edu/kylewalker/) looks really slick and makes it easy to work with census data within the Tidyverse framework. This blog post, [Burden of roof: revisiting housing costs with tidycensus](https://austinwehrwein.com/data-visualization/housing/), by [Austin Wehrwein](https://austinwehrwein.com) is a walkthrough of a real-world application with tidycensus.
 
 
 
