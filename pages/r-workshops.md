@@ -12,6 +12,8 @@ For two years I have offered workshops on a variety of topics. In Fall 2017 and 
 
 The data used in these workshops can be found at my [datasets page](/data).
 
+If you are planning on attending a workshop in the near future, please see the [setup instructions](/pages/setup) to help you get R and RStudio installed on your computer.
+
 Note: If you attended these workshops, please consider giving me some feedback with [this anonymous survey](/survey) so I can know how to improve. 
 
 <br/>
