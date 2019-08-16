@@ -134,6 +134,8 @@ Monday, November 6, 2017
 Sunday, May 5, 2019
 10:00pm - I'm starting to put some the tutorial materials on GitHub.   
 
+Thursday, August 15, 2019
+10:06pm - Added the /data page. Should have done this earlier. Looks great. Also added the /pages/setup page to help with upcoming workshops.
 
 
 
@@ -162,6 +164,7 @@ Sunday, May 5, 2019
 * joeystanley.com/r              -> pages/r-workshops.md (I'm trying to phase this one out)
 * joeystanley.com/r2018          -> pages/r-workshops.md
 * joeystanley.com/secol2017      -> blog/secol2017.md
+* joeystanley.com/setup          -> pages/setup.md
 * joeystanley.com/tinytalks2018  -> pages/tinytalks2018.md -> /downloads/181403_tinytalks2018.pdf
 
 
