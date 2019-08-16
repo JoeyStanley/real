@@ -114,7 +114,7 @@ Here is a list of resources I've found for R. I've gone through some of them and
 
 * *[A Guide to Working with US Census Data in R](https://rconsortium.github.io/censusguide/)* by Ari Lamstein and Logan Powell is a nice, brief guide to census data and some places to go if you want to work with it in R.
 
-* The *[tidycensus](https://walkerke.github.io/tidycensus/) package by [Kyle Walker](http://personal.tcu.edu/kylewalker/) looks really slick and makes it easy to work with census data within the Tidyverse framework. This blog post, [Burden of roof: revisiting housing costs with tidycensus](https://austinwehrwein.com/data-visualization/housing/), by [Austin Wehrwein](https://austinwehrwein.com) is a walkthrough of a real-world application with tidycensus.
+* The [tidycensus](https://walkerke.github.io/tidycensus/) package by [Kyle Walker](http://personal.tcu.edu/kylewalker/) looks really slick and makes it easy to work with census data within the Tidyverse framework. This blog post, *[Burden of roof: revisiting housing costs with tidycensus](https://austinwehrwein.com/data-visualization/housing/)*, by [Austin Wehrwein](https://austinwehrwein.com) is a walkthrough of a real-world application with tidycensus.
 
 
 
@@ -223,12 +223,15 @@ My dissertation makes heavy use of generalized additive mixed-effects models (GA
 
 I know there are other types of models out there but I haven't had the opportunity to use them. Here are some resources I've found that might be good for me down the road.
 
-
 * *[15 Types of Regression You Should Know](https://www.listendata.com/2018/03/regression-analysis.html#.WrqjTxC-HWE.twitter)* is a post on the blog *Listen Data* that is a nice overview of different kinds of regression and how to implement them in R.
 
 * [Introduction to Generalized Linear Models](http://statmath.wu.ac.at/courses/heather_turner/) by [Heather Turner](http://www.heatherturner.net/)
 
 * [Course materials](https://github.com/hturner/gnm-half-day-course) for the generalized nonlinear models (GNM) half-day course at the useR! 2019 conference by [Heather Turner](http://www.heatherturner.net/). Here's her [full-day version](https://github.com/hturner/gnm-day-course) from Zurich R Course series. 
+
+### Miscelleny
+
+* This workshop, *[Dimension reduction with R](http://rpubs.com/Saskia/520216)*, by [Saskia Freytag]() shows different methods for dimension reduction, weighs their pros and cons, and includes examples and visuals of their applications. Pretty useful.
 
 
 <br/>
