@@ -12,7 +12,7 @@ Teaching
 
 I taught this course Fall 2017 and Spring 2019. You can find a recent syllabus [here](/downloads/190308_LING3060_syllabus.pdf).
 
-### [Praat Tutorial](/downloads/190523_Praat_tutorial.pdf)
+### [Praat Tutorial](/downloads/190523-Praat_tutorial.pdf)
 
 For homework, I often assign students mini-projects that involve the use of Praat. This assignment serves as a useful tutorial to downloading and running Praat for the first time. In it, I give detailed instructions on how to make and transcribe a sentence.
 
