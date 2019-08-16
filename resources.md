@@ -231,7 +231,7 @@ I know there are other types of models out there but I haven't had the opportuni
 
 ### Miscelleny
 
-* This workshop, *[Dimension reduction with R](http://rpubs.com/Saskia/520216)*, by [Saskia Freytag]() shows different methods for dimension reduction, weighs their pros and cons, and includes examples and visuals of their applications. Pretty useful.
+* This workshop, *[Dimension reduction with R](http://rpubs.com/Saskia/520216)*, by [Saskia Freytag](https://twitter.com/trashystats) shows different methods for dimension reduction, weighs their pros and cons, and includes examples and visuals of their applications. Pretty useful.
 
 
 <br/>
