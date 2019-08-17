@@ -143,6 +143,8 @@ Here is a list of resources I've found for R. I've gone through some of them and
 
 * Paul Tol has come up with some [additional color themes](https://personal.sron.nl/~pault/), which you can access with `scale_color_ptol` in the [`ggthemes`](https://www.rdocumentation.org/packages/ggthemes/versions/3.5.0) package.
 
+* If you want to make your own discrete color scale in R, definitely check out [Garrick Aden-Buie](https://www.garrickadenbuie.com)'s tutorial, *[Custom Discrete Color Scales for ggplot2](https://www.garrickadenbuie.com/blog/custom-discrete-color-scales-for-ggplot2/)*. 
+
 
 ### Animation
 
