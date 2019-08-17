@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "Jealousy List 3"
-date:   2019-08-16 22:10:00 -0400
+date:   2019-08-17 00:25:00 -0400
 tags: [Jealousy Lists, Data Viz, R, Skills, Statistics]
 ---
 
 This is the third iteration of my [Jealousy List](https://fivethirtyeight.com/features/damn-we-wish-wed-done-these-11-stories/), which is a list of articles so good I wish I had been the one to write them. My first two lists were posted about a year ago (see the list of lists [here](/tags/index.html#Jealousy+Lists)) and this one is long overdue, so I apologize for some of the posts being a little less recent. Regardless, here are a list of posts I've found in the past few weeks and months that I found exceptional in some way, entertaining, informative, or just plain cool.
+
 
 1. **[Saskia Freytag](https://twitter.com/trashystats)**. ["Workshop: Dimension reduction with R"](http://rpubs.com/Saskia/520216).
 
