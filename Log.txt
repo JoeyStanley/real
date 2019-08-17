@@ -143,6 +143,9 @@ Thursday, August 15, 2019
 
 # todo
 * Remove pptx files and replace them with PDFs
+* Restructure the downloads folder so it's under CV
+* Any reference to a dataset, make it link to data on my website
+* Add references to my research page.
 
 
 # Important: This is a list of all the redirects currently in the site.
@@ -168,6 +171,8 @@ Thursday, August 15, 2019
 * joeystanley.com/tinytalks2018  -> pages/tinytalks2018.md -> /downloads/181403_tinytalks2018.pdf
 
 
+
+
 Blog posts:
 * Thoughts while transcribing
     * When people take breaths, like immediately after a difficult word.
@@ -179,7 +184,6 @@ Blog posts:
 * Everything on my Resources page  
     * Linguistics-related packages: phon, vowels, phonTools, phonR
 * Mormon Forms of Address: for a non-specialist audience.
-* BEG maps--Somehow do this without stepping on the toes of future publications. 
 * Vowels part 3: Highlighting specific points in vowel plots (like my [gar] post), overlaying means, etc.
 * Vowels part 4: 3D scatterplots.
 * From Renwick: How my silence detection didn't work.
