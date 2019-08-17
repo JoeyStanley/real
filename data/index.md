@@ -11,9 +11,9 @@ Below you will find some datasets I use for various workshops. They are all eith
 
 A dataset of containing a bunch of information about 80 different kinds of breakfast cereal. I use this in some of my ggplot2 workshops. I got the dataset from the the one that [Chris Crawford](https://www.kaggle.com/crawford) at [Kaggle.com](https://www.kaggle.com/crawford/80-cereals) has made available but I've removed some of the columns to make it more manageable for a workshop. In his words, "If you like to eat cereal, do yourself a favor and avoid this dataset at all costs. After seeing these data it will never be the same for me to eat Fruity Pebbles again."
 
-## [Joey](/data/joey.csv)
+## [Joey's Vowels](/data/joey.csv)
 
-This data data from me reading about 300 sentences at home in my kitchen. I had it automatically transcribed, force-aligned, and formant-extracted using DARLA and I took zero effort to clean it up so it's a little messy. This dataset is the one I use in my tutorials.
+This dataset from me reading about 300 sentences at home in my kitchen. I had it automatically transcribed, force-aligned, and formant-extracted using DARLA and I took zero effort to clean it up so it's a little messy. This dataset is the one I use in my tutorials.
 
 ## [McDonald's Menu Items](/data/menu.csv)
 
@@ -33,4 +33,4 @@ A small dataset with basic information about each episode of *Stranger Things*. 
 
 ## Vowels ([tall](/data/vowels_tall.csv) and [wide](/data/vowels_wide.csv))
 
-Two datasets of acoustic measurements from my own speech. They contain identical information, but one is "tall" and the other is "wide." They're used in my first Tidyverse workshop.
+Two very small datasets of sample acoustic measurements. They contain identical information, but one is "tall" and the other is "wide." They're used in my first Tidyverse workshop to illustrate reshaping dataframes.
