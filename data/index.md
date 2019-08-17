@@ -13,7 +13,7 @@ A dataset of containing a bunch of information about 80 different kinds of break
 
 ## [Joey's Vowels](/data/joey.csv)
 
-This dataset from me reading about 300 sentences at home in my kitchen. I had it automatically transcribed, force-aligned, and formant-extracted using DARLA and I took zero effort to clean it up so it's a little messy. This dataset is the one I use in my tutorials.
+This dataset from me reading about 300 sentences at home in my kitchen. I had it automatically transcribed, force-aligned, and formant-extracted using [DARLA](http://darla.dartmouth.edu) and I took zero effort to clean it up so it's a little messy. Because DARLA utilizes FAVE for formant extraction, all the typical FAVE columns are there. This dataset is the one I use in a lot of my tutorials.
 
 ## [McDonald's Menu Items](/data/menu.csv)
 
