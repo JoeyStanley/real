@@ -18,8 +18,6 @@ title: Curriculum Vitae
 
 <p style = "margin-left:3em;">Committee: <a href="https://faculty.franklin.uga.edu/chowe/">L. Chad Howe</a> (chair), <a href="http://faculty.franklin.uga.edu/mrenwick/">Margaret E. L. Renwick</a>, <a href="https://www.english.uga.edu/directory/495/detail">William A. Kretzschmar, Jr.</a></p>
 
-**M.S. Statistics**, [University of Georgia](http://www.stat.uga.edu/), 2020 (expected) 
-
 **B.A. Linguistics**, [Brigham Young University](http://linguistics.byu.edu/), 2013
 
 <p style = "margin-left:3em;">Minor: Linguistics Computing</p>
