@@ -17,7 +17,7 @@ This is the second post in my occasional series of [Jealousy Lists](https://five
 
 1. [Julia Silge](https://juliasilge.com/about/). ["Training, Evaluating, and Interpreting Topic Models"](https://juliasilge.com/blog/evaluating-stm/).
 
-    I'm a big fan of Julia Silge's work, and though I've never needed to topic modeling in my own research, her blogs (and [book](https://www.tidytextmining.com))always make me want to start. In this post, she takes a bunch of texts from the Hacker News Corpus and shows how you might determine the best number of topics to choose when doing topic modeling. She then does the analysis itself and shows how the words fit into topics.
+    I'm a big fan of Julia Silge's work, and though I've never needed to topic modeling in my own research, her blogs (and [book](https://www.tidytextmining.com)) always make me want to start. In this post, she takes a bunch of texts from the Hacker News Corpus and shows how you might determine the best number of topics to choose when doing topic modeling. She then does the analysis itself and shows how the words fit into topics.
 
 1. [Thomas Lin Pedersen](https://www.data-imaginist.com). ["What Are We Plotting, What Are We Animating"](https://www.data-imaginist.com/2018/what-are-we-plotting-what-are-we-animating/)
 
