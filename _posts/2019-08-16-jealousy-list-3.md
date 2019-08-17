@@ -1,0 +1,50 @@
+---
+layout: post
+title:  "Jealousy List 3"
+date:   2019-08-16 22:10:00 -0400
+tags: [Jealousy Lists, Data Viz, R, Skills, Statistics]
+---
+
+This is the third iteration of my [Jealousy List](https://fivethirtyeight.com/features/damn-we-wish-wed-done-these-11-stories/), which is a list of articles so good I wish I had been the one to write them. My first two lists were posted about a year ago (see the list of lists [here](/tags/index.html#Jealousy+Lists)) and this one is long overdue, so I apologize for some of the posts being a little less recent. Regardless, here are a list of posts I've found in the past few weeks and months that I found exceptional in some way, entertaining, informative, or just plain cool.
+
+1. **[Saskia Freytag](https://twitter.com/trashystats)**. ["Workshop: Dimension reduction with R"](http://rpubs.com/Saskia/520216).
+
+    <blockquote class="twitter-tweet"><p lang="en" dir="ltr">So I wrote a tutorial on dimension reductions in <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a>. It has actually turned out to be fairly comprehensive. It uses a fun example dataset on cereals (🎉 - not looking for at iris) I would love some feedback: <a href="https://t.co/VsiHX2KYdT">https://t.co/VsiHX2KYdT</a></p>&mdash; Saskia Freytag (@trashystats) <a href="https://twitter.com/trashystats/status/1162234718504411136?ref_src=twsrc%5Etfw">August 16, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+    You may have heard of PCA (Principle Components Analysis) as a way to reduce a bunch of variabled down to a more manageable number. As it turns out, this is just one way to do a *dimension reduction* on your data. Freytag's workshop does a really nice job at explaining some of the different dimention reduction techniques that are out there, including helpful plots for the visual learners out there. It also goes into detail about the pros and cons of each method, and gives some sample R code showing you how to run the analysis yourself. I wish there were more workshops like there floating around! Plus, it uses data from a bunch of cereals, and I'm pretty sure I've used that dataset before in my workshops… 
+
+    <br/>
+
+1. **[Austin Wehrwein](https://austinwehrwein.com)**. ["Burden of roof: Revisiting housing costs with tidycensus"](https://austinwehrwein.com/data-visualization/housing/).
+
+    <blockquote class="twitter-tweet"><p lang="en" dir="ltr">In this episode I use the A+ tidycensus <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> package to examine housing costs along with income data AND stretch wordplay as far as it will go. Burden of roof: revisiting housing costs with tidycensus. <a href="https://t.co/gDVlOb9N9H">https://t.co/gDVlOb9N9H</a> <a href="https://t.co/i3gxzz6C8G">pic.twitter.com/i3gxzz6C8G</a></p>&mdash; Austin Wehrwein (@awhstin) <a href="https://twitter.com/awhstin/status/1157290104416849921?ref_src=twsrc%5Etfw">August 2, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+    This is a short blog post, but I really like it because is succinctly shows how to quickly produce a really complelling story with some data and a nice visual. It uses the [tidycensus](https://walkerke.github.io/tidycensus/) package by [Kyle Walker](http://personal.tcu.edu/kylewalker/) to extract some information about median income and housing prices per US county, and then creates a stunning map to display the data. I also learned that the county I live in now, Clarke County, Georgia, was among the top 25 *worst* counties in the country in this regard. I guess that's where all my money is going!
+
+    <br/>
+
+1. **[Garrick Aden-Buie](https://www.garrickadenbuie.com)**. ["Custom Discrete Color Scales for ggplot2"](https://www.garrickadenbuie.com/blog/custom-discrete-color-scales-for-ggplot2/).
+
+    <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I wrote up a short blog post on creating custom ggplot2 color scales. I focused on discrete color scales to demo a setup that makes binary colors easy, but I hope the post is helpful if you&#39;re working on a <a href="https://twitter.com/hashtag/ggplot2?src=hash&amp;ref_src=twsrc%5Etfw">#ggplot2</a> theme for your org or brand. <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/jQDxE61K3W">https://t.co/jQDxE61K3W</a></p>&mdash; Garrick Aden-Buie (@grrrck) <a href="https://twitter.com/grrrck/status/1162419274566262784?ref_src=twsrc%5Etfw">August 16, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+    I've become a bit of a color snob, so I appreciate a good post on colors in data visualization. This one is less about the colors themselves, and more about how to more easily implement your own custom color scheme in ggplot2. Aden-Buie even goes so far as to provide helpful tips for when you compile all these custom commands into an R package. I'll definitely be using this whenever I get my package off the ground.
+
+    <br/>
+
+1. **[Rafael Irizarry](http://rafalab.github.io//)**. ["Dynamite Plots must Die"](https://simplystatistics.org/2019/02/21/dynamite-plots-must-die/). From *[Simply Statistics](https://simplystatistics.org)*.
+
+    <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Open letter to journal editors: dynamite plots must die. Dynamite plots, also known as bar and line graphs, hide important information. Editors should require authors to show readers the data and avoid these plots. <a href="https://t.co/0GNKEIUCJL">https://t.co/0GNKEIUCJL</a> <a href="https://t.co/OS9ytEFRZN">pic.twitter.com/OS9ytEFRZN</a></p>&mdash; Rafael Irizarry (@rafalab) <a href="https://twitter.com/rafalab/status/1098973538260840449?ref_src=twsrc%5Etfw">February 22, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+    Data visualization must have been on my mind for a while now, because five months ago I bookmarked this blog post so that it'd make it on my next Jealousy List. This is a nice critique about *Dynamite Plots*, or basically bar plots with those little error bars at the top. Basically, they obscure the underlying distribution and can be replaced by a very small table. Fortunately, the complaint comes with a few recommendations for alternative visuals.
+
+    <br/>
+
+1. **[Julia Silge](https://juliasilge.com)**. ["Introducing Tidylo"](https://juliasilge.com/blog/introducing-tidylo/).
+
+    <blockquote class="twitter-tweet"><p lang="en" dir="ltr">NEW POST: Introducing ✨tidylo✨, an <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> package for weighted log odds ratios (using tidy data principles)<br><br>Developed with <a href="https://twitter.com/TSchnoebelen?ref_src=twsrc%5Etfw">@TSchnoebelen</a>, and demonstrated here with US baby names! 👶🏼👶🏾👶🏻<a href="https://t.co/RMRGMAu3Pv">https://t.co/RMRGMAu3Pv</a> <a href="https://t.co/EPt1hdqwHX">pic.twitter.com/EPt1hdqwHX</a></p>&mdash; Julia Silge (@juliasilge) <a href="https://twitter.com/juliasilge/status/1148133052478103552?ref_src=twsrc%5Etfw">July 8, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+    There will probably always be at least one Julia Silge post on my Jealousy Lists. This one introduces a new R package, tidylo, which calculates weighted log odds using within the framework of the tidyverse. The post itself is, as always, a fun read and there are some great visuals. This'll make it really easy to choose a baby name characteristic of like the 1920s for my next kid or something.
+
+<br/>
+
+So that's it for my long-overdue Jealousy List: statistical procedures, succint tutorials, color, data visualization, and more statistics. Again, a decent representation of what I've been reading recently.
