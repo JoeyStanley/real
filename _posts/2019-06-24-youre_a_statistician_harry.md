@@ -33,8 +33,6 @@ My other option was to do the thesis track. There are slightly fewer classes req
 
 So I've got a busy year ahead of me. After learning as much calculus as I can this summer, I'll take three courses in the fall, three in the spring, and do some consulting work over the summer while I write my thesis. It should be a blast. 
 
-## Fin
-
 
 
 
