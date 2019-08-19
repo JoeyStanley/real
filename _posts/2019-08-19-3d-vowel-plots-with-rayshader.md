@@ -98,7 +98,7 @@ plot_gg(hex_plot,
 <span class="sidenote">Click to zoom!</span>
 <a href = "/images/plots/rayshader/hex_plot_3D.png" class = "nodot"><img  src="/images/plots/rayshader/hex_plot_3D.png" class="rounded" style="width: 100%;"/></a>
 
-Well that's super cool. As it stands now, I admittedly don't really see anything new that a standard vowel plot doesn't already show me, but it's an interesting plot to consider nonetheless.
+Well that's super cool. 
 
 By the way, here's the code I used to export the plot to a file on my computer. I added a small bit of simulated focus/blur to it, which is always kind cool.
 
@@ -400,7 +400,6 @@ Anyway, I've belabored the point for too long. Let's now turn this into a 3D spe
 
 <span class="sidenote">Took about a minute to render and save.</span>
 ```r
-start_time <- Sys.time()
 plot_gg(spec, 
         width = 6, height = 3, scale = 300, 
         windowsize = c(1000, 800),
@@ -408,7 +407,6 @@ plot_gg(spec,
         theta = 330, phi = 40,
         multicore = TRUE)
 render_depth(focus = 0.68, focallength = 1, filename = "spec_3D")
-Sys.time() - start_time
 ```
 
 <span class="sidenote">Click to zoom!</span>
@@ -422,10 +420,9 @@ And now I'll use the same code from before to make a super awesome video only th
 ```r
 phivechalf = 45 + 45 * 1/(1 + exp(seq(-7, 20, length.out = 180)/2))
 phivecfull = c(phivechalf, rev(phivechalf))
-start_time <- Sys.time()
+
 render_movie(filename = "spec_plot_fancy", type = "custom", 
             frames = 360,  phi = phivecfull, zoom = zoomvecfull, theta = thetavec)
-Sys.time() - start_time
 ```
 
 <video width="100%" controls autoplay loop>
