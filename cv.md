@@ -5,7 +5,7 @@ title: Curriculum Vitae
 
 # Curriculum Vitae
 
-<p id="updated">Updated June 23, 2019. Download PDF <a href="/downloads/190404-CV.pdf" target="_blank" title="open a pdf of my CV in a new window">here</a>.</p>
+<p id="updated">Updated August 19, 2019. Download PDF <a href="/downloads/190404-CV.pdf" target="_blank" title="open a pdf of my CV in a new window">here</a>.</p>
 
 <br/>
 
@@ -72,6 +72,8 @@ Olsen, Rachel M., Michael L. Olsen, **Joseph A. Stanley**, Margaret E. L. Renwic
 ## Conference Presentations
 
 ### Oral Presentations
+
+Joseph A. Stanley. "Real Time Vowel Shifts in Georgia English." The 6th Annual Linguistics Conference at UGA ([LCUGA6](http://linguistics.uga.edu/lcuga-6)). Athens, GA. October 4–5, 2019.
 
 William A. Kretzschmar, Jr. & **Joseph A. Stanley**. "Visualization of Big Data Phonetics." [Digitial Humanities Confernce 2019](https://dh2019.adho.org). Utrecht, the Netherlands. July 9–12, 2019. 
 
@@ -187,6 +189,8 @@ Shawn Foster, **Joseph A. Stanley**, & Margaret E. L. Renwick. "Vowel Mergers in
 
 ## Workshops
 
+Lisa Lipani and **Joey Stanley**. Automatic Measurement of VOT in Praat. Workshop given at the University of Georgia DigiLab. Athens, GA. November 6, 2019.
+
 **Joey Stanley**. Don’t like coding? Try these online visualization tools! Workshop given at the University of Georgia DigiLab. Athens, GA. October 30, 2019.
 
 **Joey Stanley** and [Meagen Duever](https://twitter.com/mjduever). Send the right message: The dos and don’ts of color in data visualization. Workshop given at the University of Georgia DigiLab. Athens, GA. October 23, 2019.
@@ -194,6 +198,12 @@ Shawn Foster, **Joseph A. Stanley**, & Margaret E. L. Renwick. "Vowel Mergers in
 **Joey Stanley**. Fidelity, integrity, and sophistication: Edward Tufte’s principles of data visualization. Workshop given at the University of Georgia DigiLab. Athens, GA. October 16, 2019.
 
 **Joey Stanley**. Brand Yourself: Boosting Your Online Presence. Workshop given at the University of Georgia. Athens, GA. September 20 and 26, 2019.
+
+**Joey Stanley** and Lisa Lipani. Automatic Formant Extraction (and other acoustic measures) in Praat. Workshop given at the University of Georgia DigiLab. Athens, GA. October 2, 2019.
+
+Lisa Lipani and **Joey Stanley**. Praat Scripting Basics: Loops, I/O, and TextGrids. Workshop given at the University of Georgia DigiLab. Athens, GA. September 18, 2019.
+
+**Joey Stanley** and Lisa Lipani. Praat Basics: Introduction to the software. Workshop given at the University of Georgia DigiLab. Athens, GA. September 11, 2019
 
 **Joey Stanley**. Generalize your aesthetics using custom themes in ggplot2. Workshop given at the University of Georgia DigiLab. Athens, GA. September 4, 2019.
 
@@ -398,6 +408,8 @@ Research Assistant for Dr. [Janis Nuckolls](http://linguistics.byu.edu/directory
 
 
 ## Other Employment
+
+US English Linguistics Expert for DefinedCrowd. Summer 2019.
 
 Assistant for Dr. Peggy Renwick in developing materials and establishing an online repository for “Quantitative Methods in Linguistics” at the University of Georgia. 2016--2017.
 
