@@ -64,6 +64,8 @@ Here is a list of resources I've found for R. I've gone through some of them and
 
 * [*Tidymodels*](https://www.tidyverse.org/articles/2018/08/tidymodels-0-0-1/) is like the Tidyverse suite of packages, but it's meant for better handling of many statistical models. Also see it's [GitHub](https://github.com/tidymodels/tidymodels) page.
 
+* *[Learn to purrr](http://www.rebeccabarter.com/blog/2019-08-19_purrr/)* by [Rebecca Barter](http://www.rebeccabarter.com) is the tutorial on purrr that I wish I had.
+
 * *[Modern R with the Tidyverse](https://b-rodrigues.github.io/modern_R/)* by Bruno Rodriguez is a work in progress, but it's another free eBook that shows R and the Tidyverse.
 
 ### Working with Text
