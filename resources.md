@@ -237,6 +237,8 @@ I know there are other types of models out there but I haven't had the opportuni
 
 * This workshop, *[Dimension reduction with R](http://rpubs.com/Saskia/520216)*, by [Saskia Freytag](https://twitter.com/trashystats) shows different methods for dimension reduction, weighs their pros and cons, and includes examples and visuals of their applications. Pretty useful.
 
+* If you use statistical modeling in your research, the [`report`](https://github.com/easystats/report/blob/master/README.md) package is a useful tool to convert your model into human-readable prose. 
+
 
 <br/>
 ## Praat Resources
