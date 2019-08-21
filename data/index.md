@@ -31,9 +31,9 @@ This is data about when I've woken up every morning for about two years. Just in
 
 A small dataset with basic information about each episode of *Stranger Things*. I use this in my most recent ggplot2 workshops. I went to IMDb's [data download page](https://www.imdb.com/interfaces/) to actually get it, and did a little bit of prep work to make it ready for the workshop.
 
-## [Top 25 Girl Names in 2017](/data/top25_girlnames_2017.txt)
+## [Top 25 Girl Names in 2017](/data/girlnames.txt)
 
-A small dataset simply listing the top 25 most common baby girl names in 2017 and how many babies were given those names. Created with the help of the `babynames` packages. This is used in the ggplot2 workshop. Note that this is saved as a tab-delimited file to help practice reading in different file types.
+A small dataset simply listing the top 25 most common baby girl names in 2017 in the US and how many babies were given those names. Created with the help of the `babynames` package which contains data from the Social Security database. This is used in the ggplot2 workshop. Note that this is saved as a tab-delimited file to help practice reading in different file types.
 
 ## Vowels ([tall](/data/vowels_tall.csv) and [wide](/data/vowels_wide.csv))
 
