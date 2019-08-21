@@ -33,7 +33,7 @@ A small dataset with basic information about each episode of *Stranger Things*. 
 
 ## [Top 25 Girl Names in 2017](/data/top25_girlnames_2017.txt)
 
-A small dataset simply listing the top 25 most common baby girl names in 2017 and how many babies were given those names. Created with the help of the `babynames` packages. This is used in the ggplot2 workshop. 
+A small dataset simply listing the top 25 most common baby girl names in 2017 and how many babies were given those names. Created with the help of the `babynames` packages. This is used in the ggplot2 workshop. Note that this is saved as a tab-delimited file to help practice reading in different file types.
 
 ## Vowels ([tall](/data/vowels_tall.csv) and [wide](/data/vowels_wide.csv))
 
