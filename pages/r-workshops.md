@@ -26,9 +26,9 @@ In this first workshop I cover the basics of R itself. I talk about the differen
 
 <br/>
 
-## *Visualizations with ggplot2 ([Part 1](/downloads/190821-intro_to_ggplot2) and [Part 2](/downloads/180223-ggplot2-part2))*
+## *Visualizations with ggplot2 ([Part 1](/downloads/190821-intro_to_ggplot2), [Part 2](/downloads/180223-ggplot2-part2), [Supplement to Part 2](/downloads/190828-ggplot2_supplement), and [Custom Themes](/blog/custom-themes-in-ggplot2))*
 
-ggplot2 is a widely used package that allows for high-quality visualizations. In Part 1 of this workshop I cover the basic syntax and how to make some simple types of plots. But often you'll want to customize them in some way. So, in Part 2, we cover how to mess with properties of the plots like the axes, colors, and legends to make the plot work better for you.
+ggplot2 is a widely used package that allows for high-quality visualizations. In Part 1 of this workshop I cover the basic syntax and how to make some simple types of plots. But often you'll want to customize them in some way. So, in Part 2, we cover how to mess with properties of the plots like the axes, colors, and legends to make the plot work better for you. Part 3 contains supplemental material that goes into more detail about topics in Parts 1 and 2. The Custom Themes workshop wraps all these ideas together and shows how to create your own themes.
 
 *Additional Materials:* You may also be interested in the 2018 versions of this workshop I gave (Part 1 [Rmarkdown](/downloads/180216-ggplot2-part1) and [PDF](/downloads/180216-ggplot2-part1.pdf) and Part 2 [RMarkdown](/downloads/180223-ggplot2-part2) and [PDF](/downloads/180223-ggplot2-part2.pdf). An older version from 2017 that combines elements of both parts can be found here as a [PDF](/downloads/171012-ggplot2_handout.pdf) or [RMarkdown](/downloads/171012-ggplot2.html) file.
 
