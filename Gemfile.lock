@@ -65,7 +65,7 @@ DEPENDENCIES
   jekyll-redirect-from
   jekyll-toc
   minima (~> 2.0)
-  nokogiri (>= 1.10.4)
+  nokogiri (>= 1.8.5)
 
 RUBY VERSION
    ruby 2.3.7p456
