@@ -73,7 +73,7 @@ Olsen, Rachel M., Michael L. Olsen, **Joseph A. Stanley**, Margaret E. L. Renwic
 
 ### Oral Presentations
 
-**Joseph A. Stanley** & Margaret E. L. Renwick. "Back vowel distinctions and dynamics in Southern US English." The 94th Annual Meeting of the Linguistic Society of America. New Orleans, LA. January 2--5, 2020.\\
+**Joseph A. Stanley** & Margaret E. L. Renwick. "Back vowel distinctions and dynamics in Southern US English." The 94th Annual Meeting of the Linguistic Society of America. New Orleans, LA. January 2--5, 2020.
 
 Joseph A. Stanley. "Real Time Vowel Shifts in Georgia English." The 6th Annual Linguistics Conference at UGA ([LCUGA6](http://linguistics.uga.edu/lcuga-6)). Athens, GA. October 4–5, 2019.
 
