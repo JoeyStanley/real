@@ -165,6 +165,7 @@ Thursday, August 15, 2019
 * joeystanley.com/lsa2019        -> blog/ads-and-lsa-2019.md
 * joeystanley.com/nwav46         -> blog/nwav46.md
 * joeystanley.com/nwav47         -> blog/nwav47.md
+* joeystanley.com/praat          -> pages/praat.md
 * joeystanley.com/r              -> pages/r-workshops.md (I'm trying to phase this one out)
 * joeystanley.com/r2018          -> pages/r-workshops.md
 * joeystanley.com/secol2017      -> blog/secol2017.md
