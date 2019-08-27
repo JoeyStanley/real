@@ -127,7 +127,7 @@ Here is a list of resources I've found for R. I've gone through some of them and
 
 ### Books
 
-* *[ggplot2](http://www.springer.com/us/book/9783319242750)* by Hadley Wickham is a comprehensive resource for learning all the ins and outs of ggplot2.
+* *[ggplot2](http://www.springer.com/us/book/9783319242750)* by Hadley Wickham is a comprehensive resource for learning all the ins and outs of ggplot2. Version 3 is due in 2020, but you can look through what's been written so far [here](http://ggplot2-book.org).
 
 * [*Data Visualization: A Practical Introduction*](http://socviz.co) by [Kieran Healy](kieranhealy.org). I haven't had the time to look through it, but this books looks quite good. It covers data prep, basic plots, visualizing statistical models, maps, and a whole bunch of other stuff. 
 
