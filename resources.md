@@ -108,6 +108,8 @@ Here is a list of resources I've found for R. I've gone through some of them and
 
 * *[Geocomputation with R](https://geocompr.robinlovelace.net)* by Robin Lovelace, Jakub Nowosad, and Jannes Muenchow.
 
+* *[R for Geospatial Processing](https://bakaniko.github.io/FOSS4G2019_Geoprocessing_with_R_workshop/) by Nicolas Roelandt.
+
 * I get all my shape files from the [National Historical Geographic Information System (NHGIS) website](https://www.nhgis.org). 
 
 * And because I haven't quite gotten the hang of it yet in R, I do all my mapmaking using the [QGIS](https://qgis.org/en/site/), the open-source, Mac-friendly, and free alternative to [ArcGIS](https://www.arcgis.com/index.html). Shout-out to [@mjduever](https://twitter.com/mjduever) of UGA Libraries for teaching me everything I know about GIS.
