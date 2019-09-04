@@ -11,7 +11,7 @@ On this page you'll find links to all sorts of stuff that I have found useful, i
 <br/>
 ## My handouts, tutorials, and workshops
 
-### [R Workshops](/pages/r-workshops.html)
+### [R Workshops](/pages/r-workshops)
 
 This is a series of workshops on how to use R which includes a variety of topics. I have included PDFs and additional information on each installment of this series.
 
