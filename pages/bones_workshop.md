@@ -14,7 +14,7 @@ This page contains the handouts for the workshop for the "Research Experience fo
 <br/>
 
 
-<div class="biglink"><a href="/downloads/180621-bones1.html" class="nodot" target = "_blank">View the <br />handout here</a></div>
+<div class="biglink"><a href="/downloads/180621-bones1" class="nodot" target = "_blank">View the <br />handout here</a></div>
 ## Part 1: Intro to R
 *9:00–9:50*
 
@@ -22,7 +22,7 @@ In this first part, we'll do an introduction to R. We'll talk about what R is, l
 
 <br/>
 
-<div class="biglink"><a href="/downloads/180621-bones2.html" class="nodot" target = "_blank">View the <br />handout here</a></div>
+<div class="biglink"><a href="/downloads/180621-bones2" class="nodot" target = "_blank">View the <br />handout here</a></div>
 ## Part 2: Data Visualization
 *10:00–10:50*
 
@@ -30,14 +30,14 @@ In this second portion of the workshop, we'll look at the `ggplot` package and s
 
 <br/>
 
-<div class="biglink"><a href="/downloads/180621-bones3.html" class="nodot" target = "_blank">View the <br />handout here</a></div>
+<div class="biglink"><a href="/downloads/180621-bones3" class="nodot" target = "_blank">View the <br />handout here</a></div>
 ## Part 3: Statistical Tests
 *11:00–11:50*
 
 This last part of the workshop is specifically devoted to how to run some statistics on your data. We'll look at samples of the kind of data you have and see how to run tests like the *t*-test, the Mann-Whitney test, and the Kruskall-Wallis test. Moving over to categorical data, we'll see how to do chi-squared tests and Fisher's exact test. Finally, we'll see how to do Principal Components Analysis. At every step of the way, there will be little interjections on best practices and how to make useful visualizations to help you with these.
 
 <br/>
-<div class="biglink"><a href="/downloads/180625-bones4.html" class="nodot" target = "_blank">View the <br />handout here</a></div>
+<div class="biglink"><a href="/downloads/180625-bones4" class="nodot" target = "_blank">View the <br />handout here</a></div>
 ## Bonus! Part 4: Regression
 *June 25: 9:00–10:00*
 

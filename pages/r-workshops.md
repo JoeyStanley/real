@@ -22,7 +22,7 @@ Note: If you attended these workshops, please consider giving me some feedback w
 
 In this first workshop I cover the basics of R itself. I talk about the differences between R and RStudio and I help folks get both installed and running on their computers. We creat a simple "Hello, World!" script using R. Part 2 covers the basics of the R language. It is also be a very simple introduction to some core computer coding concepts like declaring variables and variable types.
 
-*Additional Materials:* You may also be interested in [a PDF of the slides I used in Part 1](/downloads/180119-intro-to-r-part1.pdf) or [a PDF verson of Part 2's handout](/downloads/180126-intro-to-r-part2.pdf). An older version that combines elements of both parts can be found here as a [PDF](/downloads/170912-intro-to-r-handout.pdf) or [RMarkdown](/downloads/170913-intro_to_R.html) file.
+*Additional Materials:* You may also be interested in [a PDF of the slides I used in Part 1](/downloads/180119-intro-to-r-part1.pdf) or [a PDF verson of Part 2's handout](/downloads/180126-intro-to-r-part2.pdf). An older version that combines elements of both parts can be found here as a [PDF](/downloads/170912-intro-to-r-handout.pdf) or [RMarkdown](/downloads/170913-intro_to_R) file.
 
 <br/>
 
@@ -51,19 +51,19 @@ Based on a popular [blog post](/blog/2016-12-16-custom-themes-in-ggplot2) I wrot
 As I was preparing for the custom themes workshop, I got a little carried away illustrating all the componenets of the `theme` function. I decided to simplify that portion of the workshop and create this separate handout that just focuses on `theme`. It is not yet finished, but it may be of some help to people (including myself!).
 
 
-*Additional Materials:* You may also be interested in the 2018 versions of some of these workshops that I gave (Part 1 [Rmarkdown](/downloads/180216-ggplot2-part1) and [PDF](/downloads/180216-ggplot2-part1.pdf) and Part 2 [RMarkdown](/downloads/180223-ggplot2-part2) and [PDF](/downloads/180223-ggplot2-part2.pdf)). An older version from 2017 that combines elements of Parts 1 and 2 can be found here as a [PDF](/downloads/171012-ggplot2_handout.pdf) or [RMarkdown](/downloads/171012-ggplot2.html) file.
+*Additional Materials:* You may also be interested in the 2018 versions of some of these workshops that I gave (Part 1 [Rmarkdown](/downloads/180216-ggplot2-part1) and [PDF](/downloads/180216-ggplot2-part1.pdf) and Part 2 [RMarkdown](/downloads/180223-ggplot2-part2) and [PDF](/downloads/180223-ggplot2-part2.pdf)). An older version from 2017 that combines elements of Parts 1 and 2 can be found here as a [PDF](/downloads/171012-ggplot2_handout.pdf) or [RMarkdown](/downloads/171012-ggplot2) file.
 
 <br/>
 
-## Introduction to the Tidyverse ([Part 1](/downloads/180302-tidyverse_part1.html) and [Part 2](/downloads/180323-tidyverse_II.html))
+## Introduction to the Tidyverse ([Part 1](/downloads/180302-tidyverse_part1) and [Part 2](/downloads/180323-tidyverse_II))
 
 The tidyverse is a suite of packages that includes `dplyr` and `tidyr` which help you wrangle your data. In this two-part workshop, we learn some of the common functions in the tidyverse and compare them to base R, showing that there are multiple ways to accomplish the same task in R. Part 2 in particular looks at how to reshape and transform your data, merging it with other dataset, and other super useful and powerful tools.
 
-*Additional Materials:* You may also be interested in PDFs for [Part 1](/downloads/180302-tidyverse_part1.pdf) and [Part 2](/downloads/180323-tidyverse_II.pdf). An older version that combines elements of both parts can be found here as a [PDF](/downloads/171110-tidyverse_handout.pdf) or [RMarkdown](/downloads/171110-tidyverse.html) file.
+*Additional Materials:* You may also be interested in PDFs for [Part 1](/downloads/180302-tidyverse_part1.pdf) and [Part 2](/downloads/180323-tidyverse_II.pdf). An older version that combines elements of both parts can be found here as a [PDF](/downloads/171110-tidyverse_handout.pdf) or [RMarkdown](/downloads/171110-tidyverse) file.
 
 <br/>
 
-## [An Intro to RMarkdown](/downloads/180309-rmarkdown.html)
+## [An Intro to RMarkdown](/downloads/180309-rmarkdown)
 
 R Markdown is a way to create different types of documents using R (pdfs, word files, html files). In this one-day crash course, I show how to make R Markdown files and the kinds of things they would be useful for.
 
