@@ -26,11 +26,32 @@ In this first workshop I cover the basics of R itself. I talk about the differen
 
 <br/>
 
-## *Visualizations with ggplot2 ([Part 1](/downloads/190821-intro_to_ggplot2), [Part 2](/downloads/190828-ggplot2_intermediate), [Supplement to Part 2](/downloads/190828-ggplot2_supplement), and [Custom Themes](/blog/custom-themes-in-ggplot2))*
+## *Visualizations with ggplot2*
 
-ggplot2 is a widely used package that allows for high-quality visualizations. In Part 1 of this workshop I cover the basic syntax and how to make some simple types of plots. But often you'll want to customize them in some way. So, in Part 2, we cover how to mess with properties of the plots like the axes, colors, and legends to make the plot work better for you. Part 3 contains supplemental material that goes into more detail about topics in Parts 1 and 2. The Custom Themes workshop wraps all these ideas together and shows how to create your own themes.
+ggplot2 is a widely used package that allows for high-quality visualizations. These workshops take you from installation to pretty advanced topics.
 
-*Additional Materials:* You may also be interested in the 2018 versions of this workshop I gave (Part 1 [Rmarkdown](/downloads/180216-ggplot2-part1) and [PDF](/downloads/180216-ggplot2-part1.pdf) and Part 2 [RMarkdown](/downloads/180223-ggplot2-part2) and [PDF](/downloads/180223-ggplot2-part2.pdf). An older version from 2017 that combines elements of both parts can be found here as a [PDF](/downloads/171012-ggplot2_handout.pdf) or [RMarkdown](/downloads/171012-ggplot2.html) file.
+### [Part 1: Intro to ggplot2](/downloads/190821-intro_to_ggplot2)
+
+In Part 1 of this workshop I cover the basic syntax and how to make some simple types of plots. 
+
+### [Part 2: Extending your ggplot2 skills](/downloads/190828-ggplot2_intermediate)
+
+Often you'll want to customize your plots in some way. So, in Part 2, we cover how to mess with properties of the plots like the axes, colors, and legends to make the plot work better for you. 
+
+### [Supplement to Part 2](/downloads/190828-ggplot2_supplement)
+
+Apparently I had a lot to say about how to extend your ggplot2 skills, so I ended up creating a supplement with lots of additional detail on how to modify your plots. This handout will vary from time to time as I add to it when I learn new things or remove sections to incorporate them into future workshops.
+
+### [Custom Themes](/downloads/190904-ggplot2_custom_themes)
+
+Based on a popular [blog post](/blog/2016-12-16-custom-themes-in-ggplot2) I wrote, this workshop wraps all customization methods together and shows how to create your own themes.
+
+### [Supplement: A detailed look at `ggplot2::theme`](/downloads/190904-ggplot2_theme)
+
+As I was preparing for the custom themes workshop, I got a little carried away illustrating all the componenets of the `theme` function. I decided to simplify that portion of the workshop and create this separate handout that just focuses on `theme`. It is not yet finished, but it may be of some help to people (including myself!).
+
+
+*Additional Materials:* You may also be interested in the 2018 versions of some of these workshops that I gave (Part 1 [Rmarkdown](/downloads/180216-ggplot2-part1) and [PDF](/downloads/180216-ggplot2-part1.pdf) and Part 2 [RMarkdown](/downloads/180223-ggplot2-part2) and [PDF](/downloads/180223-ggplot2-part2.pdf)). An older version from 2017 that combines elements of Parts 1 and 2 can be found here as a [PDF](/downloads/171012-ggplot2_handout.pdf) or [RMarkdown](/downloads/171012-ggplot2.html) file.
 
 <br/>
 

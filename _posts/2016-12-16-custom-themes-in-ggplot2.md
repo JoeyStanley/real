@@ -5,6 +5,10 @@ date:   2016-12-17 21:25:00 -0400
 tags: [How-to Guides, Methods, Skills, R, Data Viz]
 ---
 
+*Note: For additional detail and updated information on creating custom themes, see [this handout](/downloads/190904-ggplot2_custom_themes) which accompanies a workshop I gave in September 2019. For examples on everything the `theme` function can do, see [this supplemental handout](/downloads/190904-ggplot2_theme).*
+
+<br/>
+
 I've always enjoyed the R package `ggplot2` because it allows limitless flexibility in how a plot looks—if you're willing to put in the time. After a while though I found myself adding the same commands to all my plots so that they all match. Shouldn't there be an easier way to do that? 
 
 Yes! I recently discovered how to make a custom theme in `ggplot2`. It was relatively straightforward to create, a cinch to implement, and everything looks great. 
