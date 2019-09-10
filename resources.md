@@ -31,6 +31,10 @@ This is a two-part tutorial on calculating Pillai scores and Bhattacharyya's Aff
 
 I'm no expert, but I have given a workshop on how grad students can increase their online presence and make themselves more googleable, based in large part to ImpactStory's fantastic 30-day challenge, which you can read [here](http://blog.impactstory.org/research-impact-challenge-ebook/).
 
+### [Academic Poster Workshop](/downloads/190911-poster_workshop.pdf)
+
+In response to the need for a "How to Make an Acadmic Poster" workshop, I put one together last minute. Poster-making is more of an art than a science and this is a very opinionated view on the dos and don'ts of making an acadmic poster.
+
 ### [Excel Workshop](/excel.html)
 
 Last year I gave a workshop on Excel and ended producing a long handout, that goes from the very basics to relatively tricky techniques. The link above will take you to a blog post that summarizes the workshop, and you can also find the handout itself.
