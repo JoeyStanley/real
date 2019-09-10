@@ -171,16 +171,9 @@ Shawn Foster, **Joseph A. Stanley**, & Margaret E. L. Renwick. "Vowel Mergers in
 
 ## Invited Presentations
 
-"Brand Yourself: Creating a Digital, Professional Presence." Invited workshop at the DigiLab, Main Library, University of Georgia, Athens, GA. September 27, 2018.
-<a href="/downloads/180928-brand_yourself_flyer.pdf" class="flyer" title="download the flyer for this presentation"></a> 
-<a href="/downloads/180928-brand_yourself.pdf" class="slides" title="download the slides for this presentation"></a> 
-
 "Data Visualization and Basic Statistical Modeling in R." Invited workshop for an NSF-funded "Research Experience for Undergraduates" site program, helping bioanthropology students analyze osteological data from skeletons at the 7–5th c. BCE Greek colony of Himera. June 21 and 25, 2018. <a href="/pages/bones_workshop" class="link" title="view the materials for this workshop here"></a> 
 
 “Basics, Review, Summary, Help.” Guest lecturer in LING 4400/6400: Quantitative Methods in Linguistics. Athens, GA. April 20.
-
-“Brand Yourself: A professionalization workshop for grad students.” Guest lecturer in ANTH 8755: Topics in (Anthropology) Research. Athens, GA. April 13, 2017.
-<a href="/downloads/170413-brand_yourself.pdf" class="slides" title="download the powerpoint slides for this presentation"></a> 
 
 "Build a better project: Starting a DH project from primary sources." Presented at the First [DigiLab](http://digi.uga.edu/digilab/) Colloquium. Athens, GA. October 6, 2016. 
 <a href="https://digi.uga.edu/news/build-a-better-project-digi-colloquium-review/" class="link" target="_blank" title="link to digi.uga.edu"></a>
@@ -191,83 +184,98 @@ Shawn Foster, **Joseph A. Stanley**, & Margaret E. L. Renwick. "Vowel Mergers in
 
 ## Workshops
 
-Lisa Lipani and **Joey Stanley**. Automatic Measurement of VOT in Praat. Workshop given at the University of Georgia DigiLab. Athens, GA. November 6, 2019.
+*2019 Praat Scripting Workshop Series with Lisa Lipani. University of Georgia DigiLab. Athens, GA.*
+<ul style = "margin-left: 2em">
+    <li>Praat Basics: Introduction to the software. September 11.</li>
+    <li>Praat Scripting Basics: Loops, I/O, and TextGrids. September 18.</li>
+    <li>Automatic Formant Extraction (and other acoustic measures) in Praat. October 2.</li>
+    <li>Automatic Measurement of VOT in Praat. November 6.</li>
+</ul>
+<br/>
 
-**Joey Stanley**. Don’t like coding? Try these online visualization tools! Workshop given at the University of Georgia DigiLab. Athens, GA. October 30, 2019.
+*2019 Data Visualization Workshop Series. University of Georgia DigiLab. Athens, GA.*
+<ul style = "margin-left: 2em">
+    <li>An intro to data visualization in R using ggplot2. August 21.</li>
+    <li>Customizing your plots to make that perfect visual. August 28.</li>
+    <li>Generalize your aesthetics using custom themes in ggplot2. September 4.</li>
+    <li>Fidelity, integrity, and sophistication: Edward Tufte’s principles of data visualization. October 16.</li>
+    <li>Send the right message: The dos and don’ts of color in data visualization. October 23. (with <a href = "https://twitter.com/mjduever">Meagen Duever</a>)</li>
+    <li>Don’t like coding? Try these online visualization tools! October 30.</li>
+</ul>
+<br/>
 
-**Joey Stanley** and [Meagen Duever](https://twitter.com/mjduever). Send the right message: The dos and don’ts of color in data visualization. Workshop given at the University of Georgia DigiLab. Athens, GA. October 23, 2019.
 
-**Joey Stanley**. Fidelity, integrity, and sophistication: Edward Tufte’s principles of data visualization. Workshop given at the University of Georgia DigiLab. Athens, GA. October 16, 2019.
+*2018 R Workshop Series. University of Georgia DigiLab. Athens, GA.*
+<ul style = "margin-left: 2em">
+    <li>Intro to R (Part 1). January 19.
+        <a href="/downloads/180119-intro-to-r-part1" class="link" target ="_blank"  title="view the handout online"></a> 
+        <a href="/downloads/180119-intro-to-r-part1.pdf" class="slides" target ="_blank" title="download the handout for this presentation"></a> </li>
+    <li>Intro to R (Part 2). January 26.
+        <a href="/downloads/180126-intro-to-r-part2" class="link" target ="_blank"  title="view the handout online"></a> 
+        <a href="/downloads/180126-intro-to-r-part2.pdf" class="paper" target ="_blank" title="download the handout for this presentation"></a> </li>
+    <li>Building Interactive Webpages in R: Introduction to Shiny (Part 1). February 2.
+        <a href="https://joeystanley.shinyapps.io/intro_to_shiny/" class="link" target ="_blank" title="view the handout online"></a> </li>
+            <li>Building Interactive Webpages in R: Introduction to Shiny (Part 2). February 9.
+        <a href="https://joeystanley.shinyapps.io/intro_to_shiny/" class="link" target ="_blank" title="view the handout online"></a> </li>
+    <li>Visualizations I: Introduction to ggplot2. February 16.
+        <a href="/downloads/180216-ggplot2-part1" class="link" target ="_blank"  title="view the handout online"></a> 
+        <a href="/downloads/180216-ggplot2-part1.pdf" class="paper" target ="_blank" title="download the handout for this presentation"></a> </li>
+    <li>Visualizations II: Customizing plots in ggplot2. February 23.
+        <a href="/downloads/180223-ggplot2-part2" class="link" target ="_blank"  title="view the handout online"></a> 
+        <a href="/downloads/180223-ggplot2-part2.pdf" class="paper" target ="_blank" title="download the handout for this presentation"></a> </li>
+    <li>Clean and tidy data: Tidyverse Part 1. March 2.
+        <a href="/downloads/180302-tidyverse_part1" class="link" target ="_blank"  title="view the handout online"></a> 
+        <a href="/downloads/180302-tidyverse_part1.pdf" class="paper" target ="_blank" title="download the handout for this presentation"></a> </li>
+    <li>Transform, reshape, and modify your data: Tidyverse Part 2. March 23.
+        <a href="/downloads/180323-tidyverse_II" class="link" target ="_blank" title="view the handout online"></a> 
+        <a href="/downloads/180323-tidyverse_II.pdf" class="paper" target ="_blank" title="download the handout for this presentation"></a> </li>
+    <li>Communicate to your audience with R Markdown. March 9.
+        <a href="/downloads/180309-rmarkdown" class="link" target ="_blank"  title="view the handout online"></a> 
+        <a href="/downloads/180309-rmarkdown.pdf" class="paper" target ="_blank" title="download the handout for this presentation"></a> </li>
+</ul>
+<br/>
 
-**Joey Stanley**. Brand Yourself: Boosting Your Online Presence. Workshop given at the University of Georgia. Athens, GA. September 20 and 26, 2019.
 
-**Joey Stanley** and Lisa Lipani. Automatic Formant Extraction (and other acoustic measures) in Praat. Workshop given at the University of Georgia DigiLab. Athens, GA. October 2, 2019.
+*2017 R Workshop Series. University of Georgia DigiLab. Athens, GA.*
+<ul style = "margin-left: 2em">
+    <li>An Introduction to R: Learn the Basics.September 13.
+        <a href="/downloads/170912-intro-to-r-handout.pdf" class="paper" target="_blank" title="open a pdf of the handout to this presentation a new window"></a>
+        <a href="/downloads/170913-flyer.pdf" class="flyer" target="_blank" title="open a pdf of the flyer for this presentation in a new window"></a></li>
+    <li>An Introduction to ggplot2. October 12.
+        <a href="/downloads/171012-ggplot2_handout.pdf" class="paper" target="_blank" title="open a pdf of the handout to this presentation a new window"></a>
+        <a href="/downloads/170913-flyer.pdf" class="flyer" target="_blank" title="open a pdf of the flyer for this presentation in a new window"></a></li>
+    <li>An Introduction to the Tidyverse. November 10.
+        <a href="/downloads/171110-tidyverse_handout" class="paper" target ="_blank" title="download the handout for this presentation"></a> </li>
+</ul>
+<br/>
 
-Lisa Lipani and **Joey Stanley**. Praat Scripting Basics: Loops, I/O, and TextGrids. Workshop given at the University of Georgia DigiLab. Athens, GA. September 18, 2019.
 
-**Joey Stanley** and Lisa Lipani. Praat Basics: Introduction to the software. Workshop given at the University of Georgia DigiLab. Athens, GA. September 11, 2019
+*Professionalization Workshops*
+<ul style = "margin-left: 2em">
+    <li>Brand Yourself: Boosting Your Online Presence. Workshop given at the University of Georgia. Athens, GA. September 20 and 26, 2019.</li>
+    <li>How to make an Academic Poster: An Opinionated Tutorial. Workshop given to members of the Linguistics Society at UGA and the Linguistics Club. Athens, GA. September 11, 2019.
+        <a href="/downloads/190911-poster_workshop.pdf" class="slides" target ="_blank" title="download the handout for this presentation"></a> </li>
+    <li>Brand Yourself: Creating a Digital, Professional Presence. Invited workshop at the DigiLab, Main Library, University of Georgia, Athens, GA. September 27, 2018.
+        <a href="/downloads/180928-brand_yourself_flyer.pdf" class="flyer" title="download the flyer for this presentation"></a> 
+        <a href="/downloads/180928-brand_yourself.pdf" class="slides" title="download the slides for this presentation"></a> </li>
+    <li>Brand Yourself: A professionalization workshop for grad students. Guest lecturer in ANTH 8755: Topics in (Anthropology) Research. Athens, GA. April 13, 2017.
+        <a href="/downloads/170413-brand_yourself.pdf" class="slides" title="download the powerpoint slides for this presentation"></a> </li>
+    <li>Brand Yourself: A professionalization workshop for grad students. Workshop given at the University of Georgia DigiLab. Athens, GA. November 11, 2016. (with <a href="http://emilymcginn.com">Emily McGinn</a>)
+        <a href="https://digi.uga.edu/news/brandyourself/" class="link" target="_blank" title="link to digi.uga.edu"></a>
+        <a href="/blog/brand-yourself-1/" class="link" target="_blank" title="link to digi.uga.edu"></a>
+        <a href="/downloads/161111-DigiLab-flyer.pdf" class="flyer" target="_blank" title="open a pdf of the flyer for this presentation in a new window"></a>
+        <a href="/downloads/161111-DigiLab-slides.pptx" class="slides" title="download the powerpoint slides for this presentation"></a> </li>
+</ul>
+<br/>
 
-**Joey Stanley**. Generalize your aesthetics using custom themes in ggplot2. Workshop given at the University of Georgia DigiLab. Athens, GA. September 4, 2019.
+*Excel Workshops*
+<ul style = "margin-left: 2em">
+    <li>Be a Data Magician: An Excel Workshop for Humanists. Workshop given at the University of Georgia DigiLab. Athens, GA. January 27, 2017.
+    <a href="/downloads/170127-ExcelWorkshop.pdf" class="paper" target="_blank" title="open a pdf of the handout to this presentation a new window"></a>
+    <a href="https://digi.uga.edu/news/be-a-data-magician/" class="link" target="_blank" title="link to digi.uga.edu"></a>
+    <a href="/downloads/170127-ExcelWorkshop-flyer.pdf" class="flyer" target="_blank" title="open a pdf of the flyer for this presentation in a new window"></a></li>
+</ul>
 
-**Joey Stanley**. Customizing your plots to make that perfect visual. Workshop given at the University of Georgia DigiLab. Athens, GA. August 28, 2019.
-
-**Joey Stanley**. An intro to data visualization in R using ggplot2. Workshop given at the University of Georgia DigiLab. Athens, GA. August 21, 2019.
-
-**Joey Stanley**. Transform, reshape, and modify your data: Tidyverse Part 2. Workshop given at the University of Georgia DigiLab. Athens, GA. March 23, 2018.
-<a href="/downloads/180323-tidyverse_II" class="link" target ="_blank" title="view the handout online"></a> 
-<a href="/downloads/180323-tidyverse_II.pdf" class="paper" target ="_blank" title="download the handout for this presentation"></a> 
-
-**Joey Stanley**. Communicate to your audience with R Markdown. Workshop given at the University of Georgia DigiLab. Athens, GA. March 9, 2018.
-<a href="/downloads/180309-rmarkdown" class="link" target ="_blank"  title="view the handout online"></a> 
-<a href="/downloads/180309-rmarkdown.pdf" class="paper" target ="_blank" title="download the handout for this presentation"></a> 
-
-**Joey Stanley**. Clean and tidy data: Tidyverse Part 1. Workshop given at the University of Georgia DigiLab. Athens, GA. March 2, 2018.
-<a href="/downloads/180302-tidyverse_part1" class="link" target ="_blank"  title="view the handout online"></a> 
-<a href="/downloads/180302-tidyverse_part1.pdf" class="paper" target ="_blank" title="download the handout for this presentation"></a> 
-
-**Joey Stanley**. Visualizations II: Customizing plots in ggplot2. Workshop given at the University of Georgia DigiLab. Athens, GA. February 23, 2018.
-<a href="/downloads/180223-ggplot2-part2" class="link" target ="_blank"  title="view the handout online"></a> 
-<a href="/downloads/180223-ggplot2-part2.pdf" class="paper" target ="_blank" title="download the handout for this presentation"></a> 
-
-**Joey Stanley**. Visualizations I: Introduction to ggplot2. Workshop given at the University of Georgia DigiLab. Athens, GA. February 16, 2018.
-<a href="/downloads/180216-ggplot2-part1" class="link" target ="_blank"  title="view the handout online"></a> 
-<a href="/downloads/180216-ggplot2-part1.pdf" class="paper" target ="_blank" title="download the handout for this presentation"></a> 
-
-**Joey Stanley**. Building Interactive Webpages in R: Introduction to Shiny (Part 2). Workshop given at the University of Georgia DigiLab. Athens, GA. February 9, 2018.
-<a href="https://joeystanley.shinyapps.io/intro_to_shiny/" class="link" target ="_blank" title="view the handout online"></a> 
-
-**Joey Stanley**. Building Interactive Webpages in R: Introduction to Shiny (Part 1). Workshop given at the University of Georgia DigiLab. Athens, GA. February 2, 2018.
-<a href="https://joeystanley.shinyapps.io/intro_to_shiny/" class="link" target ="_blank" title="view the handout online"></a> 
-
-**Joey Stanley**. Intro to R (Part 2). Workshop given at the University of Georgia DigiLab. Athens, GA. January 26, 2018.
-<a href="/downloads/180126-intro-to-r-part2" class="link" target ="_blank"  title="view the handout online"></a> 
-<a href="/downloads/180126-intro-to-r-part2.pdf" class="paper" target ="_blank" title="download the handout for this presentation"></a> 
-
-**Joey Stanley**. Intro to R (Part 1). Workshop given at the University of Georgia DigiLab. Athens, GA. January 19, 2018.
-<a href="/downloads/180119-intro-to-r-part1" class="link" target ="_blank"  title="view the handout online"></a> 
-<a href="/downloads/180119-intro-to-r-part1.pdf" class="slides" target ="_blank" title="download the handout for this presentation"></a> 
-
-**Joey Stanley**. “An Introduction to the Tidyverse.” Workshop given at the University of Georgia DigiLab. Athens, GA. November 10, 2017.
-<a href="/downloads/171110-tidyverse_handout" class="paper" target ="_blank" title="download the handout for this presentation"></a> 
-
-**Joey Stanley**. "An Introduction to ggplot2." Workshop given at the University of Georgia DigiLab. Athens, GA. October 12, 2017.
-<a href="/downloads/171012-ggplot2_handout.pdf" class="paper" target="_blank" title="open a pdf of the handout to this presentation a new window"></a>
-<a href="/downloads/170913-flyer.pdf" class="flyer" target="_blank" title="open a pdf of the flyer for this presentation in a new window"></a>
-
-**Joey Stanley**. "An Introduction to R: Learn the Basics." Workshop given at the University of Georgia DigiLab. Athens, GA. September 13, 2017.
-<a href="/downloads/170912-intro-to-r-handout.pdf" class="paper" target="_blank" title="open a pdf of the handout to this presentation a new window"></a>
-<a href="/downloads/170913-flyer.pdf" class="flyer" target="_blank" title="open a pdf of the flyer for this presentation in a new window"></a>
-
-**Joey Stanley**. "Be a Data Magician: An Excel Workshop for Humanists." Workshop given at the University of Georgia DigiLab. Athens, GA. January 27, 2017.
-<a href="/downloads/170127-ExcelWorkshop.pdf" class="paper" target="_blank" title="open a pdf of the handout to this presentation a new window"></a>
-<a href="https://digi.uga.edu/news/be-a-data-magician/" class="link" target="_blank" title="link to digi.uga.edu"></a>
-<a href="/downloads/170127-ExcelWorkshop-flyer.pdf" class="flyer" target="_blank" title="open a pdf of the flyer for this presentation in a new window"></a>
-
-[Emily McGinn](http://emilymcginn.com) & **Joey Stanley**. “Brand Yourself: A professionalization workshop for grad students.” Workshop given at the University of Georgia DigiLab. Athens, GA. November 11, 2016.
-<a href="https://digi.uga.edu/news/brandyourself/" class="link" target="_blank" title="link to digi.uga.edu"></a>
-<a href="/blog/brand-yourself-1/" class="link" target="_blank" title="link to digi.uga.edu"></a>
-<a href="/downloads/161111-DigiLab-flyer.pdf" class="flyer" target="_blank" title="open a pdf of the flyer for this presentation in a new window"></a>
-<a href="/downloads/161111-DigiLab-slides.pptx" class="slides" title="download the powerpoint slides for this presentation"></a> 
 
 <br/>
 
