@@ -23,9 +23,9 @@ A dataset of each menu item at McDonald's. I use this in some of my ggplot2 work
 
 This is data about the atheletes, events, from the Olympic games. The dataset was downloaded from [Kaggle.com](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results), which was made available thanks to user [Randi Griffin](https://www.kaggle.com/heesoo37). I use this in my tidyverse workshops to illustrate joining different datasetes. 
 
-## [Sample Recordings](/data/sample_recordings.zip)
+## [Sample Audio](/data/sample_audio.zip)
 
-This is a collection of recordings from two projects I've done. The ones labeled Carol, Daniel, Kathleen, Doug, and Margaret are roughly one-minute clips from interviews I did in Washington and contain first-hand accounts of Mount St. Helens. Stephanie, Jordan, Erica, Julia, Sabrina, Rodney, and Corey are one-sentence recordings collected via Amazon Mechanical Turk from Western American English speakers. Each recording comes with a sentence, word, and phoneme-level transcription. These speakers have given consent for me to distribute brief recordings for educational purposes. All names are pseudonyms.
+This is a collection of recordings from two projects I've done. The ones labeled Carol, Daniel, Kathleen, Doug, and Margaret are roughly one-minute clips from interviews I did in Washington and contain first-hand accounts of Mount St. Helens. Stephanie, Jordan, Erica, Julia, Sabrina, Rodney, and Corey are one-sentence recordings collected via Amazon Mechanical Turk from Western American English speakers. There is also one clip of my own voice in there. Each recording comes with a sentence, word, and phoneme-level transcription. These speakers have given consent for me to distribute brief recordings for educational purposes. All names are pseudonyms.
 
 ## [Snoozing](/data/snoozing.xlsx)
 
