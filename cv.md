@@ -186,7 +186,8 @@ Shawn Foster, **Joseph A. Stanley**, & Margaret E. L. Renwick. "Vowel Mergers in
 
 *2019 Praat Scripting Workshop Series with Lisa Lipani. University of Georgia DigiLab. Athens, GA.*
 <ul style = "margin-left: 2em">
-    <li>Praat Basics: Introduction to the software. September 11.</li>
+    <li>Praat Basics: Introduction to the software. September 11.
+        <a href="/downloads/190911-intro_to_Praat" class="link" target ="_blank"  title="view the handout online"></a></li>
     <li>Praat Scripting Basics: Loops, I/O, and TextGrids. September 18.</li>
     <li>Automatic Formant Extraction (and other acoustic measures) in Praat. October 2.</li>
     <li>Automatic Measurement of VOT in Praat. November 6.</li>
@@ -195,9 +196,12 @@ Shawn Foster, **Joseph A. Stanley**, & Margaret E. L. Renwick. "Vowel Mergers in
 
 *2019 Data Visualization Workshop Series. University of Georgia DigiLab. Athens, GA.*
 <ul style = "margin-left: 2em">
-    <li>An intro to data visualization in R using ggplot2. August 21.</li>
-    <li>Customizing your plots to make that perfect visual. August 28.</li>
-    <li>Generalize your aesthetics using custom themes in ggplot2. September 4.</li>
+    <li>An intro to data visualization in R using ggplot2. August 21.
+        <a href="/downloads/190821-intro_to_ggplot2" class="link" target ="_blank"  title="view the handout online"></a></li>
+    <li>Customizing your plots to make that perfect visual. August 28.
+        <a href="/downloads/190828-ggplot2_intermediate" class="link" target ="_blank"  title="view the handout online"></a></li>
+    <li>Generalize your aesthetics using custom themes in ggplot2. September 4.
+        <a href="/downloads/190904-ggplot2_custom_themes" class="link" target ="_blank"  title="view the handout online"></a></li>
     <li>Fidelity, integrity, and sophistication: Edward Tufte’s principles of data visualization. October 16.</li>
     <li>Send the right message: The dos and don’ts of color in data visualization. October 23. (with <a href = "https://twitter.com/mjduever">Meagen Duever</a>)</li>
     <li>Don’t like coding? Try these online visualization tools! October 30.</li>
