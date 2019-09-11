@@ -13,9 +13,9 @@ Note: All workshops will be held at 3:35pm at the DigiLab (300 Main Library)
 
 <br/>
 
-## *Praat Basics: Introduction to the software*
+## [*Praat Basics: Introduction to the software*](/downloads/190911-intro_to_Praat)
 
-*September 11, 2019*---In this workshop, Joey will introduce the software Praat, and will how how to install the software, record audio, save audio, and do a manual transcription. It will also briefly discuss the important steps you need to take to prep your data *before* using Praat. (For former students of mine, this workshop will overlap with [this homework assignment](/downloads/190523-Praat_tutorial.pdf).)
+*September 11, 2019*---In this workshop, I'll introduce the software Praat, and will how how to install the software, record audio, save audio, extract some acoustic measurements by hand, and do a manual transcription. It will also briefly discuss the important steps you need to take to prep your data *before* using Praat. (For former students of mine, this workshop will overlap with [this homework assignment](/downloads/190523-Praat_tutorial.pdf).)
 
 <br/>
 
