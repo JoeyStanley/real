@@ -207,6 +207,8 @@ Here is a list of resources I've found for R. I've gone through some of them and
 
 * *[Mixed Modeling as a Foreign Language](http://thestudyofthehousehold.com/2018/02/28/2018-02-28-formulae-are-a-lot-like-french-slang/)*, a blog post by Andrew McDonald, first off is a good explanation of what mixed modeling is all about. But more importantly, it makes the point that "if you only partly understand the words you are using, you *will* humiliate yourself eventually." In other words, it's important to know what you're doing when you use statistics, and if you don't, maybe you should reconsider before you do something wrong.
 
+* *[Reference Collection to push back against “Common Statistical Myths”](https://discourse.datamethods.org/t/reference-collection-to-push-back-against-common-statistical-myths/1787)* is a crowdsourced compilation (managed by Andrew Althouse) of articles that may be used to argue against some common statistical myths or no-nos.
+
 ### GAM(M)s
 
 My dissertation makes heavy use of generalized additive mixed-effects models (GAMMs). Here are some resources that I used to help learn about these.
