@@ -19,7 +19,7 @@ Note: All workshops will be held at 3:35pm at the DigiLab (300 Main Library)
 
 <br/>
 
-## [*Praat Scripting Basics: Loops, I/O, and TextGrids*](/downloads/090918-praat_scripting)
+## [*Praat Scripting Basics: Loops, I/O, and TextGrids*](/downloads/190918-praat_scripting)
 
 *September 18, 2019*---With some basic understanding of the software, Lisa will lead the workshop on the fundamentals of Praat scripting: object management, looping through a TextGrid, and how to get your data in and out of a Praat script.
 
