@@ -3,7 +3,6 @@ layout: post
 title:  "Brand Yourself"
 date:   2018-09-28 03:23:00 -0400
 tags: [CSS, Github, How-to Guides, Meta, Presentations, Twitter]
-redirect_from: "/brand-yourself"
 excerpt: Today, I was asked to do a professionalization workshop on different ways grad students can boost their online presence through building a personal webpage, utilizing social media, and finding their field's conversation---basically, how to make yourself more googleable. At the end, I challenged people to not leave the room until they had built some sort of new online profile they didn't have when they walked in.
 ---
 

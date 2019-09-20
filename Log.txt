@@ -154,7 +154,7 @@ Thursday, August 15, 2019
 * joeystanley.com/ads2018        -> blog/ads2018.md
 * joeystanley.com/ads2019        -> blog/ads-and-lsa-2019.md
 * joeystanley.com/bones          -> pages/bones_workshop.md
-* joeystanley.com/brand-yourself -> blog/brand-yourself-2.md
+* joeystanley.com/brand-yourself -> pages/brand-yourself.md
 * joeystanley.com/colloquium     -> blog/mount-st-helens-and-vowels.md
 * joeystanley.com/divar1         -> pages/divar1.md
 * joeystanley.com/excel          -> blog/2017-01-27-excel-workshop.md
@@ -177,6 +177,10 @@ Thursday, August 15, 2019
 
 
 Blog posts:
+* B_N labels
+* Finish the filtering post
+* Finish the outlier detection with DOBIN
+* tidyr 1.0.0 and working with vowel data
 * Thoughts while transcribing
     * When people take breaths, like immediately after a difficult word.
     * Cool flow charts that show when people read a sentence incorrectly in the laterals data. It would show when words get substituted or removed entirely.

@@ -1,7 +1,7 @@
 ---
 layout: aside
 title: Today's Workshop
-redirect_to: "/downloads/190918-praat_scripting"
+redirect_to: "/pages/brand_yourself"
 ---
 
-If you are not redirected to today's workshop, click [here](/downloads/190918-praat_scripting) instead.
+If you are not redirected to today's workshop, click [here](/pages/brand_yourself) instead.
