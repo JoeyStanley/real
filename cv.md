@@ -256,7 +256,7 @@ Shawn Foster, **Joseph A. Stanley**, & Margaret E. L. Renwick. "Vowel Mergers in
 
 *Professionalization Workshops*
 <ul style = "margin-left: 2em">
-    <li>Brand Yourself: Boosting Your Online Presence. Workshop given at the University of Georgia. Athens, GA. September 20 and 26, 2019.</li>
+    <li>Brand Yourself: Boosting Your Online Presence. Workshop given at the University of Georgia as a part of the [Graduate Research Workshop Series](http://guides.libs.uga.edu/graduate_research_workshops) sponsored by UGA Libraries. Athens, GA. September 20 and 26, 2019.</li>
     <li>How to make an Academic Poster: An Opinionated Tutorial. Workshop given to members of the Linguistics Society at UGA and the Linguistics Club. Athens, GA. September 11, 2019.
         <a href="/downloads/190911-poster_workshop.pdf" class="slides" target ="_blank" title="download the handout for this presentation"></a> </li>
     <li>Brand Yourself: Creating a Digital, Professional Presence. Invited workshop at the DigiLab, Main Library, University of Georgia, Athens, GA. September 27, 2018.
