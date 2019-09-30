@@ -143,6 +143,8 @@ William A. Kretzschmar, **Joseph Stanley**, & Katherine Kuiper. “Automated Lar
 
 ### Poster Presentations
 
+William A. Kretzschmar, Jr., Margaret E. L. Renwick, **Joseph A. Stanley**, Katie Kuiper, Lisa Lipani, Michael Olsen, \& Rachel Olsen. "The View of Southern Vowels from Large-Scale Data." American Dialect Society Annual Meeting. New York City, NY. January 2--5, 2020.\\
+
 **Joseph A. Stanley** & Margaret E. L. Renwick. "Social factors in Southern US speech: Acoustic analysis of a large-scale legacy corpus." The 93rd Annual Meeting of the Linguistic Society of America. New York City, NY. January 3–6, 2019.
 <a href="/downloads/190103-lsa2019.pdf" class="poster" target="_blank" title="download this poster as a PDF"></a>
 
@@ -162,7 +164,7 @@ Shawn Foster, **Joseph A. Stanley**, & Margaret E. L. Renwick. "Vowel Mergers in
 [Margaret E. L. Renwick](http://faculty.franklin.uga.edu/mrenwick/), Michael Olsen, Rachel M. Olsen, & **Joseph A. Stanley**. “Transcription and forced alignment of the Digital Archive of Southern Speech.” Poster presentation at the 173rd Meeting of the Acoustical Society of America (ASA). Boston, MA. June 25–29, 2017.
 <a href="http://asa.scitation.org/doi/abs/10.1121/1.4989090" class="link" title="link to this presentation"></a>
 
-**Joseph A. Stanley** & [Margaret E. L. Renwick](http://faculty.franklin.uga.edu/mrenwick/). "Phonetic Shift <span style="white-space: nowrap;">/ɔr/</span> Phonemic Change? American English mergers over 40 years". Poster presentation by the second author at the 15th Conference on Laboratory Phonology ([LabPhon15](http://labphon.org/labphon15/)). Ithaca, NY. July 13–16, 2016. 
+**Joseph A. Stanley** & [Margaret E. L. Renwick](http://faculty.franklin.uga.edu/mrenwick/). "Phonetic Shift <span style="white-space: nowrap;">/ɔr/</span> Phonemic Change? American English mergers over 40 years". Poster presentation at the 15th Conference on Laboratory Phonology ([LabPhon15](http://labphon.org/labphon15/)). Ithaca, NY. July 13–16, 2016. 
 <a href="http://labphon.org/labphon15/program" class="link" target="_blank"></a>
 <a href="/downloads/160714-LabPhon15-abstract.pdf" class="abstract" target="_blank" title="open a pdf of the abstract to this presentation in a new window"></a>
 <a href="/downloads/160714-LabPhon15-poster.pdf" class="poster" target="_blank" title="open a pdf of this poster in a new window"></a>
