@@ -456,7 +456,7 @@ select TextGrid WS006-Stephanie
 number_of_intervals = Get number of intervals... phoneTier
 
 for each_interval from 1 to number_of_intervals
-  phone$ = Get label of interval: 1, each_interval
+  phone$ = Get label of interval: phoneTier, each_interval
   start = Get starting point: phoneTier, each_interval
   end = Get end point: phoneTier, each_interval
   duration = end - start
@@ -545,10 +545,10 @@ for file from 1 to last
       end = Get end point: phoneTier, each_interval
       duration = end - start
       midpoint = end - duration/2
-      word$ = Get interval at time... wordTier midpoint
+      wordNum = Get interval at time... wordTier midpoint
+        word$ = Get label of interval: wordTier, wordNum
+        appendFileLine: &quot;'directory$''results$'&quot;, textGrid$, tab$, phone$, tab$, word$, tab$, duration
     endif
-
-    appendFileLine: &quot;'directory$''results$'&quot;, textGrid$, tab$, phone$, tab$, word$, tab$, duration
   endfor
 endfor
 
