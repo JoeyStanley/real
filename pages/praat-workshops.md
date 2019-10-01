@@ -25,7 +25,7 @@ Note: All workshops will be held at 3:35pm at the DigiLab (300 Main Library)
 
 <br/>
 
-## *Automatic Formant Extraction (and other acoustic measures) in Praat*
+## [*Automatic Formant Extraction in Praat*](/downloads/191002-formant_extraction) (and [supplement](/downloads/191001-formant_extraction_supplement))
 
 *October 2, 2019*---In this workshop, you'll learn, from start to finish, how to write a Praat script that will automatically extract formant measurements and a other acoustic measurements from your audio and transcription. There will be quite a bit of overlap with [this blog post](/blog/a-tutorial-on-extracting-formants-in-praat), only you will get more detail with an in-person guide.
 
