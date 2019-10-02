@@ -137,7 +137,7 @@ Here is a list of resources I've found for R. I've gone through some of them and
 
 * [*Data Visualization: A Practical Introduction*](http://socviz.co) by [Kieran Healy](kieranhealy.org). I haven't had the time to look through it, but this books looks quite good. It covers data prep, basic plots, visualizing statistical models, maps, and a whole bunch of other stuff. 
 
-* [*Fundamentals of Data Visualization*](https://serialmentor.com/dataviz/) by [Claus O. Wilke](https://integrativebio.utexas.edu/component/cobalt/item/7-integrative-biology/237-wilke-claus-o?Itemid=1224) is still in preview mode, but it is "meant as a guide to making visualizations that accurately reflect the data, tell a story, and look professional." 
+* [*Fundamentals of Data Visualization*](https://serialmentor.com/dataviz/) by [Claus O. Wilke](https://integrativebio.utexas.edu/component/cobalt/item/7-integrative-biology/237-wilke-claus-o?Itemid=1224) is "meant as a guide to making visualizations that accurately reflect the data, tell a story, and look professional." 
 
 * *[Interactive web-based data visualization with R, plotly, and shiny](https://plotly-r.com)* by [Carson Sievert](https://cpsievert.me) is another free online book on data visualizatio in in R. This has a good focus on interactivity since it involves [plotly](https://plot.ly) and [Shiny](https://shiny.rstudio.com).
 
@@ -170,6 +170,8 @@ Here is a list of resources I've found for R. I've gone through some of them and
 
 * Joey Cherdarchuk of [Darkhorse Analytics](https://www.darkhorseanalytics.com) has put together some really succinct presentations on how to simplify things you might put in a paper like [maps](https://www.darkhorseanalytics.com/blog/data-looks-better-naked-maps-edition), [charts](https://www.darkhorseanalytics.com/blog/salvaging-the-pie), [tables](https://www.darkhorseanalytics.com/blog/clear-off-the-table), and [reducing the data to ink ratio](https://www.darkhorseanalytics.com/blog/data-looks-better-naked).
 
+* Claus Wilke's [Practical ggplot2](https://wilkelab.org/practicalgg/) is a "repository [that] houses a set of step-by-step examples demonstrating how to get the most out of ggplot2, including how to choose and customize scales, how to theme plots, and when and how to use extension packages."
+
 ### Miscellany
 
 * The [R Graph Gallary](https://www.r-graph-gallery.com) has hundreds of plots, with code, illustrating what the plots are typically used for and different variants of the same plot. Very cool.
@@ -181,6 +183,8 @@ Here is a list of resources I've found for R. I've gone through some of them and
 * Plotting special characters or unique fonts can be tricky. [Yixuan Qiu](https://statr.me)'s tutorial *[showtext: Using Fonts More Easily in R Graphs](https://cran.rstudio.com/web/packages/showtext/vignettes/introduction.html)* can help you with that.
 
 * [George Bailey's](http://www-users.york.ac.uk/~gb1055/) excelent workshop materials for visualizing vowel formant data can be found [here](http://www-users.york.ac.uk/~gb1055/sociophonetics_workshop/index.html).
+
+* Not sure what kind of data visualization you should use, try [*From Data to Viz](https://www.data-to-viz.com) to help you find the most appropriate plot for your data.
 
 
 
