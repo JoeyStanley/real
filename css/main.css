@@ -634,6 +634,42 @@ aside#tags {
 	content: '\00a0\00bb';
 }
 
+
+/* ########################################## */
+/*                   Tables                   */
+/* ########################################## */
+
+
+#wells {
+	font-size: 95%;
+	text-align: center;
+	font-variant: small-caps;
+	border-collapse: collapse;
+}
+
+#wells th {
+	border-bottom: 1px solid black;
+}
+
+/* The first column is NOT small caps */
+#wells tr td:first-child {
+	font-variant: normal;
+	border-right: 1pt solid black;
+}
+
+/* Last column does not have a right border */
+#wells tr td:last-child {
+	border-right: 0;
+}
+
+/* Right borders are dashed */
+#wells tbody tr td {
+	border-right: 1px dashed black;
+}
+
+
+
+
 /* ########################################## */
 /*                 Other pages                */
 /* ########################################## */
