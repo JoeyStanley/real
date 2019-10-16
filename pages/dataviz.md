@@ -7,9 +7,9 @@ redirect_from:
 
 # Data Visualization Workshops
 
-I will be leading a series of two workshops on data visualization during Fall 2019. This page will house the handouts and all materials for those workshops.
+I will be leading a series of three workshops on data visualization during Fall 2019. This page will house the handouts and all materials for those workshops.
 
-Note: Both workshops will be held at 3:35pm at the DigiLab (300 Main Library) 
+Note: All workshops will be held at 3:35pm at the DigiLab (300 Main Library) 
 
 <br/>
 
