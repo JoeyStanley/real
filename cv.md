@@ -208,7 +208,6 @@ Shawn Foster, **Joseph A. Stanley**, & Margaret E. L. Renwick. "Vowel Mergers in
         <a href="/downloads/190904-ggplot2_custom_themes" class="link" target ="_blank"  title="view the handout online"></a></li>
     <li>Fidelity, integrity, and sophistication: Edward Tufte’s principles of data visualization. October 16.</li>
     <li>Send the right message: The dos and don’ts of color in data visualization. October 23. (with <a href = "https://twitter.com/mjduever">Meagen Duever</a>)</li>
-    <li>Don’t like coding? Try these online visualization tools! October 30.</li>
 </ul>
 <br/>
 
