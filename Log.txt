@@ -156,12 +156,14 @@ Thursday, August 15, 2019
 * joeystanley.com/bones          -> pages/bones_workshop.md
 * joeystanley.com/brand-yourself -> pages/brand-yourself.md
 * joeystanley.com/colloquium     -> blog/mount-st-helens-and-vowels.md
+* joeystanley.com/dataviz        -> pages/dataviz.md
 * joeystanley.com/divar1         -> pages/divar1.md
 * joeystanley.com/excel          -> blog/2017-01-27-excel-workshop.md
 * joeystanley.com/gsv            -> http://lap3.libs.uga.edu/u/jstanley/vowelcharts/
 * joeystanley.com/hymns          -> /hymns/main.md
 * joeystanley.com/lcuga4         -> blog/lcuga4.md
 * joeystanley.com/lcuga5         -> blog/lcuga5.md
+* joeystanley.com/lcuga6         -> blog/lcuga6.md
 * joeystanley.com/lsa2019        -> blog/ads-and-lsa-2019.md
 * joeystanley.com/nwav46         -> blog/nwav46.md
 * joeystanley.com/nwav47         -> blog/nwav47.md
