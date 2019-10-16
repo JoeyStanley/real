@@ -30,6 +30,8 @@ title: Curriculum Vitae
 
 ### Refereed Articles
 
+Margaret E. L. Renwick & **Joseph A. Stanley** (*accepted*). "Modeling dynamic trajectories of tense vs. lax vowels in the American South." *Journal of the Acoustical Society of America*.
+
 **Joseph A. Stanley** (2019). "Phonological Patterns in <span style="font-variant:small-caps;">beg</span>-Raising." *UGA Working Papers in Linguistics*, 4, 69--91.
 <a href="https://ling.franklin.uga.edu/wp2019-Stanley" class="link" target="_blank" title="link to this paper online"></a>
 <a href="https://athenaeum.libs.uga.edu/bitstream/handle/10724/38626/WP2019_Stanley.pdf?sequence=2&isAllowed=y" class="paper" target="_blank" title="open a pdf of this paper in a new window"></a>
@@ -41,7 +43,7 @@ title: Curriculum Vitae
 
 ### Other Publications
 
-**Joseph A. Stanley** (*submitted*). "(thr)-Flapping in American English: Social factors and articulatory motivations." *Proceedings of the 5th Annual Linguistics Conference at UGA*.
+**Joseph A. Stanley** (*accepted*). "(thr)-Flapping in American English: Social factors and articulatory motivations." *Proceedings of the 5th Annual Linguistics Conference at UGA*.
 
 **Joseph A. Stanley** (2018). "Changes in the Timber Industry as a Catastrophic Event: <span style="font-variant:small-caps;">bag</span>-Raising in Cowlitz County, Washington" *Penn Working Papers in Linguistics, 24(2).*
 <a href="https://repository.upenn.edu/pwpl/vol24/iss2/16/" class="link" target="_blank" title="link to this paper online"></a>
