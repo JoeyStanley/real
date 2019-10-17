@@ -22,6 +22,8 @@ Never mind these are not working and always give error mesages. (Feb 6, 2019)
 }
 */
 
+@import url('https://fonts.googleapis.com/css?family=Alegreya&display=swap');
+
 html {
 	background: whitesmoke;
 }
@@ -604,8 +606,14 @@ aside#tags {
     margin: 0 auto;
 }
 
-/* Lists within posts */
+.posts h2, h3 {
+	margin-top: 2em;
+}
 
+/* Lists within posts */
+.posts ul {
+	margin-left: 3em;
+}
 
 .posts footer {
 	background: whitesmoke;
@@ -643,28 +651,31 @@ aside#tags {
 #wells {
 	font-size: 95%;
 	text-align: center;
-	font-variant: small-caps;
 	border-collapse: collapse;
+	margin: auto;
 }
 
+/* Bottom border on header row */
 #wells th {
 	border-bottom: 1px solid black;
 }
 
-/* The first column is NOT small caps */
-#wells tr td:first-child {
+/* Small caps and lowercase */
+table .sc {
+	font-variant: small-caps;
+}
+table .lc {
 	font-variant: normal;
-	border-right: 1pt solid black;
 }
 
-/* Last column does not have a right border */
-#wells tr td:last-child {
-	border-right: 0;
+.caption {
+	font-size: 90%; 
+	margin:auto;
+	font-style: italic;
 }
 
-/* Right borders are dashed */
-#wells tbody tr td {
-	border-right: 1px dashed black;
+.center {
+	text-align: center;
 }
 
 
