@@ -133,6 +133,7 @@ header, footer {
 /* The date below each blog post's title */
 .date {
 	/* Nothing needed, but it's here just in case */
+	margin-below: 1em;
 }
 
 /* Add this back in later 
