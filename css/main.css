@@ -20,7 +20,7 @@ Charleston Green: #1E2D24
 */
 
 /* Tips hat to Jonathan Crum for showing me how to import fonts. */
-@import url('https://fonts.googleapis.com/css?family=Alegreya|Alegreya+SC|Muli:400,700,900&display=swap');
+@import url('https://fonts.googleapis.com/css?family=PT+Serif&display=swap');
 
 html {
 	background: whitesmoke;
@@ -52,7 +52,7 @@ header, nav, body, aside, footer, h1, h2, p, ul, li, time, a {
 body {
 	width: 960px;
 	margin: 0 auto;
-	font: 110% 'Iowan Old Style', 'Alegreya', 'Palatino', 'Times New Roman', serif;
+	font: 110% 'Iowan Old Style', 'PT Serif', 'Palatino', 'Times New Roman', serif;
 }
 
 h1, h2, h3, footer p, .biglink {
@@ -128,12 +128,6 @@ header, footer {
 	
 	text-transform: lowercase;
 	letter-spacing: 0.1em;
-}
-
-/* The date below each blog post's title */
-.date {
-	/* Nothing needed, but it's here just in case */
-	margin-below: 1em;
 }
 
 /* Add this back in later 
@@ -609,6 +603,10 @@ aside#tags {
 
 .posts {
 	width: 75%;
+}
+
+.posts header {
+	margin-bottom: 1em;
 }
 
 /* Center images and tweets */
