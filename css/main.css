@@ -9,18 +9,17 @@ Red:    #924630
 Yellow: #928E33
 */
 
-/* To use these fonts I need to import them like this. 
-Never mind these are not working and always give error mesages. (Feb 6, 2019)
-@font-face {
-	font-family: "Iowan Old Style";
-	src: url("Iowan Old Style.ttc");
-  }
-  @font-face{
-    font-family: "Alegreya";
-    src: url('Alegreya.ttf');
-}
+
+
+/* New Palette
+Whitesmoke: #F5F5F5
+Raisin Black: #202027
+Yankees Blue: #132A4
+Onyx: #334139
+Charleston Green: #1E2D24
 */
-/* Saw this from Jonathan */
+
+/* Tips hat to Jonathan Crum for showing me how to import fonts. */
 @import url('https://fonts.googleapis.com/css?family=Alegreya|Alegreya+SC|Muli:400,700,900&display=swap');
 
 html {
@@ -38,12 +37,11 @@ div, h1, h2, h3, p, img, nav, ul, li, header, time, article, a {
 	padding: 0;
 }
 
-/* Add border for debugging
+/* Add border for debugging  
 header, nav, body, aside, footer, h1, h2, p, ul, li, time, a {
 	border: 1px solid #376092;
 	border-radius: 7pt;
 }
-
 */
 
 /* ########################################## */
@@ -69,6 +67,7 @@ h1, h2, h3 {
 }
 
 h1 {
+	margin-top: 1em;
 	font-size: 2em;	
 }
 h2 {
@@ -78,22 +77,24 @@ h3 {
 	font-size: 1.25em;
 }
 
+li {
+	margin-left: 2em;
+}
+
 
 /* ########################################## */
 /*                 Header Styles              */
 /* ########################################## */
 
 /* There are two headers: the main one at the top of each page, and then the top of each blog post */
+/* Includes name, title, navbar, blog title, blog date, "Posted in", footer */
 header, footer {
 	display: block;
-	padding: 5px;
-	text-align: middle;
-	min-width: 800px;
 }
 
 /* This is what fixed the annoying space before the blog post headers */
 #pageHeader {
-	margin: 4px;
+	/* margin: 4px;*/
 }
 
 #name, #name a, #tagline {
@@ -106,6 +107,8 @@ header, footer {
 
 	float: left;
 	/* In computers only, gets "float: left" */
+
+	font-family: 'Avenir', 'Muli', 'Helvetica Narrow', Arial, sans-serif;
 }
 
 #name {
@@ -124,7 +127,12 @@ header, footer {
 	font-weight: normal;
 	
 	text-transform: lowercase;
-	letter-spacing:.1em;
+	letter-spacing: 0.1em;
+}
+
+/* The date below each blog post's title */
+.date {
+	/* Nothing needed, but it's here just in case */
 }
 
 /* Add this back in later 
@@ -154,7 +162,7 @@ header, footer {
 /* ########################################## */
 
 
-nav ul, aside ul {
+#mainNav ul, aside ul {
 	/* Get rid of the bullet points */
 	list-style: none;
 	width: 100%;
@@ -184,14 +192,20 @@ nav ul, aside ul {
 
 #mainNav li, #recents li {
 	float: left;
-	margin-right: 1%;
+	margin-left: 0;
+	margin-right: 1.2%; /* can't figure out how to center it so I fudge it this way */
 	background-color: #376092;
 	border: 0px solid #376092;
 	border-radius: 7pt;
 }
 
+.halfnav p {
+	display: inline-block;
+	vertical-align: middle;
+}
+
 #recents li {
-	margin-top: 5px;
+	margin: 5px 0 0 0;
 }
 
 #mainNav a, #recents a {
@@ -200,16 +214,20 @@ nav ul, aside ul {
 	border: none;
 	font-size: 1.2em;
 	text-align: center;
-	padding: 0.25em 0.5em;
+	padding: 0.25em 1em;
 	border: 0px solid black;
 	border-radius: 7pt;
+}
+
+#recents a {
+	padding: 0.25em 0.5em;
 }
 
 #mainNav a:hover, #recents a:hover  {
 	background-color: #132A45;
 }
 
-#mainNav a em {
+#mainNav em {
 	font-size: .6em;
 	display: block;
 }
@@ -283,9 +301,6 @@ p a:after {
 
 /* The center box */
 #main > article {
-	margin: 4px;
-	padding: 5px;
-
 	/* This is inside the main flex element, so it gets this property so it can be flexed. */
 	flex: 3 1 60%;
 	order: 2;
@@ -293,9 +308,8 @@ p a:after {
 
 /* The main aside box */
 #main > aside {
-	margin: 4px;
+	margin-left: 1rem;
 	padding: 5px;
-	margin-left: 1em;
 
 	/* This is inside the main flex element, so it gets this property so it can be flexed. */
 	flex: 1 6 20%;
@@ -308,10 +322,8 @@ p a:after {
 }
 
 p {
-	font: 110% 'Iowan Old Style', 'Palatino', 'Times New Roman', serif;
 	text-align: justify;
 	line-height: 1.4em;
-	font-size: 110%;
 	margin-bottom: 1em;
 }
 
@@ -325,16 +337,18 @@ sup {
 
 /* For the recents section, these are formatted the same way as the buttons in the navigation pane. */
 
-aside img {
+#mainPhoto {
+	display: block;
+	margin: 0 auto;
 	border: 0px solid #376092;
 	border-radius: 7pt;
+	width: 220px;
 }
 
 #socialMedia {
 	display: flex;
 	justify-content: space-around;
-	padding-top: 1em;
-	padding-bottom: 1em;
+	padding: 1rem 0;
 }
 #socialMedia a {
 	text-indent: -9000em;
@@ -342,6 +356,10 @@ aside img {
 	width: 32px;
 	height: 32px;
 }
+#socialMedia li {
+	margin: auto;
+}
+
 #email {
 	background: url(../images/icons/email.svg) no-repeat;
 }
@@ -471,10 +489,7 @@ a.audio:after {
 /*              Resources Page                */
 /* ########################################## */
 
-/* Make the lists in the resources page slightly indented*/
-#resources li {
-	margin-left: 2em;
-}
+
 
 
 /* ########################################## */
@@ -581,10 +596,6 @@ aside#tags {
 	background-image: url("");
 }
 
-.taglist li {
-	margin-left: 1em;
-}
-
 .taglist time {
 	font-size: 75%;
 	margin-left: 0.5em;
@@ -627,6 +638,7 @@ aside#tags {
 
 .prevLink {
 	float: left;
+	max-width: 270px;
 }
 
 .prevLink:before {
@@ -635,6 +647,8 @@ aside#tags {
 
 .nextLink {
 	float: right;
+	text-align: right;
+	max-width: 270px;
 }
 
 .nextLink:after {
@@ -727,7 +741,7 @@ img.rounded {
 	right:-3em;
 }
 
-
+/* What is this for??? */
 .message {
 	float: center;
 	width: 80%;

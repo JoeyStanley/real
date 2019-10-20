@@ -1,5 +1,6 @@
 ---
 layout: aside
+title: Datasets
 ---
 
 Datasets

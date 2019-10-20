@@ -7,7 +7,7 @@ layout: skeleton
     {{ content | toc }}
   </article>
   <aside id="mainAside">
-    <img src="/images/joey_190623_cropped.jpg" width="210" alt="My picture" style="display: block; margin: 0 auto;">
+    <img id="mainPhoto" src="/images/joey_190623_cropped.jpg" alt="My picture">
     <ul id="socialMedia">
         <li><a href="mailto:joeystan@uga.edu" title="email" id="email">email</a></li>
         <li><a href="https://twitter.com/joey_stan" title="twitter" id="twitter">Twitter</a></li>
@@ -40,6 +40,7 @@ layout: skeleton
         </h2>
         <div class="entry-content">{{post.excerpt | strip_html}} <a href="{{post.url}}" title="read more" class="more">Read more</a></div>
     </div>
+    <br/>
     <br/>
     <br/>
     <div class="icon-credit">Icon credits: <img src='/images/icons/email.svg' height="10"/> 
