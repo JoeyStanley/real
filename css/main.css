@@ -37,12 +37,14 @@ div, h1, h2, h3, p, img, nav, ul, li, header, time, article, a {
 	padding: 0;
 }
 
-/* Add border for debugging  
+
+/* Add border for debugging    
 header, nav, body, aside, footer, h1, h2, p, ul, li, time, a {
 	border: 1px solid #376092;
 	border-radius: 7pt;
 }
 */
+
 
 /* ########################################## */
 /*                 Global Styles              */
@@ -156,14 +158,6 @@ header, footer {
 /*                Navigation Styles           */
 /* ########################################## */
 
-
-#mainNav ul, aside ul {
-	/* Get rid of the bullet points */
-	list-style: none;
-	width: 100%;
-	font-family: 'Avenir', 'Muli', 'Helvetica Narrow', Arial, sans-serif;
-}
-
 #mainNav, #recents {
 	overflow: auto;
 	margin-bottom: 1em;
@@ -185,7 +179,31 @@ header, footer {
 	align-items: center;
 }
 
-#mainNav li, #recents li {
+
+
+#mainNav div {
+	font-family: 'Avenir', 'Muli', 'Helvetica Narrow', Arial, sans-serif;
+	float: left;
+	background-color: #376092;
+	border: 0px solid #376092;
+	border-radius: 7pt;
+	margin: 0 auto;
+}
+#mainNav div:first-child {
+	margin-left: 0;
+}
+#mainNav div:last-child {
+	margin-right: 0;
+}
+
+aside ul {
+	/* Get rid of the bullet points */
+	list-style: none;
+	width: 100%;
+	font-family: 'Avenir', 'Muli', 'Helvetica Narrow', Arial, sans-serif;
+}
+
+#recents li {
 	float: left;
 	margin-left: 0;
 	margin-right: 1.2%; /* can't figure out how to center it so I fudge it this way */
@@ -301,16 +319,6 @@ p a:after {
 	order: 2;
 }
 
-/* The main aside box */
-#main > aside {
-	margin-left: 1rem;
-	padding: 5px;
-
-	/* This is inside the main flex element, so it gets this property so it can be flexed. */
-	flex: 1 6 20%;
-	order: 3;
-}
-
 #research {
 	width: 100%;
 	margin: auto;
@@ -332,12 +340,23 @@ sup {
 
 /* For the recents section, these are formatted the same way as the buttons in the navigation pane. */
 
+/* The main aside box */
+#main > aside {
+	margin-left: 1rem;
+	padding: 0;
+
+	/* This is inside the main flex element, so it gets this property so it can be flexed. */
+	flex: 1 6 20%;
+	order: 3;
+}
+
 #mainPhoto {
 	display: block;
-	margin: 0 auto;
+	margin: 0;
+	padding: 0;
 	border: 0px solid #376092;
 	border-radius: 7pt;
-	width: 220px;
+	width: 100%;
 }
 
 #socialMedia {
