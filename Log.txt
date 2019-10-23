@@ -137,8 +137,11 @@ Sunday, May 5, 2019
 Thursday, August 15, 2019
 10:06pm - Added the /data page. Should have done this earlier. Looks great. Also added the /pages/setup page to help with upcoming workshops.
 
+Sunday, October 20, 2019
+Spent a few days giving the entire site a bit of a facelift. Went throught the CSS to clean it up and make it a little more streamlined. Finally made the six tabs at the top were aliged properly to fill the entire width. Made sure that the name, tabs, title, and body were all left aligned. Centered my photo with the social media buttons. Overall it just looks a little crisper and cleaner. 
 
-
+Wednesday, October 23, 2019
+11:55am - Finally figured out a shorter-hand for small caps. Went from <span style="font-variant: small-caps;">word</span> to just <sc>word</sc>. Add it to the CSS to make it work.
 
 
 # todo

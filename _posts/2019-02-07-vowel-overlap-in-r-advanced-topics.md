@@ -53,7 +53,7 @@ Okay cool. Let's see what else can be done with this.
 
 What I've shown so far is how to calculate the Pillai score for multiple speakers for a *single* pair of vowels. The next question is what how to get the Pillai score for multiple speakers for *multiple* pairs of vowels. 
 
-Unfortunately, I don't really know of a quick way to do that. The problem is a single vowel might be used in multiple pairs (like measuring <span style="font-variant:small-caps;">trap</span>-<span style="font-variant:small-caps;">lot</span> overlap or <span style="font-variant:small-caps;">trap</span>-<span style="font-variant:small-caps;">fleece</span> overlap). Plus, you might be only interested in certain vowels in certain phonetic environments, like prefore nasals or before tautosyllabic /l/, so defining all that on the fly would be tricky. So there's no good way that I know of to loop through or group everything in a straightforward manner like we could with speaker.
+Unfortunately, I don't really know of a quick way to do that. The problem is a single vowel might be used in multiple pairs (like measuring <sc>trap</sc>-<sc>lot</sc> overlap or <sc>trap</sc>-<sc>fleece</sc> overlap). Plus, you might be only interested in certain vowels in certain phonetic environments, like prefore nasals or before tautosyllabic /l/, so defining all that on the fly would be tricky. So there's no good way that I know of to loop through or group everything in a straightforward manner like we could with speaker.
 
 The easiest solution I can think of is to define separate datasets like we've done with `low_back` and run the same code on them. That way, you have all the flexibility of defining specific allophones for each question. And, you probably won't be getting the Pillai score on *too* many pairs of vowels, right? 
 
@@ -246,7 +246,7 @@ I'll start with the `bhatt` function because it's a little more straightforward.
 
 ### 4.1 Making `bhatt` more robust
 
-<p>I&rsquo;ve noticed when running Bhattacharyya&rsquo;s affinity on my data that it tends to crash if certain conditions aren&rsquo;t met. For example, the calculation requires at least five observations from each vowel class to work. So, let&rsquo;s say I wanted to look at the <i>pull-pole</i><span class="sidenote">I <i>think</i> I have this merger, but I&rsquo;m really not sure. I thought studying it in my data would help my own intuitions, but now I&rsquo;m always hyper aware of the relatively small group of relevant words. But I digress…</span> merger (that is, the merger of <span style="font-variant:small-caps;">foot</span> and <span style="font-variant:small-caps;">goat</span> before laterals). We can create the dataset the same way as before</p>
+<p>I&rsquo;ve noticed when running Bhattacharyya&rsquo;s affinity on my data that it tends to crash if certain conditions aren&rsquo;t met. For example, the calculation requires at least five observations from each vowel class to work. So, let&rsquo;s say I wanted to look at the <i>pull-pole</i><span class="sidenote">I <i>think</i> I have this merger, but I&rsquo;m really not sure. I thought studying it in my data would help my own intuitions, but now I&rsquo;m always hyper aware of the relatively small group of relevant words. But I digress…</span> merger (that is, the merger of <sc>foot</sc> and <span style="font-variant:small-caps;">goat</span> before laterals). We can create the dataset the same way as before</p>
 
 ~~~~~~r
 pull_pole <- my_vowels %>%
@@ -273,7 +273,7 @@ pull_pole %>%
 #  are required to fit an home range
 ~~~~~~
 
-It crashes. You can see in the error message that it says you need at least five "relocations" per "home range". You can tell this package was intended for animal location data instead of vowel data. But we can see that there aren't five words in the <span style="font-variant:small-caps;">pull</span> (= "UH") class:
+It crashes. You can see in the error message that it says you need at least five "relocations" per "home range". You can tell this package was intended for animal location data instead of vowel data. But we can see that there aren't five words in the <sc>pull</sc> (= "UH") class:
 
 ~~~~~~r
 table(pull_pole$vowel)
@@ -408,7 +408,7 @@ all_pairs %>%
 ~~~~~~
 
 <span class="sidenote">Again, this shows that I don't fully understand the math behind the MANOVA test. I wish I did…</span>
-Now, apparently `manova` can handle less data than `kerneloverlap` can, because the only reason that crashed is because one of my fake speakers had zero tokens of <span style="font-variant:small-caps;">pull</span>. I'll try it again but pooling all my data together. If there's even just one token, it'll actually run and return a value for you.
+Now, apparently `manova` can handle less data than `kerneloverlap` can, because the only reason that crashed is because one of my fake speakers had zero tokens of <sc>pull</sc>. I'll try it again but pooling all my data together. If there's even just one token, it'll actually run and return a value for you.
 
 ~~~~~~r
 all_pairs %>%

@@ -83,6 +83,10 @@ li {
 	margin-left: 2em;
 }
 
+sc {
+	font-variant: small-caps;
+}
+
 
 /* ########################################## */
 /*                 Header Styles              */
