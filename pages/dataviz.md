@@ -19,9 +19,9 @@ Note: All workshops will be held at 3:35pm at the DigiLab (300 Main Library)
 
 <br/>
 
-## *Send the right message: The dos and don’ts of COLOR in data visualization*
+## [*Send the right message: The dos and don’ts of COLOR in data visualization*](/downloads/191023-color.pdf)
 
-*October 23, 2019*---Meagan Duever, GIS Librarian at UGA will help me lead this workshop. We'll talk about general principles of color in data visualization, introduce a whole bunch of nice color palattes, and demonstrate how to customize your colors in ArcMap, QGIS, Excel, and R.
+*October 23, 2019*---Meagan Duever, GIS Librarian at UGA will help me lead this workshop. We talk about general principles of color in data visualization, introduce a whole bunch of nice color palattes, and demonstrate how to customize your colors in ArcMap, QGIS, Excel, and R.
 
 <br/>
 
