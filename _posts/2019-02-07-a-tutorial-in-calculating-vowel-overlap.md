@@ -448,14 +448,13 @@ Okay, great. So that's step one.
 
 The next step is to convert the data into a spatial points dataframe. This is a special kind of dataset that is meant to be processed as spatial data. Using the `SpatialPointsDataFrame` function, we provide two arguments: the coordinates and the data. If you think of the F1-F2 vowel space as *x*-*y* coordinates, then it makes sense why we need to have those as the coordinate data. And for the data, well, the only thing we need to do is supply the vowel data. 
 
-Unfortunately, `SpatialPointsDataFrame` requires the data to be prepared just right in order for it to work. So, when we send the F1 and F2 data, we have to basically prepare a dataframe that contains just those two columns. We can do this by subsetting the `low_back` data and only selecting the `F1` and `F2` columns *or* you can use `cbind` to accomplish the same thing.
+Unfortunately, `SpatialPointsDataFrame` requires the data to be prepared just right in order for it to work. So, when we send the F1 and F2 data, we have to basically prepare a dataframe that contains just those two columns. We can do this by subsetting the `low_back` data and only selecting the `F1` and `F2` columns.
 
 ~~~~~~r
-just_formants_df <- low_back[,c("F1", "F2")]        # <- option 1
-just_formants_df <- cbind(low_back$F1, low_back$F2) # <- option 2
+just_formants_df <- low_back[,c("F1", "F2")]
 head(just_formants_df)
 
-##       [,1]   [,2]
+##         F1     F2
 ## [1,] 614.6 1065.2
 ## [2,] 554.0 1250.3
 ## [3,] 598.6 1000.2
@@ -464,20 +463,19 @@ head(just_formants_df)
 ## [6,] 588.0 1034.1
 ~~~~~~
 
-Then, for the data, we need to do the same thing, but only selecting the `vowel` column. Again, we have two ways of doing this.
+Then, for the data, we need to do the same thing, but only selecting the `vowel` column.
 
 ~~~~~~r
-just_vowels_df <- low_back[,"vowel"]         # <- option 1
-just_vowels_df <- data.frame(low_back$vowel) # <- option 2
-head(just_formants_df)
+just_vowels_df <- low_back[,"vowel"]
+head(just_vowels_df)
 
-##       [,1]   [,2]
-## [1,] 614.6 1065.2
-## [2,] 554.0 1250.3
-## [3,] 598.6 1000.2
-## [4,] 587.5  986.7
-## [5,] 770.0 1068.7
-## [6,] 588.0 1034.1
+##      vowel
+## [1,]    AA
+## [2,]    AA
+## [3,]    AA
+## [4,]    AO
+## [5,]    AA
+## [6,]    AO
 ~~~~~~
 
 So, if we put those two as the arguments to the `SpatialPointsDataFrame` function, we're golden. Let's save that as a new object called `low_back_sp`. 
