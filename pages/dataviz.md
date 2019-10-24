@@ -7,9 +7,9 @@ redirect_from:
 
 # Data Visualization Workshops
 
-I will be leading a series of three workshops on data visualization during Fall 2019. This page will house the handouts and all materials for those workshops.
+I will be leading a series of two workshops on data visualization during Fall 2019. This page will house the handouts and all materials for those workshops.
 
-Note: All workshops will be held at 3:35pm at the DigiLab (300 Main Library) 
+Note: Both workshops will be held at 3:35pm at the DigiLab (300 Main Library) 
 
 <br/>
 
@@ -22,11 +22,5 @@ Note: All workshops will be held at 3:35pm at the DigiLab (300 Main Library)
 ## [*Send the right message: The dos and don’ts of COLOR in data visualization*](/downloads/191023-color.pdf)
 
 *October 23, 2019*---Meagan Duever, GIS Librarian at UGA will help me lead this workshop. We talk about general principles of color in data visualization, introduce a whole bunch of nice color palattes, and demonstrate how to customize your colors in ArcMap, QGIS, Excel, and R.
-
-<br/>
-
-## *Don't like coding? Try these online visualization tools!*
-
-*October 30, 2019*---This workshop introduces Tableau and other tools for visualizing your data that don't require coding.
 
 <br/>
