@@ -3,6 +3,7 @@ layout: post
 title:  "Why do people use BAT instead of TRAP?"
 date:   2019-10-28 21:48:00 -0400
 tags: [Methods]
+excerpt: In English sociolinguistics, you'll often see vowel phonemes represented by a single word in small caps. For example, TRAP represents /æ/. However, in a lot of American dialectology papers, you'll see authors use the label BAT instead. In this post, I explain why I think these competing labels are used… and why I prefer TRAP over BAT.
 ---
 
 In English sociolinguistics, you'll often see vowel phonemes represented by a single word in small caps. For example, <sc>trap</sc> represents /æ/. However, in a lot of American dialectology papers, you'll see authors use the label <sc>bat</sc> instead. In this post, I explain why I think these competing labels are used… and why I prefer <sc>trap</sc> over <sc>bat</sc>.
