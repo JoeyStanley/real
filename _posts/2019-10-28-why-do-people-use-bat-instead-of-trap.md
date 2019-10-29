@@ -462,7 +462,7 @@ I question the usefulness of the <sc>b_t</sc> frame. It's convenient that a comm
 
 To put it another way, just because we call something the *cot-caught* merger doesn't mean we should refer to the entire lexical sets as <sc>cot</sc> and <sc>caught</sc>. In fact, I think we should actively *avoid* referring to them as <sc>cot</sc> and <sc>caught</sc> for the very reason that they do form a minimal pair. 
 
-It's my impression that researchers on non-American varieties of English use Wells' original lexical sets without any problems. Using a different set is potentially confusion and may alienate ourselves from studies on other World Englishes.
+It's my impression that researchers on non-American varieties of English use Wells' original lexical sets without any problems. Using a different set is potentially confusing and may alienate ourselves from studies on other World Englishes.
 
 To be clear, I am in no way criticizing the researchers who came up with or use the <sc>b_t</sc> frame. If you're familiar with what I do you'll know that their work is *highly* relevant to my own studies, and I cite *a lot* of studies that use the <sc>b_t</sc> frame. Their work is excellent and I model my own work after their theirs. I just think the labels could be clearer.
 
