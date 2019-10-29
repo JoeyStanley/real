@@ -313,7 +313,7 @@ They end with this statement:
 It appears that their goal for continuity has reached further than they may have anticipated because the set was used in later volumes of the *Publications of the American Dialect Society*. For instance, here are the remarks by the editors of *Speech in the Western States: Volume 1: The Coastal States* (Fridland *et al.* 2016):
 
 <span class="sidenote-wide">The description in *Speech in the <a href="https://read.dukeupress.edu/pads/issue/102/1">Western States: Volume 2: The Mountain West</a>* (Fridland et al. 2017) is almost identical.</span>
-> "For the purpose of clarity and continuity, authors use the conventions of the International Phonetic Alphabet throughout the chapters, though, in many cases, keywords in the <sc>b_t</sc> frame are used to highlight particular word classes and subclasses, following other recent PADS volumes (Yeager-Dror & Thomas 2009). These frames are built upon those made for comparative study of English dialects by Wells (1982) but have been adapted to allow representation of the particular vowel changes and conditioning environments of interest to the present study of the U.S. West."
+> For the purpose of clarity and continuity, authors use the conventions of the International Phonetic Alphabet throughout the chapters, though, in many cases, keywords in the <sc>b_t</sc> frame are used to highlight particular word classes and subclasses, following other recent PADS volumes (Yeager-Dror & Thomas 2009). These frames are built upon those made for comparative study of English dialects by Wells (1982) but have been adapted to allow representation of the particular vowel changes and conditioning environments of interest to the present study of the U.S. West.
 
 <table id="wells">
     <thead>
