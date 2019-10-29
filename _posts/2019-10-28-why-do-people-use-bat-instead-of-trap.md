@@ -450,7 +450,7 @@ Hot take: I don't think this the <sc>b_t</sc> is any more useful than IPA. Hear 
 
 Imagine you're at a conferece talking about the low back merger and you yourself have the merger. Since you don't naturally differentiate the words *bot* and *bought*, you struggle to explain the differences that may exist in your study. Even if you do distinguish the sounds, many people in your audience may not, so they'll have a hard time understanding. This was one of the reasons Wells came up with his lexical sets: neither you nor your audience would have much difficulty understanding the words *lot* or *thought* since, as far as I know, /lɔt/ and /θɑt/ are not English words.
 
-Even if you're not talking about a merger, if you are someone with particularly shifted vowels, an isolated, ambiguous token like [bɛ̞t] or [bæ̙t], it may not be immediately clear to listeners of other dialects to know which vowel you're talking about. 
+Even if you're not talking about a merger, if you are someone with particularly shifted vowels, when you say an isolated, ambiguous token like [bɛ̞t] or [bæ̙t], it may not be immediately clear to listeners of other dialects to know which vowel you're talking about. 
 
 The words in the <sc>b_t</sc> frame may be "untrammeled by their consonantal environment," but I don't know if the lack of transition formants make for the most effective label in speech or writing. Keywords are labels to refer to large lexical sets, so while they may not make for ideal tokens when collecting phonetic data, they still serve the purpose of umabiguously identifying a vowel phoneme.
 
