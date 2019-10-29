@@ -183,9 +183,9 @@ Wednesday, October 23, 2019
 
 Blog posts:
 * B_N labels
-* Finish the filtering post
-* Finish the outlier detection with DOBIN
 * tidyr 1.0.0 and working with vowel data
+* Finish the vowel filtering post
+* Finish the outlier detection with DOBIN
 * Thoughts while transcribing
     * When people take breaths, like immediately after a difficult word.
     * Cool flow charts that show when people read a sentence incorrectly in the laterals data. It would show when words get substituted or removed entirely.
