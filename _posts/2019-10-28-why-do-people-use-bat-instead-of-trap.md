@@ -228,9 +228,9 @@ I did some digging in old *American Speech* and volumes of the *Publications of 
 <span class="sidenote-wide">Erik Thomas & Malcah Yeager-Dror, eds. 2009. African American English Speakers and Their Particpation in Local Sound Changes: A Comparative Study. <i>Publication of the American Dialect Society</i> 94. Available <a href = "https://read.dukeupress.edu/pads/issue/94/1">here</a>.</span>
 In contemporary sociolinguistics, I believe the <sc>b_t</sc> frame was popularized by Erik Thomas & Malcah Yeager-Dror's 2009 edited volume, *African American English Speakers and Their Particpation in Local Sound Changes: A Comparative Study*. In the introduction, starting on page 8 and spilling into page 9, they say that they 
 
-> "…found that it would be helpful to formulate a convention to unify the text and simplify the reader’s task; with that thought in mind, we have suggested that authors use neither a phonological /  / nor a variable ( ) presentation, both of which differ in conventions from author to author. We have chosen instead to refer to a given vowel class using keywords, following the principle behind Wells (1982). To further simplify, we turned to Ladefoged’s (2005) choice of keyword paradigm, which uses words that are as untrammeled by their consonantal environment as possible. To obtain these keywords, he chose an <sc>h_d</sc> frame, to have his speakers “say <sc>heed</sc> again."
+> …found that it would be helpful to formulate a convention to unify the text and simplify the reader’s task; with that thought in mind, we have suggested that authors use neither a phonological /  / nor a variable ( ) presentation, both of which differ in conventions from author to author. We have chosen instead to refer to a given vowel class using keywords, following the principle behind Wells (1982). To further simplify, we turned to Ladefoged’s (2005) choice of keyword paradigm, which uses words that are as untrammeled by their consonantal environment as possible. To obtain these keywords, he chose an <sc>h_d</sc> frame, to have his speakers “say <sc>heed</sc> again.
 
-> "To minimize the need for varying the "carrier" environment, in each case, the vowel being focused on here will be a <sc>b_t</sc> paradigm (see table 1.1)."
+> To minimize the need for varying the "carrier" environment, in each case, the vowel being focused on here will be a <sc>b_t</sc> paradigm (see table 1.1).
 
 <table id="wells">
     <thead>
@@ -307,7 +307,7 @@ In contemporary sociolinguistics, I believe the <sc>b_t</sc> frame was populariz
 
 They end with this statement:
 
-> "We hope that this convention will permit the reader to follow all the authors without difficult transitioning between chapters."
+> We hope that this convention will permit the reader to follow all the authors without difficult transitioning between chapters.
 
 <span class="sidenote-wide">Valerie Fridland, Tyler Kendall, Betsy E. Evans, & Alicia Beckford Wassink, eds. 2016. Speech in the Western States, Vol 1., The Coastal States. <i>Publication of the American Dialect Society</i> 101. Available <a href = "https://read.dukeupress.edu/pads/issue/101/1">here</a>.</span>
 It appears that their goal for continuity has reached further than they may have anticipated because the set was used in later volumes of the *Publications of the American Dialect Society*. For instance, here are the remarks by the editors of *Speech in the Western States: Volume 1: The Coastal States* (Fridland *et al.* 2016):
@@ -456,7 +456,7 @@ The words in the <sc>b_t</sc> frame may be "untrammeled by their consonantal env
 
 In fact, Wells specifically designed his original set so that it specifically would *not* use the <sc>b_t</sc> frame: 
 
-> "The keywords have been chosen in such a way that clarity is maximized: whatever accent of English they are spoken in, they can hardly be mistaken for other words. Although *fleece* is not the commonest of words, it cannot be mistaken for a word with some other vowel; whereas *beat*, say, if we had chosen it instead, would have been subject to the drawback that one man's pronunciation of *beat* may sound like another's pronunciation of *bait* or *bit*." (Wells 1982:123)
+> The keywords have been chosen in such a way that clarity is maximized: whatever accent of English they are spoken in, they can hardly be mistaken for other words. Although *fleece* is not the commonest of words, it cannot be mistaken for a word with some other vowel; whereas *beat*, say, if we had chosen it instead, would have been subject to the drawback that one man's pronunciation of *beat* may sound like another's pronunciation of *bait* or *bit*. (Wells 1982:123)
 
 I question the usefulness of the <sc>b_t</sc> frame. It's convenient that a common enough English word can be created by filling in almost any vowel into the template, but I don't know if this large minimal set makes for the most unambiguous lexical set. When he introduces his keywords, Wells says that they are "intended to be unmistakable no matter what accent one says them in." This property is not retained in the <sc>b_t</sc> set of keywords. In fact, creating a set based on minimal pairs defeats the very purpose of a lexical set.
 
