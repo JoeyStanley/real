@@ -19,6 +19,7 @@ Onyx: #334139
 Charleston Green: #1E2D24
 */
 
+
 /* Tips hat to Jonathan Crum for showing me how to import fonts. */
 @import url('https://fonts.googleapis.com/css?family=PT+Serif&display=swap');
 
@@ -767,7 +768,7 @@ img.rounded {
 .message {
 	float: center;
 	width: 80%;
-	background: #3760926c;
+	background: #376092;
 	border: 0px solid 376092;
 	border-radius: 7pt;
 	padding: 0.25em 0.5em;
