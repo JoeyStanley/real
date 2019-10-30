@@ -225,8 +225,8 @@ The Wells sets are very useful, but for some reason, they have not become adopte
 
 I did some digging in old *American Speech* and volumes of the *Publications of the American Dialect Society* to see when these labels were first used. The earliest instance I could find goes all the way back to <span class="sidenote-wide">Sumner Ives. 1954. The Phonology of the Uncle Remus Stories. <i>Publication of the American Dialect Society</i> 22(1): 3–59. Available <a href = "https://doi.org/10.1215/-22-1-3">here</a>.</span>Sumner Ives' 1954 study called *The Phonology of the Uncle Remus Stories*, which was the 22nd volume in the *PADS* series. On page 6, the author states that the following words are to refer to English vowels: *beet*, *bit*, *bait*, *bet*, *bat*, *not*, *bought*, *boat*, *put*, *boot*, *but*, *curt*, *bite*, *bout*, *boy*, and *above*. This set is remarkably close to what some reseachers use today!
 
-<span class="sidenote-wide">Erik Thomas & Malcah Yeager-Dror, eds. 2009. African American English Speakers and Their Particpation in Local Sound Changes: A Comparative Study. <i>Publication of the American Dialect Society</i> 94. Available <a href = "https://read.dukeupress.edu/pads/issue/94/1">here</a>.</span>
-In contemporary sociolinguistics, I believe the <sc>b_t</sc> frame was popularized by Erik Thomas & Malcah Yeager-Dror's 2009 edited volume, *African American English Speakers and Their Particpation in Local Sound Changes: A Comparative Study*. In the introduction, starting on page 8 and spilling into page 9, they say that they 
+<span class="sidenote-wide">Erik Thomas & Malcah Yaeger-Dror, eds. 2009. African American English Speakers and Their Particpation in Local Sound Changes: A Comparative Study. <i>Publication of the American Dialect Society</i> 94. Available <a href = "https://read.dukeupress.edu/pads/issue/94/1">here</a>.</span>
+In contemporary sociolinguistics, I believe the <sc>b_t</sc> frame was popularized by Erik Thomas & Malcah Yaeger-Dror's 2009 edited volume, *African American English Speakers and Their Particpation in Local Sound Changes: A Comparative Study*. In the introduction, starting on page 8 and spilling into page 9, they say that they 
 
 > …found that it would be helpful to formulate a convention to unify the text and simplify the reader’s task; with that thought in mind, we have suggested that authors use neither a phonological /  / nor a variable ( ) presentation, both of which differ in conventions from author to author. We have chosen instead to refer to a given vowel class using keywords, following the principle behind Wells (1982). To further simplify, we turned to Ladefoged’s (2005) choice of keyword paradigm, which uses words that are as untrammeled by their consonantal environment as possible. To obtain these keywords, he chose an <sc>h_d</sc> frame, to have his speakers “say <sc>heed</sc> again.
 
@@ -302,7 +302,7 @@ In contemporary sociolinguistics, I believe the <sc>b_t</sc> frame was populariz
         </tr>
     </tbody>
 </table>
-<p class="caption center">Table 3: The lexical set based on the <sc>b_t</sc> frame. This is a subset of the table by Thomas & Yeager-Dror (2009:6).</p>
+<p class="caption center">Table 3: The lexical set based on the <sc>b_t</sc> frame. This is a subset of the table by Thomas & Yaeger-Dror (2009:6).</p>
 <br/>
 
 They end with this statement:
@@ -313,7 +313,7 @@ They end with this statement:
 It appears that their goal for continuity has reached further than they may have anticipated because the set was used in later volumes of the *Publications of the American Dialect Society*. For instance, here are the remarks by the editors of *Speech in the Western States: Volume 1: The Coastal States* (Fridland *et al.* 2016):
 
 <span class="sidenote-wide">The description in *Speech in the <a href="https://read.dukeupress.edu/pads/issue/102/1">Western States: Volume 2: The Mountain West</a>* (Fridland et al. 2017) is almost identical.</span>
-> For the purpose of clarity and continuity, authors use the conventions of the International Phonetic Alphabet throughout the chapters, though, in many cases, keywords in the <sc>b_t</sc> frame are used to highlight particular word classes and subclasses, following other recent PADS volumes (Yeager-Dror & Thomas 2009). These frames are built upon those made for comparative study of English dialects by Wells (1982) but have been adapted to allow representation of the particular vowel changes and conditioning environments of interest to the present study of the U.S. West.
+> For the purpose of clarity and continuity, authors use the conventions of the International Phonetic Alphabet throughout the chapters, though, in many cases, keywords in the <sc>b_t</sc> frame are used to highlight particular word classes and subclasses, following other recent PADS volumes (Thomas & Yaeger-Dror 2009). These frames are built upon those made for comparative study of English dialects by Wells (1982) but have been adapted to allow representation of the particular vowel changes and conditioning environments of interest to the present study of the U.S. West.
 
 <table id="wells">
     <thead>
@@ -440,9 +440,9 @@ It appears that their goal for continuity has reached further than they may have
 <br/>
 The only difference is that <sc>bird</sc> was changed to <sc>burt</sc>.
 
-Outside of the *PADS* volumes, this frame was also used in [McCarthy (2011)](https://journals.sagepub.com/doi/abs/10.1177/0075424210384226), which explicitly states that these labels were used because of Thomas & Yeager-Dror (2009). 
+Outside of the *PADS* volumes, this frame was also used in [McCarthy (2011)](https://journals.sagepub.com/doi/abs/10.1177/0075424210384226), which explicitly states that these labels were used because of Thomas & Yaeger-Dror (2009). 
 
-I don't know the reason why the <sc>b_t</sc> frame was designed when the Wells lexical sets were already established. Perhaps the draw of the nearly complete minimal set to contrast all English vowels was useful. Maybe it's because the words in the <sc>b_t</sc> frame are shorter, which makes for less cluttered visualizations and written prose. Thomas & Yeager-Dror did say that the use of the consonants /b/ and /t/ in the keywords helped reduce the effects of surrounding consonants on the vowels themselves. Ultimately though, I'm not sure. 
+I don't know the reason why the <sc>b_t</sc> frame was designed when the Wells lexical sets were already established. Perhaps the draw of the nearly complete minimal set to contrast all English vowels was useful. Maybe it's because the words in the <sc>b_t</sc> frame are shorter, which makes for less cluttered visualizations and written prose. Thomas & Yaeger-Dror did say that the use of the consonants /b/ and /t/ in the keywords helped reduce the effects of surrounding consonants on the vowels themselves. Ultimately though, I'm not sure. 
 
 ## My thoughts on the <sc>b_t</sc> frame
 
