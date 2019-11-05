@@ -182,8 +182,7 @@ Wednesday, October 23, 2019
 
 
 Blog posts:
-* B_N labels
-* tidyr 1.0.0 and working with vowel data
+* Non-significance does not indicate merger. It just means you don't have evidence to reject the hypothesis that they're the same.
 * Finish the vowel filtering post
 * Finish the outlier detection with DOBIN
 * Thoughts while transcribing
