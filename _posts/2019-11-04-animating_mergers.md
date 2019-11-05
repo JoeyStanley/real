@@ -49,7 +49,7 @@ It's a haphazard shift, and during the change each person could have their own p
 <span class="sidenote-wide"><a href="https://journals.sagepub.com/doi/10.1177/0075424216634795">Dinkin, Aaron J. 2016. Phonological Transfer as a Forerunner of Merger in Upstate New York. <i>Journal of English Linguistics</i> 44(2): 162–88.</a></span>
 Nearly 40 years later, Aaron Dinkin published a paper describing what he calls a *Merger by Phonological Transfer*. The phonemeonon in question is the merger of <sc>lot</sc> with <sc>thought</sc>. In upstate New York, he finds that many speakers do not have the merger---except in before coda laterals. Thus, *cot* and *caught* are distinct, and *collar* and *caller* are distinct, but *doll* rhymes with *hall*.  In Dinkin's words, what's happening here is 
 
-> "the diescrete replacement of one phoneme in a given phonological environment with a different phoneme." (Dinkin 2016:183)
+> "the discrete replacement of one phoneme in a given phonological environment with a different phoneme." (Dinkin 2016:183)
 
 It's a type of merger by transfer, only it happens phonologically rather than lexically. Instead of individual words defecting to another category, entire groups of words, defined by some phonological property, jump ship *en bloc* to the new phonome. 
 
