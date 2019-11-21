@@ -744,10 +744,11 @@ img.rounded {
 
 	/* This works because the #main selector is "relative." */
 	position: absolute;
-	/* right: 0; */
+	right: 0;
+	
 	/* Corrected to render properly in Firefox (thanks Jonathan Crum!)*/
 	/*float: right;*/
-	right: -90px;
+	/*right: -90px;*/
 
 	/* The line height looked too spread out so this consenses it */
 	line-height: 1.35;
