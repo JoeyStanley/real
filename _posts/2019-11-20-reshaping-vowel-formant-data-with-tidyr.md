@@ -13,9 +13,9 @@ To be clear, I understand the frustration that comes when trying to reshape your
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">In any given project, I think I spend more time trying to figure out how to reshape, melt, and cast my data than anything else.</p>&mdash; Joey Stanley (@joey_stan) <a href="https://twitter.com/joey_stan/status/799076461013516291?ref_src=twsrc%5Etfw">November 17, 2016</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Some of you may be able to deduce that I was working with Hadley Wickham's `reshape2` package, which had the functions `melt` and `cast`. In fact, I was so frustrated that I ended up modifying my Praat scripts to produce two spreadsheets since I couldn't figure out how do it in R. Fortunately for me, Wickham later released the `tidyr` package, sort of meant to replace `reshape2`, and included the functions `gather` and `spread`. With the help of the relevant section of [*R for Data Science*](https://r4ds.had.co.nz/tidy-data.html#spreading-and-gathering) I was able to learn to use these functions well and now I use them all the time.
+Some of you may be able to deduce that I was working with Hadley Wickham's `reshape2` package, which had the functions `melt` and `cast`. In fact, I was so frustrated that I ended up hacking a solution in a Praat script(!) since I couldn't figure out how do it in R. Fortunately for me, Wickham later released the `tidyr` package, sort of meant to replace `reshape2`, and included the functions `gather` and `spread`. With the help of the relevant section of [*R for Data Science*](https://r4ds.had.co.nz/tidy-data.html#spreading-and-gathering) I was able to learn to use these functions well and now I use them all the time.
 
-Well, `tidyr` has grown up and is now on version 1.0. Some people (not me though) didn't find the names or syntax of `gather` and `spread` intuitive enough, so they were renamed `pivot_longer` and `pivot_wider`. But it was just a cosmetic change: these functions got some major modifications to make them far more powerful than they were before. 
+Well, `tidyr` has grown up and is now on version 1.0. Some people (not me though) didn't find the names or syntax of `gather` and `spread` intuitive enough, so they were renamed `pivot_longer` and `pivot_wider`. But it was more than just a cosmetic change: these functions got some major modifications to make them far more powerful than they were before. 
 
 Vowel trajectory data is complicated because we've got multiple formant measurements at multiple timepoints. You may also have multiple versions of the measurements, like normalized or transformed into Barks. If you're working with this kind of data, you need to be comfortable with any sort of reshaping you need so that you can quickly and effectively do what you need to do with your data.
 
@@ -35,8 +35,9 @@ I'll now load it, together with the rest of the tidyverse:
 library(tidyverse)
 ```
 
-Let's start with a regular dataset. This is one that I've used in lots of my other blog posts. I sat ay my kitchen table and read about 300 words. The audio was processed using DARLA's fully automated option: it was automatically transcribed, then force-aligned with ProsodyLab (back then DARLA used ProsodyLab instead of the MFA), and then formants were automatically extracted using FAVE. My guess is that if you've used FAVE before, the output will look very similar to your own data.
+Let's start with a regular dataset. This is one that I've used in lots of my other blog posts. I sat at my kitchen table and read about 300 sentences. The audio was processed using DARLA's fully automated option: it was automatically transcribed, then force-aligned with ProsodyLab (DARLA used ProsodyLab instead of the MFA back then), and then formants were automatically extracted using FAVE. Not the cleanest method, but it's good enough for this post. My guess is that if you've used FAVE before, the output will look very similar to your own data.
 
+<span class="sidenote">Note that I'm using the `read_csv` function instead of `read.csv`. The one with the underscore will preserve the original column names, like "F1@20%", even if it's hard to work with them down the road. Meanwhile `read.csv` will replace troublesome characters with periods, so that "F1@20%" becomes "F1.20.". I'll use the underscore version in this post, which has ramifications for code later on. If things crash for you, check to see that you read your data in with `read_csv`.</span>
 ```r
 joey_raw <- read_csv("http://joeystanley.com/data/joey.csv") %>%
     print()
@@ -106,12 +107,13 @@ joey <- joey_raw %>%
 
 ## One row per token: F1-F2 single-point plots
 
-Let's pause for a second and think about how our data is structured. We have 275 rows in our spreadsheet. What does each row represent? A single vowel token. We have 10 formant measurements per token, each with its own column. 
+Let's pause for a second and think about how our data is structured. We have 275 rows in our spreadsheet. What does each row represent? A single vowel token. We have 10 formant measurements per token, each in its own column. 
 
-What is this type of data good for? Well, it's perfet for making F1-F2 plots and you only want to point a single point per token. 
+What is this type of data good for? Well, it's perfect for if you want to make F1-F2 plots and you only want to point a single point per token. 
 
 Here's a simple plot with this data. I'll only plot the midpoints. There are some outliers---probably bad measurements---but that's the nature of automatically processed data. In a later blog post, I'll show some ways to filter those out.
 
+<span class="sidenote">Notice that I've got the little tick marks (\`) around `F2@50%` and `F1@50%`. Since the `@` and `%` symbols are hard to work with in R, you have to use the ticks when referring to a column name that includes them.<span>
 ```r
 ggplot(joey, aes(`F2@50%`, `F1@50%`, color = vowel)) +
     geom_point() + 
@@ -177,7 +179,7 @@ joey %>%
 ## # … with 2,740 more rows
 ```
 
-This method is not obsolete *per se*, but the `gather` function is consiered "retired" because a new and improved function, `pivot_longer`, can get the job done better. It is recommended that new code use `pivot_longer` instead of `gather` now. If you'd like to learn more about `pivot_longer`, check out the [vignette on pivotting](https://tidyr.tidyverse.org/articles/pivot.html). I'll just go over some of the most relevant details here.
+This method is not obsolete *per se*, but the `gather` function is considered "retired" because a new and improved function, `pivot_longer`, can get the job done better. It is recommended that new code use `pivot_longer` instead of `gather` now. If you'd like to learn more about `pivot_longer`, check out the [vignette on pivotting](https://tidyr.tidyverse.org/articles/pivot.html). I'll just go over some of the most relevant details here.
 
 So, if you're like me and are very used to `gather`, you can mimic its syntax pretty well with `pivot_longer`.
 
@@ -203,7 +205,7 @@ joey %>%
 ## # … with 2,740 more rows
 ```
 
-But it turns out that `pivot_wider` has some pretty awesome additional functionality that `gather` didn't have!
+But it turns out that `pivot_longer` has some pretty awesome additional functionality that `gather` didn't have!
 
 First off, we shouldn't be satisfied with the `formant_percent` column. It's a single column containing two pieces of information: what formant the measurement is, and how far into the vowel's duration it came from. If you want, you can easily split the two up using `separate`.
 
@@ -259,7 +261,7 @@ joey %>%
 
 But this is a little problematic because the values in `percent` column still have the "%" symbol attached. With `separate` we could just toss it with `extra = "drop"` but it doesn't look so easy with `pivot_wider`. 
 
-Fortunately, `pivot_wider` has a more sophisticated way to separate columns. Instead of `names_sep`, we can use `names_pattern`. Here, we use a regular expression to capture the necessary groups within the old column names. So, if we think about all our column names `F1@20%`, `F2@20%`, `F1@35%`, etc. we can see that the "template" is  "F#**@**##**%**"---that is, an *F* followed by a number, then the @ symbol, two numbers, and then the % symbol. So, knowing that `\\d` is the regular expression for a digit, we can use the search pattern `"(F\\d)@(\\d\\d)%"` to represent our column names. The crucial part here is that we have the information we want to keep, `F\\d` and `\\d\\d`, in parentheses. `pivot_wider` will then use those captured groups as new column names.
+Fortunately, `pivot_wider` has a more sophisticated way to separate columns. Instead of `names_sep`, we can use `names_pattern`. Here, we use what's called a *regular expression* to capture the necessary groups within the old column names. So, if we think about all our column names `F1@20%`, `F2@20%`, `F1@35%`, etc. we can see that the "template" is  "F#**@**##**%**"---that is, an *F* followed by a number, then the @ symbol, two numbers, and then the % symbol. So, knowing that `\\d` is the regular expression for a digit, we can use the search pattern `"(F\\d)@(\\d\\d)%"` to represent our column names. The crucial part here is that we have the information we want to keep, `F\\d` and `\\d\\d`, in parentheses. `pivot_wider` will then use those captured groups as new column names.
 
 ```r
 joey %>%
@@ -317,7 +319,7 @@ joey %>%
 
 When these are all incorporated into `pivot_longer`, we get a single function call that takes care of everything. Before, I had to do `gather`, then `separate`, and then `mutate` to change the column types. So this is a lot handier.
 
-The reason you might want to do all this is because this format is ideal if you want to to a spectrogram-like plot. Here's what would happen if you tried:
+The reason you might want to do all this is because this format is ideal if you want to to a spectrogram-like plot. Here's what would happen if you tried one right now:
 
 ```r
 joey %>%
@@ -333,7 +335,7 @@ joey %>%
 
 Unfortunately, we need to do a *little* more data processing. The key is what `ggplot` uses as the `group` variable. We some column that will contain a unique value per line. Right now, we're close: we have a unique value (`t`) for each vowel token. But there are 10 rows per vowel token, corresponding to the five measurements for F1 and F2. We need to create a new column that will uniquely identify each formant for each vowel token.
 
-The simplest way I know is to just use the `unite` function. It simply combines two columns into one. We have the two colums we need, `t` and `formant`, so I'll combine them to create `traj_id`. I'll also add `remove = FALSE` because I want to keep the original ones (so that I can color the lines by formant). When I set this `traj_id` as the group variable, it works just as expected.
+The simplest way I know is to just use the `unite` function. It simply combines two columns into one by concatenating the values together. We have the two colums we need, `t` and `formant`, so I'll combine them to create `traj_id`. I'll also add `remove = FALSE` because I want to keep the original ones (so that I can color the lines by formant). When I set this `traj_id` as the group variable, it works just as expected.
 
 ```r
 joey %>%
@@ -356,7 +358,7 @@ Also, I'll go ahead and facet the plot by vowel so you can see the individual vo
 
 ```r
 joey %>%
-    rowid_to_column("id") %>%
+    rowid_to_column("id") %>% # <- this is the new line
     pivot_longer(cols = contains("@"), 
                  names_to = c("formant", "percent"), 
                  names_pattern = "(F\\d)@(\\d\\d)%", 
@@ -399,7 +401,7 @@ The last main way that you may need to reshape your data is similar to the one-r
 ## # … with 1,365 more rows
 ```
 
-In a [previous tutorial](/blog/making-vowel-plots-in-r-part-2), I show how to accomplish this task using the following `gather`, then `separate`, and then `spread`. It was a whole ordeal.
+In a [previous tutorial](/blog/making-vowel-plots-in-r-part-2), I show how to accomplish this task using `gather`, then `separate`, and then `spread` all in a row. It was a whole ordeal.
 
 ```r
 joey %>%
@@ -425,7 +427,7 @@ joey %>%
 
 It worked, but three functions was cumbersome and complicated. I even put a note in that tutorial saying it took me forever to figure out how to do that. I had to do it so often that I even wrote a custom function to accomplish it and just had it at the top of all my scripts. 
 
-Using the new `pivot_longer` function, here's one way that closely approximates my old code. I use the same `pivot_longer` to make it in the one-measurement-per-row format we had before and then I use the inverse `pivot_wider` to spread it back out a little bit. 
+Using the new `pivot_longer` function, here's one way that closely approximates my old code. I use the same `pivot_longer` to make it in the one-measurement-per-row format we had before and then I use the inverse function, `pivot_wider`, to spread it back out a little bit. 
 
 ```r
 joey %>%
@@ -480,7 +482,7 @@ joey %>%
 
 ```
 
-<span class="sidenote">Try swapping "percent" for ".value" instead and see what it does.<span>
+<span class="sidenote">Try swapping "percent" for ".value" instead and see what it does.</span>
 I'm still trying to wrap my head around it, but it works beautifully. Of course now that there's no intermediate step of the `hz` column, I don't need the `values_to = "hz"` argument, and I don't need to include `formant` in the `names_ptype` list.
 
 I guess the question then is why we would want to do this in the first place. The main reason is because you may want to create trajetory plots in the F1-F2 space. This data is now perfectly suited for that kind of plot.
