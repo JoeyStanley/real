@@ -308,6 +308,7 @@ I've got a lot of audio that I need to process, so a crucial part of all that is
 * If you want to do write a script yourself, I've written a [tutorial](/blog/a-tutorial-on-extracting-foramnts-in-praat) on writing a script for basic automatic formant extraction. 
 
 <br/>
+
 ## Corpora
 
 For whatever reason, sometimes it's nice to uses data that already exists rather than collect your own. Here are just a few of the sites I've seen for downloading audio for (potential) linguistic research.
@@ -352,6 +353,20 @@ I designed this website more or less from scratch, so I can appreciate the work 
 
 
 <br/>
+
+## Academic Life
+
+Occasionally, I'll see posts with really good and insightful tips on how to be an academic. For the ones I saw I Twitter, I've put the first post here: click on them to go directly to that tweet where you can read the rest.
+
+* [How to make effective slides](https://kieranhealy.org/blog/archives/2018/03/24/making-slides/) by Kieran Healy.
+
+* [Advice to a young scholar](https://kensycooperrider.com/blog/advice-to-a-young-scholar) by Kensy Kooperrider.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hey academics-coming-up! Congratulations on sending out that article! However, that probably also means, a few months later, you got your article rejected. Not even a Revise and Resubmit. Worry not. It happens to all of us, most of the time. Here&#39;s a thread on what I do.</p>&mdash; Jeff Guhin (@jeffguhin) <a href="https://twitter.com/jeffguhin/status/1194282457564143616?ref_src=twsrc%5Etfw">November 12, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I finally went through all my bookmarked tweets to compile a list of resources I want my grad students to have and wanted to (1) thank everyone who posted these resources, and (2) pay it forward and share the compiled list with all of you!</p>&mdash; Kaitlin Fogg (@kaitlin_fogg) <a href="https://twitter.com/kaitlin_fogg/status/1192917053209899008?ref_src=twsrc%5Etfw">November 8, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 ## Miscellaneous
 
 Just random stuff that doesn't fit elsewhere.
