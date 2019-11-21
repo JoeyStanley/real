@@ -30,9 +30,3 @@ Note: All workshops will be held at 3:35pm at the DigiLab (300 Main Library)
 *October 2, 2019*---In this workshop, you'll learn, from start to finish, how to write a Praat script that will automatically extract formant measurements and a other acoustic measurements from your audio and transcription. There will be quite a bit of overlap with [this blog post](/blog/a-tutorial-on-extracting-formants-in-praat), only you will get more detail with an in-person guide.
 
 <br/>
-
-## *Automatic Measurement of VOT in Praat*
-
-*November 6, 2019*---In case you're more interested in consonants, Lisa will lead the final workshop on how to extract VOT (voice onset time) as well as show how to write a semi-automated script to help you hand-check your data. 
-
-<br/>

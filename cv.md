@@ -194,7 +194,6 @@ Shawn Foster, **Joseph A. Stanley**, & Margaret E. L. Renwick. "Vowel Mergers in
         <a href="/downloads/190911-intro_to_Praat" class="link" target ="_blank"  title="view the handout online"></a></li>
     <li>Praat Scripting Basics: Loops, I/O, and TextGrids. September 18.</li>
     <li>Automatic Formant Extraction (and other acoustic measures) in Praat. October 2.</li>
-    <li>Automatic Measurement of VOT in Praat. November 6.</li>
 </ul>
 <br/>
 
