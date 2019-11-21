@@ -90,7 +90,7 @@ Here is a list of resources I've found for R. I've gone through some of them and
 
 * *[R Ready to Map](https://github.com/momiji15/apptomap/tree/master/R%20Ready%20to%20Map)* is a tutorial by [Dorris Scott](https://dscott.netlify.com) that starts off using the rtweet package to extract some Twitter data, shows you how to map it, and then walks you through creating an interactive RMarkdown document that integrates leaflet maps and plots.
 
-### RMarkdown and Bookdown
+### RMarkdown, Bookdown, and Blogdown
 
 * *[Elegant, flexible, and fast dynamic report generation with R](https://yihui.name/knitr/)* by Yihui Xie is a great resource for RMarkdown.
 
@@ -99,6 +99,8 @@ Here is a list of resources I've found for R. I've gone through some of them and
 * *[bookdown: Authoring Books and Technical Documents with R Markdown](https://bookdown.org/yihui/bookdown/)* by Yihui Xie. See an introduction to Bookdown by RStudio [here](https://www.rstudio.com/resources/webinars/introducing-bookdown/).
 
 * If your love for Zotero is what's preventing you from using RMarkdown, never fear! *[Zotero hacks: unlimited synced storage and its smooth use with rmarkdown](https://ikashnitsky.github.io/2019/zotero/)* by [Ilya Kashnitsky](https://ikashnitsky.github.io) is the perfect guide to getting those two integrated.
+
+* Want to start your own blog entirely in R? Try Alison Hill's tutorial, [*Up & Running with blogdown*](https://alison.rbind.io/post/2017-06-12-up-and-running-with-blogdown/), to get you started.
 
 ### GIS and Spatial Stuff
 
