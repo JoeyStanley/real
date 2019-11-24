@@ -27,6 +27,8 @@ html {
 	background: whitesmoke;
 }
 
+
+
 /* For older browsers */
 aside, article, section, header, footer, nav {
 	display: block;
@@ -55,6 +57,7 @@ header, nav, body, aside, footer, h1, h2, p, ul, li, time, a {
 body {
 	width: 960px;
 	margin: 0 auto;
+	padding: 0 1rem; /* Add a little extra spacing on either side */
 	font: 110% 'Iowan Old Style', 'PT Serif', 'Palatino', 'Times New Roman', serif;
 }
 
@@ -84,8 +87,15 @@ li {
 	margin-left: 2em;
 }
 
+/* small caps tag */
 sc {
 	font-variant: small-caps;
+}
+
+img.rounded {
+	border: 0px solid #376092;
+	border-radius: 7pt;
+	width: 80%;
 }
 
 
@@ -201,6 +211,7 @@ header, footer {
 	margin-right: 0;
 }
 
+/* Includes #mainAside and #tags */
 aside ul {
 	/* Get rid of the bullet points */
 	list-style: none;
@@ -319,6 +330,8 @@ p a:after {
 
 /* The center box */
 #main > article {
+	width: 725px; /* 960 - 224 (aside) - 11 (margin). I don't know if it's explicity defined otherwise. */
+
 	/* This is inside the main flex element, so it gets this property so it can be flexed. */
 	flex: 3 1 60%;
 	order: 2;
@@ -346,7 +359,7 @@ sup {
 /* For the recents section, these are formatted the same way as the buttons in the navigation pane. */
 
 /* The main aside box */
-#main > aside {
+#mainAside, #tags{
 	margin-left: 1rem;
 	padding: 0;
 
@@ -592,8 +605,11 @@ a.audio:after {
 /*                    Tags                    */
 /* ########################################## */
 
-aside#tags {
+/* The aside tag with the ID tags */
+
+#tags {
 	text-align: right;	
+	/*background: none;*/
 }
 
 #tags a {
@@ -721,13 +737,8 @@ table .lc {
 /*                 Other pages                */
 /* ########################################## */
 
-img.rounded {
-	border: 0px solid #376092;
-	border-radius: 7pt;
-	width: 80%;
-}
 
-.sidenote, .sidenote-left, .sidenote-wide {
+.sidenote, .sidenote-left {
 
 	text-align: left;
 
@@ -739,7 +750,7 @@ img.rounded {
 
 	padding: 0.25em 0.5em;
 	background: #D3D3D3;
-	width: 14em;
+	width: 207px; /* Make it 195 or 196 to add a 1em margin to the left*/
 	font-size: 70%;
 
 	hyphens: auto;
@@ -757,14 +768,8 @@ img.rounded {
 }
 
 .sidenote-left {
-	left: -15em;	
-	width: 13em;
-}
-
-/* Sometimes, I just can't get the line breaks to work nice, or I have code in the sidenote, so here's a wider version.*/
-.sidenote-wide {
-	width:18em;
-	right:-3em;
+	left: -15em;
+	width: 150px;
 }
 
 /* What is this for??? */
