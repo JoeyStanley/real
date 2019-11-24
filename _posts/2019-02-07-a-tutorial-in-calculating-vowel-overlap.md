@@ -428,7 +428,7 @@ table(low_back$vowel)
 
 Okay, so I've got 73 tokens of "AA", 41 of "AO", and a whole bunch of zeros. Why bother even keeping that information? Turns out when R is expecting rows of data with "AE" and "IY" and all the other values, it can sometimes crash when it doesn't find any. Using the functions for Bhattacharyya's Affinity is one of those cases. 
 
-<span class="sidenote-wide">A smarter alternative would have been to tag `droplevels` at the end of our pipeline when we created `low_back`:<br/>&nbsp;&nbsp;`low_back <- my_vowels %>%`<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`filter(vowel%in%c("AA","AO"),`<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`!fol_seg %in% c("L", "R"),`<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`word != "ON") %>%`<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`droplevels()`</span>
+<span class="sidenote">A smarter alternative would have been to tag `droplevels` at the end of our pipeline when we created `low_back`:<br/>`low_back <- my_vowels %>%`<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`filter(vowel%in%c("AA","AO"),`<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`!fol_seg %in% c("L","R"),`<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`word != "ON") %>%`<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`droplevels()`</span>
 So how do we fix it? It's actually pretty straightforward. We use the `droplevels` function. When applied to our dataframe, it'll "forget" all the ones that don't actually exist anymore.
 
 ~~~~~~r

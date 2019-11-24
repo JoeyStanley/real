@@ -19,7 +19,7 @@ So, this is not a tutorial because my code was awful, hacky, clunky, etc. It's o
 
 I'll start with a *Merger by Approximation* because it's the most straightforward. The first to describe this was Trudgill & Foxcroft, who looked at the merger of Middle English **ō** [ɔː] (*road*, *go*) with the dipthong [ɔu] (*flow*, *know*). My American ears can't even imagine these being pronounced differently, but apparently some speakers in East Anglia retain the distinction, though they were in the process of becoming merged.
 
-I'll let you dig into the original study <span class="sidenote-wide">Trudgill, Peter, and Tina Foxcroft. 1978. On the Sociolinguistics of Vocalic Mergers: Transfer and Approximation in East Anglia. In <i>Sociolinguistic Patterns in British English</i>, edited by Peter Trudgill, 69–79. London: Edward Arnold.</span>, but the main point they make is that the merger happens "gradually." Their description of this merger tactic is that speakers 
+I'll let you dig into the original study <span class="sidenote">Trudgill, Peter, and Tina Foxcroft. 1978. On the Sociolinguistics of Vocalic Mergers: Transfer and Approximation in East Anglia. In <i>Sociolinguistic Patterns in British English</i>, edited by Peter Trudgill, 69–79. London: Edward Arnold.</span>, but the main point they make is that the merger happens "gradually." Their description of this merger tactic is that speakers 
 
 > "could gradually approximate the two vowels by bringing them closer together phonetically until, finally, they become identical." (Trudgill & Foxcroft 1978:73)
 
@@ -27,7 +27,7 @@ Here's what I have in mind for what a merger by approximation is like:
 
 <img src="/images/plots/merger_animations/approximation.gif" width="100%"/>
 
-After several additional cases of this merger had been documented, <span class="sidenote-wide">Labov, William. 1994. <i>Principles of Linguistic Change. Vol. 1: Internal Features.</i> Language in Society. Oxford: Wiley-Blackwell.</span>Labov (1994:321) further clarifies, saying that the final vowel can end up somewhere between the two historic vowel classes. In other cases, like what I've illustrated above, one vowel stays put while the other vowel shifts to join it. In either case, the overall distribution of the final vowel is approximately the same size as one the original ones, leaving a gap in the F1-F2 space.
+After several additional cases of this merger had been documented, <span class="sidenote">Labov, William. 1994. <i>Principles of Linguistic Change. Vol. 1: Internal Features.</i> Language in Society. Oxford: Wiley-Blackwell.</span>Labov (1994:321) further clarifies, saying that the final vowel can end up somewhere between the two historic vowel classes. In other cases, like what I've illustrated above, one vowel stays put while the other vowel shifts to join it. In either case, the overall distribution of the final vowel is approximately the same size as one the original ones, leaving a gap in the F1-F2 space.
 
 
 ## Merger by Transfer
@@ -46,7 +46,7 @@ It's a haphazard shift, and during the change each person could have their own p
 
 ## Merger by Phonological Transfer
 
-<span class="sidenote-wide"><a href="https://journals.sagepub.com/doi/10.1177/0075424216634795">Dinkin, Aaron J. 2016. Phonological Transfer as a Forerunner of Merger in Upstate New York. <i>Journal of English Linguistics</i> 44(2): 162–88.</a></span>
+<span class="sidenote"><a href="https://journals.sagepub.com/doi/10.1177/0075424216634795">Dinkin, Aaron J. 2016. Phonological Transfer as a Forerunner of Merger in Upstate New York. <i>Journal of English Linguistics</i> 44(2): 162–88.</a></span>
 Nearly 40 years later, Aaron Dinkin published a paper describing what he calls a *Merger by Phonological Transfer*. The phonemeonon in question is the merger of <sc>lot</sc> with <sc>thought</sc>. In upstate New York, he finds that many speakers do not have the merger---except in before coda laterals. Thus, *cot* and *caught* are distinct, and *collar* and *caller* are distinct, but *doll* rhymes with *hall*.  In Dinkin's words, what's happening here is 
 
 > "the discrete replacement of one phoneme in a given phonological environment with a different phoneme." (Dinkin 2016:183)
@@ -65,7 +65,7 @@ Incidentally, I've totally got this merger in my own speech. The vowels in *coll
 
 ## Merger by Expansion
 
-<span class="sidenote-wide">Herold, Ruth. 1990. Mechanisms of Merger: The Implementation and Distribution of the Low Back Merger in Eastern Pennsylvania. Dissertation, University of Pennsylvania, 1990.</span>
+<span class="sidenote">Herold, Ruth. 1990. Mechanisms of Merger: The Implementation and Distribution of the Low Back Merger in Eastern Pennsylvania. Dissertation, University of Pennsylvania, 1990.</span>
 The final merger I'll show is was described by Ruth Herold in her 1990 dissertation. She too looks at the merger of <sc>lot</sc> and <sc>thought</sc>, this time in Western Pennsylvania. She describes a *merger by expansion* as follows
 
 > "The lexical constraints on the distribution of two former phonemes are lifted. As a result, the entire phonetic range formally divided between the two phonemes becomes available for the realization of either. (Herold 1990:91--92)
