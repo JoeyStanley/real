@@ -148,6 +148,8 @@ Here is a list of resources I've found for R. I've gone through some of them and
 
 ### Colors
 
+I've given a workshop on colors in data visualization, which you can view [here](downloads/191023-color.pdf). In it, I list the following resources, plus a whole bunch of other ones.
+
 * The [`scico`](https://www.data-imaginist.com/2018/scico-and-the-colour-conundrum/) package has a bunch of colorblind-safe, perceptually uniform, ggplot2-friendly color palettes for use in visuals. Very cool.
 
 * The [color brewer website](http://colorbrewer2.org), while best for maps, offers great color palettes that are colorblind and sometimes also printer-safe. The have native integration with `ggplot2` with the `scale_[color|fill]_ [brewer|distiller]` [functions](https://ggplot2.tidyverse.org/reference/scale_brewer.html). 
@@ -155,6 +157,18 @@ Here is a list of resources I've found for R. I've gone through some of them and
 * Paul Tol has come up with some [additional color themes](https://personal.sron.nl/~pault/), which you can access with `scale_color_ptol` in the [`ggthemes`](https://www.rdocumentation.org/packages/ggthemes/versions/3.5.0) package.
 
 * If you want to make your own discrete color scale in R, definitely check out [Garrick Aden-Buie](https://www.garrickadenbuie.com)'s tutorial, *[Custom Discrete Color Scales for ggplot2](https://www.garrickadenbuie.com/blog/custom-discrete-color-scales-for-ggplot2/)*. 
+
+* There is no shortage of color palettes. Here are a handful of ones I've seen and liked for one reason or another:
+
+    * [`nationalparkcolors`](https://github.com/katiejolly/nationalparkcolors): An R package by [Katie Jolly](http://www.katiejolly.io/portfolio/) with color palettes based on vintage-looking national parks posters.
+
+    * [`earthtones`](https://github.com/wcornwell/earthtones/blob/master/README.md): An R package by [Will Cornwell](http://willcornwell.org) where you give it GPS coordinates and it'll go to that location in Google Maps and create a color palette based on satellite images. Pretty cool.
+
+    * [`RSkittleBrewer`](https://github.com/alyssafrazee/RSkittleBrewer): An R package by [Alyssa Frazee](http://alyssafrazee.com) that includes color palettes based on Skittles!
+
+    * [pokepalettes.com](http://pokepalettes.com): A simple webpage that takes a Pokemon name and generates a color palette.
+
+* Of course, a monster compilation of color palettes in R can be found at [Emil Hvitfeldt's](https://www.hvitfeldt.me/blog/) [Github](https://github.com/EmilHvitfeldt/r-color-palettes).
 
 
 ### Animation
@@ -174,6 +188,8 @@ Here is a list of resources I've found for R. I've gone through some of them and
 * Joey Cherdarchuk of [Darkhorse Analytics](https://www.darkhorseanalytics.com) has put together some really succinct presentations on how to simplify things you might put in a paper like [maps](https://www.darkhorseanalytics.com/blog/data-looks-better-naked-maps-edition), [charts](https://www.darkhorseanalytics.com/blog/salvaging-the-pie), [tables](https://www.darkhorseanalytics.com/blog/clear-off-the-table), and [reducing the data to ink ratio](https://www.darkhorseanalytics.com/blog/data-looks-better-naked).
 
 * Claus Wilke's [Practical ggplot2](https://wilkelab.org/practicalgg/) is a "repository [that] houses a set of step-by-step examples demonstrating how to get the most out of ggplot2, including how to choose and customize scales, how to theme plots, and when and how to use extension packages."
+
+* [Malcom Barrett's](https://github.com/malcolmbarrett/) [Designing ggplots: Making clear figures that communicate](https://designing-ggplots.netlify.com/#1) is a great walk-through, with code, on how to really make your plots look professional, with emphasis on telling a story. 
 
 ### Miscellany
 
