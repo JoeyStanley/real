@@ -143,6 +143,12 @@ Spent a few days giving the entire site a bit of a facelift. Went throught the C
 Wednesday, October 23, 2019
 11:55am - Finally figured out a shorter-hand for small caps. Went from <span style="font-variant: small-caps;">word</span> to just <sc>word</sc>. Add it to the CSS to make it work.
 
+Saturday, November 23, 2019
+7:55pm - Fiddled with sidenotes for a while. I saw a webpage where they were incorporated as <aside> elements. I tried it using the custom <sidenote> tag, and it works, but markdown things (`` for code, [] for links, smart quotes) no longer worked and I couldn't figure out how to put them back in. Plus, I would have had to embed every sidenote with <aside><p>...</p></aside> which isn't much better than my current setup of <span class="sidenote">...</span>. Oh well. I did modify them though, making them wider, closer to the body, and left-justified. I also removed the sidenote-wide.
+
+Monday, November 25, 2019
+2:20am - Got automatic numbering on headers on my resources page and on blog posts using CSS counters. We'll see if I want to keep them.
+
 
 # todo
 * Remove pptx files and replace them with PDFs

@@ -76,6 +76,7 @@ h1 {
 	margin-top: 1em;
 	font-size: 2em;	
 }
+
 h2 {
 	font-size: 1.5em;	
 }
@@ -521,6 +522,28 @@ a.audio:after {
 /*              Resources Page                */
 /* ########################################## */
 
+
+/* Counters  https://2ality.com/2012/01/numbering-headingshtml.html 
+Also appears in blog posts */
+#resources h1, .posts h1 {
+	counter-reset: h2counter;
+}
+#resources h2, .posts h2 {
+	counter-increment: h2counter;
+	counter-reset: h3counter;
+}
+#resources h3, .posts h3 {
+	counter-increment: h3counter;
+}
+#resources h2:before, .posts h2:before {
+	content: counter(h2counter) ".\0000a0\0000a0";
+}
+#resources h3:before, .posts h3:before {
+	content: counter(h2counter) "." counter(h3counter) ".\0000a0\0000a0";
+}
+.nocounter {
+	content: none;
+}
 
 
 
