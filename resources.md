@@ -9,6 +9,7 @@ toc: false
 On this page you'll find links to all sorts of stuff that I have found useful, including tutorials, books, and general reading on R and Praat, statistics, software, corpora, design, and other stuff.
 
 <br/>
+
 ## My handouts, tutorials, and workshops
 
 ### [R Workshops](/pages/r-workshops)
