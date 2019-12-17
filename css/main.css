@@ -136,7 +136,7 @@ header, footer {
 	margin-right: 0.75em;
 
 	font-variant: small-caps;
-	letter-spacing:.05em;
+	letter-spacing: 0.05em;
 }
 
 #tagline {
@@ -148,15 +148,15 @@ header, footer {
 	letter-spacing: 0.1em;
 }
 
-/* Add this back in later 
-/* Tablets
+/*
+/* Tablets 
 @media only screen and (min-width: 600px) {
 	body {
 		width: 90%;
 	}
 }
 
-/* Computers
+/* Computers 
 @media only screen and (min-width: 960px) {
 	body {
 		width: 960px;
@@ -167,7 +167,6 @@ header, footer {
 		line-height: 100px;
 	}
 }
-
 */
 
 /* ########################################## */
