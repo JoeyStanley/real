@@ -8,6 +8,8 @@ excerpt: In English sociolinguistics, you'll often see vowel phonemes represente
 
 In English sociolinguistics, you'll often see vowel phonemes represented by a single word in small caps. For example, <sc>trap</sc> represents /æ/. However, in a lot of American dialectology papers, you'll see authors use the label <sc>bat</sc> instead. In this post, I explain why I think these competing labels are used… and why I prefer <sc>trap</sc> over <sc>bat</sc>.
 
+See also: ["Thoughts on allophonic extensions to Wells' lexical sets."](/blog/thoughts-on-allophonic-extensions-to-wells-lexical-sets)
+
 ## Wells Lexical Sets
 
 As it turns out the <sc>trap</sc> label came first. In fact, <sc>trap</sc> is just one in a set of 24 labels, one for each English vowel. The creator of this lexical set is John C. Wells, who established them in his 1982 three-volume series, [*Accents of English*](https://www.amazon.com/Accents-English-Introduction-J-Wells/dp/0521297192/). In the preface of each volume, Wells explains a notation system that has since been called the "Wells Lexical Sets." Because it is brief, I'll quote it in its entirety (bold and small caps in original):
@@ -199,7 +201,7 @@ Wells then provides this table:
         </tr>
     </tbody>
 </table>
-<p class="caption center">Table 2: Wells' original lexical sets. From Wells (1982:xviii–xix).</p>
+<p class="caption center">Table 1: Wells' original lexical sets. From Wells (1982:xviii–xix).</p>
 <br/>
 
 Later on in the book (p. 122--124), Wells compares Received Pronunciation and General American English and goes into more detail about the principle behind the lexical sets:
@@ -230,7 +232,7 @@ In contemporary sociolinguistics, I believe the <sc>b_t</sc> frame was populariz
 
 > …found that it would be helpful to formulate a convention to unify the text and simplify the reader’s task; with that thought in mind, we have suggested that authors use neither a phonological /  / nor a variable ( ) presentation, both of which differ in conventions from author to author. We have chosen instead to refer to a given vowel class using keywords, following the principle behind Wells (1982). To further simplify, we turned to Ladefoged’s (2005) choice of keyword paradigm, which uses words that are as untrammeled by their consonantal environment as possible. To obtain these keywords, he chose an <sc>h_d</sc> frame, to have his speakers “say <sc>heed</sc> again.
 
-> To minimize the need for varying the "carrier" environment, in each case, the vowel being focused on here will be a <sc>b_t</sc> paradigm (see table 1.1).
+> To minimize the need for varying the "carrier" environment, in each case, the vowel being focused on here will be a <sc>b_t</sc> paradigm.
 
 <table id="wells">
     <thead>
@@ -302,7 +304,7 @@ In contemporary sociolinguistics, I believe the <sc>b_t</sc> frame was populariz
         </tr>
     </tbody>
 </table>
-<p class="caption center">Table 3: The lexical set based on the <sc>b_t</sc> frame. This is a subset of the table by Thomas & Yaeger-Dror (2009:6).</p>
+<p class="caption center">Table 2: The lexical set based on the <sc>b_t</sc> frame. This is a subset of the table by Thomas & Yaeger-Dror (2009:6).</p>
 <br/>
 
 They end with this statement:
@@ -310,7 +312,8 @@ They end with this statement:
 > We hope that this convention will permit the reader to follow all the authors without difficult transitioning between chapters.
 
 <span class="sidenote">Valerie Fridland, Tyler Kendall, Betsy E. Evans, & Alicia Beckford Wassink, eds. 2016. Speech in the Western States, Vol 1., The Coastal States. <i>Publication of the American Dialect Society</i> 101. Available <a href = "https://read.dukeupress.edu/pads/issue/101/1">here</a>.</span>
-It appears that their goal for continuity has reached further than they may have anticipated because the set was used in later volumes of the *Publications of the American Dialect Society*. For instance, here are the remarks by the editors of *Speech in the Western States: Volume 1: The Coastal States* (Fridland *et al.* 2016):
+
+It appears that their goal for continuity has beyond their volume because the set was used in later volumes of the *Publications of the American Dialect Society*. For instance, here are the remarks by the editors of *Speech in the Western States: Volume 1: The Coastal States* (Fridland *et al.* 2016):
 
 <span class="sidenote">The description in *Speech in the <a href="https://read.dukeupress.edu/pads/issue/102/1">Western States: Volume 2: The Mountain West</a>* (Fridland et al. 2017) is almost identical.</span>
 > For the purpose of clarity and continuity, authors use the conventions of the International Phonetic Alphabet throughout the chapters, though, in many cases, keywords in the <sc>b_t</sc> frame are used to highlight particular word classes and subclasses, following other recent PADS volumes (Thomas & Yaeger-Dror 2009). These frames are built upon those made for comparative study of English dialects by Wells (1982) but have been adapted to allow representation of the particular vowel changes and conditioning environments of interest to the present study of the U.S. West.
@@ -436,7 +439,7 @@ It appears that their goal for continuity has reached further than they may have
         </tr>
     </tbody>
 </table>
-<p class="caption">Table 4: The lexical set used in the <i>Speech in the Western States</i> volumes. From Fridland et al. 2016:3 and Fridland et al. 2016:5; Table 1.1 in both. The columns have been rearranged for consistency within this blog post.</p>
+<p class="caption">Table 3: The lexical set used in the <i>Speech in the Western States</i> volumes. From Fridland et al. 2016:3 and Fridland et al. 2016:5; Table 1.1 in both. The columns have been rearranged for consistency within this blog post.</p>
 <br/>
 The only difference is that <sc>bird</sc> was changed to <sc>burt</sc>.
 
@@ -452,7 +455,7 @@ Imagine you're at a conferece talking about the low back merger and you yourself
 
 Even if you're not talking about a merger, if you are someone with particularly shifted vowels, when you say an isolated, ambiguous token like [bɛ̞t] or [bæ̙t], it may not be immediately clear to listeners of other dialects which vowel you're talking about. 
 
-The words in the <sc>b_t</sc> frame may be "untrammeled by their consonantal environment," but I don't know if the lack of transition formants make for the most effective label in speech or writing. Keywords are labels to refer to large lexical sets, so while they may not make for ideal tokens when collecting phonetic data, they still serve the purpose of umabiguously identifying a vowel phoneme.
+The words in the <sc>b_t</sc> frame may be "untrammeled by their consonantal environment," but I don't know if the lack of transition formants make for the most effective label in speech or writing. Keywords are labels to refer to large lexical sets, so while they may not make for ideal tokens when collecting phonetic data, they need to still serve the purpose of umabiguously identifying a vowel phoneme.
 
 In fact, Wells specifically designed his original set so that it specifically would *not* use the <sc>b_t</sc> frame: 
 
@@ -471,4 +474,8 @@ To be clear, I am in no way criticizing the researchers who came up with or use 
 <span class="sidenote">This reminds me of how some people use the Labovian transcription system instead of standard IPA. See <a href="http://val-systems.blogspot.com/2018/07/why-does-labov-have-such-weird.html">Josef Fruehwald's blog post</a> on those.</span>
 There are two competing systems of lexical sets being used in American dialectology: the Wells lexical set and the <sc>b_t</sc> frame. To answer my titular question of why people use <sc>bat</sc> instead of <sc>trap</sc>… I don't really know. I think it may largely depend on what university the work is coming out of. But, I think Wells' original set may be a little better.
 
-PS: Regardless of which system you use, I think we should make sure we use <sc>small caps</sc> instead of ALL CAPS or even <sc>Capitalized Small Caps</sc>. It's truer to Wells' original notation and typographically, I just think they look a lot better.
+PS: Regardless of which system you use, I think we should make sure we use <sc>small caps</sc> instead of ALL CAPS or even <sc>Capitalized Small Caps</sc>. It's truer to Wells' original notation and I think they just look a lot better typographically.
+
+<br/>
+
+Update: [Click here for further musings, ramblings, and recommendations for non-canonical extensions to Wells' lexical sets when referring to allophones.](/blog/thoughts-on-allophonic-extensions-to-wells-lexical-sets)
