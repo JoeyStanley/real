@@ -13,10 +13,11 @@ I'm actively involved with <a href="https://www.english.uga.edu/directory/495/de
 
 I also am a research assistant in the [DigiLab](https://digi.uga.edu) in UGA's main library where I give workshops and seminars on how to use computers in humanities research. In the past, I've offered workshops on [R](pages/r-workshops), [data visualization](pages/dataviz), [Praat scripting](pages/praat-workshops), and about how grad students can get themselves more googleable. I've also worked with students and faculty one-on-one during my Digital Humanities office hours.
 
-In the past I have done research on language change in real time, morphology in Quechua and Guarani, forms of address among members of the Church of Jesus Christ of Latter-day Saints, language documentation, and agent-based simulations of language change. Before switching to linguistics, I was a music performance major (on trombone believe it or not!) and you might still catch me playing some Shostakovich or Rachmaninoff on piano.  
+<!--In the past I have done research on language change in real time, morphology in Quechua and Guarani, forms of address among members of the Church of Jesus Christ of Latter-day Saints, language documentation, and agent-based simulations of language change. Before switching to linguistics, I was a music performance major (on trombone believe it or not!) and you might still catch me playing some Shostakovich or Rachmaninoff on piano.  -->
 
-I publish under the more grown-up-sounding version of my name, Joseph A. Stanley, but anyone who has ever met me knows I go by Joey. Recent non-linguistics books I've read were on ghost towns, typography, the Strauss–Howe generational theory, and very specific topics under the broad umbrella of "civil engineering." I live in Athens with my family and enjoy artisan breadmaking on the weekends.
+I publish under the more grown-up-sounding version of my name, Joseph A. Stanley, but anyone who has ever met me knows I go by Joey. <!-- Recent non-linguistics books I've read were on ghost towns, typography, the Strauss–Howe generational theory, and very specific topics under the broad umbrella of "civil engineering."--> I live in Athens with my family and enjoy artisan breadmaking on the weekends.
 
+<!--
 <center style = "font-size: 75%;">
 <img class="rounded" src="/images/photos/joey_bread.jpg" style="width: 50%;"/>
 <br/>
@@ -24,3 +25,4 @@ A hefty ~3.5lb. loaf of white bread I made for Thanksgiving 2018.
 <br/>
 <br/>
 </center>
+-->
