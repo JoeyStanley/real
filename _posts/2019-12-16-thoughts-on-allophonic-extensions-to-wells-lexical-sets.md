@@ -2,7 +2,7 @@
 layout: post
 title:  "Thoughts on Allophonic Extensions to Wells' Lexical Sets"
 date:   2019-12-19 01:52:00 -0400
-tags: [Methods]
+tags: [Lexical Sets, Methods]
 excerpt: In a previous post, I wrote a little bit about the Wells Lexical sets, a competing set, and why I think Wells' original labels are better. In this post, I continue my musings on Wells' inspired labels for lexical sets, only this time I focus on those used for specific allophones of vowels. I point out several issues that have arisen over the years and offer some solutions that may make future papers more consistent and less confusing.
 ---
 
