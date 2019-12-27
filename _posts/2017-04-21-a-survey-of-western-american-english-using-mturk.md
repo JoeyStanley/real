@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A Survey of the Western American English using Mturk"
+title:  "A Survey of the Western American English using MTurk"
 date:   2017-04-21 10:30:00 -0400
 tags: [Pacific Northwest, Research, West, MTurk]
 ---
