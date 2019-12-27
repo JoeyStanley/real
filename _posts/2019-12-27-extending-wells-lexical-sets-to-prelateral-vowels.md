@@ -5,7 +5,7 @@ date:   2019-12-27 08:37:00 -0400
 tags: [Lexical Sets, Methods]
 ---
 
-At some point in the past few years, I've analyzed pretty much every English vowel before laterals. They're pretty cool because they're involved in a lot of different mergers in different parts of the country, they're somewhat infrequent, and (in my opinion) they're understudied. When referring to these prelateral vowels, several labels have been used in the past, but none do the job quite right. So, I think prelaterals should get a standardized set of Wells-style labels. The problem is figuring out what they should be. In this post, I explain why existing labels aren't great and then propose a complete set of new labels for prelateral vowels.
+At some point in the past few years, I've analyzed pretty much every English vowel before laterals. They're pretty cool because they're understudied, they're somewhat infrequent, and they're involved in a lot of different mergers in different parts of the country. When referring to these prelateral vowels, several labels have been used in the past, but none do the job quite right. So, I think prelaterals should get a standardized set of Wells-style labels. The problem is figuring out what they should be. In this post, I explain why existing labels aren't great and then propose a complete set of new labels for prelateral vowels.
 
 To cut to the chase, this table---particularly the column labeled "Prelateral Keyword"---shows the labels I've come up with:
 
@@ -129,6 +129,8 @@ To cut to the chase, this table---particularly the column labeled "Prelateral Ke
 </table>
 <p class="caption center">A standard set of prelateral keywords.</p>
 <br/>
+
+Yes, this is probably another case of [competing standards](https://imgs.xkcd.com/comics/standards.png), but it illustrates what I think lexical sets for allophones should look like.
 
 For additional background how and why I came up with these labels, read on.
 
