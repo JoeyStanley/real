@@ -162,6 +162,7 @@ Monday, November 25, 2019
 * joeystanley.com/ads2017        -> blog/ads2017.md
 * joeystanley.com/ads2018        -> blog/ads2018.md
 * joeystanley.com/ads2019        -> blog/ads-and-lsa-2019.md
+* joeystanley.com/ads2020        -> blog/ads-and-lsa-2020.md
 * joeystanley.com/bones          -> pages/bones_workshop.md
 * joeystanley.com/brand-yourself -> pages/brand-yourself.md
 * joeystanley.com/colloquium     -> blog/mount-st-helens-and-vowels.md
@@ -175,6 +176,7 @@ Monday, November 25, 2019
 * joeystanley.com/lcuga5         -> blog/lcuga5.md
 * joeystanley.com/lcuga6         -> blog/lcuga6.md
 * joeystanley.com/lsa2019        -> blog/ads-and-lsa-2019.md
+* joeystanley.com/lsa2020        -> blog/ads-and-lsa-2020.md
 * joeystanley.com/nwav46         -> blog/nwav46.md
 * joeystanley.com/nwav47         -> blog/nwav47.md
 * joeystanley.com/praat          -> pages/praat-workshops.md
