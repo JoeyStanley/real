@@ -7,7 +7,7 @@ redirect_from: "/blog/a-tutorial-on-extracting-foramnts-in-praat"
 tags: [How-to Guides, Phonetics, Skills]
 ---
 
-*Note: I gave a workshop that covered the contents of this workshop. You can find the handout [here]((/downloads/191002-formant_extraction)), which is slightly modified from this blog post.*
+*Note: I gave a workshop that covered the contents of this workshop. You can find the handout [here](/downloads/191002-formant_extraction), which is slightly modified from this blog post.*
 
 Just this week I've had three people ask for a Praat script that extracts formant measurements. I've been meaning to create some Praat scripting tutorials so this was a good excuse to get something going. Instead of providing you a Praat script, I'm going to show how to write your own. Instead of giving you a fish to feed you for a night, I'll teach you how to fish. 
 
