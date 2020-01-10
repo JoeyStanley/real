@@ -2,7 +2,7 @@
 layout: post
 title:  "Animating Mergers"
 date:   2019-11-04 13:34:00 -0400
-tags: [Data Viz, Github, R, Side Projects, Simulations, Teaching]
+tags: [Animations, Data Viz, Github, R, Side Projects, Simulations, Teaching]
 ---
 
 I've dabbled with creating animations in R, but since the newest version of [gganimate](https://gganimate.com) came out, I've been trying to find a useful way to use it. (I don't know if [visulizing simulations of Chutes and Ladders](/blog/simulating_chutes_and_ladders) counts as "useful"…) But as I was putting together a lecture on mergers last semester, it occured to me that the best way to illustrate them would be with animations! So I took the opportunity and created some fun visuals.
