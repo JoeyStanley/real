@@ -166,6 +166,7 @@ Monday, November 25, 2019
 * joeystanley.com/bones          -> pages/bones_workshop.md
 * joeystanley.com/brand-yourself -> pages/brand-yourself.md
 * joeystanley.com/colloquium     -> blog/mount-st-helens-and-vowels.md
+* joeystanley.com/colloquium2020 -> blog/colloquium-2020.md
 * joeystanley.com/dataviz        -> pages/dataviz.md
 * joeystanley.com/dissertation   -> blog/dissertation.md
 * joeystanley.com/divar1         -> pages/divar1.md
@@ -191,6 +192,7 @@ Monday, November 25, 2019
 
 
 Blog posts:
+* Interpreting difference smooths (and announcing a package with the plot).
 * Non-significance does not indicate merger. It just means you don't have evidence to reject the hypothesis that they're the same.
 * Finish the vowel filtering post
 * Finish the outlier detection with DOBIN

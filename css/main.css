@@ -677,6 +677,18 @@ Also appears in blog posts */
     margin: 0 auto;
 }
 
+.posts .col50 {
+	float: left;
+	width: 50%;
+  }
+  
+  /* Clear floats after image containers */
+  .posts .row::after {
+	content: "";
+	clear: both;
+	display: table;
+  }
+
 .posts h2, h3 {
 	margin-top: 2em;
 }

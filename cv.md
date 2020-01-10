@@ -288,6 +288,8 @@ Shawn Foster, **Joseph A. Stanley**, & Margaret E. L. Renwick. "Vowel Mergers in
 
 ## Other Presentations
 
+"Vowel Dynamics of the Low Vowels in Cowlitz County, Washington". University of Georgia Linguistics Colloquium. Athens, GA. January 10, 2020.
+
 "Linguistics Papers Collection in Athenaeum" with Mariann Burright and Mary Willoughby. Libraries Spring Forum. Athens, GA. February 26, 2019.
 
 "/ɛɡ/-raising is straightforward? I <font style="font-variant: small-caps">beg</font> to differ!" The Linguistic Society of the University of Georgia (LSUGA) Tiny Talks. Athens, GA. April 13, 2018.
