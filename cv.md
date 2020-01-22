@@ -175,16 +175,53 @@ Shawn Foster, **Joseph A. Stanley**, & Margaret E. L. Renwick. "Vowel Mergers in
 
 <br/>
 
-## Invited Presentations
+## Other Presentations
 
-"Data Visualization and Basic Statistical Modeling in R." Invited workshop for an NSF-funded "Research Experience for Undergraduates" site program, helping bioanthropology students analyze osteological data from skeletons at the 7–5th c. BCE Greek colony of Himera. June 21 and 25, 2018. <a href="/pages/bones_workshop" class="link" title="view the materials for this workshop here"></a> 
+### Invited Presentations
 
-“Basics, Review, Summary, Help.” Guest lecturer in LING 4400/6400: Quantitative Methods in Linguistics. Athens, GA. April 20.
+"Modeling non-linear changes in time using generalized additive models." Guest lecturer in LING 4886/6886: Text and Corpus Analysis. University of Georgia, Athens, GA. November 12, 2019.
+
+"Data Visualization and Basic Statistical Modeling in R." Invited workshop for an NSF-funded "Research Experience for Undergraduates" program, helping bioanthropology students analyze osteological data from skeletons at the 7–5th c. BCE Greek colony of Himera. June 21 and 25, 2018. <a href="/pages/bones_workshop" class="link" title="view the materials for this workshop here"></a> 
+
+“Basics, Review, Summary, Help.” Guest lecturer in LING 4400/6400: Quantitative Methods in Linguistics. University of Georgia, Athens, GA. April 20.
+
+"Phonology of Tone." Guest lecturer in LING 3060: Phonetics and Phonology. University of Georgia, Athens, GA. April 20.
 
 "Build a better project: Starting a DH project from primary sources." Presented at the First [DigiLab](http://digi.uga.edu/digilab/) Colloquium. Athens, GA. October 6, 2016. 
 <a href="https://digi.uga.edu/news/build-a-better-project-digi-colloquium-review/" class="link" target="_blank" title="link to digi.uga.edu"></a>
 <a href="/downloads/161002-DigiLab-flyer.pdf" class="flyer" target="_blank" title="open a pdf of the flyer for this presentation in a new window"></a>
 <a href="/downloads/161006-DigiLab-slides.pptx" class="slides" title="download the powerpoint slides for this presentation"></a> 
+
+### Miscellaneous Presentations
+
+"Vowel Dynamics of the Low Vowels in Cowlitz County, Washington". University of Georgia Linguistics Colloquium. Athens, GA. January 10, 2020.
+
+"Linguistics Papers Collection in Athenaeum" with Mariann Burright and Mary Willoughby. Libraries Spring Forum. Athens, GA. February 26, 2019.
+
+"/ɛɡ/-raising is straightforward? I <font style="font-variant: small-caps">beg</font> to differ!" The Linguistic Society of the University of Georgia (LSUGA) Tiny Talks. Athens, GA. April 13, 2018.
+<a href="/downloads/180413-TinyTalks.pdf" class="poster" title="download a pdf of the poster"></a> 
+
+"Hey, Siri. Can you understand me?" Three Minute Thesis (3MT™) Competition at the University of Georgia. March 22, 2018.
+
+"New methods in outlier detection and formant measurement using a modified Mahalanobis distance and 'mistplots.'" University of Georgia Linguistics Colloquium. Athens, GA. February 9, 2018.
+
+"Volcanic Vocalic Changes". University of Georgia Linguistics Colloquium. Athens, GA. April 7, 2017.
+<a href="/downloads/170407-Colloquium.pdf" class="slides" title="download a pdf of the powerpoint slides for this presentation"></a> 
+
+“Linguistic Identity in Longview, Washington.” Three Minute Thesis (3MT™) Competition at the University of Georgia. March 23, 2017.
+
+“An EWP model of Quechua agreement: Further evidence against DM.” Presented at the Linguistic Society of the University of Georgia (LSUGA) Tiny Talks. Athens, GA. September 15, 2016. 
+<a href="/downloads/160915-TinyTalks-slides.pptx" class="slides" title="download the powerpoint slides for this presentation"></a>
+
+"Southeastern Washington English: What We Know So Far". The Linguistic Society of the University of Georgia ([LSUGA](http://www.lsuga.com)) Tiny Talks. Athens, GA. February 18, 2016. 
+<a href="/downloads/160218-TinyTalks-slides.pptx" class="slides" title="download the powerpoint slides for this presentation"></a>
+
+"Brother Bell’s Audience Design: Forms of Address among Latter-day Saint Young Adults". University of Georgia Linguistics Colloquium. Athens, GA. February 27, 2015 
+<a href="/downloads/150227-Colloquium-slides.pptx" class="slides" title="download the powerpoint slides for this presentation"></a> 
+
+"The systematic stretching and adjusting of ideophonic phonology in Pastaza Quichua" with [Janis Nuckolls](http://linguistics.byu.edu/directory/jbn34/), Elizabeth Nielsen, and Roseanna Hopper. Presentation at the Brigham Young University Linguistics Department Brown Bag Meeting. Provo, UT. December 6, 2012.
+
+<br/>
 
 <br/>
 
@@ -288,36 +325,7 @@ Shawn Foster, **Joseph A. Stanley**, & Margaret E. L. Renwick. "Vowel Mergers in
 <br/>
 
 
-## Other Presentations
 
-"Vowel Dynamics of the Low Vowels in Cowlitz County, Washington". University of Georgia Linguistics Colloquium. Athens, GA. January 10, 2020.
-
-"Linguistics Papers Collection in Athenaeum" with Mariann Burright and Mary Willoughby. Libraries Spring Forum. Athens, GA. February 26, 2019.
-
-"/ɛɡ/-raising is straightforward? I <font style="font-variant: small-caps">beg</font> to differ!" The Linguistic Society of the University of Georgia (LSUGA) Tiny Talks. Athens, GA. April 13, 2018.
-<a href="/downloads/180413-TinyTalks.pdf" class="poster" title="download a pdf of the poster"></a> 
-
-"Hey, Siri. Can you understand me?" Three Minute Thesis (3MT™) Competition at the University of Georgia. March 22, 2018.
-
-"New methods in outlier detection and formant measurement using a modified Mahalanobis distance and 'mistplots.'" University of Georgia Linguistics Colloquium. Athens, GA. February 9, 2018.
-
-"Volcanic Vocalic Changes". University of Georgia Linguistics Colloquium. Athens, GA. April 7, 2017.
-<a href="/downloads/170407-Colloquium.pdf" class="slides" title="download a pdf of the powerpoint slides for this presentation"></a> 
-
-“Linguistic Identity in Longview, Washington.” Three Minute Thesis (3MT™) Competition at the University of Georgia. March 23, 2017.
-
-“An EWP model of Quechua agreement: Further evidence against DM.” Presented at the Linguistic Society of the University of Georgia (LSUGA) Tiny Talks. Athens, GA. September 15, 2016. 
-<a href="/downloads/160915-TinyTalks-slides.pptx" class="slides" title="download the powerpoint slides for this presentation"></a>
-
-"Southeastern Washington English: What We Know So Far". The Linguistic Society of the University of Georgia ([LSUGA](http://www.lsuga.com)) Tiny Talks. Athens, GA. February 18, 2016. 
-<a href="/downloads/160218-TinyTalks-slides.pptx" class="slides" title="download the powerpoint slides for this presentation"></a>
-
-"Brother Bell’s Audience Design: Forms of Address among Latter-day Saint Young Adults". University of Georgia Linguistics Colloquium. Athens, GA. February 27, 2015 
-<a href="/downloads/150227-Colloquium-slides.pptx" class="slides" title="download the powerpoint slides for this presentation"></a> 
-
-"The systematic stretching and adjusting of ideophonic phonology in Pastaza Quichua" with [Janis Nuckolls](http://linguistics.byu.edu/directory/jbn34/), Elizabeth Nielsen, and Roseanna Hopper. Presentation at the Brigham Young University Linguistics Department Brown Bag Meeting. Provo, UT. December 6, 2012.
-
-<br/>
 
 ## Website
 
