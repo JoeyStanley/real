@@ -75,6 +75,8 @@ Olsen, Rachel M., Michael L. Olsen, **Joseph A. Stanley**, Margaret E. L. Renwic
 
 ### Oral Presentations
 
+**Joseph A. Stanley**. "Methodological considerations in the study of infrequent phonological variables: The case of English /eɡ/ and /ɛɡ/." Word-specific phenomena in the realization of vowel categories: Methodological and theoretical perspectives (LabPhon 17 Satellite Workshop). Vancouver, British Columbia. July 5, 2020.
+
 **Joseph A. Stanley** & Margaret E. L. Renwick. "Back vowel distinctions and dynamics in Southern US English." The 94th Annual Meeting of the Linguistic Society of America. New Orleans, LA. January 2--5, 2020.
 
 **Joseph A. Stanley**. "Real Time Vowel Shifts in Georgia English." The 6th Annual Linguistics Conference at UGA ([LCUGA6](http://linguistics.uga.edu/lcuga-6)). Athens, GA. October 4–5, 2019.
@@ -145,7 +147,7 @@ William A. Kretzschmar, **Joseph Stanley**, & Katherine Kuiper. “Automated Lar
 
 ### Poster Presentations
 
-William A. Kretzschmar, Jr., Margaret E. L. Renwick, **Joseph A. Stanley**, Katie Kuiper, Lisa Lipani, Michael Olsen, & Rachel Olsen. "The View of Southern Vowels from Large-Scale Data." American Dialect Society Annual Meeting. New York City, NY. January 2--5, 2020.
+William A. Kretzschmar, Jr., Margaret E. L. Renwick, **Joseph A. Stanley**, Katie Kuiper, Lisa Lipani, Michael Olsen, & Rachel Olsen. "The View of Southern Vowels from Large-Scale Data." American Dialect Society Annual Meeting. New Orleans, LA. January 2--5, 2020.
 
 **Joseph A. Stanley** & Margaret E. L. Renwick. "Social factors in Southern US speech: Acoustic analysis of a large-scale legacy corpus." The 93rd Annual Meeting of the Linguistic Society of America. New York City, NY. January 3–6, 2019.
 <a href="/downloads/190103-lsa2019.pdf" class="poster" target="_blank" title="download this poster as a PDF"></a>
