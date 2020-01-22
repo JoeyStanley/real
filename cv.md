@@ -162,7 +162,7 @@ Shawn Foster, **Joseph A. Stanley**, & Margaret E. L. Renwick. "Vowel Mergers in
 <a href="/downloads/171103-nwav46-abstract.pdf" class="abstract" target="_blank" title="download the abstract"></a>
 <a href="/downloads/171103-nwav46.pdf" class="poster" target="_blank" title="download this poster as a PDF"></a>
 
-[Margaret E. L. Renwick](http://faculty.franklin.uga.edu/mrenwick/) & **Joseph A. Stanley**. “A historical perspective on vowel shifting: Acoustic analysis of the Digital Archive of Southern Speech” Poster presentation at the 173rd Meeting of the Acoustical Society of America (ASA). Boston, MA. June 25–29, 2017.
+[Margaret E. L. Renwick](http://faculty.franklin.uga.edu/mrenwick/) & **Joseph A. Stanley**. “An acoustic perspective on vowel shifting: Acoustic analysis of the Digital Archive of Southern Speech” Poster presentation at the 173rd Meeting of the Acoustical Society of America (ASA). Boston, MA. June 25–29, 2017.
 <a href="http://asa.scitation.org/doi/abs/10.1121/1.4989091" class="link" title="link to this presentation"></a>
 
 [Margaret E. L. Renwick](http://faculty.franklin.uga.edu/mrenwick/), Michael Olsen, Rachel M. Olsen, & **Joseph A. Stanley**. “Transcription and forced alignment of the Digital Archive of Southern Speech.” Poster presentation at the 173rd Meeting of the Acoustical Society of America (ASA). Boston, MA. June 25–29, 2017.
