@@ -5,7 +5,7 @@ title: Curriculum Vitae
 
 # Curriculum Vitae
 
-<p id="updated">Updated August 23, 2019. Download PDF <a href="/downloads/190823-CV.pdf" target="_blank" title="open a pdf of my CV in a new window">here</a>.</p>
+<p id="updated">Updated January 30, 2020. Download PDF <a href="/downloads/CV.pdf" target="_blank" title="open a pdf of my CV in a new window">here</a>.</p>
 
 <br/>
 
@@ -30,7 +30,10 @@ title: Curriculum Vitae
 
 ### Refereed Articles
 
-Margaret E. L. Renwick & **Joseph A. Stanley** (*accepted*). "Modeling dynamic trajectories of tense vs. lax vowels in the American South." *Journal of the Acoustical Society of America*.
+
+Margaret E. L. Renwick & **Joseph A. Stanley** (2020). "Modeling dynamic trajectories of tense vs. lax vowels in the American South." *Journal of the Acoustical Society of America* 147(1). doi: 10.1121/10.0000549. 
+<a href="https://asa.scitation.org/doi/10.1121/10.0000549" class="link" target="_blank" title="link JASA online"></a>
+<!--Published online January 31, 2020-->
 
 **Joseph A. Stanley** (2019). "Phonological Patterns in <sc>beg</sc>-Raising." *UGA Working Papers in Linguistics*, 4, 69--91.
 <a href="https://ling.franklin.uga.edu/wp2019-Stanley" class="link" target="_blank" title="link to this paper online"></a>
@@ -230,6 +233,16 @@ Shawn Foster, **Joseph A. Stanley**, & Margaret E. L. Renwick. "Vowel Mergers in
 
 ## Workshops
 
+*2020 LaTeX Workshop Series with Caleb Crumley and Jonathan Crum. University of Georgia DigiLab. Athens, GA*
+<ul style = "margin-left: 2em">
+    <li>Introduction to LaTeX. January 31.
+        <a href="https://github.com/JoeyStanley/LaTeX_workshops" class="github" target ="_blank"  title="link to github"></a></li>
+    <li>The UGA LaTeX Template. February 7.
+        <a href="https://github.com/DigiUGA/UGA-Dissertation-LaTeX-Template" class="github" target="_blank" title="link to github"></a></li>
+    <li>Advanced Topics in LaTeX February 14.</li>
+</ul>
+<br/>
+
 *2019 Praat Scripting Workshop Series with Lisa Lipani. University of Georgia DigiLab. Athens, GA.*
 <ul style = "margin-left: 2em">
     <li>Praat Basics: Introduction to the software. September 11.
@@ -300,7 +313,7 @@ Shawn Foster, **Joseph A. Stanley**, & Margaret E. L. Renwick. "Vowel Mergers in
 
 *Professionalization Workshops*
 <ul style = "margin-left: 2em">
-    <li>Brand Yourself: Boosting Your Online Presence. Workshop given at the University of Georgia as a part of the [Graduate Research Workshop Series](http://guides.libs.uga.edu/graduate_research_workshops) sponsored by UGA Libraries. Athens, GA. September 20 and 26, 2019.</li>
+    <li>Brand Yourself: Boosting Your Online Presence. Workshop given at the University of Georgia as a part of the <a href="http://guides.libs.uga.edu/graduate_research_workshops">Graduate Research Workshop Series</a> sponsored by UGA Libraries. Athens, GA. September 20 and 26, 2019.</li>
     <li>How to make an Academic Poster: An Opinionated Tutorial. Workshop given to members of the Linguistics Society at UGA and the Linguistics Club. Athens, GA. September 11, 2019.
         <a href="/downloads/190911-poster_workshop.pdf" class="slides" target ="_blank" title="download the handout for this presentation"></a> </li>
     <li>Brand Yourself: Creating a Digital, Professional Presence. Invited workshop at the DigiLab, Main Library, University of Georgia, Athens, GA. September 27, 2018.

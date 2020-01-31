@@ -516,6 +516,12 @@ a.link:after {
 a.audio:after {
 	content: url('/images/icons/audio.svg');
 }
+/* There should be a way to scale the current github.svg image, but I can't figure it out.*/
+a.github:after {
+	content: url('/images/icons/github_small.svg');
+	height: 30px;
+	width: 30px;
+}
 
 /* ########################################## */
 /*              Resources Page                */
