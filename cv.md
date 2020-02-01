@@ -30,8 +30,7 @@ title: Curriculum Vitae
 
 ### Refereed Articles
 
-
-Margaret E. L. Renwick & **Joseph A. Stanley** (2020). "Modeling dynamic trajectories of tense vs. lax vowels in the American South." *Journal of the Acoustical Society of America* 147(1). doi: 10.1121/10.0000549. 
+Margaret E. L. Renwick & **Joseph A. Stanley** (2020). "Modeling dynamic trajectories of tense vs. lax vowels in the American South." *Journal of the Acoustical Society of America* 147(1): 579--595. doi: 10.1121/10.0000549. 
 <a href="https://asa.scitation.org/doi/10.1121/10.0000549" class="link" target="_blank" title="link JASA online"></a>
 <!--Published online January 31, 2020-->
 
