@@ -116,12 +116,6 @@ show_palette("kepler186")
 <img width = "85%" src="/images/plots/futurevisions/kepler186.png">
 
 ``` r
-show_palette("trappest")
-```
-
-<img width = "85%" src="/images/plots/futurevisions/trappest.png">
-
-``` r
 show_palette("atomic_clock")
 ```
 
@@ -166,6 +160,12 @@ show_palette("pegasi")
 ```
 
 <img width = "85%" src="/images/plots/futurevisions/pegasi.png">
+
+``` r
+show_palette("trappest")
+```
+
+<img width = "85%" src="/images/plots/futurevisions/trappest.png">
 
 ``` r
 show_palette("grand_tour")
