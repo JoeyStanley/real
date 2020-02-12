@@ -2,7 +2,7 @@
 layout: post
 title:  "futurevisions: My first R package!"
 date:   2020-02-11 11:53:00 -0400
-tags: [Github, LaTeX, Presentations]
+tags: [Data Viz, Github, R, Side Projects]
 ---
 
 Today I released my first complete, functional, R package! It's called futurevisions and it's available on [my github](https://github.com/JoeyStanley/futurevisions). It's just a little one that contains about 20 different color palettes. I've had the idea to work on it for a few months and this week, I decided to go ahead and do it! The rest of this post is the README file for that package and explains the posters the palettes were based on, installation, usage, the list of palettes, and some background.
