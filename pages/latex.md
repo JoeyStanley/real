@@ -25,7 +25,7 @@ Note: All workshops will be held at 3:35pm at the DigiLab (300 Main Library)
 
 <br/>
 
-## *Advanced topics in LaTeX*
+## [*Advanced topics in LaTeX*](https://github.com/krummja/2020_LaTeX_Workshops)
 
 *February 14, 2020*---Jonathan Crum will lead this workshop and will illustrate some of the more technical aspects of LaTeX for more advanced users. Some topics include custom commands, advanced font encoding, more document structure, document splitting and compiling, environments, compilers, and everyday workflow. 
 
