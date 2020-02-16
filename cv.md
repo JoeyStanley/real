@@ -26,6 +26,7 @@ title: Curriculum Vitae
 <br/>
 
 
+
 ## Publications
 
 ### Refereed Articles
@@ -184,6 +185,8 @@ Shawn Foster, **Joseph A. Stanley**, & Margaret E. L. Renwick. "Vowel Mergers in
 
 ### Invited Presentations
 
+"100 years of speech in Georgia." Invited presentation as a part of the Workshop on Language, Technology, and Society series. Georgia Institute of Technology, Atlanta, GA. March 26, 2020. (With Margaret E. L. Renwick.)
+
 "Modeling non-linear changes in time using generalized additive models." Guest lecturer in LING 4886/6886: Text and Corpus Analysis. University of Georgia, Athens, GA. November 12, 2019.
 
 "Data Visualization and Basic Statistical Modeling in R." Invited workshop for an NSF-funded "Research Experience for Undergraduates" program, helping bioanthropology students analyze osteological data from skeletons at the 7–5th c. BCE Greek colony of Himera. June 21 and 25, 2018. <a href="/pages/bones_workshop" class="link" title="view the materials for this workshop here"></a> 
@@ -234,11 +237,12 @@ Shawn Foster, **Joseph A. Stanley**, & Margaret E. L. Renwick. "Vowel Mergers in
 
 *2020 LaTeX Workshop Series with Caleb Crumley and Jonathan Crum. University of Georgia DigiLab. Athens, GA*
 <ul style = "margin-left: 2em">
-    <li>Introduction to LaTeX. January 31.
+    <li>Introduction to LaTeX. January 31 & February 21.
         <a href="https://github.com/JoeyStanley/LaTeX_workshops" class="github" target ="_blank"  title="link to github"></a></li>
-    <li>The UGA LaTeX Template. February 7.
+    <li>The UGA LaTeX Template. February 7 & 28.
         <a href="https://github.com/DigiUGA/UGA-Dissertation-LaTeX-Template" class="github" target="_blank" title="link to github"></a></li>
-    <li>Advanced Topics in LaTeX February 14.</li>
+    <li>Advanced Topics in LaTeX February 14 & March 6.
+        <a href="https://github.com/krummja/2020_LaTeX_Workshops" class="github" target="_blank" title="link to github"></a></li>
 </ul>
 <br/>
 
@@ -312,6 +316,8 @@ Shawn Foster, **Joseph A. Stanley**, & Margaret E. L. Renwick. "Vowel Mergers in
 
 *Professionalization Workshops*
 <ul style = "margin-left: 2em">
+    <li>Conference Presentations and Posters. Workshop given by invitation by the Linguistics Club at the University of Georgia. Athens, GA. March 5, 2020.</li>
+    <li>Brand Yourself: Boosting Your Online Presence (for linguistics grad students). Workshop given by invitation by the University of Georgia Department of Linguistics. Athens, GA. March 3 & 18, 2020.</li>
     <li>Brand Yourself: Boosting Your Online Presence. Workshop given at the University of Georgia as a part of the <a href="http://guides.libs.uga.edu/graduate_research_workshops">Graduate Research Workshop Series</a> sponsored by UGA Libraries. Athens, GA. September 20 and 26, 2019.</li>
     <li>How to make an Academic Poster: An Opinionated Tutorial. Workshop given to members of the Linguistics Society at UGA and the Linguistics Club. Athens, GA. September 11, 2019.
         <a href="/downloads/190911-poster_workshop.pdf" class="slides" target ="_blank" title="download the handout for this presentation"></a> </li>
@@ -345,6 +351,13 @@ Shawn Foster, **Joseph A. Stanley**, & Margaret E. L. Renwick. "Vowel Mergers in
 ## Website
 
 **Joseph A. Stanley**, William A. Kretzschmar Jr., Margaret E. L. Renwick, Michael L. Olsen, and Rachel M. Olsen (2017) *Gazetteer of Southern Vowels*. Linguistic Atlas Project, University of Georgia. [lap3.libs.uga.edu/u/jstanley/vowelcharts/](http://lap3.libs.uga.edu/u/jstanley/vowelcharts/).
+
+
+## Software
+
+**Joseph A. Stanley**. 2020. futurevisions: Color Palettes based on Visions of the Future Poster Series. R package version 0.1.0. [http://github.com/JoeyStanley/futurevisions](http://github.com/JoeyStanley/futurevisions)
+
+**Joseph A. Stanley**. 2020. joeyr: Functions for Vowel Data. R package version 0.3.1. [http://github.com/JoeyStanley/joeyr](http://github.com/JoeyStanley/joeyr)
 
 
 ## Media
