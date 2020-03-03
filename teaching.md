@@ -48,7 +48,7 @@ I have led more than a dozen workshops on R on a variety of topics. In addition 
 
 ### [Professionalization ("Brand Yourself") Workshops](/pages/brand-yourself)
 
-In this workshos, I discuss ways to boost your online presence as an academic. I've given this workshop several times over the past few years and it has evolved quite a bit based on my own experiences. The gist: make a website and possibly also get active on Twitter.
+In this workshops, I discuss ways to boost your online presence as an academic. I've given this workshop several times over the past few years and it has evolved quite a bit based on my own experiences. The gist: make a website and possibly also get active on Twitter.
 
 ### [Academic Poster Workshop](/downloads/190911-poster_workshop.pdf)
 
