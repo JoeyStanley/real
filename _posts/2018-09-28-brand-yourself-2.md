@@ -6,7 +6,7 @@ tags: [CSS, Github, How-to Guides, Meta, Presentations, Twitter]
 excerpt: Today, I was asked to do a professionalization workshop on different ways grad students can boost their online presence through building a personal webpage, utilizing social media, and finding their field's conversation---basically, how to make yourself more googleable. At the end, I challenged people to not leave the room until they had built some sort of new online profile they didn't have when they walked in.
 ---
 
-<div class="biglink"><a href="/downloads/180928-brand_yourself.pdf" title="download slideshow" class="nodot">Download the <br />slides here!</a></div>
+<div class="biglink"><a href="/downloads/180928-brand-yourself.pdf" title="download slideshow" class="nodot">Download the <br />slides here!</a></div>
 
 Today, I was asked to do a professionalization workshop on different ways grad students can boost their online presence through building a personal webpage, utilizing social media, and finding their field's conversation---basically, how to make yourself more googleable. At the end, I challenged people to not leave the room until they had built some sort of new online profile they didn't have when they walked in.
 
@@ -63,7 +63,7 @@ In some fields, these are a listserv. As far as I know, network analysis and Sla
 
 One thing I will mention is that a lot of action happens on Twitter, like livetweeting conferences. I've covered this in more depth in [an earlier blog post](http://joeystanley.com/blog/the-importance-of-twitter), but basically a lot of good stuff can come out of following the right people and seeing just the right tweets. 
 
-<div class="sidenote">I've given this presentation multiple times now. You can see the (very similar) slides from April 13, 2017 <a href="/downloads/170413-brand_yourself.pdf">here</a> and the ones from November 11, 2016 <a href="/blog/brand-yourself-1">here</a>.</div>
+<div class="sidenote">I've given this presentation multiple times now. You can see the (very similar) slides from April 13, 2017 <a href="/downloads/170413-brand-yourself.pdf">here</a> and the ones from November 11, 2016 <a href="/blog/brand-yourself-1">here</a>.</div>
 
 ## Conclusion
 

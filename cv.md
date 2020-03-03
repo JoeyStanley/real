@@ -322,10 +322,10 @@ Shawn Foster, **Joseph A. Stanley**, & Margaret E. L. Renwick. "Vowel Mergers in
     <li>How to make an Academic Poster: An Opinionated Tutorial. Workshop given to members of the Linguistics Society at UGA and the Linguistics Club. Athens, GA. September 11, 2019.
         <a href="/downloads/190911-poster_workshop.pdf" class="slides" target ="_blank" title="download the handout for this presentation"></a> </li>
     <li>Brand Yourself: Creating a Digital, Professional Presence. Invited workshop at the DigiLab, Main Library, University of Georgia, Athens, GA. September 27, 2018.
-        <a href="/downloads/180928-brand_yourself_flyer.pdf" class="flyer" title="download the flyer for this presentation"></a> 
-        <a href="/downloads/180928-brand_yourself.pdf" class="slides" title="download the slides for this presentation"></a> </li>
+        <a href="/downloads/180928-brand-yourself_flyer.pdf" class="flyer" title="download the flyer for this presentation"></a> 
+        <a href="/downloads/180928-brand-yourself.pdf" class="slides" title="download the slides for this presentation"></a> </li>
     <li>Brand Yourself: A professionalization workshop for grad students. Guest lecturer in ANTH 8755: Topics in (Anthropology) Research. Athens, GA. April 13, 2017.
-        <a href="/downloads/170413-brand_yourself.pdf" class="slides" title="download the powerpoint slides for this presentation"></a> </li>
+        <a href="/downloads/170413-brand-yourself.pdf" class="slides" title="download the powerpoint slides for this presentation"></a> </li>
     <li>Brand Yourself: A professionalization workshop for grad students. Workshop given at the University of Georgia DigiLab. Athens, GA. November 11, 2016. (with <a href="http://emilymcginn.com">Emily McGinn</a>)
         <a href="https://digi.uga.edu/news/brandyourself/" class="link" target="_blank" title="link to digi.uga.edu"></a>
         <a href="/blog/brand-yourself-1/" class="link" target="_blank" title="link to digi.uga.edu"></a>
