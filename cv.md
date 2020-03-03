@@ -302,7 +302,7 @@ Shawn Foster, **Joseph A. Stanley**, & Margaret E. L. Renwick. "Vowel Mergers in
 
 *2017 R Workshop Series. University of Georgia DigiLab. Athens, GA.*
 <ul style = "margin-left: 2em">
-    <li>An Introduction to R: Learn the Basics.September 13.
+    <li>An Introduction to R: Learn the Basics. September 13.
         <a href="/downloads/170912-intro-to-r-handout.pdf" class="paper" target="_blank" title="open a pdf of the handout to this presentation a new window"></a>
         <a href="/downloads/170913-flyer.pdf" class="flyer" target="_blank" title="open a pdf of the flyer for this presentation in a new window"></a></li>
     <li>An Introduction to ggplot2. October 12.
@@ -316,9 +316,11 @@ Shawn Foster, **Joseph A. Stanley**, & Margaret E. L. Renwick. "Vowel Mergers in
 
 *Professionalization Workshops*
 <ul style = "margin-left: 2em">
-    <li>Conference Presentations and Posters. Workshop given by invitation by the Linguistics Club at the University of Georgia. Athens, GA. March 5, 2020.</li>
-    <li>Brand Yourself: Boosting Your Online Presence (for linguistics grad students). Workshop given by invitation by the University of Georgia Department of Linguistics. Athens, GA. March 3 & 18, 2020.</li>
-    <li>Brand Yourself: Boosting Your Online Presence. Workshop given at the University of Georgia as a part of the <a href="http://guides.libs.uga.edu/graduate_research_workshops">Graduate Research Workshop Series</a> sponsored by UGA Libraries. Athens, GA. September 20 and 26, 2019.</li>
+    <li>A workshop on preparing conference abstracts. Given by invitation by the Linguistics Club at the University of Georgia. Athens, GA. March 5, 2020.</li>
+    <li>Brand Yourself: Boosting Your Online Presence (for linguistics grad students). Workshop given by invitation by the University of Georgia Department of Linguistics. Athens, GA. March 3 & 18, 2020.
+        <a href="/downloads/200303-brand-yourself_linguistics.pdf" class="slides" target ="_blank" title="download the handout for this presentation"></a> </li>
+    <li>Brand Yourself: Boosting Your Online Presence. Workshop given at the University of Georgia as a part of the <a href="http://guides.libs.uga.edu/graduate_research_workshops">Graduate Research Workshop Series</a> sponsored by UGA Libraries. Athens, GA. September 20 and 26, 2019.
+        <a href="/downloads/190920-brand-yourself.pdf" class="slides" target ="_blank" title="download the handout for this presentation"></a> </li>
     <li>How to make an Academic Poster: An Opinionated Tutorial. Workshop given to members of the Linguistics Society at UGA and the Linguistics Club. Athens, GA. September 11, 2019.
         <a href="/downloads/190911-poster_workshop.pdf" class="slides" target ="_blank" title="download the handout for this presentation"></a> </li>
     <li>Brand Yourself: Creating a Digital, Professional Presence. Invited workshop at the DigiLab, Main Library, University of Georgia, Athens, GA. September 27, 2018.
@@ -502,6 +504,8 @@ Thesis Reader for Shawn C. Foster (UGA Center for Undergraduate Research Opportu
 <br/>
 
 ## Professional Service
+
+Executive Editor of the *Proceedings from LCUGA6*. 2020.
 
 Co-Editor (with Conni Covington) of the [*UGA Working Papers in Linguistics*](http://www.linguistics.uga.edu/working-papers-vol-4-2018), Volume 4. 2019.
 
