@@ -243,7 +243,7 @@ Shawn Foster, **Joseph A. Stanley**, & Margaret E. L. Renwick. "Vowel Mergers in
         <a href="https://github.com/JoeyStanley/LaTeX_workshops" class="github" target ="_blank"  title="link to github"></a></li>
     <li>The UGA LaTeX Template. February 7 & 28.
         <a href="https://github.com/DigiUGA/UGA-Dissertation-LaTeX-Template" class="github" target="_blank" title="link to github"></a></li>
-    <li>Advanced Topics in LaTeX February 14 & March 6.
+    <li>Advanced Topics in LaTeX February 14.
         <a href="https://github.com/krummja/2020_LaTeX_Workshops" class="github" target="_blank" title="link to github"></a></li>
 </ul>
 <br/>
@@ -319,7 +319,7 @@ Shawn Foster, **Joseph A. Stanley**, & Margaret E. L. Renwick. "Vowel Mergers in
 *Professionalization Workshops*
 <ul style = "margin-left: 2em">
     <li>A workshop on preparing conference abstracts. Given by invitation by the Linguistics Club at the University of Georgia. Athens, GA. March 5, 2020.</li>
-    <li>Brand Yourself: Boosting Your Online Presence (for linguistics grad students). Workshop given by invitation by the University of Georgia Department of Linguistics. Athens, GA. March 3 & 18, 2020.
+    <li>Brand Yourself: Boosting Your Online Presence (for linguistics grad students). Workshop given by invitation by the University of Georgia Department of Linguistics. Athens, GA. March 3, 2020.
         <a href="/downloads/200303-brand-yourself_linguistics.pdf" class="slides" target ="_blank" title="download the handout for this presentation"></a> </li>
     <li>Brand Yourself: Boosting Your Online Presence. Workshop given at the University of Georgia as a part of the <a href="http://guides.libs.uga.edu/graduate_research_workshops">Graduate Research Workshop Series</a> sponsored by UGA Libraries. Athens, GA. September 20 and 26, 2019.
         <a href="/downloads/190920-brand-yourself.pdf" class="slides" target ="_blank" title="download the handout for this presentation"></a> </li>
