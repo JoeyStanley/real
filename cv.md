@@ -46,7 +46,9 @@ Margaret E. L. Renwick & **Joseph A. Stanley** (2020). "Modeling dynamic traject
 
 ### Other Publications
 
-**Joseph A. Stanley** (*accepted*). "(thr)-Flapping in American English: Social factors and articulatory motivations." *Proceedings of the 5th Annual Linguistics Conference at UGA*.
+**Joseph A. Stanley**. "(thr)-Flapping in American English: Social factors and articulatory motivations." *Proceedings of the 5th Annual Linguistics Conference at UGA*, 49–63.
+<a href="https://linguistics.uga.edu/cp2018-Stanley" class="link" target="_blank" title="link to this paper online"></a>
+<a href="https://athenaeum.libs.uga.edu/bitstream/handle/10724/38831/49-63%20Stanley.pdf?sequence=1&isAllowed=y" class="paper" target="_blank" title="open a pdf of this paper in a new window"></a>
 
 **Joseph A. Stanley** (2018). "Changes in the Timber Industry as a Catastrophic Event: <sc>bag</sc>-Raising in Cowlitz County, Washington" *Penn Working Papers in Linguistics, 24(2).*
 <a href="https://repository.upenn.edu/pwpl/vol24/iss2/16/" class="link" target="_blank" title="link to this paper online"></a>
@@ -430,17 +432,21 @@ Brigham Young University Department of Linguistics and English Language Conferen
 
 ## Teaching
 
+### At Brigham Young University
+
+Instructional Designer. LING 468: Varieites of English. Summer 2020.
+
+Teaching Assistant for Jason Dzubak. LINGC 220: Linguistic Computing and Programming 1. Winter 2013.
+
+Teaching Assistant for Dr. Monte Shelley. LINGC 200: Basic Humanities Computing Skills. Fall 2011, Winter 2012, Fall 2012.
+
 ### At the University of Georgia
 
 Instructor of Record. LING 3060: Phonetics and Phonology. Fall 2017, Spring 2019.
 
 Teaching Assistant for Peggy Renwick. LING 4400/6400: Quantitative Methods in Linguistics. Spring 2017.
 
-### At Brigham Young University
 
-Teaching Assistant for Jason Dzubak. LINGC220: Linguistic Computing and Programming 1. Winter 2013.
-
-Teaching Assistant for Dr. Monte Shelley. LINGC 200: Basic Humanities Computing Skills. Fall 2011, Winter 2012, Fall 2012.
 
 
 <br />
