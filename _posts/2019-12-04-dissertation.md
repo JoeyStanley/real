@@ -16,7 +16,5 @@ Me with my committee: Chad Howe, Peggy Renwick, and Bill Kretzschmar (skyping in
 <br/>
 </center>
 
-When I'm all finished and submitted, this page will become the homepage of my dissertation. I hope to add a summary, some illustrative figures, and comments on the formatting. For now, I'll focus on getting revisions done. 
-
-For now, you can download the defense draft of my dissertation [here](/downloads/191204-defense_draft.pdf). It's a relatively large file (87MB), mostly because I've got some large embedded PDFs in there and I haven't bothered to shrink them down yet. 
+You can download it [here](/downloads/200417-dissertation_submitted.pdf). That's the version that was submitted to the grad school, so it's the official one. I'll probably make a few tweaks here and there to the visuals and the way references are formatted in the future, but I'll try to keep the page numbers the same. 
 
