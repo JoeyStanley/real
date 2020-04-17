@@ -14,7 +14,27 @@ I'm happy to report that I successfully defended my dissertation today! The defe
 Me with my committee: Chad Howe, Peggy Renwick, and Bill Kretzschmar (skyping in).
 <br/>
 <br/>
+<br/>
 </center>
 
-You can download it [here](/downloads/200417-dissertation_submitted.pdf). That's the version that was submitted to the grad school, so it's the official one. I'll probably make a few tweaks here and there to the visuals and the way references are formatted in the future, but I'll try to keep the page numbers the same. 
+<center>
+<div>
+<a style="font-size:125%; 
+          color: whitesmoke; 
+          background: #376092;
+          border: 0px solid 376092;
+          border-radius: 7pt;
+          padding: 0.25em 0.5em;
+          margin: 0.5em 1em;
+          text-align: center;" 
+    href="/downloads/200417-dissertation_submitted.pdf"
+    title="Dissertation" 
+    class="nodot">Download my dissertation!</a>
+</div>
+</center>
+<br/>
+
+That's the version that was submitted to the grad school, so it's the official one. I'll probably make a few tweaks here and there to the visuals and the way references are formatted in the future, but I'll try to keep the page numbers the same. 
+
+
 
