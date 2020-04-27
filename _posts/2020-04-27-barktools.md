@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "barktools: Functions to help when working with Barks"
-date:   2020-04-03 19:13:00 -0400
+date:   2020-04-27 15:45:00 -0400
 tags: [Data Viz, GitHub, How-to Guides, Methods, Phonetics, R, Side Projects, Skills]
 ---
 
