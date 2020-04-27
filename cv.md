@@ -361,6 +361,8 @@ Shawn Foster, **Joseph A. Stanley**, & Margaret E. L. Renwick. "Vowel Mergers in
 
 ## Software
 
+**Joseph A. Stanley**. 2020. barktools: Functions to help when working with Barks. R package version 0.1.0. [http://github.com/JoeyStanley/barktools](http://github.com/JoeyStanley/barktools)
+
 **Joseph A. Stanley**. 2020. futurevisions: Color Palettes based on Visions of the Future Poster Series. R package version 0.1.0. [http://github.com/JoeyStanley/futurevisions](http://github.com/JoeyStanley/futurevisions)
 
 **Joseph A. Stanley**. 2020. joeyr: Functions for Vowel Data. R package version 0.3.1. [http://github.com/JoeyStanley/joeyr](http://github.com/JoeyStanley/joeyr)
