@@ -189,7 +189,7 @@ Shawn Foster, **Joseph A. Stanley**, & Margaret E. L. Renwick. "Vowel Mergers in
 
 ### Invited Presentations
 
-"100 years of speech in Georgia." Invited presentation as a part of the Workshop on Language, Technology, and Society series. Georgia Institute of Technology, Atlanta, GA. March 26, 2020. (With Margaret E. L. Renwick.)
+"100 years of speech in Georgia." Invited presentation as a part of the Workshop on Language, Technology, and Society series. Georgia Institute of Technology, Atlanta, GA. March 26, 2020. (With Margaret E. L. Renwick.) (Canceled due to COVID-19)
 
 "Modeling non-linear changes in time using generalized additive models." Guest lecturer in LING 4886/6886: Text and Corpus Analysis. University of Georgia, Athens, GA. November 12, 2019.
 
@@ -207,6 +207,7 @@ Shawn Foster, **Joseph A. Stanley**, & Margaret E. L. Renwick. "Vowel Mergers in
 ### Miscellaneous Presentations
 
 "Vowel Dynamics of the Low Vowels in Cowlitz County, Washington". University of Georgia Linguistics Colloquium. Athens, GA. January 10, 2020.
+<a href="/downloads/200110-colloquium.pdf" class="slides" title="download the powerpoint slides for this presentation"></a> 
 
 "Linguistics Papers Collection in Athenaeum" with Mariann Burright and Mary Willoughby. Libraries Spring Forum. Athens, GA. February 26, 2019.
 
