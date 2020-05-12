@@ -149,6 +149,9 @@ Saturday, November 23, 2019
 Monday, November 25, 2019
 2:20am - Got automatic numbering on headers on my resources page and on blog posts using CSS counters. We'll see if I want to keep them.
 
+Tuesday, May 12, 2020
+1:17pm - Working on some changes to reflect the fact I've graduated. Updated and cleaned up my CV. Changed my about me page so that the research activities are all in the past tense (I'll have to update it once I get some research going in Utah). I'm working on something that's been nagging at me for a while, which is my research page. Now that I have enough CV items on each of the research topics, I'll start fleshing those out more, with links to specific talks and papers. 
+
 
 # todo
 * Remove pptx files and replace them with PDFs
