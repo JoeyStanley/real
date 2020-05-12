@@ -5,7 +5,7 @@ title: Curriculum Vitae
 
 # Curriculum Vitae
 
-<p id="updated">Updated May 11, 2020. Download PDF <a href="/downloads/cv.pdf" target="_blank" title="open a pdf of my CV in a new window">here</a>.</p>
+<p id="updated">Updated May 12, 2020. Download PDF <a href="/downloads/cv.pdf" target="_blank" title="open a pdf of my CV in a new window">here</a>.</p>
 
 <br/>
 
@@ -25,9 +25,39 @@ title: Curriculum Vitae
 
 <br/>
 
+## Academic Employment
+
+Assistant Professor, Department of Linguistics, Brigham Young University. 2020--
+
+Instructional Designer, Brigham Young University. March--May, 2020.
+
+
+<br/>
+
+
+
+## Grants
+
+Summer Doctoral Research Fellowship ($3,500), awarded by the University of Georgia Graduate School. Project title: A New Method for Extracting Acoustic Measurements from Speech Audio. May–June, 2018
+
+Graduate Research Award ($1000), awarded by the University of Georgia Willson Center for Humanities and Arts. Project title: “Intra-Family Language Variation in Utah County, Utah.” October 12, 2017.
+
+Innovative and Interdisciplinary Research Grant ($2,500), awarded by the University of Georgia Graduate School. Project title: "A Survey of Western American English using Amazon Mechanical Turk." April 20, 2017.
+
+University of Georgia Graduate School Dean’s Award ($1,250). Project title: "Linguistic Identity and the Founder Effect in Longview, Washington." January 5, 2016. 
+
+<br/>
 
 
 ## Publications
+
+### Edited Volumes
+
+**Joseph A. Stanley**, Julia Steele Josephs, Jonathan Crum, & Frithjof Timo Wöhrmann (in prep). *Proceedings of the 6th Annual Linguistics Conference at UGA*. Linguistics Society at UGA, Athens, GA. 
+
+**Joseph A. Stanley** and Conni Covington, co-editors (2019). [*UGA Working Papers in Linguistics*](http://www.linguistics.uga.edu/working-papers-vol-4-2018), Volume 4. Linguistics Society at UGA, Athens, GA. 
+
+
 
 ### Refereed Articles
 
@@ -57,10 +87,10 @@ Margaret E. L. Renwick & **Joseph A. Stanley** (2020). "Modeling dynamic traject
 <a href="https://athenaeum.libs.uga.edu/handle/10724/37876" class="link" target="_blank" title="link to this paper online"></a>
 <a href="https://athenaeum.libs.uga.edu/bitstream/handle/10724/37876/stanley-and-vanderniet.pdf?sequence=8&isAllowed=y" class="paper" target="_blank" title="open a pdf of this paper in a new window"></a>
 
-Renwick, Margaret E. L. & **Joseph A. Stanley** (2017). "Static and dynamic approaches to vowel shifting in the Digital Archive of Southern Speech." *Proceedings of Meetings on Acoustics* **30**, 060003; doi: http://dx.doi.org/10.1121/2.0000582.
+Margaret E. L. Renwick & **Joseph A. Stanley** (2017). "Static and dynamic approaches to vowel shifting in the Digital Archive of Southern Speech." *Proceedings of Meetings on Acoustics* **30**, 060003; doi: http://dx.doi.org/10.1121/2.0000582.
 <a href="http://asa.scitation.org/doi/pdf/10.1121/2.0000582" class="link" target="_blank" title="link to POMA online"></a>
 
-Olsen, Rachel M., Michael L. Olsen, **Joseph A. Stanley**, Margaret E. L. Renwick, & William A. Kretzschmar, Jr. (2017). "Methods for transcription and forced alignment of a legacy speech corpus." *Proceedings of Meetings on Acoustics* **30**, 060001; doi: http://dx.doi.org/10.1121/2.0000559.
+Rachel M. Olsen, Michael L. Olsen, **Joseph A. Stanley**, Margaret E. L. Renwick, & William A. Kretzschmar, Jr. (2017). "Methods for transcription and forced alignment of a legacy speech corpus." *Proceedings of Meetings on Acoustics* **30**, 060001; doi: http://dx.doi.org/10.1121/2.0000559.
 <a href="http://asa.scitation.org/doi/abs/10.1121/2.0000559" class="link" target="_blank" title="link to POMA online"></a>
 
 **Stanley, Joseph A.** (2016). "Pacific Northwest English: Historical Overview and Current Directions". *UGA Working Papers in Linguistics*, 3. 
@@ -82,7 +112,7 @@ Olsen, Rachel M., Michael L. Olsen, **Joseph A. Stanley**, Margaret E. L. Renwic
 
 **Joseph A. Stanley**. Beyond midpoints: Vowel dynamics of the Low-Back-Merger Shift. Cascadia Workshop in Sociolinguistics. Vancouver, British Columbia. April, 2021. 
 
-**Joseph A. Stanley**. "Methodological considerations in the study of infrequent phonological variables: The case of English /eɡ/ and /ɛɡ/." Word-specific phenomena in the realization of vowel categories: Methodological and theoretical perspectives (LabPhon 17 Satellite Workshop). Vancouver, British Columbia. July 5, 2020.
+**Joseph A. Stanley**. "Methodological considerations in the study of infrequent phonological variables: The case of English /eɡ/ and /ɛɡ/." Word-specific phenomena in the realization of vowel categories: Methodological and theoretical perspectives (LabPhon 17 Satellite Workshop). <s>Vancouver, British Columbia</s>[Online]. September, 2020.
 
 **Joseph A. Stanley** & Margaret E. L. Renwick. "Back vowel distinctions and dynamics in Southern US English." The 94th Annual Meeting of the Linguistic Society of America. New Orleans, LA. January 2--5, 2020.
 <a href="/downloads/200105-lsa2020.pdf" class="slides" title="download the powerpoint slides for this presentation"></a>
@@ -116,7 +146,7 @@ Rachel M. Olsen, **Joseph A. Stanley**, Michael Olsen, Lisa Lipani, & Margaret E
 <a href="/downloads/171006-LCUGA4-UT_abstract.pdf" class="abstract" target="_blank" title="open a pdf of the abstract to this presentation in a new window"></a>
 <a href="/downloads/171007-LCUGA4-UT-slides.pdf" class="slides" title="download the powerpoint slides for this presentation"></a>
 
-**Joseph A. Stanley**. "The linguistic effects of a changing timber industry: Language change in Cowlitz County, WA" The 4th Annual Linguistics Conference at UGA ([LSUGA4](http://www.lsuga.com/conference/2017)). Athens, GA. October 6–8, 2017.
+**Joseph A. Stanley**. "The linguistic effects of a changing timber industry: Language change in Cowlitz County, WA." The 4th Annual Linguistics Conference at UGA ([LSUGA4](http://www.lsuga.com/conference/2017)). Athens, GA. October 6–8, 2017.
 <a href="/downloads/171006-LCUGA4-WA-slides.pdf" class="slides" title="download the powerpoint slides for this presentation"></a>
 
 Rachel Olsen, Michael Olsen, Katherine Kuiper, **Joseph A. Stanley**, [Margaret E. L. Renwick](http://faculty.franklin.uga.edu/mrenwick/), & William A. Kretzschmar, Jr. “New Perspectives on Historical Southern Speech.” Panel presented at the 2017 Integrative Research and Ideas Symposium ([IRIS](https://graduatestudents.org/)). Athens, GA. March 20, 2017.
@@ -185,58 +215,6 @@ Shawn Foster, **Joseph A. Stanley**, & Margaret E. L. Renwick. "Vowel Mergers in
 
 <br/>
 
-## Other Presentations
-
-### Invited Presentations
-
-"100 years of speech in Georgia." Invited presentation as a part of the Workshop on Language, Technology, and Society series. Georgia Institute of Technology, Atlanta, GA. March 26, 2020. (With Margaret E. L. Renwick.) (Canceled due to COVID-19)
-
-"Modeling non-linear changes in time using generalized additive models." Guest lecturer in LING 4886/6886: Text and Corpus Analysis. University of Georgia, Athens, GA. November 12, 2019.
-
-"Data Visualization and Basic Statistical Modeling in R." Invited workshop for an NSF-funded "Research Experience for Undergraduates" program, helping bioanthropology students analyze osteological data from skeletons at the 7–5th c. BCE Greek colony of Himera. June 21 and 25, 2018. <a href="/pages/bones_workshop" class="link" title="view the materials for this workshop here"></a> 
-
-“Basics, Review, Summary, Help.” Guest lecturer in LING 4400/6400: Quantitative Methods in Linguistics. University of Georgia, Athens, GA. April 20.
-
-"Phonology of Tone." Guest lecturer in LING 3060: Phonetics and Phonology. University of Georgia, Athens, GA. April 20.
-
-"Build a better project: Starting a DH project from primary sources." Presented at the First [DigiLab](http://digi.uga.edu/digilab/) Colloquium. Athens, GA. October 6, 2016. 
-<a href="https://digi.uga.edu/news/build-a-better-project-digi-colloquium-review/" class="link" target="_blank" title="link to digi.uga.edu"></a>
-<a href="/downloads/161002-DigiLab-flyer.pdf" class="flyer" target="_blank" title="open a pdf of the flyer for this presentation in a new window"></a>
-<a href="/downloads/161006-DigiLab-slides.pptx" class="slides" title="download the powerpoint slides for this presentation"></a> 
-
-### Miscellaneous Presentations
-
-"Vowel Dynamics of the Low Vowels in Cowlitz County, Washington". University of Georgia Linguistics Colloquium. Athens, GA. January 10, 2020.
-<a href="/downloads/200110-colloquium.pdf" class="slides" title="download the powerpoint slides for this presentation"></a> 
-
-"Linguistics Papers Collection in Athenaeum" with Mariann Burright and Mary Willoughby. Libraries Spring Forum. Athens, GA. February 26, 2019.
-
-"/ɛɡ/-raising is straightforward? I <font style="font-variant: small-caps">beg</font> to differ!" The Linguistic Society of the University of Georgia (LSUGA) Tiny Talks. Athens, GA. April 13, 2018.
-<a href="/downloads/180413-TinyTalks.pdf" class="poster" title="download a pdf of the poster"></a> 
-
-"Hey, Siri. Can you understand me?" Three Minute Thesis (3MT™) Competition at the University of Georgia. March 22, 2018.
-
-"New methods in outlier detection and formant measurement using a modified Mahalanobis distance and 'mistplots.'" University of Georgia Linguistics Colloquium. Athens, GA. February 9, 2018.
-
-"Volcanic Vocalic Changes". University of Georgia Linguistics Colloquium. Athens, GA. April 7, 2017.
-<a href="/downloads/170407-Colloquium.pdf" class="slides" title="download a pdf of the powerpoint slides for this presentation"></a> 
-
-“Linguistic Identity in Longview, Washington.” Three Minute Thesis (3MT™) Competition at the University of Georgia. March 23, 2017.
-
-“An EWP model of Quechua agreement: Further evidence against DM.” Presented at the Linguistic Society of the University of Georgia (LSUGA) Tiny Talks. Athens, GA. September 15, 2016. 
-<a href="/downloads/160915-TinyTalks-slides.pptx" class="slides" title="download the powerpoint slides for this presentation"></a>
-
-"Southeastern Washington English: What We Know So Far". The Linguistic Society of the University of Georgia ([LSUGA](http://www.lsuga.com)) Tiny Talks. Athens, GA. February 18, 2016. 
-<a href="/downloads/160218-TinyTalks-slides.pptx" class="slides" title="download the powerpoint slides for this presentation"></a>
-
-"Brother Bell’s Audience Design: Forms of Address among Latter-day Saint Young Adults". University of Georgia Linguistics Colloquium. Athens, GA. February 27, 2015 
-<a href="/downloads/150227-Colloquium-slides.pptx" class="slides" title="download the powerpoint slides for this presentation"></a> 
-
-"The systematic stretching and adjusting of ideophonic phonology in Pastaza Quichua" with [Janis Nuckolls](http://linguistics.byu.edu/directory/jbn34/), Elizabeth Nielsen, and Roseanna Hopper. Presentation at the Brigham Young University Linguistics Department Brown Bag Meeting. Provo, UT. December 6, 2012.
-
-<br/>
-
-<br/>
 
 ## Workshops
 
@@ -352,15 +330,77 @@ Shawn Foster, **Joseph A. Stanley**, & Margaret E. L. Renwick. "Vowel Mergers in
 
 <br/>
 
+## Other Presentations
+
+### Invited Presentations
+
+(With Margaret E. L. Renwick.) "100 years of speech in Georgia." Workshop on Language, Technology, and Society series. Georgia Institute of Technology, Atlanta, GA. <s>March 26, 2020.</s> [Canceled due to COVID-19]
+
+"Data Visualization and Basic Statistical Modeling in R." Invited workshop for an NSF-funded "Research Experience for Undergraduates" program, helping bioanthropology students analyze osteological data from skeletons at the 7–5th c. BCE Greek colony of Himera. June 21 and 25, 2018. <a href="/pages/bones_workshop" class="link" title="view the materials for this workshop here"></a> 
+
+"Build a better project: Starting a DH project from primary sources." Presented at the First [DigiLab](http://digi.uga.edu/digilab/) Colloquium. Athens, GA. October 6, 2016. 
+<a href="https://digi.uga.edu/news/build-a-better-project-digi-colloquium-review/" class="link" target="_blank" title="link to digi.uga.edu"></a>
+<a href="/downloads/161002-DigiLab-flyer.pdf" class="flyer" target="_blank" title="open a pdf of the flyer for this presentation in a new window"></a>
+<a href="/downloads/161006-DigiLab-slides.pptx" class="slides" title="download the powerpoint slides for this presentation"></a> 
+
+### Guest Lectures
+
+"Modeling non-linear changes in time using generalized additive models." LING 4886/6886: Text and Corpus Analysis. University of Georgia, Athens, GA. November 12, 2019.
+
+“Basics, Review, Summary, Help.” LING 4400/6400: Quantitative Methods in Linguistics. University of Georgia, Athens, GA. April 20.
+
+"Phonology of Tone." LING 3060: Phonetics and Phonology. University of Georgia, Athens, GA. April 20.
+
+
+### Miscellaneous Presentations
+
+"Vowel Dynamics of the Low Vowels in Cowlitz County, Washington". University of Georgia Linguistics Colloquium. Athens, GA. January 10, 2020.
+<a href="/downloads/200110-colloquium.pdf" class="slides" title="download the powerpoint slides for this presentation"></a> 
+
+"Linguistics Papers Collection in Athenaeum" with Mariann Burright and Mary Willoughby. Libraries Spring Forum. Athens, GA. February 26, 2019.
+
+"/ɛɡ/-raising is straightforward? I <font style="font-variant: small-caps">beg</font> to differ!" The Linguistic Society of the University of Georgia (LSUGA) Tiny Talks. Athens, GA. April 13, 2018.
+<a href="/downloads/180413-TinyTalks.pdf" class="poster" title="download a pdf of the poster"></a> 
+
+"Hey, Siri. Can you understand me?" Three Minute Thesis (3MT™) Competition at the University of Georgia. March 22, 2018.
+
+"New methods in outlier detection and formant measurement using a modified Mahalanobis distance and 'mistplots.'" University of Georgia Linguistics Colloquium. Athens, GA. February 9, 2018.
+
+"Near-mergers in Cowlitz County, Washington." Second Qualifying Paper defense. Program in Linguistics, Univeristy of Georgia, Athens, GA. May 4, 2017.
+
+"Volcanic Vocalic Changes". University of Georgia Linguistics Colloquium. Athens, GA. April 7, 2017.
+<a href="/downloads/170407-Colloquium.pdf" class="slides" title="download a pdf of the powerpoint slides for this presentation"></a> 
+
+“Linguistic Identity in Longview, Washington.” Three Minute Thesis (3MT™) Competition at the University of Georgia. March 23, 2017.
+
+“An EWP model of Quechua agreement: Further evidence against DM.” Presented at the Linguistic Society of the University of Georgia (LSUGA) Tiny Talks. Athens, GA. September 15, 2016. 
+<a href="/downloads/160915-TinyTalks-slides.pptx" class="slides" title="download the powerpoint slides for this presentation"></a>
+
+"Southeastern Washington English: What We Know So Far". The Linguistic Society of the University of Georgia ([LSUGA](http://www.lsuga.com)) Tiny Talks. Athens, GA. February 18, 2016. 
+<a href="/downloads/160218-TinyTalks-slides.pptx" class="slides" title="download the powerpoint slides for this presentation"></a>
+
+"When do Mormons Call Each Other by First Name?" First Qualifying Paper defense. Program in Linguistics, Univeristy of Georgia, Athens, GA. January 29, 2016.
+
+"Brother Bell’s Audience Design: Forms of Address among Latter-day Saint Young Adults". University of Georgia Linguistics Colloquium. Athens, GA. February 27, 2015. 
+<a href="/downloads/150227-Colloquium-slides.pptx" class="slides" title="download the powerpoint slides for this presentation"></a> 
+
+"The systematic stretching and adjusting of ideophonic phonology in Pastaza Quichua" with [Janis Nuckolls](http://linguistics.byu.edu/directory/jbn34/), Elizabeth Nielsen, and Roseanna Hopper. Presentation at the Brigham Young University Linguistics Department Brown Bag Meeting. Provo, UT. December 6, 2012.
+
+<br/>
+
+<br/>
 
 
 
-## Website
+
+## Digital Output
+
+### Website
 
 **Joseph A. Stanley**, William A. Kretzschmar Jr., Margaret E. L. Renwick, Michael L. Olsen, and Rachel M. Olsen (2017) *Gazetteer of Southern Vowels*. Linguistic Atlas Project, University of Georgia. [lap3.libs.uga.edu/u/jstanley/vowelcharts/](http://lap3.libs.uga.edu/u/jstanley/vowelcharts/).
 
 
-## Software
+### Software
 
 **Joseph A. Stanley**. 2020. barktools: Functions to help when working with Barks. R package version 0.1.0. [http://github.com/JoeyStanley/barktools](http://github.com/JoeyStanley/barktools)
 
@@ -369,14 +409,50 @@ Shawn Foster, **Joseph A. Stanley**, & Margaret E. L. Renwick. "Vowel Mergers in
 **Joseph A. Stanley**. 2020. joeyr: Functions for Vowel Data. R package version 0.3.1. [http://github.com/JoeyStanley/joeyr](http://github.com/JoeyStanley/joeyr)
 
 
-## Media
+### Media
 
 "PhD. Candidate Seeks to Interview Multigenerational Wasatch County Families." [*The Wasatch Wave*](http://www.wasatchwave.com). January 3, 2018. A local paper heard about my fieldwork and ran an article on the front page to help me find research participants. (Print only.)
 
-Ehrenberg, Rachel. "The southern drawl gets deconstructed." [*ScienceNews*](https://www.sciencenews.org). June 30, 2017. Based on a Peggy Renwick's and my poster presentation, "A historical perspective on vowel shifting: Acoustic analysis of the Digital Archive of Southern Speech" at the June 2017 ASA conference. <a href="https://www.sciencenews.org/article/southern-drawl-gets-deconstructed" class="link" title="link to this report"></a> 
+Ehrenberg, Rachel. "The southern drawl gets deconstructed." [*ScienceNews*](https://www.sciencenews.org). June 30, 2017. Based on Peggy Renwick's and my poster presentation, "A historical perspective on vowel shifting: Acoustic analysis of the Digital Archive of Southern Speech" at the June 2017 ASA conference. <a href="https://www.sciencenews.org/article/southern-drawl-gets-deconstructed" class="link" title="link to this report"></a> 
 
 Guest host on *Faith Promoting Rumors* podcast. “Brother Joseph,” April 10, 2017, wherein I discuss my 2016 paper, “When do Mormons Call Each Other by First Name” published in the *Penn Working Papers in Linguistics*.
 <a href="http://faithpromotingrumors.com/12" class="audio" target="_blank" title="link to FPR podcast"></a>
+
+<br/>
+<br/>
+
+
+-------------
+-------------
+
+
+
+## Teaching
+
+### At Brigham Young University
+
+English Phonetics & Phonoogy (ELANG 327). Winter 2021. 
+
+Introduction to Varieties of English (ELANG 468). Summer 2020, Fall 2020. 
+
+Linguistics Tools 1 (LING 240). Fall 2020.
+
+Introduction to Sociolinguistics (LING 452). Winter 2021. 
+
+Linguistic Computing and Programming 1 (LINGC 220). Teaching Assistant for Jason Dzubak. Winter 2013.
+
+Basic Humanities Computing Skills (LINGC 200). Teaching Assistant for Monte Shelley. Fall 2011, Winter 2012, Fall 2012.
+
+### At the University of Georgia
+
+Phonetics and Phonology (LING 3060). Fall 2017, Spring 2019.
+
+Quantitative Methods in Linguistics (LING 4400/6400). Teaching Assistant for Peggy Renwick. Spring 2017.
+
+### Advising
+
+Thesis Reader for Shawn C. Foster (UGA Center for Undergraduate Research Opportunities Assistantship, 2017) 
+
 
 <br/>
 <br/>
@@ -389,23 +465,17 @@ Guest host on *Faith Promoting Rumors* podcast. “Brother Joseph,” April 10, 
 
 ## Funding and Awards
 
-### Grants and Fellowships
-
-Summer Doctoral Research Fellowship ($3,500), awarded by the University of Georgia Graduate School. Project title: A New Method for Extracting Acoustic Measurements from Speech Audio. May–June, 2018
-
-Graduate Research Award ($1000), awarded by the University of Georgia Willson Center for Humanities and Arts. Project title: “Intra-Family Language Variation in Utah County, Utah.” October 12, 2017.
-
-Innovative and Interdisciplinary Research Grant ($2,500), awarded by the University of Georgia Graduate School. Project title: "A Survey of Western American English using Amazon Mechanical Turk." April 20, 2017.
-
-University of Georgia Graduate School Dean’s Award ($1,250). Project title: "Linguistic Identity and the Founder Effect in Longview, Washington." January 5, 2016. 
-
 ### Research Assistantships
 
-Complex Systems and the Humanities Research Assistantship awarded by the Graduate School at the University of Georgia. 2016--2020.
+Complex Systems and the Humanities Research Assistantship awarded by the Graduate School at the University of Georgia (\$17,664 per year). Split time between the [Linguistic Atlas Project](http://www.lap.uga.edu) and the [DigiLab](http://digi.uga.edu/digilab/), under the direction of [William A. Kretzschmar, Jr.](https://www.english.uga.edu/directory/495/detail) and [Emily McGinn](https://emilymcginn.com). 2016--2020.
 
 University of Georgia stipend enhancement awarded by the Franklin College of Arts and Sciences. 2014--2015.
 
-University of Georgia Graduate Research Assistantship. 2014–2016.
+University of Georgia Graduate Research Assistantship. Included work for Chad Howe, Peggy Renwick, Mi-Ran Kim, Vera Lee-Schoenfeld, and Pilar Chamorro. 2014–2016.
+
+Research Assistant for Monte Shelley, Maxwell Institute for Religious Scholarship, Brigham Young University. 2012--2013.
+
+Research Assistant for Janis Nuckolls. Department of Linguistics and English Language, Brigham Young University. 2012--2013.
 
 ### Travel Awards
 
@@ -431,52 +501,8 @@ University of Georgia Linguistics Program travel award. ADS. Austin, TX. January
 
 Brigham Young University Department of Linguistics and English Language Conference Travel Grant. SSILA. January, 2013. 
 
-<br/>
 
-## Teaching
-
-### At Brigham Young University
-
-Instructional Designer. LING 468: Varieites of English. Summer 2020.
-
-Teaching Assistant for Jason Dzubak. LINGC 220: Linguistic Computing and Programming 1. Winter 2013.
-
-Teaching Assistant for Dr. Monte Shelley. LINGC 200: Basic Humanities Computing Skills. Fall 2011, Winter 2012, Fall 2012.
-
-### At the University of Georgia
-
-Instructor of Record. LING 3060: Phonetics and Phonology. Fall 2017, Spring 2019.
-
-Teaching Assistant for Peggy Renwick. LING 4400/6400: Quantitative Methods in Linguistics. Spring 2017.
-
-
-
-
-<br />
-
-
-## Research Assistantships
-
-Complex Systems and the Humanities Research Assistant in support of the [Linguistic Atlas Project](http://www.lap.uga.edu) and the Willson Center Digital Humanities Lab ([DigiLab](http://digi.uga.edu/digilab/)) under the direction of [Dr. William Kretzschmar]([William A. Kretzschmar, Jr.](https://www.english.uga.edu/directory/495/detail)) and [Emily McGinn](https://emilymcginn.com). 2016--2020.
-
-Graduate Research Assistant for Dr. [Chad Howe](https://faculty.franklin.uga.edu/chowe/), Associate Professor in the Department of Romance Languages at the University of Georgia. 2016.
-
-Graduate Research Assistant for Dr. [Margaret E. L. Renwick](http://faculty.franklin.uga.edu/mrenwick/), Assistant Professor in the Program in Linguistics at the University of Georgia. 2015--2016.
-
-Graduate Research Assistant for Dr. [Mi-Ran Kim](http://www.linguistics.uga.edu/directory/mi-ran-kim), Senior Lecturer at the University of Georgia. 2015–2016.
-
-Graduate Research Assistant for Dr. [Vera Lee-Schoenfeld](http://www.gsstudies.uga.edu/people/vera-lee-schoenfeld), Associate Professor of Linguistics at the University of Georgia. 2016.
-
-Graduate Research Assistant for Dr. [Pilar Chamorro](http://www.linguistics.uga.edu/directory/pilar-chamorro-fernández), Assistant Professor of Hispanic and General Linguistics at the University of Georgia. 2014--2015.
-
-Research Assistant for Dr. [Monte Shelley](http://mi.byu.edu/people/monte-shelley/) of the [Maxwell Institute for Religious Scholarship](http://mi.byu.edu). 2012--2013.
-
-Research Assistant for Dr. [Janis Nuckolls](http://linguistics.byu.edu/directory/jbn34/), Professor of Linguistics at Brigham Young University. 2011--2013.
-
-<br/>
-
-
-## Other Employment
+### Other Employment
 
 US English Linguistics Expert for DefinedCrowd. Summer 2019.
 
@@ -484,51 +510,30 @@ Assistant for Dr. Peggy Renwick in developing materials and establishing an onli
 
 Programmer for the [Maxwell Institute for Religious Scholarship](http://mi.byu.edu). 2013. 
 
-<br/>
-
-## Advising
-
-### Undergraduate
-
-Thesis Reader for Shawn C. Foster (UGA Center for Undergraduate Research Opportunities Assistantship, 2017) 
-
-
-<br/>
-
-<br/>
+<br />
 
 -------------
 -------------
 
-<br/>
-
-
-## Computer Skills and Tools
-
-*Expert*: Excel, Perl, R 
-
-*Proficient*:  [COCA](http://corpus.byu.edu/coca/) (and [related corpora](http://corpus.byu.edu)), CSS, [DARLA](http://darla.dartmouth.edu), [FAVE](http://fave.ling.upenn.edu), HTML, [JMP](http://www.jmp.com/en_us/home.html), LaTeX, [PCT](http://phonologicalcorpustools.github.io/CorpusTools/), Praat, [Shiny](http://shiny.rstudio.com), [SPPAS](http://www.sppas.org), [UCINET](https://sites.google.com/site/ucinetsoftware/home), [Wiki markup](https://en.wikipedia.org/wiki/Help:Wiki_markup), Windows computers, [WordCruncher](http://www.wordcruncher.com/index.html), [Zotero](https://www.zotero.org), and enough web design to make this site.
-
-
-*Familiar*: [Access](https://products.office.com/en-US/access), [AntConc](http://www.laurenceanthony.net/software.html), [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)), [DreamWeaver](http://www.adobe.com/products/dreamweaver.html?sdid=KKQTJ&mv=search&s_kwcid=AL!3085!3!110812694443!e!!g!!dreamweaver&ef_id=V7iPrwAAAUYcBTnE:20160826185837:s), [HTK](http://htk.eng.cam.ac.uk), [LaBB-CAT](http://labbcat.sourceforge.net), [MALLET](http://mallet.cs.umass.edu/index.php), [Markdown](http://daringfireball.net/projects/markdown/), Photoshop, [Prosody-Lab Aligner](http://prosodylab.org/tools/aligner/), Python, [SoX](http://sox.sourceforge.net), [SAS](http://www.sas.com/), [Transcriber](http://trans.sourceforge.net/en/presentation.php), [VBA](https://en.wikipedia.org/wiki/Visual_Basic_for_Applications), [WebMAUS](http://clarin.phonetik.uni-muenchen.de/BASWebServices/#/services/WebMAUSBasic)
-
-<br/>
+<br />
 
 ## Professional Service
 
-Executive Editor of the *Proceedings from LCUGA6*. 2020.
+### Conference Committees
 
-Co-Editor (with Conni Covington) of the [*UGA Working Papers in Linguistics*](http://www.linguistics.uga.edu/working-papers-vol-4-2018), Volume 4. 2019.
+[6th Linguistics Conference at UGA (LCUGA6)](http://www.linguistics.uga.edu/lcuga-6). Social media subcommittee, webmaster, abstract reviewer, organizer of the Undergraduate Poster Session, typesetter, and miscellaneous other duties. 2019.
 
-Member of the conference committee for the [6th Linguistics Conference at UGA (LCUGA6)](http://www.linguistics.uga.edu/lcuga-6). Social media subcommittee and webmaster.
+[5th Linguistics Conference at UGA (LCUGA5)](http://www.linguistics.uga.edu/lcuga-5). Abstract reviewer, social media. 2018.
+
+[4th Linguistics Conference at UGA (LCUGA4)](http://www.linguistics.uga.edu/lcuga-4). Abstract reviewer, social media. 2017.
+
+
+
+### Other Service
 
 UGA Linguistics Graduate Student Representative. 2018--2019.
 
-Member of the conference committee for the [5th Linguistics Conference at UGA (LCUGA5)](http://www.linguistics.uga.edu/lcuga-5). Abstract reviewer and member of the social media subcommittee. 2018.
-
-Web developer for the Linguistics Society at UGA. 2018--.
-
-Member of the conference committee for the [4th Linguistics Conference at UGA (LCUGA4)](http://www.linguistics.uga.edu/lcuga-4). Abstract reviewer and member of the social media subcommittee. 2017.
+Web developer for the Linguistics Society at UGA. 2018--2020.
 
 Organizer of the UGA Sociolinguistics reading group. 2017.
 
@@ -538,12 +543,81 @@ Organizer of the UGA Typology reading group. 2016.
 
 Portuguese-to-English simultaneous interpretor, Missionary Training Center, Provo, Utah. 2011–2013. 
 
+
+
+### Professional Affiliations
+
+Linguistic Society of America ([LSA](http://www.linguisticsociety.org))
+
+American Dialect Society ([ADS](http://www.americandialect.org))
+
+SouthEastern Conference on Linguistics ([SECOL](http://secol.org)) 
+
+Linguistc Society at the University of Georgia ([LSUGA](http://www.lsuga.com))
+
+Society for the Study of the Indigenous Languages of the Americas ([SSILA](http://www.ssila.org))
+
+<br/>
+
+-------------
+-------------
+
 <br/>
 
 
+## Skills and Experience
 
 
-## Fieldwork Experience
+### Computer Skills & Tools
+
+*Expert (=I could teach a course on these)*: 
+R(Studio), 
+tidyverse, 
+ggplot2, 
+Praat, 
+LaTeX, 
+Perl, 
+Word, 
+Excel, 
+[DARLA](http://darla.dartmouth.edu)
+
+*Proficient (=I've used these regularly and could help with some things)*: 
+[COCA](http://corpus.byu.edu/coca/) 
+(and [related corpora](http://corpus.byu.edu)), 
+[FAVE](http://fave.ling.upenn.edu), 
+[JMP](http://www.jmp.com/en_us/home.html), 
+[Markdown](http://daringfireball.net/projects/markdown/), 
+[Shiny](http://shiny.rstudio.com), 
+[WordCruncher](http://www.wordcruncher.com/index.html), 
+[Zotero](https://www.zotero.org), 
+and enough CSS, HTML, and web design to make this site.
+ 
+
+*Familiar (=I still need guidance)*: 
+[Access](https://products.office.com/en-US/access), 
+[AntConc](http://www.laurenceanthony.net/software.html), 
+[C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)), 
+[DreamWeaver](http://www.adobe.com/products/dreamweaver.html?sdid=KKQTJ&mv=search&s_kwcid=AL!3085!3!110812694443!e!!g!!dreamweaver&ef_id=V7iPrwAAAUYcBTnE:20160826185837:s), 
+[HTK](http://htk.eng.cam.ac.uk), 
+[LaBB-CAT](http://labbcat.sourceforge.net), 
+[MALLET](http://mallet.cs.umass.edu/index.php), 
+[PCT](http://phonologicalcorpustools.github.io/CorpusTools/), 
+Photoshop, 
+[Prosody-Lab Aligner](http://prosodylab.org/tools/aligner/), 
+Python, 
+[SAS](http://www.sas.com/), 
+[SoX](http://sox.sourceforge.net), 
+[SPPAS](http://www.sppas.org), 
+[Transcriber](http://trans.sourceforge.net/en/presentation.php), 
+[UCINET](https://sites.google.com/site/ucinetsoftware/home), 
+[VBA](https://en.wikipedia.org/wiki/Visual_Basic_for_Applications), 
+[WebMAUS](http://clarin.phonetik.uni-muenchen.de/BASWebServices/#/services/WebMAUSBasic), 
+[Wiki markup](https://en.wikipedia.org/wiki/Help:Wiki_markup)
+
+<br/>
+
+
+### Fieldwork Experience
 
 Sociolinguistic fieldwork in Utah and Wasatch Counties, Utah. January, 2018.
 
@@ -557,9 +631,7 @@ Brazil (Marília, SP; Campo Grande, MS; Cáceres, Cuiabá, and Várzea Grande, M
 <br/>
 
 
-
-
-## Languages
+### Languages
 
 *Native*: English 
 
@@ -570,19 +642,6 @@ Brazil (Marília, SP; Campo Grande, MS; Cáceres, Cuiabá, and Várzea Grande, M
 *Academic Knoweldge*: [Guaraní](https://en.wikipedia.org/wiki/Guarani_language), Mandarin, [Tz'utujil](https://en.wikipedia.org/wiki/Tz’utujil_language), [Tshiluba](https://en.wikipedia.org/wiki/Luba-Kasai_language), Korean
 
 <br/>
-
-
-## Professional Affiliations
-
-Linguistic Society of America ([LSA](http://www.linguisticsociety.org))
-
-American Dialect Society ([ADS](http://www.americandialect.org))
-
-SouthEastern Conference on Linguistics ([SECOL](http://secol.org)) 
-
-Linguistc Society at the University of Georgia ([LSUGA](http://www.lsuga.com))
-
-Society for the Study of the Indigenous Languages of the Americas ([SSILA](http://www.ssila.org))
 
 
 <br/>
