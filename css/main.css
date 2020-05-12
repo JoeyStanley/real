@@ -441,25 +441,13 @@ sup {
 /*                  Research                  */
 /* ########################################## */
 
-.research {
-	overflow: auto;
-}
 
-.research h2 {
-	padding-top: 2em;
-	clear: both;
-}
-
-.research img {
+.research-img {
 	float: right;
 	width: 20%;
 	border: 0px solid #376092;
 	border-radius: 7pt;
-}
-
-.research p {
-	float: left;
-	width: 75%;
+	padding: 1em;
 }
 
 /* ########################################## */
