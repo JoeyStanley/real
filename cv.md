@@ -14,7 +14,7 @@ title: Curriculum Vitae
 
 **Ph.D. Linguistics**, [University of Georgia](http://www.linguistics.uga.edu/), 2020
 
-<p style = "margin-left:3em;">Dissertation: <i>Vowel Dynamics of the Elsewhere Shift: A Sociophonetic Analysis of English in Cowlitz County, Washington</i></p>
+<p style = "margin-left:3em;">Dissertation: <i>Vowel Dynamics of the Elsewhere Shift: A Sociophonetic Analysis of English in Cowlitz County, Washington</i><a href="http://joeystanley.com/downloads/200417-dissertation_submitted.pdf" class="paper" target="_blank"></a></p>
 
 <p style = "margin-left:3em;">Committee: <a href="https://faculty.franklin.uga.edu/chowe/">L. Chad Howe</a> (chair), <a href="http://faculty.franklin.uga.edu/mrenwick/">Margaret E. L. Renwick</a>, <a href="https://www.english.uga.edu/directory/495/detail">William A. Kretzschmar, Jr.</a></p>
 
@@ -76,7 +76,7 @@ Margaret E. L. Renwick & **Joseph A. Stanley** (2020). "Modeling dynamic traject
 
 ### Other Publications
 
-**Joseph A. Stanley**. "(thr)-Flapping in American English: Social factors and articulatory motivations." *Proceedings of the 5th Annual Linguistics Conference at UGA*, 49–63.
+**Joseph A. Stanley** (2019). "(thr)-Flapping in American English: Social factors and articulatory motivations." *Proceedings of the 5th Annual Linguistics Conference at UGA*, 49–63.
 <a href="https://linguistics.uga.edu/cp2018-Stanley" class="link" target="_blank" title="link to this paper online"></a>
 <a href="https://athenaeum.libs.uga.edu/bitstream/handle/10724/38831/49-63%20Stanley.pdf?sequence=1&isAllowed=y" class="paper" target="_blank" title="open a pdf of this paper in a new window"></a>
 
