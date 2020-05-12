@@ -5,14 +5,14 @@ title: Curriculum Vitae
 
 # Curriculum Vitae
 
-<p id="updated">Updated January 30, 2020. Download PDF <a href="/downloads/CV.pdf" target="_blank" title="open a pdf of my CV in a new window">here</a>.</p>
+<p id="updated">Updated May 11, 2020. Download PDF <a href="/downloads/cv.pdf" target="_blank" title="open a pdf of my CV in a new window">here</a>.</p>
 
 <br/>
 
 
 ## Education
 
-**Ph.D. Linguistics**, [University of Georgia](http://www.linguistics.uga.edu/), 2020 (expected) 
+**Ph.D. Linguistics**, [University of Georgia](http://www.linguistics.uga.edu/), 2020
 
 <p style = "margin-left:3em;">Dissertation: <i>Vowel Dynamics of the Elsewhere Shift: A Sociophonetic Analysis of English in Cowlitz County, Washington</i></p>
 
