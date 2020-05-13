@@ -154,8 +154,8 @@ I'm interested in phenomena on the margins of English phonology. There are some 
 
 ## "Mormonese"
 
-<img class="research-img" style="width:10%; padding: 1em 5%;" src="images/projects/moroni.png">
-Mormons, more properly referred to as members of the Church of Jesus Christ of Latter-day Saints, were once distinct enough to be considered an ethnic group. Today, their behavior, dress, and culture are much more mainstream, but their speech patterns might not always be. I'm curious about how Mormons talk, whether they're in Utah or not. I'm also curious about their speech in relation to non-Mormons and ex-Mormons. I'd also like to disentangle Mormonese from Utah English, because I think they're different. My new position at Brigham Young University will certainly give me access to this population and I hope to soon uncover some new findings on Mormonese.
+<img class="research-img" src="images/projects/mormonese.png">
+Mormons, more properly referred to as members of the Church of Jesus Christ of Latter-day Saints, were once distinct enough to be considered an ethnic group. Today, their behavior, dress, and culture are much more mainstream, but their speech patterns might not always be. I'm curious about how Mormons talk, particularly in relation to non-Mormons and ex-Mormons. I'd also like to disentangle Mormonese from Utah English, because while they must overlap, I think they're different in subtle ways. My new position at Brigham Young University will certainly give me better access to this population and I hope to soon uncover some new findings on Mormonese.
 
 ### CV Highlights
 
