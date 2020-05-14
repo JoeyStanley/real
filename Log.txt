@@ -166,7 +166,6 @@ Tuesday, May 12, 2020
 * joeystanley.com/ads2018        -> blog/ads2018.md
 * joeystanley.com/ads2019        -> blog/ads-and-lsa-2019.md
 * joeystanley.com/ads2020        -> blog/ads-and-lsa-2020.md
-* joeystanley.com/bones          -> pages/bones_workshop.md
 * joeystanley.com/brand-yourself -> pages/brand-yourself.md
 * joeystanley.com/colloquium     -> blog/mount-st-helens-and-vowels.md
 * joeystanley.com/colloquium2020 -> blog/colloquium-2020.md

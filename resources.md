@@ -127,11 +127,21 @@ Here is a list of resources I've found for R. I've gone through some of them and
 
 * The [tidycensus](https://walkerke.github.io/tidycensus/) package by [Kyle Walker](http://personal.tcu.edu/kylewalker/) looks really slick and makes it easy to work with census data within the Tidyverse framework. This blog post, *[Burden of roof: revisiting housing costs with tidycensus](https://austinwehrwein.com/data-visualization/housing/)*, by [Austin Wehrwein](https://austinwehrwein.com) is a walkthrough of a real-world application with tidycensus.
 
+### Miscelleny
+
+* [gt](https://gt.rstudio.com/index.html) or, the "Grammar of Tables," the is basically the ggplot2 but for tables. 
+
+* [tidymodels](https://www.tidymodels.org) is collection of packages harmoneous with the tidyverse, that mkes it really easy to run models on your data. 
+
+* Self-explanatory tweets:
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">As 2019 comes to a close, I want to thank all of the lovely people in the <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> world who have made my year a professional success. For each person in this thread, I&#39;m going to tweet one thing they&#39;ve done that I particularly appreciate.</p>&mdash; David Keyes (@dgkeyes) <a href="https://twitter.com/dgkeyes/status/1212098131774459904?ref_src=twsrc%5Etfw">December 31, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 
 
 <br/>
+
 ## Data Visualization
 
 ### Books
@@ -157,6 +167,8 @@ I've given a workshop on colors in data visualization, which you can view [here]
 * Paul Tol has come up with some [additional color themes](https://personal.sron.nl/~pault/), which you can access with `scale_color_ptol` in the [`ggthemes`](https://www.rdocumentation.org/packages/ggthemes/versions/3.5.0) package.
 
 * If you want to make your own discrete color scale in R, definitely check out [Garrick Aden-Buie](https://www.garrickadenbuie.com)'s tutorial, *[Custom Discrete Color Scales for ggplot2](https://www.garrickadenbuie.com/blog/custom-discrete-color-scales-for-ggplot2/)*. 
+
+* [*Your Friendly Guide to Colors in Data Visualisation*](https://blog.datawrapper.de/colorguide/) by Lisa Charlotte Rost is a great overview of using colors in data visualization with lots of links to other sites and resources. 
 
 * There is no shortage of color palettes. Here are a handful of ones I've seen and liked for one reason or another:
 
@@ -191,6 +203,8 @@ I've given a workshop on colors in data visualization, which you can view [here]
 
 * [Malcom Barrett's](https://github.com/malcolmbarrett/) [Designing ggplots: Making clear figures that communicate](https://designing-ggplots.netlify.com/#1) is a great walk-through, with code, on how to really make your plots look professional, with emphasis on telling a story. 
 
+* [*The Glamour of Graphics*](https://rstudio.com/resources/rstudioconf-2020/the-glamour-of-graphics/), a talk at RStudio::Conf 2020 by William Chase that discusses how to make nice-looking plots. 
+
 ### Miscellany
 
 * The [R Graph Gallary](https://www.r-graph-gallery.com) has hundreds of plots, with code, illustrating what the plots are typically used for and different variants of the same plot. Very cool.
@@ -203,11 +217,12 @@ I've given a workshop on colors in data visualization, which you can view [here]
 
 * [George Bailey's](http://www-users.york.ac.uk/~gb1055/) excelent workshop materials for visualizing vowel formant data can be found [here](http://www-users.york.ac.uk/~gb1055/sociophonetics_workshop/index.html).
 
-* Not sure what kind of data visualization you should use, try [*From Data to Viz](https://www.data-to-viz.com) to help you find the most appropriate plot for your data.
+* Not sure what kind of data visualization you should use, try [*From Data to Viz*](https://www.data-to-viz.com) to help you find the most appropriate plot for your data.
 
 
 
 <br/>
+
 ## Statistics Resources
 
 ### General Statistics Knowledge
@@ -264,14 +279,25 @@ I know there are other types of models out there but I haven't had the opportuni
 
 * [Course materials](https://github.com/hturner/gnm-half-day-course) for the generalized nonlinear models (GNM) half-day course at the useR! 2019 conference by [Heather Turner](http://www.heatherturner.net/). Here's her [full-day version](https://github.com/hturner/gnm-day-course) from Zurich R Course series. 
 
+### Statistics for Linguists
+
+* [Sky Onnossen](https://onosson.github.io) has made available the materials from his [*Workshop for Statistics for Linguists*](https://github.com/onosson/UM_Workshop) at the University of Manitoba in December 2019.
+
+* [Bodo Winter's](http://www.bodowinter.com/index.html) [mixed-effects modeling tutorials](http://www.bodowinter.com/tutorials.html) are the best resource I've found on using linear mixed-effects models in linguistics research.
+
+* *[Generalised Additive Mixed Models for Dynamic Analysis in Linguistics: A Practical Introduction](https://arxiv.org/pdf/1703.05339.pdf)* by Márton Sóskuthy is the best resource I've found on using generalized additive mixed-effects models in linguistics research.
+
 ### Miscelleny
 
 * This workshop, *[Dimension reduction with R](http://rpubs.com/Saskia/520216)*, by [Saskia Freytag](https://twitter.com/trashystats) shows different methods for dimension reduction, weighs their pros and cons, and includes examples and visuals of their applications. Pretty useful.
 
 * If you use statistical modeling in your research, the [`report`](https://github.com/easystats/report/blob/master/README.md) package is a useful tool to convert your model into human-readable prose. 
 
+* Here's an [open source course on data science](http://robust-tools.djnavarro.net/hello/#1) by [Danielle Navarro](http://djnavarro.net). 
+
 
 <br/>
+
 ## Praat Resources
 
 * [Will Styler's](http://savethevowels.org/will/) Praat tutorial is probably the most thorough I've seen. The PDF can be found [here](http://savethevowels.org/praat/UsingPraatforLinguisticResearchLatest.pdf) but don't forget to look at the [page](http://savethevowels.org/praat/) it comes from which has more information about it. 
@@ -281,6 +307,10 @@ I know there are other types of models out there but I haven't had the opportuni
 * *[SpeCT - The Speech Corpus Toolkit for Praat](https://lennes.github.io/spect/)* is a collection of well-documented Praat scripts written by [Mietta Lennes](http://orcid.org/0000-0003-4735-3017). I often find my way to this page when I need help for a specific task in Praat and incorporate some of the code in these scripts into my own.
 
 * [University of Washington Phonetics Lab](https://depts.washington.edu/phonlab/resources.htm) has a bunch of tutorials and scripts.
+
+* [Michelle Cohn](https://michelledcohn.com) has written and posted a bunch of very useful [Praat scripts](https://michelledcohn.com/praat-scripts-2/) that you can download and use.
+
+* A YouTube channel called [ListenLab](https://www.youtube.com/playlist?list=PL6niCBwOhjHga4bCS83VJ2uKzQ8ZjEVeG&app=desktop) by Watt Winn that has a bunch of video tutorials on how to do stuff in Praat.
 
 * And I've written a [tutorial](/blog/a-tutorial-on-extracting-foramnts-in-praat) on writing a script for basic automatic formant extraction. 
 
@@ -352,6 +382,17 @@ For whatever reason, sometimes it's nice to uses data that already exists rather
 * Jason Baumbartner has done the legwork to make [the entirety of Reddit](https://files.pushshift.io/reddit/) available for download. I worked with this data when he first released it in 2015, and it was about a 50-*billion* word corpus back then. Reddit has grown tremendously even since then so you're looking at some truly big data. Super cool. 
 
 <br/>
+
+## Phonetics Resources
+
+* [The rtMRI IPA chart](https://sail.usc.edu/span/rtmri_ipa/pk_2015.html) has MRI videos of all the sounds on the IPA chart.
+
+* [IPA Phonetics](https://itunes.apple.com/us/app/ipa-phonetics/id869642260?mt=8) is an iPhone app has what they call an "elaborated" IPA chart with lots of extra places and manners of articulation, complete with audio clips of all the sounds. You can play a game where it'll play a sound and you can guess what you heard. It's just fun to see things like a voiced uvular fricative (ɢʁ) or a dentolabial fricative [θ̼] on an IPA chart. Credits to University of Victoria linguistics and John Esling's "Phonetic Notation" (chapter 18 of the Handbook of Phonetic Sciences, 2nd ed.).
+
+* [Pink Trombone](http://dood.al/pinktrombone/) is an interesting site that has a interactive simulator of the vocal tract. You can click around and make different vowels and consonants. Pretty fun resource for teaching how speech works.
+
+<br/>
+
 ## Typography, Web Design, and CSS
 
 I enjoy reading and attempting to implement good typography into my website. Here are some resources that I have found helpful for that.
@@ -379,9 +420,17 @@ Occasionally, I'll see posts with really good and insightful tips on how to be a
 
 * [Advice to a young scholar](https://kensycooperrider.com/blog/advice-to-a-young-scholar) by Kensy Kooperrider.
 
+* [Here's](https://sites.google.com/a/colorado.edu/joshuaraclaw/resources) a page with a Q&A and lots of links to pages about what it's like going into grad school in linguistics, written by [Joshua Raclaw](https://sites.google.com/a/colorado.edu/joshuaraclaw/home).
+
+* [*Twitter for Scientists*](https://t4scientists.com) by [Daniel S. Quintana](https://www.dsquintana.com) has all insider tips and recommendations for how to use Twitter as an academic. 
+
+* A list of self-explanatory tweets:
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hey academics-coming-up! Congratulations on sending out that article! However, that probably also means, a few months later, you got your article rejected. Not even a Revise and Resubmit. Worry not. It happens to all of us, most of the time. Here&#39;s a thread on what I do.</p>&mdash; Jeff Guhin (@jeffguhin) <a href="https://twitter.com/jeffguhin/status/1194282457564143616?ref_src=twsrc%5Etfw">November 12, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I finally went through all my bookmarked tweets to compile a list of resources I want my grad students to have and wanted to (1) thank everyone who posted these resources, and (2) pay it forward and share the compiled list with all of you!</p>&mdash; Kaitlin Fogg (@kaitlin_fogg) <a href="https://twitter.com/kaitlin_fogg/status/1192917053209899008?ref_src=twsrc%5Etfw">November 8, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">After reading approximately 30 applications over the past few days that explicitly requests a diversity statement. I got some notes on what to do and what not to do. The &quot;DON&#39;T&quot; list is long but please bear with me. But first, lets define a diversity statement (1/x) <a href="https://t.co/qx1e8EyIGJ">pic.twitter.com/qx1e8EyIGJ</a></p>&mdash; Dr. Samniqueka Halsey (@Samniqueka_H) <a href="https://twitter.com/Samniqueka_H/status/1211723716998189056?ref_src=twsrc%5Etfw">December 30, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 ## Miscellaneous
@@ -392,11 +441,7 @@ Just random stuff that doesn't fit elsewhere.
 
 * *[Collecting, organizing, and citing scientific literature: an intro to Zotero](http://ideophone.org/slides-for-a-hands-on-zotero-workshop/)* is a great tutorial on how to use Zotero by Mark Dingemanse. Zotero is a fantastic tool for, well, collecting, organizing, and citing scientific literature and I'm not exaggerating when I say that I could not be in academics without it.
 
-* [Pink Trombone](http://dood.al/pinktrombone/) is an interesting site that has a interactive simulator of the vocal tract. You can click around and make different vowels and consonants. Pretty fun resource for teaching how speech works.
-
 * [Vulgar: A Language Generator](https://www.vulgarlang.com) is a site that automatically creates a new conlang, based on parameters that you specify. The free web version allows you to add whatever vowels and consonants you'd like to include, and it'll create a full language: a language name; IPA chart for vowels and consonants; phonotactics; phonological rules; and paradigms for nominal morphology, definite and indefinite articles, personal pronouns, and verb conjugations; derivational morphology; and a lexicon of over 200 words. For $19 you can download the software and get a lexicon of 2000 words, derivational words, random semantic overlaps with natural languages, and the ability to customize orthography, syllable structure, and phonological rules. In addition to just being kinda fun, this is a super useful resource for creating homework assignments for students.
-
-* [IPA Phonetics](https://itunes.apple.com/us/app/ipa-phonetics/id869642260?mt=8) is an iPhone app has what they call an "elaborated" IPA chart with lots of extra places and manners of articulation, complete with audio clips of all the sounds. You can play a game where it'll play a sound and you can guess what you heard. It's just fun to see things like a voiced uvular fricative (ɢʁ) or a dentolabial fricative [θ̼] on an IPA chart. Credits to University of Victoria linguistics and John Esling's "Phonetic Notation" (chapter 18 of the Handbook of Phonetic Sciences, 2nd ed.).
 
 * [The EMU-webApp](https://ips-lmu.github.io/EMU-webApp/) "is a fully fledged browser-based labeling and correction tool that offers a multitude of labeling and visualization features." I haven't given this enough time to learn to use it properly, but it seems very helpful.
 
