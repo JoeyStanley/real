@@ -110,7 +110,7 @@ Rachel M. Olsen, Michael L. Olsen, **Joseph A. Stanley**, Margaret E. L. Renwick
 
 ### Oral Presentations
 
-**Joseph A. Stanley**. Beyond midpoints: Vowel dynamics of the Low-Back-Merger Shift. Cascadia Workshop in Sociolinguistics. Vancouver, British Columbia. April, 2021. 
+**Joseph A. Stanley**. "Beyond midpoints: Vowel dynamics of the Low-Back-Merger Shift." Cascadia Workshop in Sociolinguistics. Vancouver, British Columbia. April, 2021. 
 
 **Joseph A. Stanley**. "Methodological considerations in the study of infrequent phonological variables: The case of English /eɡ/ and /ɛɡ/." Word-specific phenomena in the realization of vowel categories: Methodological and theoretical perspectives (LabPhon 17 Satellite Workshop). <s>Vancouver, British Columbia</s>[Online]. September, 2020.
 

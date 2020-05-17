@@ -99,7 +99,7 @@ Traditional sociophonetic reseach analyzes vowels using a pair of measurements, 
 
 ### CV Highlights
 
-**Joseph A. Stanley**. Beyond midpoints: Vowel dynamics of the Low-Back-Merger Shift. Cascadia Workshop in Sociolinguistics. Vancouver, British Columbia. April, 2021.
+**Joseph A. Stanley**. "Beyond midpoints: Vowel dynamics of the Low-Back-Merger Shift." Cascadia Workshop in Sociolinguistics. Vancouver, British Columbia. April, 2021.
 
 **Joseph A. Stanley** (2020). "Vowel Dynamics of the Elsewhere Shift: A Sociophonetic Analysis of English in Cowlitz County, Washington." Ph.D Dissertation. University of Georgia, Athens, GA.
 <a href="http://joeystanley.com/downloads/200417-dissertation_submitted.pdf" class="paper" target="_blank"></a>
