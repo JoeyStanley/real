@@ -95,7 +95,7 @@ ggplot(low_back, aes(F2, F1, color = vowel, label = word)) +
 
 So now that we have the data ready to go, let's look at that Pillai score.
 
-## 2. Pillai Score
+## Pillai Score
 
 The Pillai score (a.k.a. Pillai-Barlett Trace) dates back to K. C. Sreedharan Pillai's (1958) [paper](https://doi.org/doi:10.1214/aoms/1177728599). As far as I can tell the first linguists to use it on vowel data were Jennifer Hay, Paul Warren, & Katie Drager in their (2006) [paper](http://www.sciencedirect.com/science/article/pii/S0095447005000550) in *Journal of Phonetics* where they use it to analyze the merger of <span style="font-variant:small-caps;">near</span> and <span style="font-variant:small-caps;">square</span> in New Zealand English. Measuring the distance between two vowel clusters had been done using Euclidean distance, but the Pillai score was more advantageous because it measures the *overlap* between the two vowel classes instead of the *distance* between them. The value ranges from 0 to 1, with values closer to 0 indicating more overlap while values closer to 1 mean complete separation.
 
@@ -107,7 +107,7 @@ To get an intuition of how a Pillai score relates to vowel data, here are some e
 
 These plots (hopefully) illustrate that Pillai really measures *overlap* and not *distance* since the shape and size of the clusters have as much of an effect on the Pillai score as the distance between them.
 
-### 2.1 The MANOVA Test
+### The MANOVA Test
 
 Okay, so how do we actually calculate the Pillai score? As stated in [Nycz & Hall-Lew (2013)](http://asa.scitation.org/doi/abs/10.1121/1.4894063), the Pillai score is an output of a MANOVA test. Basically, what the MANOVA test does is it takes at least two continuous dependent variables and whether they come from the same distribution in that multivariate space. A linear regression with `lm` (or even a mixed-effects linear regreesion with `lmer`) takes only one dependent variable and can tell you which of the independent variables are significant predictors. The MANOVA test does the same thing just with more than one dependent variable at the same time.
 
@@ -150,7 +150,7 @@ Now, as a word of caution. I've played around with Pillai scores a lot and I've 
 
 But, we're here to look at the Pillai score, not the *p*-value. The problem is there's no Pillai score threshhold for saying something is definitively merged or unmerged. By that I mean we can't just define a value like 0.05 and say if the Pillai score is less than that then we can conclude that the vowels are merged. As far as I'm aware, the Pillai scores are useful only in comparison to other Pillai scores, either from the same pair of vowels in other speakers, or perhaps from the same speaker but with other pairs of vowels.
 
-### 2.2 More complex MANOVA formulas
+### More complex MANOVA formulas
 
 So far, we've only done the most basic MANOVA test. It includes F1 and F2 as continuous variables and vowel as the dependent variable. The MANOVA test can actually handle more information for that. For one, you can add not just F1 and F2, but also F3 or duration or any number of *continuous* variables as response variables. 
 
@@ -203,7 +203,7 @@ To me, 0.10 actually seems a little high still, but maybe that one token of a wo
 
 For simplicity, I'd say let's stick with interpreting the Pillai score for the vowel.
 
-### 2.3 Extracting that Pillai score
+### Extracting that Pillai score
 
 So this is good. We've been able to get the Pillai score and that's great. But what if you wanted R to just give you just that one number instead of that whole summary table? Right now it's embedded in a small table full of lots of other numbers and it might be distracting to see all of them. Or sometimes, you want to save the Pillai score and use it for something else. Either way, it's useful to know how to extract just that one number from that summary table.
 
@@ -280,7 +280,7 @@ summary(manova(cbind(F1, F2) ~ vowel, data = low_back))$stats["vowel","Pillai"]
 Now there is no `my_manova` object at all, and in one line of code we run the MANOVA test and extract the Pillai score. Pretty cool.
 
 
-### 2.4 Writing a function
+### Writing a function
 
 At this point, what I like to do is to create a function in R. I don't like all that typing in the previous line of code because it's somewhat cumbersome, prone to error, and---most importantly---it's not immediately transparent what it does. There's really no indication that that big ol' line is getting the Pillai score and when you come back to look at your code in a few weeks or months, you might not remember what all that mumbo-jumbo is about. For this reason, I like to create custom functions that do all the heavy lifting for me.
 
@@ -312,7 +312,7 @@ pillai(cbind(F1, F2) ~ vowel, data = low_back)
 
 There. It elegant, straightforward, and clear. The best part is that the `pillai` function now has the same syntax as `manova`, only instead of returning the full model, it just returns the Pillai score. 
 
-### 2.5 Multiple speakers
+### Multiple speakers
 
 Okay, so this seems to work fine on my own data. But I'm just one speaker. You probably have more than one speaker that you're analyzing and you want to compare all their Pillai scores. So how do you go about calculating the Pillai score for each one?
 
@@ -389,7 +389,7 @@ Cool! So in just a couple lines of code, I was able to calculate the Pillai scor
 
 So that's it for the Pillai score. Hopefully this section of the tutorial will help you get those numbers in your own dataset. For most people this will be adequate and you can get great results. If it starts to crash on you and give you weird error messages, check out [Part 2](vowel-overlap-in-r-advanced-topics) of this tutorial where we look at how to make the function more robust.
 
-## 4. Bhattacharyya's Affinity
+## Bhattacharyya's Affinity
 
 <p>So the Pillai score is pretty mainstream and most people that want to measure vowel overlap use it. However, recently, there have been a few people using this thing called Bhattacharyya's Affinity. This measurement also dates back quite a ways to when  Anil Kumar Bhattachayya published a paper called <span class="sidenote">I can't find this 1943 paper online, but I can find a <a href="https://www.jstor.org/stable/25047882?seq=1#metadata_info_tab_contents">1946 paper</a> that looks similar</span>&ldquo;On a measure of divergence between two statistical populations defined by their probability distributions&rdquo; in the <i>Bulletin of the Calcutta Mathematical Society</i> in 1943. One non-linguistic application of this measure was in <a href="https://bioone.org/journals/journal-of-wildlife-management/volume-69/issue-4/0022-541X(2005)69%5b1346%3aQHOTIO%5d2.0.CO%3b2/QUANTIFYING-HOME-RANGE-OVERLAP--THE-IMPORTANCE-OF-THE-UTILIZATION/10.2193/0022-541X(2005)69[1346:QHOTIO]2.0.CO;2.short">Fieberg & Kochanny (2005)</a> who use it to measure the overlap in the the home range of some deer in Minnesota.</p>
 
@@ -405,7 +405,7 @@ Also, unlike the Pillai score though, Bhattacharyya's Affinity can only handle t
 
 So it's a thing. Whether you want to use Bhattacharyya's Affinity yourself is up to you, but in this tutorial I'll show the code so you can run it yourself on your own data.
 
-### 4.1 Calculating Bhattacharyya's Affinity
+### Calculating Bhattacharyya's Affinity
 
 To get Bhattacharyya's Affinity you'll need to install and download an additional R package, `adehabitatHR` (plus its dependencies), to get this measurement. If you haven't installed the package already (which is likely), you'll need to with `install.packages`. 
  
@@ -538,7 +538,7 @@ kerneloverlap(low_back_sp, method = "BA")[1,2]
 
 So that's how you'd do this for one pair of vowels. If that's all you need, then you're done!
 
-### 4.2 Writing a function
+### Writing a function
 
 Now, if you're like me, you might find that doing it this way is a bit cumbersome. It's bad enough with just one pair for one speaker. If I needed to do this for many pairs of vowels and/or for many speakers, it would get insane. So, just like with the Pillai scores, let's wrap all this up into a nice and neat function so that we can apply it to however many groups we want with ease.
 
@@ -615,7 +615,7 @@ low_back %>%
 
 So that's handy. That might save you some time trying to do them separately and merging the tables together.
 
-## 5. Conclusion
+## Conclusion
 
 So that's it. Hopefully with this tutorial you are able to calculate the Pillai scores and Bhattacharyya's Affinity in your data. But we went beyond doing it one speaker at at time and wrote up some functions so that you can calculate these measures each speaker. Again, it's up to you to figure out which overlap measure to use (by reading the literature and critically analyzing the results in your own data), but at least the coding shouldn't be an obstacle for you anymore. And with any luck, you've gained some additional R skills that may translate (in)directly to other portions of your research. 
 

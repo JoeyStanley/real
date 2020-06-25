@@ -9,7 +9,7 @@ This is a continuation of my [previous tutorial](a-tutorial-in-calculating-vowel
 
 In this post, I'll cover some topics like what to do if you have multiple vowel pairs you want to measure in each speaker, errors you may encounter with the `select` function when you're calculating Bhattacharyya's Affinity, ways at making the functions less error-prone, and some visualizations you can do with your data after you've collected it.
 
-## 1. Data prep
+## Data prep
 
 The data prep for this post is covered in Part 1 already, so I'll put the code here without further comment.
 
@@ -49,7 +49,7 @@ low_back %>%
 
 Okay cool. Let's see what else can be done with this.
 
-## 2. Multiple vowel pairs
+## Multiple vowel pairs
 
 What I've shown so far is how to calculate the Pillai score for multiple speakers for a *single* pair of vowels. The next question is what how to get the Pillai score for multiple speakers for *multiple* pairs of vowels. 
 
@@ -170,7 +170,7 @@ all_pairs %>%
 
 In my opinion, it's worth it to do the extra bit of work beforehand prepping your data with the whole `bind_rows` business and creating the new function because the benefit is that when it actually comes time to calculate the Pillai score, you've got a tidy dataset to work with and a flexible function to use.
 
-## 3. The `select` clash and Bhattacharyya's Affinity
+## The `select` clash and Bhattacharyya's Affinity
 
 <span class="sidenote">In Dan Johnson's [NWAV presentation](https://danielezrajohnson.shinyapps.io/nwav_44/) where he introduces Bhattacharyya's Affinity, he installs and loads an additional package `sp` so that the `SpatialPointsData-Frame` function can be used. This is technically not necessary to do explicitly, because `sp` is a dependency of `adehabitatHR`, meaning when you install and load `adehabitatHR` you also are bringing `sp` along too.</span>
 Okay, in Part 1, I talked about the library needed to run Bhattacharyya's Affinity, `adehabitatHR`. However, it always seemed to be the case that my tidyverse code, particularly the `select` function always broke in scripts that used this package. It was super annoying and for the longest time I couldn't figure out why.
@@ -238,13 +238,13 @@ For the remainder of this tutorial, I'm going to implement this second option. A
 
 
 
-## 4. Making the functions more robust
+## Making the functions more robust
 
 In this section, I'll go into some more detail about how to make your functions less likely to crash. Some of the topics here get tedious and cover use some more advanced R skills. If you've been finding that your code breaks when you apply it to a bunch of speakers, this might help with these issues.
 
 I'll start with the `bhatt` function because it's a little more straightforward. Then we'll get into some slighly more confusing stuff with `pillai`.
 
-### 4.1 Making `bhatt` more robust
+### Making `bhatt` more robust
 
 <p>I&rsquo;ve noticed when running Bhattacharyya&rsquo;s affinity on my data that it tends to crash if certain conditions aren&rsquo;t met. For example, the calculation requires at least five observations from each vowel class to work. So, let&rsquo;s say I wanted to look at the <i>pull-pole</i><span class="sidenote">I <i>think</i> I have this merger, but I&rsquo;m really not sure. I thought studying it in my data would help my own intuitions, but now I&rsquo;m always hyper aware of the relatively small group of relevant words. But I digress…</span> merger (that is, the merger of <sc>foot</sc> and <span style="font-variant:small-caps;">goat</span> before laterals). We can create the dataset the same way as before</p>
 
@@ -380,7 +380,7 @@ all_pairs %>%
 
 So that's it for the Bhattacharyya's Affinity (for now). Now let's more on to `pillai`. 
 
-### 4.2 Trying to make `pillai` more robust
+### Trying to make `pillai` more robust
 
 Because of the way `pillai` is implemented right now, particularly with the `...` syntax, it's a little tricky to add the same data validation checks that we added in the `bhatt` function above. In fact, I spent a bit of time on it, but the main hurdle is that the `manova` function requires things to be in a formula (that is, something like `y ~ x`). So, for now, I can't offer a perfect solution to the `pillai` function.
 
@@ -531,11 +531,11 @@ all_pairs %>%
 
 So again, there's a toss up between `pillai`, which can handle any MANOVA function, and `pillai2` which is less error prone. Perhaps in the future I'll be able to find a way to combine both into one super robust `pillai` function. For now, you know as much as I do.
 
-## 5. Miscellaneous material
+## Miscellaneous material
 
 At this point, we're done; I won't be playing around with the functions anymore. Instead, in this last section, I'll look at some fun tricks when using them and how to reshape the output to be more useful for you. Again, parts of this section get a little tedious and use some tricksy R stuff. 
 
-### 5.1 Combining functions
+### Combining functions
 
 <span class="sidenote">This section only works if you want to use `pillai2`. If you want to be flexible in the MANOVA formula, you're stuck with `pillai` and you can't really combine them like this.</span>
 Sometimes, it's a little bit silly to have both the `pillai2` function and the `bhatt` function when they're mostly similar. So, we can actually combine them into one function, if that makes sense to you. We'll create a new function called `overlap`. The first part is the same as both of the other functions.
@@ -605,7 +605,7 @@ all_pairs %>%
 <span class="sidenote">Incidentally, if you want to help me create an R package with all this stuff, let's talk.</span>
 If I were to put together an R package with these functions, I'd do something like that. It's easiest to maintain while still being user-friendly.
 
-## 5.2 Reshape and visualize
+## Reshape and visualize
 
 The last thing I'll do in this lengthy tutorial is to look at how make a couple visualizations for pillai scores and how to transform your data along the way. But, this is best illustrated with more speakers, so I'm going to do take my data and duplicate it a bunch of times to simulate the effect of a larger sample. I'll then randomly divide that data up into eight fake speakers. 
 
@@ -737,6 +737,6 @@ ggplot(overlap_table, aes(pillai, bhatt, color = vowel_pair)) +
 
 So this is kind of cool. For the low back merger, the distribution is tight and there's not a lot going on. For the other two, they're more spread out. We don't see too many points straying too far from the line, so there's not a lot of concern here. Maybe because it's just a bunch of random samples of my own data it's not particularly enlightening. Perhaps if you try this on your own data, you might find some interesting differences between the two measurements, which will require some digging.
 
-## 6. Conclusion
+## Conclusion
 
 So that's it. In this post I covered more of the nitty-gritty detail on a couple topics relating to getting vowel overlap measurements in R. As you can tell, there are some residual problems, like coming up with one function that is flexible enough to allow for any MANOVA formula but still allow for data validation. But the once those formulas are written, you can do some pretty cool stuff in just a couple lines of code. Plus, the visuals are straightforward to implement. Hopefully, thanks to this tutorial, the coding itself is no longer a barrier for you if you've been meaning to get vowel overlap measurements for your data.
