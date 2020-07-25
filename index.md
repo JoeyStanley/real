@@ -15,7 +15,7 @@ I was also a research assistant in the [DigiLab](https://digi.uga.edu) in UGA's 
 
 <!--In the past I have done research on language change in real time, morphology in Quechua and Guarani, forms of address among members of the Church of Jesus Christ of Latter-day Saints, language documentation, and agent-based simulations of language change. Before switching to linguistics, I was a music performance major (on trombone believe it or not!) and you might still catch me playing some Shostakovich or Rachmaninoff on piano.  -->
 
-I publish under the more grown-up-sounding version of my name, Joseph A. Stanley, but anyone who has ever met me knows I go by Joey. <!-- Recent non-linguistics books I've read were on ghost towns, typography, the Strauss–Howe generational theory, and very specific topics under the broad umbrella of "civil engineering."--> My family and I will soon be moving to Spanish Fork, Utah and on the weekdnds, I enjoy artisan breadmaking.
+I publish under the more grown-up-sounding version of my name, Joseph A. Stanley, but anyone who has ever met me knows I go by Joey. <!-- Recent non-linguistics books I've read were on ghost towns, typography, the Strauss–Howe generational theory, and very specific topics under the broad umbrella of "civil engineering."--> I live in Spanish Fork with my wife (Kelly) and kids (Lena and Walter). On the weekends I enjoy artisan breadmaking.
 
 <!--
 <center style = "font-size: 75%;">
