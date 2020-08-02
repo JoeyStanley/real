@@ -400,13 +400,15 @@ Shawn Foster, **Joseph A. Stanley**, & Margaret E. L. Renwick. "Vowel Mergers in
 **Joseph A. Stanley**, William A. Kretzschmar Jr., Margaret E. L. Renwick, Michael L. Olsen, and Rachel M. Olsen (2017) *Gazetteer of Southern Vowels*. Linguistic Atlas Project, University of Georgia. [lap3.libs.uga.edu/u/jstanley/vowelcharts/](http://lap3.libs.uga.edu/u/jstanley/vowelcharts/).
 
 
-### Software
+### R Packages
 
-**Joseph A. Stanley**. 2020. [barktools](https://joeystanley.github.io/barktools/): Functions to help when working with Barks. R package version 0.1.0. [http://github.com/JoeyStanley/barktools](http://github.com/JoeyStanley/barktools)
+*joeysvowels: An R package of datasets, based on my own speech, for use when demonstrating R code*. R packgage version 0.1.0. [http://joeystanley.github.io/joeysvowels/](http://joeystanley.github.io/joeysvowels/)
 
-**Joseph A. Stanley**. 2020. futurevisions: Color Palettes based on Visions of the Future Poster Series. R package version 0.1.0. [http://github.com/JoeyStanley/futurevisions](http://github.com/JoeyStanley/futurevisions)
+barktools: Functions to help when working with Barks. R package version 0.2.0. [http://joeystanley.github.io/barktools](http://joeystanley.github.io/barktools)
 
-**Joseph A. Stanley**. 2020. joeyr: Functions for Vowel Data. R package version 0.3.1. [http://github.com/JoeyStanley/joeyr](http://github.com/JoeyStanley/joeyr)
+futurevisions: Color Palettes based on Visions of the Future Poster Series. R package version 0.1.1. [http://github.com/JoeyStanley/futurevisions](http://github.com/JoeyStanley/futurevisions)
+
+joeyr: Functions for Vowel Data. R package version 0.3.5. [http://github.com/JoeyStanley/joeyr](http://github.com/JoeyStanley/joeyr)
 
 
 ### Media
