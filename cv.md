@@ -431,13 +431,13 @@ Guest host on *Faith Promoting Rumors* podcast. “Brother Joseph,” April 10, 
 
 ### At Brigham Young University
 
-English Phonetics & Phonoogy (ELANG 327). Winter 2021. 
+Introduction to Varieties of English (ELANG 468). Summer 2020 (focus on the British Isles), Fall 2020.
 
-Introduction to Varieties of English (ELANG 468). Summer 2020, Fall 2020. 
+Linguistic Tools 1 (LING 240). Fall 2020.
 
-Linguistics Tools 1 (LING 240). Fall 2020.
+Sociolinguistics (LING 452/550). Winter 2021 ($\times$2).
 
-Introduction to Sociolinguistics (LING 452). Winter 2021. 
+Research Design in Linguistics (LING 604). Winter 2021 (with Dan Dewey).
 
 Linguistic Computing and Programming 1 (LINGC 220). Teaching Assistant for Jason Dzubak. Winter 2013.
 
