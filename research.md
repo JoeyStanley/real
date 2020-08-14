@@ -5,9 +5,15 @@ title: Research
 
 # Research
 
-
-
 This page highlights some of my research, organized thematically. I am a dialectologist, so several of my research interests are on specific regions. But intersecting these regions is where the sociolinguist in me comes out, and I try to uncover the meaning in linguistic variants---particularly the infrequent ones. And I go about these questions in these areas as a phonetician, analyzing speech production data and vowel trajectories. Finally, in nearly every study, I put on my quantitative linguist/data scientist/statistican cap when I actually do the analysis and interpretation. I think it's a great intersection of subdisciplines within linguistics and I'm kept on my toes trying to keep up with each field.
+
+<br/>
+As of August 14, 2020, I am…
+
+* revising a manuscript on prevelar raising across North America
+* preparing a presentation for a satellite session of LabPhon17 about prevelar raising
+* 23.5% finished with transcribing 84 hours of audio collected via Amazon Mechanical Turk
+* thinking about how new data to collect now that I'm in Utah
 
 
 
@@ -70,6 +76,8 @@ Also, keep an eye out for blog posts tags with [***Utah***](/tags/index#Utah)!
 Having firmly established myself as a researcher of Western American English, I was reluctant to start doing research on the South since the amount of existing literature is vast. But, as a research assistant for the Linguistic Atlas Project for four years, I couldn't help but begin analysis on DASS, a newly transcribed corpus of interviews from the 1970s and 1980s. Together with Peggy Renwick and the others at the Linguistic Atlas team, we've dug deep into the phonetics of how southerners sounded a couple generations ago. You can see and interact with some of this data by going a site I made called the <a href="http://lap3.libs.uga.edu/u/jstanley/vowelcharts/" title="GSV"><i>Gazetteer of Southern Vowels</i></a>.
 
 ### CV Highlights
+
+**Joseph A. Stanley** (in press). "A comparison of turn-of-the-century and turn-of-the-millennium speech in Georgia." *Proceedings of the 6th Annual Linguistics Conference at UGA.* 
 
 Margaret E. L. Renwick & **Joseph A. Stanley** (2020). "Modeling dynamic trajectories of tense vs. lax vowels in the American South." *Journal of the Acoustical Society of America* 147(1): 579--595. doi: 10.1121/10.0000549. 
 <a href="https://asa.scitation.org/doi/10.1121/10.0000549" class="link" target="_blank" title="link JASA online"></a>
