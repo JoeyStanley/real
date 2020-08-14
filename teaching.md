@@ -4,9 +4,26 @@ title: Teaching
 ---
 
 # Teaching
-This page serves as a central repository for things I have taught including university courses and workshops.
+
+In Fall 2020, I will be teaching…
+
+* ELANG 468: Varieties of English
+* LING 240: Linguistic Tools 1
 
 <br/>
+In Winter 2021, I will be teaching…
+
+* LING 452/550: Sociolinguistics
+* LING 604: Research Design in Linguistics (with Dan Dewey)
+
+
+<br/>
+<br/>
+The rest of this page serves as a repository for teaching materials and workshops I have prepared.
+
+
+
+
 <br/>
 
 ## Courses
