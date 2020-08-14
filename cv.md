@@ -61,6 +61,8 @@ University of Georgia Graduate School Dean’s Award ($1,250). Project title: "L
 
 ### Refereed Articles
 
+**Joseph A. Stanley** (in press). "A comparison of turn-of-the-century and turn-of-the-millennium speech in Georgia." *Proceedings of the 6th Annual Linguistics Conference at UGA.* 
+
 Margaret E. L. Renwick & **Joseph A. Stanley** (2020). "Modeling dynamic trajectories of tense vs. lax vowels in the American South." *Journal of the Acoustical Society of America* 147(1): 579--595. doi: 10.1121/10.0000549. 
 <a href="https://asa.scitation.org/doi/10.1121/10.0000549" class="link" target="_blank" title="link JASA online"></a>
 <!--Published online January 31, 2020-->
@@ -520,6 +522,10 @@ Programmer for the [Maxwell Institute for Religious Scholarship](http://mi.byu.e
 <br />
 
 ## Professional Service
+
+### Manuscript reviewer
+
+*Language Variation and Change*
 
 ### Conference Committees
 
