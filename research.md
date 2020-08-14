@@ -13,7 +13,7 @@ As of August 14, 2020, I am…
 * revising a manuscript on prevelar raising across North America
 * preparing a presentation for a satellite session of LabPhon17 about prevelar raising
 * 23.5% finished with transcribing 84 hours of audio collected via Amazon Mechanical Turk
-* thinking about how new data to collect now that I'm in Utah
+* thinking about new data to collect now that I'm in Utah
 
 
 
