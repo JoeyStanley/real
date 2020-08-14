@@ -21,9 +21,6 @@ In Winter 2021, I will be teaching…
 <br/>
 The rest of this page serves as a repository for teaching materials and workshops I have prepared.
 
-
-
-
 <br/>
 
 ## Courses
