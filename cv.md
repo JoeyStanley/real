@@ -439,7 +439,7 @@ Introduction to Varieties of English (ELANG 468). Summer 2020 (focus on the Brit
 
 Linguistic Tools 1 (LING 240). Fall 2020.
 
-Sociolinguistics (LING 452/550). Winter 2021 ($\times$2).
+Sociolinguistics (LING 452/550). Winter 2021 (×2).
 
 Research Design in Linguistics (LING 604). Winter 2021 (with Dan Dewey).
 
