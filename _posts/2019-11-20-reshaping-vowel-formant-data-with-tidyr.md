@@ -234,7 +234,7 @@ joey %>%
 ## # … with 2,740 more rows
 ```
 
-However, you can now incorporate that separation into the `pivot_wider` itself! One potential way to do it is by using the `names_sep` argument. You provide the string that separates the eventual column names and it'll take care of splitting it up.
+However, you can now incorporate that separation into the `pivot_longer` itself! One potential way to do it is by using the `names_sep` argument. You provide the string that separates the eventual column names and it'll take care of splitting it up.
 
 ```r
 joey %>%
@@ -259,9 +259,9 @@ joey %>%
 ## # … with 2,740 more rows
 ```
 
-But this is a little problematic because the values in `percent` column still have the "%" symbol attached. With `separate` we could just toss it with `extra = "drop"` but it doesn't look so easy with `pivot_wider`. 
+But this is a little problematic because the values in `percent` column still have the "%" symbol attached. With `separate` we could just toss it with `extra = "drop"` but it doesn't look so easy with `pivot_longer`. 
 
-Fortunately, `pivot_wider` has a more sophisticated way to separate columns. Instead of `names_sep`, we can use `names_pattern`. Here, we use what's called a *regular expression* to capture the necessary groups within the old column names. So, if we think about all our column names `F1@20%`, `F2@20%`, `F1@35%`, etc. we can see that the "template" is  "F#**@**##**%**"---that is, an *F* followed by a number, then the @ symbol, two numbers, and then the % symbol. So, knowing that `\\d` is the regular expression for a digit, we can use the search pattern `"(F\\d)@(\\d\\d)%"` to represent our column names. The crucial part here is that we have the information we want to keep, `F\\d` and `\\d\\d`, in parentheses. `pivot_wider` will then use those captured groups as new column names.
+Fortunately, `pivot_longer` has a more sophisticated way to separate columns. Instead of `names_sep`, we can use `names_pattern`. Here, we use what's called a *regular expression* to capture the necessary groups within the old column names. So, if we think about all our column names `F1@20%`, `F2@20%`, `F1@35%`, etc. we can see that the "template" is  "F#**@**##**%**"---that is, an *F* followed by a number, then the @ symbol, two numbers, and then the % symbol. So, knowing that `\\d` is the regular expression for a digit, we can use the search pattern `"(F\\d)@(\\d\\d)%"` to represent our column names. The crucial part here is that we have the information we want to keep, `F\\d` and `\\d\\d`, in parentheses. `pivot_longer` will then use those captured groups as new column names.
 
 ```r
 joey %>%
@@ -288,7 +288,7 @@ joey %>%
 
 And like magic, the 10 columns in the old dataset are turned into tidy `formant` and `percent` columns. 
 
-There's one more thing that can be done, if you'd like. By default, `pivot_wider` will make these new columns into character vectors. In our case, we may want to turn them into factors and numberic vectors. 
+There's one more thing that can be done, if you'd like. By default, `pivot_longer` will make these new columns into character vectors. In our case, we may want to turn them into factors and numberic vectors. 
 
 We can specify this with the `names_ptypes` argument. As its value, we provide a list of the column names and then how they should be encoded. For `formant`, I'm turning it into a factor, making sure to specify that the order of the levels goes "F1" first and then "F2". For `percent`, I'm just ensuring that it turns into an integer.
 
