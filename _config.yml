@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Joey Stanley
-email: joeystan@uga.edu
+email: joey_stanley@byu.edu
 
 # Added these so they'd be in /feed.xml for the RSS feed.
 author: Joey Stanley
