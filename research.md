@@ -8,11 +8,11 @@ title: Research
 This page highlights some of my research, organized thematically. I am a dialectologist, so several of my research interests are on specific regions. But intersecting these regions is where the sociolinguist in me comes out, and I try to uncover the meaning in linguistic variants---particularly the infrequent ones. And I go about these questions in these areas as a phonetician, analyzing speech production data and vowel trajectories. Finally, in nearly every study, I put on my quantitative linguist/data scientist/statistican cap when I actually do the analysis and interpretation. I think it's a great intersection of subdisciplines within linguistics and I'm kept on my toes trying to keep up with each field.
 
 <br/>
-As of August 14, 2020, I am…
+As of September 22, 2020, I am…
 
 * revising a manuscript on prevelar raising across North America
-* preparing a presentation for a satellite session of LabPhon17 about prevelar raising
-* 23.5% finished with transcribing 84 hours of audio collected via Amazon Mechanical Turk
+* getting ready to attend a satellite session of LabPhon17
+* 26.9% finished with transcribing 84 hours of audio collected via Amazon Mechanical Turk
 * thinking about new data to collect now that I'm in Utah
 
 
