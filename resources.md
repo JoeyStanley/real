@@ -97,11 +97,17 @@ Here is a list of resources I've found for R. I've gone through some of them and
 
 * [*R Markdown: The Definitive Guide*](https://bookdown.org/yihui/rmarkdown/) Yihui Xie, J. J. Allaire, and Garrett Grolemund is the comprehensive guide to R Markdown and Bookdown. 
 
+* [15 Tips on Making Better Use of R Markdown](https://slides.yihui.org/2019-dahshu-rmarkdown#1) by Yihue Xie offers some very useful and practical tips for getting the most out of RMarkdown.
+
 * *[bookdown: Authoring Books and Technical Documents with R Markdown](https://bookdown.org/yihui/bookdown/)* by Yihui Xie. See an introduction to Bookdown by RStudio [here](https://www.rstudio.com/resources/webinars/introducing-bookdown/).
 
 * If your love for Zotero is what's preventing you from using RMarkdown, never fear! *[Zotero hacks: unlimited synced storage and its smooth use with rmarkdown](https://ikashnitsky.github.io/2019/zotero/)* by [Ilya Kashnitsky](https://ikashnitsky.github.io) is the perfect guide to getting those two integrated.
 
 * Want to start your own blog entirely in R? Try Alison Hill's tutorial, [*Up & Running with blogdown*](https://alison.rbind.io/post/2017-06-12-up-and-running-with-blogdown/), to get you started.
+
+* This is an excellent blog post by Rebecca Barter about how to start a blog and what kinds of things to do on it. [*Becoming an R blogger*](http://www.rebeccabarter.com/blog/2020-02-03_blogger/).
+
+
 
 ### GIS and Spatial Stuff
 
@@ -144,9 +150,15 @@ Here is a list of resources I've found for R. I've gone through some of them and
 
 ## Data Visualization
 
+### Courses
+
+* Here's an entire [open-access course on Data Visualization](https://datavizm20.classes.andrewheiss.com) by [Andrew Heiss](https://www.andrewheiss.com), based in R and ggplot2. 
+
 ### Books
 
 * *[ggplot2](http://www.springer.com/us/book/9783319242750)* by Hadley Wickham is a comprehensive resource for learning all the ins and outs of ggplot2. Version 3 is due in 2020, but you can look through what's been written so far [here](http://ggplot2-book.org).
+
+* [*A ggplot2 grammar guide](https://evamaerey.github.io/ggplot2_grammar_guide/about) by Gina Reynolds is a great online resource for figuring out ggplot2 works!
 
 * [*Data Visualization: A Practical Introduction*](http://socviz.co) by [Kieran Healy](kieranhealy.org). I haven't had the time to look through it, but this books looks quite good. It covers data prep, basic plots, visualizing statistical models, maps, and a whole bunch of other stuff. 
 
@@ -160,15 +172,27 @@ Here is a list of resources I've found for R. I've gone through some of them and
 
 I've given a workshop on colors in data visualization, which you can view [here](downloads/191023-color.pdf). In it, I list the following resources, plus a whole bunch of other ones.
 
+#### Using colors in data visualization
+
+* [*Your Friendly Guide to Colors in Data Visualisation*](https://blog.datawrapper.de/colorguide/) by Lisa Charlotte Rost is a great overview of using colors in data visualization with lots of links to other sites and resources. 
+
+* [*What to consider when choosing colors for data visualization*](https://blog.datawrapper.de/colors/) by [Lisa Charlotte Rost](https://lisacharlotterost.de) has great brief tips for color in data visualization. Be sure to see the links at the bottom for more resources!
+
+* When you do create your own palettes, be sure to run it through this [Color Blindness Simulator](https://www.color-blindness.com/coblis-color-blindness-simulator/) to make sure that everyone can see them.
+
+* Stephen Few has a nice [guide](http://www.perceptualedge.com/articles/visual_business_intelligence/rules_for_using_color.pdf) for using colors and has his own palette you can use.
+
+* Masataka Okabe and Kei Ito have a guide called [Color Universal Design](https://jfly.uni-koeln.de/color/) that is pretty well-known.
+
+#### Prepackaged color palettes
+
+* A monster compilation of color palettes in R can be found at [Emil Hvitfeldt's](https://www.hvitfeldt.me/blog/) [Github](https://github.com/EmilHvitfeldt/r-color-palettes).
+
 * The [`scico`](https://www.data-imaginist.com/2018/scico-and-the-colour-conundrum/) package has a bunch of colorblind-safe, perceptually uniform, ggplot2-friendly color palettes for use in visuals. Very cool.
 
 * The [color brewer website](http://colorbrewer2.org), while best for maps, offers great color palettes that are colorblind and sometimes also printer-safe. The have native integration with `ggplot2` with the `scale_[color|fill]_ [brewer|distiller]` [functions](https://ggplot2.tidyverse.org/reference/scale_brewer.html). 
 
 * Paul Tol has come up with some [additional color themes](https://personal.sron.nl/~pault/), which you can access with `scale_color_ptol` in the [`ggthemes`](https://www.rdocumentation.org/packages/ggthemes/versions/3.5.0) package.
-
-* If you want to make your own discrete color scale in R, definitely check out [Garrick Aden-Buie](https://www.garrickadenbuie.com)'s tutorial, *[Custom Discrete Color Scales for ggplot2](https://www.garrickadenbuie.com/blog/custom-discrete-color-scales-for-ggplot2/)*. 
-
-* [*Your Friendly Guide to Colors in Data Visualisation*](https://blog.datawrapper.de/colorguide/) by Lisa Charlotte Rost is a great overview of using colors in data visualization with lots of links to other sites and resources. 
 
 * There is no shortage of color palettes. Here are a handful of ones I've seen and liked for one reason or another:
 
@@ -180,7 +204,27 @@ I've given a workshop on colors in data visualization, which you can view [here]
 
     * [pokepalettes.com](http://pokepalettes.com): A simple webpage that takes a Pokemon name and generates a color palette.
 
-* Of course, a monster compilation of color palettes in R can be found at [Emil Hvitfeldt's](https://www.hvitfeldt.me/blog/) [Github](https://github.com/EmilHvitfeldt/r-color-palettes).
+    * [`wesanderson`](https://github.com/karthik/wesanderson) is based on [this Tumbler post](https://wesandersonpalettes.tumblr.com) that has color palettes based on Wes Anderson movies.
+
+    * [@CINEMAPALETTES](https://twitter.com/CINEMAPALETTES) on Twitter has color palettes based on movie stills.
+
+    * [`dutchmasters`](github.com/EdwinTh/dutchmasters): Instead of coming up with your own colors, why not use ones created by Dutch painters? This is an R package by [Edwin Thoen](https://github.com/EdwinTh). 
+
+#### Creating your own color palettes
+
+* If you want to make your own discrete color scale in R, definitely check out [Garrick Aden-Buie](https://www.garrickadenbuie.com)'s tutorial, *[Custom Discrete Color Scales for ggplot2](https://www.garrickadenbuie.com/blog/custom-discrete-color-scales-for-ggplot2/)*. 
+
+* Check out the [simplecolors](https://rjake.github.io/simplecolors/index.html) package, by Jake Riley, to find hex codes for consistently-named colors. 
+
+* Definitely check out [Adobe's Color app](https://color.adobe.com/create/color-wheel) for some inspiration on color palettes. 
+
+* Also, check out [Coolers](https://coolors.co/) for more inspiration on color palettes. 
+
+* And if you have a start and end point, this [Colorpicker app](http://tristen.ca/hcl-picker/) can get colors in between those points.
+
+
+
+
 
 
 ### Animation
@@ -266,6 +310,8 @@ My dissertation makes heavy use of generalized additive mixed-effects models (GA
 * *[tidymv: Tidy Model Visualisation](https://github.com/stefanocoretta/tidymv)* is an R package by [Stefano Coretta](https://stefanocoretta.github.io) that lets you visualize GAMMs using tidyverse-friendly code.
 
 * *[GAMs in R](https://noamross.github.io/gams-in-r-course/)* by [Noam Ross](https://www.ecohealthalliance.org/personnel/dr-noam-ross) is a free interactive course on GAMs in R.
+
+* [*Introduction to Generalized Additive Models with R and mgcv*](https://github.com/gavinsimpson/intro-gam-webinar-2020) by [Gavin Simpson](https://fromthebottomoftheheap.net). 
 
 * Since model objects can get huge, you might want to try [Joyce Cahoon's](https://jcahoon.netlify.com/#about) [butcher](https://jcahoon.netlify.com/post/2019/08/08/model-butcher/) package to reduce the size of those giant objects. 
 
@@ -432,6 +478,10 @@ Occasionally, I'll see posts with really good and insightful tips on how to be a
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">After reading approximately 30 applications over the past few days that explicitly requests a diversity statement. I got some notes on what to do and what not to do. The &quot;DON&#39;T&quot; list is long but please bear with me. But first, lets define a diversity statement (1/x) <a href="https://t.co/qx1e8EyIGJ">pic.twitter.com/qx1e8EyIGJ</a></p>&mdash; Dr. Samniqueka Halsey (@Samniqueka_H) <a href="https://twitter.com/Samniqueka_H/status/1211723716998189056?ref_src=twsrc%5Etfw">December 30, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Use less text. <br><br>One of the most important tips for creating engaging scientific presentations is reducing text as much as possible. The audience is not there to read but to listen to you 1/7<br><br>@AcademicTwitter <a href="https://twitter.com/hashtag/AcademicChatter?src=hash&amp;ref_src=twsrc%5Etfw">#AcademicChatter</a> <a href="https://t.co/ybR7cSRor2">pic.twitter.com/ybR7cSRor2</a></p>&mdash; Timo Roettger (@TimoRoettger) <a href="https://twitter.com/TimoRoettger/status/1234129037087453185?ref_src=twsrc%5Etfw">March 1, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">How to revise:<br><br>As an editor and author I have seen many revised papers return to journals. Given effort, most go well (ie step toward acceptance). Some go pear-shaped. I’ve slowly improved and have an approach known by my group as the ‘Breakspear method”. Here is its essence</p>&mdash; Michael Breakspear (@DrBreaky) <a href="https://twitter.com/DrBreaky/status/1273842646377566214?ref_src=twsrc%5Etfw">June 19, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 ## Miscellaneous
 
@@ -448,3 +498,5 @@ Just random stuff that doesn't fit elsewhere.
 * [Jonhannes Haushofer's CV of Failures](https://www.princeton.edu/~joha/Johannes_Haushofer_CV_of_Failures.pdf). Other people have written this more elegantly than I could, but sometimes it's nice to see that other academics fail too. You're not going to get into all the conferences you apply for, your papers are sometimes going to be rejected, and you're definitely not getting all the funding you apply for. I find it therapeutic to put together a CV of failures like his researcher did and to keep it updated and formatted just as would a regular CV. Don't let impostor syndrome get in the way by thinking others haven't failed too.
 
 * Kieran Healey's *[The Plain Person’s Guide to Plain Text Social Science](http://plain-text.co)* is an entire book on an aspect of productivity that I've only thought about occasionally: what kind of software should you do your work? Before you get too entrenched in your workflow, it's good to consider what your options are. 
+
+* [ThisWordDoesNotExist.com](https://www.thisworddoesnotexist.com) is a fun site created by [Thomas Dimson](https://www.thomasdimson.com). 
