@@ -178,7 +178,7 @@ show_generations()
 ## 25     Aurthurian  1435 1459
 ```
 
-You can also get simple information. For example, if you want to know when the start or end year of a particular generation is, you can use `get_start()` or `get_end()`:
+You can also get simple information. For example, if you want to know when the start or end year of a particular generation is, you can use `get_start` or `get_end`:
 
 ```r
 get_start("Silent")
@@ -192,7 +192,7 @@ get_end("Millennial")
 ## [1] 2008
 ```
 
-You can also find the names of neighboring generations with `get_prev_gen()` and `get_next_gen()`. 
+You can also find the names of neighboring generations with `get_prev_gen` and `get_next_gen`. 
 
 ```r
 get_next_gen("Millennial")
@@ -214,7 +214,7 @@ The data that this package uses is loaded as a hidden object when you load the p
 
 The labels and years for each generation are mostly borrowed from Howe & Strauss' Generational Theory books. However, not everyone agrees on the names and year ranges for the various generations. For this reason, the generations package makes it easy to modify the generations data to your liking. 
 
-To rename a generation, use `rename_generation()`, with the old name first and the new name second. For example, if you want to use *Zoomer* instead of *Gen Z*, you can do so.
+To rename a generation, use `rename_generation`, with the old name first and the new name second. For example, if you want to use *Zoomer* instead of *Gen Z*, you can do so.
 
 ```r
 rename_generation("Gen Z", "Zoomer")
@@ -222,7 +222,7 @@ rename_generation("Gen Z", "Zoomer")
 ## Gen Z has been renamed Zoomer
 ```
 
-You'll get a message informing you that the change has been made. If you now run `show_generations()` you'll see that the change has been made and if you rerun `generations()`, you'll get updated results.
+You'll get a message informing you that the change has been made. If you now run `show_generations` you'll see that the change has been made and if you rerun `generations`, you'll get updated results.
 
 ```r
 show_generations()
@@ -245,7 +245,7 @@ generations(yobs)
 ## Levels: Lost G.I. Silent Gen X Millennial Zoomer
 ```
 
-Because many people may want to use the term *Zoomer* instead of *Gen Z*, a shortcut function, `use_zoomer`, which is just a wrapper around `rename_generation("Gen Z", "Zoomer")`, is included in the package. The other shortcut functions are `use_gen_y()`, `use_13th()`, `use_baby_boom()` as well as their reciprocals `use_gen_z()`, `use_millennial()`, `use_gen_x()` and `use_boomer()`. 
+Because many people may want to use the term *Zoomer* instead of *Gen Z*, a shortcut function, `use_zoomer`, which is just a wrapper around `rename_generation("Gen Z", "Zoomer")`, is included in the package. The other shortcut functions are `use_gen_y`, `use_13th`, `use_baby_boom` as well as their reciprocals `use_gen_z`, `use_millennial`, `use_gen_x` and `use_boomer`. 
 
 You may also want to change the years. For example, many people consider 1997 as the end of the Millennial Generation. You can make this change with `redefine_generation`. With this function, you must specify the new start and the new end year.
 
@@ -261,7 +261,7 @@ redefine_generation("Millennial", 1983, 1997)
 
 Since changing one generation impacts adjacent generations, you'll get a message showing you what the new ranges are for this, the previous, and the next generations.
 
-You can reset the data back to its original form with `reset_generations()`.
+You can reset the data back to its original form with `reset_generations`.
 
 ## Conclusion
 
