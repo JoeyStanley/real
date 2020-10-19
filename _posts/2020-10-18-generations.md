@@ -5,11 +5,11 @@ date: 2020-10-18 22:11:00 -0600
 tags: [Github, R, R Packages]
 ---
 
-I'm happy to announce the release of another R package, `generations`! I've apparently caught the creating-R-packages bug because this makes five for me. This one provides some functions to easily convert years to generational cohorts (Boomer, Gen X, Millennial, Gen Z, etc.).
+I'm happy to announce the release of another R package, `generations`! I've apparently caught the creating-R-packages bug because this is my fourth one this year ([`futurevisions`](/blog/futurevisions-my-first-r-package), [`barktools`](/blog/barktools), [`joeysvowels`](/blog/joeysvowels), and now `generations`). This one provides some functions to easily convert years to generational cohorts (Boomer, Gen X, Millennial, Gen Z, etc.).
 
-I recently read Howe & Strauss' book, *[Generations: The History of America's Future, 1584 to 2069](https://www.amazon.com/Generations-History-Americas-Future-1584/dp/0688119123)*. While the generational theory they propose isn't water-tight, it is intriguing, especially considering that book is 30 years old. Relatedly, I've seen lots of linguistics studies that model age in generational cohorts. (Ideally, we'd model age as a continuous variable, of course, but sometimes there's just not enough data to do so.) I used a categorical age variable in the models in my dissertation and in other recent studies and, while it's not perfect, it seems to work well enough.
+I recently read Howe & Strauss' book, *[Generations: The History of America's Future, 1584 to 2069](https://www.amazon.com/Generations-History-Americas-Future-1584/dp/0688119123)*. While the generational theory they propose isn't water-tight, it is intriguing. Relatedly, I've seen lots of linguistics studies that model age in generational cohorts. (Ideally, we'd model age as a continuous variable, of course, but sometimes there's just not enough data to do so.) I used a categorical age variable in the models in my dissertation and in other recent studies and, while it's not perfect, it seems to work well enough.
 
-Well, so now that I'm converting birth years into generational cohorts in lots of different projects, my code is starting to get a little repetitive. And in the R world, they say if you end up writing the same code a lot, might as well wrap it up into a package. This idea came to me about a week ago and this weekend I found some time to put this together.
+Well, so now that I'm converting age into generational cohorts in lots of different projects, my code is starting to get a little repetitive. And in the R world, they say if you end up writing the same code a lot, might as well wrap it up into a package. This idea came to me about a week ago and this weekend I found some time to put this together.
 
 The result is `generations`. And, I've made it so that it doesn't depend on any other packages, so it was fun for me to figure out how to do some things in base R that I only knew how to do in tidyverse, which was fun for me! The rest of this post is the readme page for the package. You can find more about the package at [joeystanley.github.io/generations](https://joeystanley.github.io/generations/). 
 
@@ -94,7 +94,7 @@ generations(yobs, years = TRUE)
 ## 6 Levels: Lost (1886–1907) G.I. (1908–1928) ... Gen Z (2008–2030)
 ```
 
-The primary purpose of this is for visualizations, since not everyone is familiar with (or agrees with) the year ranges.
+The primary purpose of this is for visualizations, since not everyone is familiar with (or agrees with) the year ranges. For example, if you've got a bunch of people and want to visualize the distribution of when they were born, you could have very informative legends.
 
 ```r
 many_yobs <- tibble(yob = floor(rnorm(1000, 1975, 15))) %>%
@@ -192,7 +192,7 @@ get_end("Millennial")
 ## [1] 2007
 ```
 
-You can also find the names of neighboring generations with `get_prev_gen()` and `get_next_gen()`. 
+You can also find the names of neighboring generations with `get_prev_gen()` and `get_next_gen()`, though these were mostly created for internal purposes only rather than for you to use.
 
 ```r
 get_next_gen("Millennial")
@@ -212,7 +212,7 @@ Note that if ask for something newer than Gen Z or older than Aurthurian it will
 
 The data that this package uses is loaded as a hidden object when you load the package. You may modify it with the functions described in this section. These changes will affect the dataset so long as the `generations` package is loaded. You'll have to reset the data each time to reload it. 
 
-The labels and years for each generation are mostly borrowed from Howe & Strauss' Generational Theory books. However, not everyone agrees on the names and year ranges for the various generations. For this reason, the generations package makes it easy to modify the generations data to your liking. 
+The labels and years for each generation are mostly borrowed from Howe & Strauss' Generational Theory books. However, not everyone agrees on the names and year ranges for the various generations. For this reason, the `generations` package makes it easy to modify the generations data to your liking. 
 
 To rename a generation, use `rename_generation()`, with the old name first and the new name second. For example, if you want to use *Zoomer* instead of *Gen Z*, you can do so.
 
