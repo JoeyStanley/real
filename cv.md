@@ -76,6 +76,10 @@ Margaret E. L. Renwick & **Joseph A. Stanley** (2020). "Modeling dynamic traject
 <a href="http://dx.doi.org/10.1086/684425" class="link" target="_blank" title="link to IJAL online"></a>
 <a href="/downloads/160101-IJAL82.pdf" class="paper" target="_blank" title="open a pdf of this paper in a new window"></a>
 
+### Book Chapters 
+
+**Joseph A. Stanley** (in press). "The Absence of a Religiolect among Latter-day Saints in Southwest WAshington." In Valerie Fridland, Alicia Wassink, Lauren Hall-Lew, & Tyler Kendall (eds.) *Speech in the Western States Volume III: Understudied Dialects.*
+
 ### Other Publications
 
 **Joseph A. Stanley** (2019). "(thr)-Flapping in American English: Social factors and articulatory motivations." *Proceedings of the 5th Annual Linguistics Conference at UGA*, 49–63.
@@ -336,7 +340,7 @@ Shawn Foster, **Joseph A. Stanley**, & Margaret E. L. Renwick. "Vowel Mergers in
 
 ### Invited Presentations
 
-(With Margaret E. L. Renwick.) "100 years of speech in Georgia." Workshop on Language, Technology, and Society series. Georgia Institute of Technology, Atlanta, GA. <s>March 26, 2020.</s> [Canceled due to COVID-19]
+(With Margaret E. L. Renwick.) "100 years of speech in Georgia." Workshop on Language, Technology, and Society series. Georgia Institute of Technology, Atlanta, GA. November 11, 2020.
 
 "Data Visualization and Basic Statistical Modeling in R." Invited workshop for an NSF-funded "Research Experience for Undergraduates" program, helping bioanthropology students analyze osteological data from skeletons at the 7–5th c. BCE Greek colony of Himera. June 21 and 25, 2018. <a href="/pages/bones_workshop" class="link" title="view the materials for this workshop here"></a> 
 
@@ -346,6 +350,8 @@ Shawn Foster, **Joseph A. Stanley**, & Margaret E. L. Renwick. "Vowel Mergers in
 <a href="/downloads/161006-DigiLab-slides.pptx" class="slides" title="download the powerpoint slides for this presentation"></a> 
 
 ### Guest Lectures
+
+"Praat." LING 240: Linguistics Tools. Brigham Young University, Provo, UT. October 16--23, 2020.
 
 "Modeling non-linear changes in time using generalized additive models." LING 4886/6886: Text and Corpus Analysis. University of Georgia, Athens, GA. November 12, 2019.
 
