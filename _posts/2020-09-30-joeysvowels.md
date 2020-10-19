@@ -2,7 +2,7 @@
 layout: post
 title: "joeysvowels: An R package of vowel data"
 date: 2020-09-30 02:28:00 -0600
-tags: [Github, Methods, Phonetics, R, Side Projects, Teaching, West]
+tags: [Github, Methods, Phonetics, R, R Packages, Side Projects, Teaching, West]
 ---
 
 I've just released my third R package, [`joeysvowels`](https://joeystanley.github.io/joeysvowels/). It provides a handful of datasets, some subsets of others, that contain formant measurements and other information about the vowels in my own speech. The purpose of the package is to make vowel data easily accessible for demonstrating code snippets when demonstrating how to work with sociophonetic data. There are no functions contained in `joeysvowels`; it's a data-only package.

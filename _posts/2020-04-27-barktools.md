@@ -2,7 +2,7 @@
 layout: post
 title:  "barktools: Functions to help when working with Barks"
 date:   2020-04-27 15:45:00 -0400
-tags: [Data Viz, Github, How-to Guides, Methods, Phonetics, R, Side Projects, Skills]
+tags: [Data Viz, Github, How-to Guides, Methods, Phonetics, R, R Packages, Side Projects, Skills]
 ---
 
 I'm happy to announce that I've just released another small R package called `barktools`.  Now that I've got [one R package out there already](/blog/futurevisions-my-first-r-package), I've sort of caught the bug and realized it's kinda fun to put these small packages out there. This one is just a lightweight little guy that I thought up a few days ago while falling asleep that'll help me when working with Barks. You can download the package from my [GitHub](https://joeystanley.github.io/barktools/).
