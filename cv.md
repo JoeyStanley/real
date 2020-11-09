@@ -340,7 +340,9 @@ Shawn Foster, **Joseph A. Stanley**, & Margaret E. L. Renwick. "Vowel Mergers in
 
 ### Invited Presentations
 
-(With Margaret E. L. Renwick.) "100 years of speech in Georgia." Workshop on Language, Technology, and Society series. Georgia Institute of Technology, Atlanta, GA. November 11, 2020.
+"Prepping for the future with a degree in linguistics." The Linguistics Club at the University of Georgia. Athens, GA (delivered remotely). November 12, 2020.
+
+Margaret E. L. Renwick & **Joseph A. Stanley**. "100 years of speech in Georgia." Workshop on Language, Technology, and Society series. Georgia Institute of Technology, Atlanta, GA (delivered remotely). November 11, 2020.
 
 "Data Visualization and Basic Statistical Modeling in R." Invited workshop for an NSF-funded "Research Experience for Undergraduates" program, helping bioanthropology students analyze osteological data from skeletons at the 7–5th c. BCE Greek colony of Himera. June 21 and 25, 2018. <a href="/pages/bones_workshop" class="link" title="view the materials for this workshop here"></a> 
 
@@ -351,7 +353,7 @@ Shawn Foster, **Joseph A. Stanley**, & Margaret E. L. Renwick. "Vowel Mergers in
 
 ### Guest Lectures
 
-"Praat." LING 240: Linguistics Tools. Brigham Young University, Provo, UT. October 16--23, 2020.
+4-day lecture series on Praat: Introduction to the Software, Analyzing Consonants, Analyzing Vowels, and Audio Manipulation & Visualization. LING 240: Linguistics Tools. Brigham Young University, Provo, UT. October 16--23, 2020.
 
 "Modeling non-linear changes in time using generalized additive models." LING 4886/6886: Text and Corpus Analysis. University of Georgia, Athens, GA. November 12, 2019.
 
@@ -361,6 +363,8 @@ Shawn Foster, **Joseph A. Stanley**, & Margaret E. L. Renwick. "Vowel Mergers in
 
 
 ### Miscellaneous Presentations
+
+Professor's Story night. Linguistics Student Society. Provo, UT. November 19, 2020.
 
 "Vowel Dynamics of the Low Vowels in Cowlitz County, Washington". University of Georgia Linguistics Colloquium. Athens, GA. January 10, 2020.
 <a href="/downloads/200110-colloquium.pdf" class="slides" title="download the powerpoint slides for this presentation"></a> 
