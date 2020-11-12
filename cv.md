@@ -305,7 +305,8 @@ Shawn Foster, **Joseph A. Stanley**, & Margaret E. L. Renwick. "Vowel Mergers in
 
 *Professionalization Workshops*
 <ul style = "margin-left: 2em">
-    <li>A workshop on preparing conference abstracts. Given by invitation by the Linguistics Club at the University of Georgia. Athens, GA. March 5, 2020.</li>
+    <li>A workshop on preparing conference abstracts. Given by invitation by the Linguistics Club at the University of Georgia. Athens, GA. March 5, 2020.
+        <a href="/downloads/200303-ling_club_talk.pdf" class="slides" target ="_blank" title="download the slides for this presentation"></a> </li>
     <li>Brand Yourself: Boosting Your Online Presence (for linguistics grad students). Workshop given by invitation by the University of Georgia Department of Linguistics. Athens, GA. March 3, 2020.
         <a href="/downloads/200303-brand-yourself_linguistics.pdf" class="slides" target ="_blank" title="download the handout for this presentation"></a> </li>
     <li>Brand Yourself: Boosting Your Online Presence. Workshop given at the University of Georgia as a part of the <a href="http://guides.libs.uga.edu/graduate_research_workshops">Graduate Research Workshop Series</a> sponsored by UGA Libraries. Athens, GA. September 20 and 26, 2019.
