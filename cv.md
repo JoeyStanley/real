@@ -78,7 +78,10 @@ Margaret E. L. Renwick & **Joseph A. Stanley** (2020). "Modeling dynamic traject
 
 ### Book Chapters 
 
-**Joseph A. Stanley** (in press). "The Absence of a Religiolect among Latter-day Saints in Southwest WAshington." In Valerie Fridland, Alicia Wassink, Lauren Hall-Lew, & Tyler Kendall (eds.) *Speech in the Western States Volume III: Understudied Dialects.*
+**Joseph A. Stanley** (2020). "The Absence of a Religiolect among Latter-day Saints in Southwest Washington." In Valerie Fridland, Alicia Wassink, Lauren Hall-Lew, & Tyler Kendall (eds.) *Speech in the Western States Volume III: Understudied Dialects.* (Publication of the American Dialect Society 105), 95--122. Durham, NC: Duke University Press. https://doi.org/10.1215/00031283-8820642. 
+<a href="https://doi.org/10.1215/00031283-8820642" class="link" target="_blank" title="link to PADS online"></a>
+<!-- Published online around December 4, 2020-->
+
 
 ### Other Publications
 
