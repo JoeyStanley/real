@@ -469,7 +469,9 @@ Quantitative Methods in Linguistics (LING 4400/6400). Teaching Assistant for Peg
 
 ### Advising
 
-Thesis Reader for Shawn C. Foster (UGA Center for Undergraduate Research Opportunities Assistantship, 2017) 
+Deven Hunsaker (MA, Linguistics), Areas of Research: Sociophonetics, dialectology, American English.
+
+Shawn C. Foster (UGA Center for Undergraduate Research Opportunities Assistantship). Thesis title: "Conditioned Front Vowel Mergers in the American South." (I served as a Graduate Thesis Reader.)
 
 
 <br/>
