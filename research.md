@@ -20,6 +20,9 @@ In grad school, I did some fieldwork in [Cowlitz County, Washington](https://www
 
 <h3>CV Highlights</h3>
 
+**Joseph A. Stanley** (2020). "The Absence of a Religiolect among Latter-day Saints in Southwest Washington." In Valerie Fridland, Alicia Wassink, Lauren Hall-Lew, & Tyler Kendall (eds.) *Speech in the Western States Volume III: Understudied Dialects.* (Publication of the American Dialect Society 105), 95--122. Durham, NC: Duke University Press. https://doi.org/10.1215/00031283-8820642. 
+<a href="https://doi.org/10.1215/00031283-8820642" class="link" target="_blank" title="link to PADS online"></a>
+
 **Joseph A. Stanley** (2020). "Vowel Dynamics of the Elsewhere Shift: A Sociophonetic Analysis of English in Cowlitz County, Washington." Ph.D Dissertation. University of Georgia, Athens, GA.
 <a href="http://joeystanley.com/downloads/200417-dissertation_submitted.pdf" class="paper" target="_blank"></a>
 
@@ -99,6 +102,9 @@ Traditional sociophonetic reseach analyzes vowels using a pair of measurements, 
 
 **Joseph A. Stanley**. "Beyond midpoints: Vowel dynamics of the Low-Back-Merger Shift." Cascadia Workshop in Sociolinguistics. Vancouver, British Columbia. April, 2021.
 
+**Joseph A. Stanley** (2020). "The Absence of a Religiolect among Latter-day Saints in Southwest Washington." In Valerie Fridland, Alicia Wassink, Lauren Hall-Lew, & Tyler Kendall (eds.) *Speech in the Western States Volume III: Understudied Dialects.* (Publication of the American Dialect Society 105), 95--122. Durham, NC: Duke University Press. https://doi.org/10.1215/00031283-8820642. 
+<a href="https://doi.org/10.1215/00031283-8820642" class="link" target="_blank" title="link to PADS online"></a>
+
 **Joseph A. Stanley** (2020). "Vowel Dynamics of the Elsewhere Shift: A Sociophonetic Analysis of English in Cowlitz County, Washington." Ph.D Dissertation. University of Georgia, Athens, GA.
 <a href="http://joeystanley.com/downloads/200417-dissertation_submitted.pdf" class="paper" target="_blank"></a>
 
@@ -156,6 +162,9 @@ I'm interested in phenomena on the margins of English phonology. There are some 
 Mormons, more properly referred to as members of the Church of Jesus Christ of Latter-day Saints, were once distinct enough to be considered an ethnic group. Today, their behavior, dress, and culture are much more mainstream, but their speech patterns might not always be. I'm curious about how Mormons talk, particularly in relation to non-Mormons and ex-Mormons. I'd also like to disentangle Mormonese from Utah English, because while they must overlap, I think they're different in subtle ways. My new position at Brigham Young University will certainly give me better access to this population and I hope to soon uncover some new findings on Mormonese.
 
 ### CV Highlights
+
+**Joseph A. Stanley** (2020). "The Absence of a Religiolect among Latter-day Saints in Southwest Washington." In Valerie Fridland, Alicia Wassink, Lauren Hall-Lew, & Tyler Kendall (eds.) *Speech in the Western States Volume III: Understudied Dialects.* (Publication of the American Dialect Society 105), 95--122. Durham, NC: Duke University Press. https://doi.org/10.1215/00031283-8820642. 
+<a href="https://doi.org/10.1215/00031283-8820642" class="link" target="_blank" title="link to PADS online"></a>
 
 **Joseph A. Stanley** (2019). "(thr)-Flapping in American English: Social factors and articulatory motivations." *Proceedings of the 5th Annual Linguistics Conference at UGA*, 49–63.
 <a href="https://linguistics.uga.edu/cp2018-Stanley" class="link" target="_blank" title="link to this paper online"></a>
