@@ -190,7 +190,7 @@ William A. Kretzschmar, **Joseph Stanley**, & Katherine Kuiper. “Automated Lar
 <a href="/downloads/150321-PLC39-abstract.pdf" class="abstract" target="_blank" title="open a pdf of the abstract to this presentation in a new window"></a>
 <a href="/downloads/150321-PLC39-slides.pptx" class="slides" title="download the powerpoint slides for this presentation"></a>
 
-[Janis Nuckolls](http://linguistics.byu.edu/directory/jbn34/), **Joseph Stanley**, Elizabeth Nielsen, and Roseanna Hopper. "The systematic stretching and adjusting of ideophonic phonology in Pastaza Quichua". Annual Meeting of the Society for the Study of Indigenous Languages of America ([SSILA 2013](http://www.ssila.org/members/join-or-renew/)). Boston, MA. January 3–6, 2013.
+[Janis Nuckolls](https://humanities.byu.edu/janis-nuckolls/), **Joseph Stanley**, Elizabeth Nielsen, and Roseanna Hopper. "The systematic stretching and adjusting of ideophonic phonology in Pastaza Quichua". Annual Meeting of the Society for the Study of Indigenous Languages of America ([SSILA 2013](http://www.ssila.org/members/join-or-renew/)). Boston, MA. January 3–6, 2013.
 <a href="/downloads/130103-SSILA-abstract.pdf" class="abstract" target="_blank" title="open a pdf of the abstract to this presentation in a new window"></a> 
 
 ### Poster Presentations
