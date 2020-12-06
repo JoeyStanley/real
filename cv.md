@@ -541,15 +541,23 @@ Programmer for the [Maxwell Institute for Religious Scholarship](http://mi.byu.e
 
 ### Manuscript reviewer
 
-*Language Variation and Change*
+*Language Variation and Change* (2020)
+
+[6th Linguistics Conference at UGA (LCUGA6)](http://www.linguistics.uga.edu/lcuga-6). Abstract reviewer (2019)
+
+[5th Linguistics Conference at UGA (LCUGA5)](http://www.linguistics.uga.edu/lcuga-5). Abstract reviewer (2018).
+
+[4th Linguistics Conference at UGA (LCUGA4)](http://www.linguistics.uga.edu/lcuga-4). Abstract reviewer (2017).
+
+
 
 ### Conference Committees
 
-[6th Linguistics Conference at UGA (LCUGA6)](http://www.linguistics.uga.edu/lcuga-6). Social media subcommittee, webmaster, abstract reviewer, organizer of the Undergraduate Poster Session, typesetter, and miscellaneous other duties. 2019.
+[6th Linguistics Conference at UGA (LCUGA6)](http://www.linguistics.uga.edu/lcuga-6). Social media subcommittee, webmaster,organizer of the Undergraduate Poster Session, typesetter, and miscellaneous other duties. 2019.
 
-[5th Linguistics Conference at UGA (LCUGA5)](http://www.linguistics.uga.edu/lcuga-5). Abstract reviewer, social media. 2018.
+[5th Linguistics Conference at UGA (LCUGA5)](http://www.linguistics.uga.edu/lcuga-5). Social media. 2018.
 
-[4th Linguistics Conference at UGA (LCUGA4)](http://www.linguistics.uga.edu/lcuga-4). Abstract reviewer, social media. 2017.
+[4th Linguistics Conference at UGA (LCUGA4)](http://www.linguistics.uga.edu/lcuga-4). Social media. 2017.
 
 
 
@@ -571,13 +579,13 @@ Portuguese-to-English simultaneous interpretor, Missionary Training Center, Prov
 
 ### Professional Affiliations
 
-Linguistic Society of America ([LSA](http://www.linguisticsociety.org))
+Linguistic Society of America ([LSA](http://www.linguisticsociety.org)), lifetime member
 
-American Dialect Society ([ADS](http://www.americandialect.org))
-
-SouthEastern Conference on Linguistics ([SECOL](http://secol.org)) 
+American Dialect Society ([ADS](http://www.americandialect.org)), lifetime memeber
 
 Linguistc Society at the University of Georgia ([LSUGA](http://www.lsuga.com))
+
+SouthEastern Conference on Linguistics ([SECOL](http://secol.org)) 
 
 Society for the Study of the Indigenous Languages of the Americas ([SSILA](http://www.ssila.org))
 
