@@ -34,7 +34,7 @@ I got lots of great suggestions from people on Twitter, so I thought I'd try out
 
 <img width = "85%" src="/images/plots/boustrophedon/super_tall.png">
 
-This way of visualizing data is not always bad: on March 27, 2020, the New York Times made [an epic plot](https://www.nytimes.com/issue/todayspaper/2020/03/27/todays-new-york-times) showing enemployment numbers for that week. But for my data, I don't know if it's quite right. Though, see [this relevant xkcd](https://xkcd.com/1162/) that [Rodolpho Piskorski](https://twitter.com/BleddwganMiaren/status/1339613093933047808?s=20) delightly reminded me of!
+This way of visualizing data is not always bad: on March 27, 2020, the New York Times made [an epic plot](https://www.nytimes.com/issue/todayspaper/2020/03/27/todays-new-york-times) showing unemployment numbers for that week. But for my data, I don't know if it's quite right. Though, see [this relevant xkcd](https://xkcd.com/1162/) that [Rodolpho Piskorski](https://twitter.com/BleddwganMiaren/status/1339613093933047808?s=20) delightfully reminded me of!
 
 ## Log-transformed
 
