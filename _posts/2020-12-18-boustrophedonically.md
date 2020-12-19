@@ -12,7 +12,7 @@ Earlier this week, I tweeted about a data visualization that I made. I said:
 
 I then showed a plot that looked somethig like this:
 
-<img width = "85%" src="/images/plots/boustrophedon/boustrophedon.pdf">
+<img width = "85%" src="/images/plots/boustrophedon/boustrophedon.png">
 
 The data, which comes from a paper I'm working on, is difficult to visualize because the vast majority of the responses is clustered around zero while the rest is spread out a bit. I continued:
 
@@ -32,7 +32,7 @@ I got lots of great suggestions from people on Twitter, so I thought I'd try out
 
 [Jack Grieve](https://twitter.com/JWGrieve/status/1339613750094155776?s=20) and [jordan t. thevenow-harrison](https://twitter.com/jtth/status/1339711677311426561?s=20) suggested I just plot all the data on a mega *y*-axis. Well, because the first bar is so stinking huge, I'd have to make the plot *suuuuuper* tall. 
 
-<img width = "85%" src="/images/plots/boustrophedon/super_tall.pdf">
+<img width = "85%" src="/images/plots/boustrophedon/super_tall.png">
 
 This way of visualizing data is not always bad: on March 27, 2020, the New York Times made [an epic plot](https://www.nytimes.com/issue/todayspaper/2020/03/27/todays-new-york-times) showing enemployment numbers for that week. But for my data, I don't know if it's quite right. Though, see [this relevant xkcd](https://xkcd.com/1162/) that [Rodolpho Piskorski](https://twitter.com/BleddwganMiaren/status/1339613093933047808?s=20) delightly reminded me of!
 
@@ -40,7 +40,7 @@ This way of visualizing data is not always bad: on March 27, 2020, the New York 
 
 When you've got wildly different heights like this, the first step is to do a transformation of some sort. [Christian DiCanio](https://twitter.com/ctdicanio/status/1339568623397040130?s=20) recommeded a log transformation like this:
 
-<img width = "85%" src="/images/plots/boustrophedon/log_transformed.pdf">
+<img width = "85%" src="/images/plots/boustrophedon/log_transformed.png">
 
 While it does show all the bars at once, I just can't fully appreciate the magnitude of the biggest one.
 
@@ -50,7 +50,7 @@ A common technique for something like this would be to split the *y*axis so that
 
 As Hadley Wickham mentions [here](https://groups.google.com/g/ggplot2/c/jSrL_FnS8kc/m/MvzM_2_jiSIJ), there's no native way in ggplot2 to do a discontinuous *y*-axis, so I had to sort of fudge it with [`patchwork`](https://patchwork.data-imaginist.com/index.html). Here's what that plot might look like:
 
-<img width = "85%" src="/images/plots/boustrophedon/chopped_y.pdf">
+<img width = "85%" src="/images/plots/boustrophedon/chopped_y.png">
 
 This method is generally frowned upon though since the amount of real estate devoted to the big plot is disproportionate to the amount of data it actually represents so it hides the magnitude of that big bar.
 
@@ -58,7 +58,7 @@ This method is generally frowned upon though since the amount of real estate dev
 
 One workaround is to zoom in to the smaller bars, and just give an indicator of how tall the big one is. I just text with an arrow pointing up.
 
-<img width = "85%" src="/images/plots/boustrophedon/pointing_label.pdf">
+<img width = "85%" src="/images/plots/boustrophedon/pointing_label.png">
 
 This was one that I've been considering for a while now, but again, the problem is the real estate issue and it's difficult to fully appreciate the actual height of that plot.
 
@@ -66,7 +66,7 @@ This was one that I've been considering for a while now, but again, the problem 
 
 [TJ Mahr's](https://twitter.com/tjmahr/status/1339571715467337728?s=20) funny recommendation was to, instead of retaining the bar's original length, make it wider. 
 
-<img width = "85%" src="/images/plots/boustrophedon/chunky.pdf">
+<img width = "85%" src="/images/plots/boustrophedon/chunky.png">
 
 Like the boustrophedon, it breaks the *xy*-coordinate system a histogram relies on, but the main strike against it is that humans aren't good at judging areas as well as we think we are, so it only sort of does a good job at showing the size.
 
@@ -75,7 +75,7 @@ Like the boustrophedon, it breaks the *xy*-coordinate system a histogram relies 
 
 Honestly, I think the best workaround would be to take [Joseph Casillas](https://twitter.com/jvcasill/status/1339560493741174788?s=20), [Márton Sóskuthy](https://twitter.com/msoskuthy/status/1340083524670394369?s=20), [Timo Roetger's](https://twitter.com/TimoRoettger/status/1339593352451244041?s=20), and [May Helena Plumb's](https://twitter.com/mayhplumb/status/1339606411920195587?s=20) recommendations and split the plot into two, one showing the big bar relative to the rest and the other showing the detail of the smaller ones. One way to do this is with a plot within a plot, which I did with the `patchwork` package again. 
 
-<img width = "85%" src="/images/plots/boustrophedon/plot_within_plot.pdf">
+<img width = "85%" src="/images/plots/boustrophedon/plot_within_plot.png">
 
 Again, probably the best recommendation if I can get that smaller plot to look decent.
 
@@ -83,7 +83,7 @@ Again, probably the best recommendation if I can get that smaller plot to look d
 
 An alternative to doing the plot-within-a-plot is to make it clearer that there's a zoom happening, so the relevant portion of the full-size plot is highlighted and linked to the zoomed in one. This is accomplished with [`ggforce::facet_zoom`](https://ggforce.data-imaginist.com/reference/facet_zoom.html), as recommended by [Justin Lo](https://twitter.com/justinjhlo/status/1339473347537743873?s=20) and [Sandra Jansen](https://twitter.com/sj2915/status/1339473888485498880?s=20):
 
-<img width = "85%" src="/images/plots/boustrophedon/facet_zoom.pdf">
+<img width = "85%" src="/images/plots/boustrophedon/facet_zoom.png">
 
 In this case, I'm not a huge fan of the greyed portion in the upper plot, because it sort of gets in the ways of the bars in the *y*-axis.
 
