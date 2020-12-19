@@ -33,15 +33,14 @@ A hefty ~3.5lb. loaf of white bread I made for Thanksgiving 2018.
 
 ## What am I up to right now? 
 
-As of December 6, 2020, I am…
+As of December 19, 2020, I am…
 
 <!--Research-->
 * revising a manuscript on prevelar raising across North America and hoping I can get it resubmitted before another paper's comments get returned
 * putting together a small grant proposal to get some data transcribed
 <!--Teaching-->
-* finishing up my first semester of teaching
+* grading final papers from my two courses
 * planning my two sections of sociolinguistics for next semester
 <!--Reading-->
-* reading Trudgill's *The social differentiation of English in Norwich*
 * excitedly reading the other chapters in the [new PADS volume](https://read.dukeupress.edu/pads/issue/105/1)
 <!--personal-->
