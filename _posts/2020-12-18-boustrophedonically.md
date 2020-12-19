@@ -3,10 +3,10 @@ layout: post
 title: "\"Boustophedonically\""
 date: 2020-12-18 22:51:00 -0600
 tags: [Data Viz]
-excerpt: Earlier this week, I posted tweeted about a data visualization that I made. The data, which comes from a paper I'm working on, is difficult to visualize because the vast majority of the responses is clustered around zero while the rest is spread out a bit. I got lots and lots of comments from people and people's thoughts were all over the board. Some said it's great; others said they didn't like it. And there were a handful that had very strongly mixed feelings of loving it and hating it. It's a new kind of plot, so interpretation isn't super straightforward, but it's funny, silly, surprising, intersting, and memorable, which is why I think it's a good one.
+excerpt: Earlier this week, I tweeted about a data visualization that I made. The data, which comes from a paper I'm working on, is difficult to visualize because the vast majority of the responses is clustered around zero while the rest is spread out a bit. I got lots and lots of comments from people and people's thoughts were all over the board. Some said it's great; others said they didn't like it. And there were a handful that had very strongly mixed feelings of loving it and hating it. It's a new kind of plot, so interpretation isn't super straightforward, but it's funny, silly, surprising, intersting, and memorable, which is why I think it's a good one.
 ---
 
-Earlier this week, I posted tweeted about a data visualization that I made. I said: 
+Earlier this week, I tweeted about a data visualization that I made. I said: 
 
 > Okay, I'm trying something out. I have this histogram with one very tall bar and many shorter ones. So to save space, I made that tall bar follow the edge of the plotting area boustrophedonically---my favorite word!---but I'm not sure if I like it. Thoughts?
 
