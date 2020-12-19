@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "\"Boustophedonically\""
+title: "\"Boustrophedonically\""
 date: 2020-12-18 22:51:00 -0600
 tags: [Data Viz]
 excerpt: Earlier this week, I tweeted about a data visualization that I made. The data, which comes from a paper I'm working on, is difficult to visualize because the vast majority of the responses is clustered around zero while the rest is spread out a bit. I got lots and lots of comments from people and people's thoughts were all over the board. Some said it's great; others said they didn't like it. And there were a handful that had very strongly mixed feelings of loving it and hating it. It's a new kind of plot, so interpretation isn't super straightforward, but it's funny, silly, surprising, intersting, and memorable, which is why I think it's a good one.
@@ -10,7 +10,7 @@ Earlier this week, I tweeted about a data visualization that I made. I said:
 
 > Okay, I'm trying something out. I have this histogram with one very tall bar and many shorter ones. So to save space, I made that tall bar follow the edge of the plotting area boustrophedonically---my favorite word!---but I'm not sure if I like it. Thoughts?
 
-I then showed a plot that looked somethig like this:
+I then showed a plot that looked something like this:
 
 <img width = "85%" src="/images/plots/boustrophedon/boustrophedon.png">
 
@@ -18,13 +18,13 @@ The data, which comes from a paper I'm working on, is difficult to visualize bec
 
 > I'm trying to show that the one bar is huge compared to the others, but at the same time I want to show the detail in the smaller bars. Data transformations haven't seemed to work. No matter what I try I can't seem to find an effective visualization.
 
-I got lots and lots of comments from people and people's thoughts were all over the board. Some said it's great; others said they didn't like it. And there were a handful that had very strongly mixed feelings of loving it and hating it. It's a new kind of plot, so interpretation isn't super straightforward, but it's funny, silly, surprising, intersting, and memorable, which is why *I* think it's a good one.
+I got lots and lots of comments from people and people's thoughts were all over the board. Some said it's great; others said they didn't like it. And there were a handful that had very strongly mixed feelings of loving it and hating it. It's a new kind of plot, so interpretation isn't super straightforward, but it's funny, silly, surprising, interesting, and memorable, which is why *I* think it's a good one.
 
 ## Boustrophewhat??
 
 The way the tallest plot sort of goes back along the top can be perfectly described in one fantastic word: *boustrophedonically*. It's my favorite word ever. The word has its roots in describing how an ox plows a field and can also describe how Ancient Greek was written. Nowadays, older Millennials just think of playing Snake on a brick phone. You might think it's so obscure, so long, and so specific that no one could ever find a use for it, but I did manage to find a way to use it *twice* in a previous blog [post about Chutes and Ladders](/blog/simulating_chutes_and_ladders). 
 
-I first saw plots like these when reading one of Edward Tufte's books. I don't have them on me, but I belive it was in [*The Visual Display of Quantitative Information*](https://www.edwardtufte.com/tufte/books_vdqi). [Guthrie McAfee Armstrong](https://twitter.com/gmarmstrong/status/1339706465926455296?s=20) points out that that W. E. B. Du Bois used this technique in his visualizations from well over 100 years ago. I belive Tufte showed some of these plots. You can see some of those original visuals in [this Medium article](https://t.co/A2pjBlippi?amp=1) that [Matthew Kay](https://twitter.com/mjskay/status/1339574623512440833?s=20) pointed me to.
+I first saw plots like these when reading one of Edward Tufte's books. I don't have them on me, but I believe it was in [*The Visual Display of Quantitative Information*](https://www.edwardtufte.com/tufte/books_vdqi). [Guthrie McAfee Armstrong](https://twitter.com/gmarmstrong/status/1339706465926455296?s=20) points out that that W. E. B. Du Bois used this technique in his visualizations from well over 100 years ago. I believe Tufte showed some of these plots. You can see some of those original visuals in [this Medium article](https://t.co/A2pjBlippi?amp=1) that [Matthew Kay](https://twitter.com/mjskay/status/1339574623512440833?s=20) pointed me to.
 
 I got lots of great suggestions from people on Twitter, so I thought I'd try out their suggestions so you can judge for yourself which one is the best. I'll try to credit everyone who made the suggestions: this was truly a group effort here!
 
@@ -38,7 +38,7 @@ This way of visualizing data is not always bad: on March 27, 2020, the New York 
 
 ## Log-transformed
 
-When you've got wildly different heights like this, the first step is to do a transformation of some sort. [Christian DiCanio](https://twitter.com/ctdicanio/status/1339568623397040130?s=20) recommeded a log transformation like this:
+When you've got wildly different heights like this, the first step is to do a transformation of some sort. [Christian DiCanio](https://twitter.com/ctdicanio/status/1339568623397040130?s=20) recommended a log transformation like this:
 
 <img width = "85%" src="/images/plots/boustrophedon/log_transformed.png">
 
@@ -46,7 +46,7 @@ While it does show all the bars at once, I just can't fully appreciate the magni
 
 ## Split the *y*-axis
 
-A common technique for something like this would be to split the *y*axis so that there's a discontinuity and several people recommeded this route. 
+A common technique for something like this would be to split the *y*axis so that there's a discontinuity and several people recommended this route. 
 
 As Hadley Wickham mentions [here](https://groups.google.com/g/ggplot2/c/jSrL_FnS8kc/m/MvzM_2_jiSIJ), there's no native way in ggplot2 to do a discontinuous *y*-axis, so I had to sort of fudge it with [`patchwork`](https://patchwork.data-imaginist.com/index.html). Here's what that plot might look like:
 
@@ -89,7 +89,7 @@ In this case, I'm not a huge fan of the greyed portion in the upper plot, becaus
 
 ## Conclusion
 
-So, there are lots of ways to do this. Honestly, I freaking love the boustrophedon one and I'm seriously consdiering including it in the paper. I ran a poll and the slight majority agreed with me:
+So, there are lots of ways to do this. Honestly, I freaking love the boustrophedon one and I'm seriously considering including it in the paper. I ran a poll and the slight majority agreed with me:
 
 <blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">Overall impressions?</p>&mdash; Joey Stanley (@joey_stan) <a href="https://twitter.com/joey_stan/status/1339599682922680324?ref_src=twsrc%5Etfw">December 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
