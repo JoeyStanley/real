@@ -9,7 +9,7 @@ A few weeks ago I did some fieldwork in Utah and used a wordlist as part of my d
 
 # Background
 
-A lot of my research has to do with mergers involving infrequent lexical classses, such as /ʊl/ in words like *pull* or *bull* or /eɡ/ in words like *vague* and *flagrant*. These words do come up in conversation, but usually not enough for a robust, person-level statistical analysis. For this reason, I often supplement my interviews with relatively extensive word lists (150+ words), so that they contain enough tokens from each lexical class for a meaningful analysis. 
+A lot of my research has to do with mergers involving infrequent lexical classes, such as /ʊl/ in words like *pull* or *bull* or /eɡ/ in words like *vague* and *flagrant*. These words do come up in conversation, but usually not enough for a robust, person-level statistical analysis. For this reason, I often supplement my interviews with relatively extensive word lists (150+ words), so that they contain enough tokens from each lexical class for a meaningful analysis. 
 
 Because I often target lots of mergers/shifts in any one project, I usually have words from at least a dozen or so lexical classes all interspersed in the wordlist. To put them in some order that distracts speakers from the underlying questions, what I've done in the past is use Excel's `rand()` function to put the words in a random order. Then I'd go through the list myself to find anything I didn't like, like pairs of words from the same lexical class. But inevitably, when I transcribe them and listen to the list over and over, there's always some sequence of words I wish I could have changed.
 

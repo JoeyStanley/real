@@ -142,7 +142,7 @@ ggplot(vowels_long, aes(percent, hz, color = formant, group = traj_id)) +
 
 <img width = "85%" src="/images/plots/barktools/spec_hz.png">
 
-Now, a lot of the change in /ai/ happens along the F1 dimension, but because of the logorithmic nature of sound, F2 visually takes up most of the vertical space and F1 is sort of squished down at the bottom. We can emphasize F1 by transforming the *y*-axis into the Bark scale. 
+Now, a lot of the change in /ai/ happens along the F1 dimension, but because of the logarithmic nature of sound, F2 visually takes up most of the vertical space and F1 is sort of squished down at the bottom. We can emphasize F1 by transforming the *y*-axis into the Bark scale. 
 
 ``` r
 ggplot(vowels_long, aes(percent, hz, color = formant, group = traj_id)) + 

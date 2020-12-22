@@ -20,9 +20,9 @@ Note: If you attended these workshops, please consider giving me some feedback w
 
 ## *Intro to R ([Part 1](/downloads/180119-intro-to-r-part1) and [Part 2](/downloads/180126-intro-to-r-part2))*
 
-In this first workshop I cover the basics of R itself. I talk about the differences between R and RStudio and I help folks get both installed and running on their computers. We creat a simple "Hello, World!" script using R. Part 2 covers the basics of the R language. It is also be a very simple introduction to some core computer coding concepts like declaring variables and variable types.
+In this first workshop I cover the basics of R itself. I talk about the differences between R and RStudio and I help folks get both installed and running on their computers. We create a simple "Hello, World!" script using R. Part 2 covers the basics of the R language. It is also be a very simple introduction to some core computer coding concepts like declaring variables and variable types.
 
-*Additional Materials:* You may also be interested in [a PDF of the slides I used in Part 1](/downloads/180119-intro-to-r-part1.pdf) or [a PDF verson of Part 2's handout](/downloads/180126-intro-to-r-part2.pdf). An older version that combines elements of both parts can be found here as a [PDF](/downloads/170912-intro-to-r-handout.pdf) or [RMarkdown](/downloads/170913-intro_to_R) file.
+*Additional Materials:* You may also be interested in [a PDF of the slides I used in Part 1](/downloads/180119-intro-to-r-part1.pdf) or [a PDF version of Part 2's handout](/downloads/180126-intro-to-r-part2.pdf). An older version that combines elements of both parts can be found here as a [PDF](/downloads/170912-intro-to-r-handout.pdf) or [RMarkdown](/downloads/170913-intro_to_R) file.
 
 <br/>
 
@@ -48,7 +48,7 @@ Based on a popular [blog post](/blog/2016-12-16-custom-themes-in-ggplot2) I wrot
 
 ### [Supplement: A detailed look at `ggplot2::theme`](/downloads/190904-ggplot2_theme)
 
-As I was preparing for the custom themes workshop, I got a little carried away illustrating all the componenets of the `theme` function. I decided to simplify that portion of the workshop and create this separate handout that just focuses on `theme`. It is not yet finished, but it may be of some help to people (including myself!).
+As I was preparing for the custom themes workshop, I got a little carried away illustrating all the components of the `theme` function. I decided to simplify that portion of the workshop and create this separate handout that just focuses on `theme`. It is not yet finished, but it may be of some help to people (including myself!).
 
 
 *Additional Materials:* You may also be interested in the 2018 versions of some of these workshops that I gave (Part 1 [Rmarkdown](/downloads/180216-ggplot2-part1) and [PDF](/downloads/180216-ggplot2-part1.pdf) and Part 2 [RMarkdown](/downloads/180223-ggplot2-part2) and [PDF](/downloads/180223-ggplot2-part2.pdf)). An older version from 2017 that combines elements of Parts 1 and 2 can be found here as a [PDF](/downloads/171012-ggplot2_handout.pdf) or [RMarkdown](/downloads/171012-ggplot2) file.
@@ -75,7 +75,7 @@ R Markdown is a way to create different types of documents using R (pdfs, word f
 
 Shiny is an R package that allows you to make your own interactive web pages. An entire semester could be devoted to Shiny and there's a bit of a learning curve, especially if you haven't used HTML before. This two-day workshop covers just the essentials.
 
-Note that the materials for this workshop include interactive shiny elements, which means I can't host them on my own website. So instead, they're hosted on Shiny's free server space. But this comes with a major drawback: they're only avilable for 25 user-hours a month. So, if the link above does not work for you, try again in a week or so. Sorry for the inconvenince.
+Note that the materials for this workshop include interactive shiny elements, which means I can't host them on my own website. So instead, they're hosted on Shiny's free server space. But this comes with a major drawback: they're only available for 25 user-hours a month. So, if the link above does not work for you, try again in a week or so. Sorry for the inconvenience.
 
 <!--
 *Special topics: Regression and mixed-effects modeling* (April 6): In more and more fields, quantitative analysis is the norm. I can't begin to cover everything about fitting statistical models to your data, but I'll cover some introductory concepts to hopefully guide you in the right direction for further study.

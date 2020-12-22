@@ -136,7 +136,7 @@ Okay, much better. Now we can see that the bright blue IY vowel is in the top le
 
 If you want to change the order of the colors and the order in the legend, there are two ways to do that. The first is by leaving your underlying data alone and making superficial changes only within `ggplot` itself. This is a useful thing to know how to do, but I won't cover that here. If you're interested, I'd highly recommend [this page](http://www.cookbook-r.com/Graphs/Legends_(ggplot2)/) on that, or you can peruse one of the [ggplot2 workshops](pages/r-workshops) I did. 
 
-At least for the order of the vowels, what I think is the most useful option is to actually modify your dataset and then plot the modified version. The way to do this to overwrite the `vowel` column in our `my_vowels` dataset, and, using  the `factor` function,  manually specifying the order you want them to be in. The actual data itself doens't change, but what we're doing is modifying how R treats this column under the hood. This is the order that I typically do, but you're of course free to do whatever you want.
+At least for the order of the vowels, what I think is the most useful option is to actually modify your dataset and then plot the modified version. The way to do this to overwrite the `vowel` column in our `my_vowels` dataset, and, using  the `factor` function,  manually specifying the order you want them to be in. The actual data itself doesn't change, but what we're doing is modifying how R treats this column under the hood. This is the order that I typically do, but you're of course free to do whatever you want.
 
 ```r
 my_vowels$vowel <- factor(my_vowels$vowel, 
@@ -242,7 +242,7 @@ ggplot(means, aes(x = mean_F2, y = mean_F1, label = vowel)) +
 ```
 ![](/images/plots/vowel_plots_1/plot12.png)
 
-Ooh! Okay, so now we're geting somewhere. Here it becomes obvious that we need to reverse the *x*- and *y*-axes. Let's do that too.
+Ooh! Okay, so now we're getting somewhere. Here it becomes obvious that we need to reverse the *x*- and *y*-axes. Let's do that too.
 
 ```r
 ggplot(means, aes(x = mean_F2, y = mean_F1, label = vowel)) + 

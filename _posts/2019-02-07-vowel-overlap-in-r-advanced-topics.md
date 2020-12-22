@@ -5,7 +5,7 @@ date:   2019-02-07 15:01:00 -0400
 tags: [How-to Guides, Methods, Phonetics, R, Skills, Data Viz]
 ---
 
-This is a continuation of my [previous tutorial](a-tutorial-in-calculating-vowel-overlap) on how to calculate Pillai scores and Bhattacharyya's Affinity in R for the purposes of measuring vowel overlap. It occured to me as I was putting the previous one together though that I had a *lot* of things to say and the tutorial got really long and complicated. So I moved all the more advanced topics to this one to keep the main one a little lighter and more approachable. 
+This is a continuation of my [previous tutorial](a-tutorial-in-calculating-vowel-overlap) on how to calculate Pillai scores and Bhattacharyya's Affinity in R for the purposes of measuring vowel overlap. It occurred to me as I was putting the previous one together though that I had a *lot* of things to say and the tutorial got really long and complicated. So I moved all the more advanced topics to this one to keep the main one a little lighter and more approachable. 
 
 In this post, I'll cover some topics like what to do if you have multiple vowel pairs you want to measure in each speaker, errors you may encounter with the `select` function when you're calculating Bhattacharyya's Affinity, ways at making the functions less error-prone, and some visualizations you can do with your data after you've collected it.
 
@@ -28,7 +28,7 @@ low_back <- my_vowels %>%
            word != "ON")
 ~~~~~~
 
-So where I left off at the last tutorial was a function that can calulate the Pillai score and another for the Bhattacharyya's Affinity, each with the help of `summarize`:
+So where I left off at the last tutorial was a function that can calculate the Pillai score and another for the Bhattacharyya's Affinity, each with the help of `summarize`:
 
 ~~~~~r
 pillai <- function(...) {
@@ -53,7 +53,7 @@ Okay cool. Let's see what else can be done with this.
 
 What I've shown so far is how to calculate the Pillai score for multiple speakers for a *single* pair of vowels. The next question is what how to get the Pillai score for multiple speakers for *multiple* pairs of vowels. 
 
-Unfortunately, I don't really know of a quick way to do that. The problem is a single vowel might be used in multiple pairs (like measuring <sc>trap</sc>-<sc>lot</sc> overlap or <sc>trap</sc>-<sc>fleece</sc> overlap). Plus, you might be only interested in certain vowels in certain phonetic environments, like prefore nasals or before tautosyllabic /l/, so defining all that on the fly would be tricky. So there's no good way that I know of to loop through or group everything in a straightforward manner like we could with speaker.
+Unfortunately, I don't really know of a quick way to do that. The problem is a single vowel might be used in multiple pairs (like measuring <sc>trap</sc>-<sc>lot</sc> overlap or <sc>trap</sc>-<sc>fleece</sc> overlap). Plus, you might be only interested in certain vowels in certain phonetic environments, like before nasals or before tautosyllabic /l/, so defining all that on the fly would be tricky. So there's no good way that I know of to loop through or group everything in a straightforward manner like we could with speaker.
 
 The easiest solution I can think of is to define separate datasets like we've done with `low_back` and run the same code on them. That way, you have all the flexibility of defining specific allophones for each question. And, you probably won't be getting the Pillai score on *too* many pairs of vowels, right? 
 
@@ -123,7 +123,7 @@ fail_fell %>%
 
 So this is pretty cool. Here you can see that my *fail-fell* vowel classes are quite distinct with a Pillai score of 0.76. Meanwhile, my *pin-pen* vowels are a bit more overlapped with a Pillai score of 0.28, but not as much as the low back vowels. 
 
-So we've run the same thing three times on three different datasets. But can we do this even more eleganly? Sure! 
+So we've run the same thing three times on three different datasets. But can we do this even more elegantly? Sure! 
 
 Okay, so first, I'll combine all three datasets (`low_back`, `pin_pen` and `fail_fell`) into one combined dataframe using `bind_rows`. But in order to "keep track" of which dataframe a particular row came from, I'll create a new column called `vowel_pair` using the `.id = "vowel_pair"` argument. To get this to work then, I'll "name" each of the dataframes as I combine it. So for example, the `low_back` dataframe is called `"low back"` and I show that by putting the new name between ticks (that little thing next to the number 1 key on my keyboard that looks like this: `). If you combine the dataframes in this way, you'll have a new column saying which one it came from.
 
@@ -242,7 +242,7 @@ For the remainder of this tutorial, I'm going to implement this second option. A
 
 In this section, I'll go into some more detail about how to make your functions less likely to crash. Some of the topics here get tedious and cover use some more advanced R skills. If you've been finding that your code breaks when you apply it to a bunch of speakers, this might help with these issues.
 
-I'll start with the `bhatt` function because it's a little more straightforward. Then we'll get into some slighly more confusing stuff with `pillai`.
+I'll start with the `bhatt` function because it's a little more straightforward. Then we'll get into some slightly more confusing stuff with `pillai`.
 
 ### Making `bhatt` more robust
 

@@ -15,7 +15,7 @@ Note: All workshops will be held at 3:35pm at the DigiLab (300 Main Library)
 
 ## [*Intro to LaTeX*](https://github.com/JoeyStanley/LaTeX_workshops)
 
-*January 31, 2020*---In this workshop, I introduce some essential LaTeX skills, including basic typesetting, special charcters, text formatting, document structure, internal references, lists, alignment, and white space. I also get into more typographical topics like font choice, line spacing, hyphenation and justification, and a few other things. This workshop was my most well-attended so far, with 30 registered attendees and another 55 or so on the waitlist. It was a full house!
+*January 31, 2020*---In this workshop, I introduce some essential LaTeX skills, including basic typesetting, special characters, text formatting, document structure, internal references, lists, alignment, and white space. I also get into more typographical topics like font choice, line spacing, hyphenation and justification, and a few other things. This workshop was my most well-attended so far, with 30 registered attendees and another 55 or so on the waitlist. It was a full house!
 
 <br/>
 

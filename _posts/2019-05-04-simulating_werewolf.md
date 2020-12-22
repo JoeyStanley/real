@@ -13,15 +13,15 @@ Werewolf is a party game, ideally played with about 10--15 people sitting in a c
 
 The game proceeds in alternating phases. First, in the "nighttime" phase, all players start by closing their eyes. The narrator then "wakes" the werewolves and they collectively, but silently, indicate to the narrator who they "attack" that night. If you have additional roles in use, they, one at a time, wake up and do other actions like pick someone to save from a werewolf attack or some other action. 
 
-When all the nighttime events have finished, the game moves on to the "daytime" phase. Everyone can open their eyes and the narrator informs everyone the results of last night's events. In a simple game, it just means everyone finds out who the werewolves attacked. That player "dies", reveals their role to everyone, and are eliminated from the game. Eveyone then holds a "town hall" meeting and vote on who they should eliminate, under the guise of "hey everyone, there are werewolves among us, let's kill the person we think is most susicious." The werewolves of course participate in this town hall event while hiding their identies. When a person is voted out, they also "die", reveal their role, and are eliminated.
+When all the nighttime events have finished, the game moves on to the "daytime" phase. Everyone can open their eyes and the narrator informs everyone the results of last night's events. In a simple game, it just means everyone finds out who the werewolves attacked. That player "dies", reveals their role to everyone, and are eliminated from the game. Everyone then holds a "town hall" meeting and vote on who they should eliminate, under the guise of "hey everyone, there are werewolves among us, let's kill the person we think is most suspicious." The werewolves of course participate in this town hall event while hiding their identities. When a person is voted out, they also "die", reveal their role, and are eliminated.
 
 This nighttime-daytime cycle repeats until one of the game over conditions are met. The werewolves win if they equal or outnumber the non-werewolves. Everyone else wins if the werewolves are eliminated. It's a fun game.
 
 ## Simulating Werewolf
 
-I've tried half a dozen times to write a computer program to do Werewolf. When you've got 15 players, each with thier own unique roles and abilities, working out the logic of interacting events can get tricky. I've always wanted to write an iPhone app or something that would be the perfect tool for the narrator<span class="sidenote">I most often was the narrator when I played, so I think about helping that person the most.</span> to help figure out what all happened. As it turns out, for being such a simple game conceptually, I've found it quite difficult to program (with my limited programming abilities).
+I've tried half a dozen times to write a computer program to do Werewolf. When you've got 15 players, each with their own unique roles and abilities, working out the logic of interacting events can get tricky. I've always wanted to write an iPhone app or something that would be the perfect tool for the narrator<span class="sidenote">I most often was the narrator when I played, so I think about helping that person the most.</span> to help figure out what all happened. As it turns out, for being such a simple game conceptually, I've found it quite difficult to program (with my limited programming abilities).
 
-I had a lot of fun simulating [Chutes and Ladders](/blog/simulating_chutes_and_ladders), so I thought I'd try simulating Werewolf. In all the previosu versions, I've tried the narrator's tool approach to programming it, but it ended up being simpler to program a simulation rather than a tool for a live game. The benefit of this completely automated game is that I can wrap it up into a loop and run it many times. 
+I had a lot of fun simulating [Chutes and Ladders](/blog/simulating_chutes_and_ladders), so I thought I'd try simulating Werewolf. In all the previous versions, I've tried the narrator's tool approach to programming it, but it ended up being simpler to program a simulation rather than a tool for a live game. The benefit of this completely automated game is that I can wrap it up into a loop and run it many times. 
 
 I won't describe the code in this post because it's a little complicated. Perhaps overly complicated for the simple version of the game that I have now, but I'm anticipating more types of roles in future versions, so I'm leaving room to add those in later. But you're welcome to look at the code yourself on my [Github](https://github.com/JoeyStanley/werewolf).<span class="sidenote">I'm trying to increase my Github presence, so there it us.</span>
 
@@ -39,7 +39,7 @@ So, here are the results of those simulations! This first plot shows the results
 
 There are lots of interesting things to notice here. First, for groups less than about 27 people---which is pretty much any in-person game you'd ever play---just a small number of werewolves are needed. Surprisingly, in a group of 10 people, if you have just one werewolf, that player's got a 50-50 shot at winning. Pretty impressive. That ratio of approximately 1 in 10 continues until about 27 people. At that point---for some reason unknown to me---it changes drastically and you need about 1 in 3 players to be werewolves for it to be an even game.
 
-So, let's say you've got a group of four peple (other than the narrator) that wants to play. If just one person is a werewolf, it's a fair game. But, if *twenty-two* of your closest friends come to join, just *two* of them should be werewolves to keep the odds the same. But then, if another twelve people join, you'd need to make *eight* of them werewolves to keep the odds the same. What the heck??
+So, let's say you've got a group of four people (other than the narrator) that wants to play. If just one person is a werewolf, it's a fair game. But, if *twenty-two* of your closest friends come to join, just *two* of them should be werewolves to keep the odds the same. But then, if another twelve people join, you'd need to make *eight* of them werewolves to keep the odds the same. What the heck??
 
 ## Add the Angel
 
@@ -57,13 +57,13 @@ But the effect is quite small. I thought the Angel would be a little more helpfu
 
 The last role I've programmed so far is the Witch. The first of the Witch's two powers is a saving spell. After the werewolves have made their attack, and if the Angel hasn't already saved them, the Witch is told who is about to die. If they want, the Witch may save that person---but they can only do so once per game. Additionally, they also have a kill that they can use once per game, but I haven't programmed that in yet. The Witch is on the townspeople's side, so they should aim to use their kill on a werewolf. 
 
-So, in a real game, the Witch uses their save wisely. They usually don't use it the first round and will most likely use it whem they have a good reason to save that person. I can't program all the gut feelings and stuff that go into the game, so I simply made it so that the Witch uses their power 33% of the times they have the opportunity to. So, it doesn't always get used each game. 
+So, in a real game, the Witch uses their save wisely. They usually don't use it the first round and will most likely use it when they have a good reason to save that person. I can't program all the gut feelings and stuff that go into the game, so I simply made it so that the Witch uses their power 33% of the times they have the opportunity to. So, it doesn't always get used each game. 
 
 Anyway, here are the results of a game that includes some number of werewolves, one Angel, one Witch, and the rest as townspeople:
 
 <img src="/images/plots/werewolf/witch.jpeg" style="width: 100%;"/> 
 
-So, *very* close to the same as the previous plot. The Witch's save really doesn't change the odds all that much. There are ways that I could program it better: like they would automatically use it if they know they're going to be killed, or the odds of using it increase the futher along in the game they are. Maybe if I add this in, their effect will be stronger. 
+So, *very* close to the same as the previous plot. The Witch's save really doesn't change the odds all that much. There are ways that I could program it better: like they would automatically use it if they know they're going to be killed, or the odds of using it increase the further along in the game they are. Maybe if I add this in, their effect will be stronger. 
 
 ## Conclusion (for now)
 

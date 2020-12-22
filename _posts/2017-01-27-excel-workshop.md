@@ -4,12 +4,12 @@ title:  "Excel Workshop"
 date:   2017-01-27 20:12:00 -0400
 tags: [How-to Guides, Presentations, Skills]
 redirect_from: "/excel"
-excerpt: Today I had the opportunity to give a workshop in the DigiLab in UGA's main library. It was a packed with librarians and grad students from across campus. In just over an hour, I started with the absolute basics and showed more and more tricks that I think would help people with their reserach projects. 
+excerpt: Today I had the opportunity to give a workshop in the DigiLab in UGA's main library. It was a packed with librarians and grad students from across campus. In just over an hour, I started with the absolute basics and showed more and more tricks that I think would help people with their research projects. 
 ---
 
 <div class="biglink"><a href="/downloads/170127-ExcelWorkshop.pdf" title="download Excel handout" class="nodot">Download the <br />handout here!</a></div>
 
-Today I had the opportunity to give a workshop in the [DigiLab](https://digi.uga.edu) in UGA's main library. It was a packed with librarians and grad students from across campus. In just over an hour, I started with the absolute basics and showed more and more tricks that I think would help people with their reserach projects. 
+Today I had the opportunity to give a workshop in the [DigiLab](https://digi.uga.edu) in UGA's main library. It was a packed with librarians and grad students from across campus. In just over an hour, I started with the absolute basics and showed more and more tricks that I think would help people with their research projects. 
 
 This was the first time I've ever given a presentation without powerpoint slides. As I was preparing though, it seemed silly to include detailed descriptions and screenshots when I could just switch over the Excel and show it live. I ended up putting together a handout instead, which had all of the information on it instead. The presentation (and handout) went through the following topics:
 
@@ -49,7 +49,7 @@ Next was how to do quick and dirty visualizations in Excel. I explained briefly 
 
 ## Bonus Tips and Tricks
 
-In the last four minutes, I tried to cover some bonus little tips and tricks that I've picked up along the way. There are little things like anchoring and freezing/splitting the table. I did show conditional formatting because I use that all the time (my tables look a little pychedelic actually). In the handout I cover how to convert text-to-columns, which can be useful when importing data from somewhere else or for just splitting things up like "Last, First" into two columns. I covered paste special and how you can transpose, paste multiply, and overwriting functions. 
+In the last four minutes, I tried to cover some bonus little tips and tricks that I've picked up along the way. There are little things like anchoring and freezing/splitting the table. I did show conditional formatting because I use that all the time (my tables look a little psychedelic actually). In the handout I cover how to convert text-to-columns, which can be useful when importing data from somewhere else or for just splitting things up like "Last, First" into two columns. I covered paste special and how you can transpose, paste multiply, and overwriting functions. 
 
 It was a real whirlwind of a presentation but I think some people got a lot out of it. I don't know if too many people walked away with any new skills per se, but at least people were exposed to what kinds of things Excel can do, and were given the resources (*i.e.* this handout) to learn how to do it themselves. I enjoyed giving the presentation, and even though I use R for most of my work nowadays, knowing the ins and outs of Excel sure is useful. 
 

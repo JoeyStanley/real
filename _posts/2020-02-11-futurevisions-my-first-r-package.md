@@ -9,7 +9,7 @@ Today I released my first complete, functional, R package! It's called futurevis
 
 ## Introduction
 
-The color palettes are based on NASA's [Visions of the Future](https://www.jpl.nasa.gov/visions-of-the-future/) poster series, which were produced through NASA's Jet Propulsion Laboratory through the California Institute of Technology. They are retro-future-style posters depecting humans visiting other planets, moons, and exo-planets. In their words, 
+The color palettes are based on NASA's [Visions of the Future](https://www.jpl.nasa.gov/visions-of-the-future/) poster series, which were produced through NASA's Jet Propulsion Laboratory through the California Institute of Technology. They are retro-future-style posters depicting humans visiting other planets, moons, and exo-planets. In their words, 
 
 > Imagination is our window into the future. At NASA/JPL we strive to be bold in advancing the edge of possibility so that someday, with the help of new generations of innovators and explorers, these visions of the future can become a reality. As you look through these images of imaginative travel destinations, remember that you can be an architect of the future.
 
@@ -55,7 +55,7 @@ ggplot(mpg, aes(cty, hwy, color = factor(cyl))) +
 
 ### Note on color selection
 
-This is not a rigorous samping of colors. I picked a few colors from each poster that I felt were represtentative. They may not necessarily be colorblind-friendly. When using these palettes in data visualization, take care to ensure that your data is not misrepresented.
+This is not a rigorous sampling of colors. I picked a few colors from each poster that I felt were representative. They may not necessarily be colorblind-friendly. When using these palettes in data visualization, take care to ensure that your data is not misrepresented.
 
 ## List of palettes
 

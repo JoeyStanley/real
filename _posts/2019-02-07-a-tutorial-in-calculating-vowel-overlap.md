@@ -12,7 +12,7 @@ In the past, I've done tutorial on visualizing vowel data ([part 1](making-vowel
 
 When putting this together, I was surprised at how much I had to say. As it turns out, getting the Pillai score and the Bhattacharyya's Affinity isn't perfectly straightforward, especially if you want to do it for all your speakers individually. The techniques in this tutorial cover a wide range of R skills, ranging from relatively basic stuff to more advanced things. So, to keep this post as light as possible, I've moved all non-essential topics to [Part 2](vowel-overlap-in-r-advanced-topics). By the end of this one, you'll be able to get these measures in your own data. If you find it to be buggy, you want to learn more, or you have some additional R background, try looking at the next one too.
 
-I'll also say that this is not the first tutorial on calculating these measurements in R. Laruen Hall-Lew has already provided some R code in [her 2010 paper](https://www.research.ed.ac.uk/portal/files/16379107/Improved_representation_of_variance_in_measures_of_vowel_merger.pdf). Dan Johnson has code for Bhattacharyya's Affinity in his [2015 NWAV presentation](https://danielezrajohnson.shinyapps.io/nwav_44/). And Chris Strelluf's [new 2018 volume](https://files.warwick.ac.uk/cstrelluf/browse#faveR) comes with the code used for his analysis as well. Hopefully this tutorial will provide some additional clarity in a way that complements what others have done.
+I'll also say that this is not the first tutorial on calculating these measurements in R. Lauren Hall-Lew has already provided some R code in [her 2010 paper](https://www.research.ed.ac.uk/portal/files/16379107/Improved_representation_of_variance_in_measures_of_vowel_merger.pdf). Dan Johnson has code for Bhattacharyya's Affinity in his [2015 NWAV presentation](https://danielezrajohnson.shinyapps.io/nwav_44/). And Chris Strelluf's [new 2018 volume](https://files.warwick.ac.uk/cstrelluf/browse#faveR) comes with the code used for his analysis as well. Hopefully this tutorial will provide some additional clarity in a way that complements what others have done.
 
 ## 1. Data prep
 
@@ -37,7 +37,7 @@ head(my_vowels_raw)
 ## 6 LA000-Joey   M    AA      1       SP BARRING   INJURY 572.6  925.2 2296.1                0.60238629                -1.6705125  93.0 114.7  199.1 9.980 9.94 10.06 0.12        ahr    central    apical    voiced  oral_labial one_fol_syll       B       R internal           2                B AA1 R IH0 NG IH1 N JH ER0 IY0  540.2 1029.1  568.1  923.1  589.1  969.1  580.3 1014.7  559.7 1063.1         6
 ~~~~~~
 
-Now, I'd like to simplifiy this dataset a little bit.
+Now, I'd like to simplify this dataset a little bit.
 
 1. I'll just focus on stressed vowels, so I'll remove unstressed vowels with `filter`. 
 
@@ -64,7 +64,7 @@ head(my_vowels)
 ## 6    IH  INJURY 0.08 394.6 2242.6       N      nasal    apical    voiced      Stanley
 ~~~~~~
 
-For this tutorial, I'll focus on my low back merger (a.k.a. the *cot-caught* merger or the <sc>lot</sc>-<sc>thought</sc> merger). Now, my intuition tells me that <sc>lot</sc> (= "AA") and <sc>thought</sc> (= "AO") are quite distinct, though I have noticed myself using a backed vowel for some <sc>lot</sc> words in conversation. I'm definitely merged before tautosyllabic /l/, so that *doll* and *hall* rhyme, but definitely not before intervocalic /l/ (so *coller* and *caller* are quite distinct). So I'll exclude tokens before /l/ for clarity. I'll also exclude tokens before /ɹ/ because words in the <span style="font-variant:small-caps;">north</span> and <span style="font-variant:small-caps;">force</span> lexical sets are transcribed with AO in this data and I'm not particularly concerned about that environment. Finally, I'll exclude the word *on* because it was only real stopword included in this sample.
+For this tutorial, I'll focus on my low back merger (a.k.a. the *cot-caught* merger or the <sc>lot</sc>-<sc>thought</sc> merger). Now, my intuition tells me that <sc>lot</sc> (= "AA") and <sc>thought</sc> (= "AO") are quite distinct, though I have noticed myself using a backed vowel for some <sc>lot</sc> words in conversation. I'm definitely merged before tautosyllabic /l/, so that *doll* and *hall* rhyme, but definitely not before intervocalic /l/ (so *collar* and *caller* are quite distinct). So I'll exclude tokens before /l/ for clarity. I'll also exclude tokens before /ɹ/ because words in the <span style="font-variant:small-caps;">north</span> and <span style="font-variant:small-caps;">force</span> lexical sets are transcribed with AO in this data and I'm not particularly concerned about that environment. Finally, I'll exclude the word *on* because it was only real stopword included in this sample.
 
 ~~~~~~r
 low_back <- my_vowels %>%
@@ -101,7 +101,7 @@ The Pillai score (a.k.a. Pillai-Barlett Trace) dates back to K. C. Sreedharan Pi
 
 Probably one of the most cited references on Pillai scores in linguistics is Jennifer Nycz and Lauren Hall-Lew's 2013 [paper](https://asa.scitation.org/doi/10.1121/1.4894063) in the *Proceedings of Meetings on Acoustics*. It was one of the measures that they looked at in their meta-analysis of vowel merger. If you're curious about the Pillai score and how it compares to other measures of vowel overlap, I encourage you to take a look at that paper.
 
-To get an intuition of how a Pillai score relates to vowel data, here are some example distributions with 100 measurements in each cluster. On the left are two circular distributions. In the middle, one cluster is smaller than the other, so the distance between the two is a little bit smaller to get the same overlap. On the right, one distibution is ellipsoidal, and the distance between them has to be a bit larger to get the same pillai scores as perfectly circular distributions. 
+To get an intuition of how a Pillai score relates to vowel data, here are some example distributions with 100 measurements in each cluster. On the left are two circular distributions. In the middle, one cluster is smaller than the other, so the distance between the two is a little bit smaller to get the same overlap. On the right, one distribution is ellipsoidal, and the distance between them has to be a bit larger to get the same pillai scores as perfectly circular distributions. 
 
 <img src="/images/plots/overlap_tutorial/pillai_example.png" width = "100%">
 
@@ -148,7 +148,7 @@ The model summary does also provide a *p*-value. The null hypothesis of the MANO
 
 Now, as a word of caution. I've played around with Pillai scores a lot and I've found that the *p*-values are significant a *lot*. I mean there have been times where the plots show what appear to me to be completely overlapped distributions, but the *p*-value says that they're significantly different. I'm not completely familiar with the inner workings of the MANOVA test, so I don't really know how sensitive it is to outliers, sample sizes, or other things. But in my opinion, it appears to be overly sensitive to minor differences that are probably not perceivable. In other words statistical significance does not necessarily mean social significance.
 
-But, we're here to look at the Pillai score, not the *p*-value. The problem is there's no Pillai score threshhold for saying something is definitively merged or unmerged. By that I mean we can't just define a value like 0.05 and say if the Pillai score is less than that then we can conclude that the vowels are merged. As far as I'm aware, the Pillai scores are useful only in comparison to other Pillai scores, either from the same pair of vowels in other speakers, or perhaps from the same speaker but with other pairs of vowels.
+But, we're here to look at the Pillai score, not the *p*-value. The problem is there's no Pillai score threshold for saying something is definitively merged or unmerged. By that I mean we can't just define a value like 0.05 and say if the Pillai score is less than that then we can conclude that the vowels are merged. As far as I'm aware, the Pillai scores are useful only in comparison to other Pillai scores, either from the same pair of vowels in other speakers, or perhaps from the same speaker but with other pairs of vowels.
 
 ### More complex MANOVA formulas
 
@@ -186,7 +186,7 @@ summary(my_manova)
 ~~~~~~
 
 <span class="sidenote">What's weird here is that the *p*-values don't really correlate with the Pillai score, so the variable that's that has the most separation is the one without statistical signifi&shy;cance. This is another problem when interpreting *p*-values in conjunction with Pillai scores.</span>
-Now the problem here is that we get a Pillai score for each one. How do we interpret this? To be honest, I've never encountered this before in my research. But, I *think* the way this is interpreted is that the Pillai score for the vowel is a meausure of overlap between the two vowels after all the other variables have been controlled for. In my case, it's a little higher---0.14 instead of 0.12---when environmental effects are considered, which I guess makes sense.
+Now the problem here is that we get a Pillai score for each one. How do we interpret this? To be honest, I've never encountered this before in my research. But, I *think* the way this is interpreted is that the Pillai score for the vowel is a measure of overlap between the two vowels after all the other variables have been controlled for. In my case, it's a little higher---0.14 instead of 0.12---when environmental effects are considered, which I guess makes sense.
 
 For the other variables, they each have their own Pillai scores. So like the `plt_manner` Pillai score would be a measure of overlap between the various manners of articulation, after the vowel class has been accounted for. To me, that seems a little high considering what the data looks like when it's colored by voicing of the following segment using the information returned from FAVE.
 
@@ -341,7 +341,7 @@ stanley_pillai
 ## [1] 0.1307241
 ~~~~~~
 
-Okay, so that's cool and it might work if you have a very small number of speakers (like less than five). But if you have a dozen or several dozen or more, this is not the most elegant way of doing things. There's lots of repetition, it's unweildy, and all that copy and pasting code is error-prone. 
+Okay, so that's cool and it might work if you have a very small number of speakers (like less than five). But if you have a dozen or several dozen or more, this is not the most elegant way of doing things. There's lots of repetition, it's unwieldy, and all that copy and pasting code is error-prone. 
 
 Instead, let's see if we can get a little help with the `summarize` function. So `summarize` is part of the `dplyr` package and according to it's help file, it "reduces multiple values down to a single value." We can use `summarize` for a whole bunch of things, like calculating the average F1 measurement in my low back vowels.
 
@@ -619,4 +619,4 @@ So that's handy. That might save you some time trying to do them separately and 
 
 So that's it. Hopefully with this tutorial you are able to calculate the Pillai scores and Bhattacharyya's Affinity in your data. But we went beyond doing it one speaker at at time and wrote up some functions so that you can calculate these measures each speaker. Again, it's up to you to figure out which overlap measure to use (by reading the literature and critically analyzing the results in your own data), but at least the coding shouldn't be an obstacle for you anymore. And with any luck, you've gained some additional R skills that may translate (in)directly to other portions of your research. 
 
-Finally, the functions as they're written now prone to a couple of errors. For example, if you inadvertantly apply them to a speaker who doesn't have very much data, it'll crash and throw an error message. To learn about how to make the functions more robust and how to apply these functions to multiple vowel pairs at once, continue on to [Part 2](vowel-overlap-in-r-advanced-topics).
+Finally, the functions as they're written now prone to a couple of errors. For example, if you inadvertently apply them to a speaker who doesn't have very much data, it'll crash and throw an error message. To learn about how to make the functions more robust and how to apply these functions to multiple vowel pairs at once, continue on to [Part 2](vowel-overlap-in-r-advanced-topics).

@@ -62,7 +62,7 @@ generations(yobs)
 ## Levels: Lost G.I. Silent Gen X Millennial Gen Z
 ```
 
-This function works on any year betwen 1435 and 2030. Numbers outside that range return `NA`. 
+This function works on any year between 1435 and 2030. Numbers outside that range return `NA`. 
 
 Note that by default, the function will return the vector as *factor*, with the levels ordered so that the oldest generation in the vector is first. To get a character vector instead, add the argument `as_factor = FALSE`.
 

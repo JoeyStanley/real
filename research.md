@@ -5,7 +5,7 @@ title: Research
 
 # Research
 
-This page highlights some of my research, organized thematically. I am a dialectologist, so several of my research interests are on specific regions. But intersecting these regions is where the sociolinguist in me comes out, and I try to uncover the meaning in linguistic variants---particularly the infrequent ones. And I go about these questions in these areas as a phonetician, analyzing speech production data and vowel trajectories. Finally, in nearly every study, I put on my quantitative linguist/data scientist/statistican cap when I actually do the analysis and interpretation. I think it's a great intersection of subdisciplines within linguistics and I'm kept on my toes trying to keep up with each field.
+This page highlights some of my research, organized thematically. I am a dialectologist, so several of my research interests are on specific regions. But intersecting these regions is where the sociolinguist in me comes out, and I try to uncover the meaning in linguistic variants---particularly the infrequent ones. And I go about these questions in these areas as a phonetician, analyzing speech production data and vowel trajectories. Finally, in nearly every study, I put on my quantitative linguist/data scientist/statistician cap when I actually do the analysis and interpretation. I think it's a great intersection of subdisciplines within linguistics and I'm kept on my toes trying to keep up with each field.
 
 <br/>
 
@@ -96,7 +96,7 @@ Rachel M. Olsen, Michael L. Olsen, **Joseph A. Stanley**, Margaret E. L. Renwick
 ## Vowel Formant Trajectories
 
 <img class="research-img" src="images/projects/trajectories.jpg">
-Traditional sociophonetic reseach analyzes vowels using a pair of measurements, usually somewhere near the midpoint of the vowel. We can get a greater understanding of vowels by extracting data at multiple timepoints per vowel. In particular, I think there is important sociolinguistic meaning encoded in formant trajectories. Much of my recent research has gone this route, and has used generalized additive mixed-effects models to analyze the resulting data. This type of analysis yields complex results and visualizations, but I think we're starting to get a better idea of how vowels work while uncovering exciting new research questions and possibilities.  
+Traditional sociophonetic research analyzes vowels using a pair of measurements, usually somewhere near the midpoint of the vowel. We can get a greater understanding of vowels by extracting data at multiple timepoints per vowel. In particular, I think there is important sociolinguistic meaning encoded in formant trajectories. Much of my recent research has gone this route, and has used generalized additive mixed-effects models to analyze the resulting data. This type of analysis yields complex results and visualizations, but I think we're starting to get a better idea of how vowels work while uncovering exciting new research questions and possibilities.  
 
 ### CV Highlights
 

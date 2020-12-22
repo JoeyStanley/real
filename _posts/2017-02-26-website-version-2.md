@@ -37,15 +37,15 @@ A couple layout changes. First, I've widened it from something like 70% of the s
 
 I changed the header as well. I felt like it was the weakest part of my page, and I didn't like how it looked. I knew I wanted my social media links to be somewhere prominent, and of course the navigation links should be there too. But I wanted to include temporary links to recent presentations so people can download the slideshow if they visit my site, and those didn't quite fit up there. And I didn't have anywhere to put a photo. 
 
-One solution was to have the top just include my name and the navigation buttons, which are now more descriptive. A sidebar could then have my photo, social media, and temporary links to recent presentations. There was also room to put an exerpt of my most recent blog post too, which I figured out how to do dynamically, which is pretty cool. 
+One solution was to have the top just include my name and the navigation buttons, which are now more descriptive. A sidebar could then have my photo, social media, and temporary links to recent presentations. There was also room to put an excerpt of my most recent blog post too, which I figured out how to do dynamically, which is pretty cool. 
 
 ## A new Research tab!
 
-I also added a Research tab. I've seen this on lots of other people's pages and I thought I'd include one in my own. I guess I figured everyone would clearly see what my research was by skiming through my CV, but putting it in prose like that makes a lot more sense. 
+I also added a Research tab. I've seen this on lots of other people's pages and I thought I'd include one in my own. I guess I figured everyone would clearly see what my research was by skimming through my CV, but putting it in prose like that makes a lot more sense. 
 
-The layout was a blantant copy from the UGA DigiLab [projects tab](https://digi.uga.edu/projects/). I think adding images, even if they're simple like mine, contribute a lot to the page.
+The layout was a blatant copy from the UGA DigiLab [projects tab](https://digi.uga.edu/projects/). I think adding images, even if they're simple like mine, contribute a lot to the page.
 
-Eventually, I'd like to create a separate page for each of these. There I'd go into more detail on my findings, put a list of publications, and have links to any relevant blog posts. I'll get there eventually. For now, I'll just make the the exerpts a little longer.
+Eventually, I'd like to create a separate page for each of these. There I'd go into more detail on my findings, put a list of publications, and have links to any relevant blog posts. I'll get there eventually. For now, I'll just make the the excerpts a little longer.
 
 ## Blog—I mean, "News"
 
@@ -63,7 +63,7 @@ The rest of the page was completely revamped. To be quite honest, I googled arou
 
 Another big thing I didn't like about the old layout was that the "Archive" tab didn't make sense as its own page and the label didn't really make sense. Instead, I moved it to a separate sidebar on the blog. That way it's clear that the tags and the blog work together. 
 
-If I could change one thing, it would be that sidebar though. Right now, if you click on a tag, it'll take you to a page where it lists all the blog posts by category. I don't like that separate page. I wanted to do something fancy like you click on a tab and a list of posts will expand down. Turns out I couldn't do that without Java scripting and I don't know how to do any of that. I also looked into just having pages for each category created on the spot, with blog exerpts instead of just the titles for that one category, but I couldn't figure out how to do that. 
+If I could change one thing, it would be that sidebar though. Right now, if you click on a tag, it'll take you to a page where it lists all the blog posts by category. I don't like that separate page. I wanted to do something fancy like you click on a tab and a list of posts will expand down. Turns out I couldn't do that without Java scripting and I don't know how to do any of that. I also looked into just having pages for each category created on the spot, with blog excerpts instead of just the titles for that one category, but I couldn't figure out how to do that. 
 
 ## Anything else?
 

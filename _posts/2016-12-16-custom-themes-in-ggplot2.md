@@ -19,7 +19,7 @@ First, I don't like it when I go to conferences and I see plots that have the de
 
 By not using the default R theme, you're showing the world that you know your way around R. It shows that you didn't just blindly copy and paste someone else's code, but that you know how to control and customize things they way you want. 
 
-It shows that you have some attention to detail. The purpose of a plot is to present data in a clean and effective way. Yes, the type of plot and the colors and all that matters. But so does the color of the background and the font. By applying a new stlye to your plots, you can control everything to make sure your audience sees what you want them to see.
+It shows that you have some attention to detail. The purpose of a plot is to present data in a clean and effective way. Yes, the type of plot and the colors and all that matters. But so does the color of the background and the font. By applying a new style to your plots, you can control everything to make sure your audience sees what you want them to see.
 
 I like having my own unique theme because it'll add some continuity between my presentations. I already have a custom slideshow template that I've been using for a while now, so all my presentations look like they go together. It also makes it easier to moves plots around from one presentation to another if they all match.  
 

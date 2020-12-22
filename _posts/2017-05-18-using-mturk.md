@@ -29,7 +29,7 @@ So this happened:
 
 Okay, so several weeks have passed, and the data collection phase is drawing to a close. In just a couple of weeks, I was able to get data from almost 200 people. I had some major time constraints on how I could use my money, so I had to find ways to use it quicker. I ended up creating an entirely new task, similar to the first one, with a whole new batch of sentences and words for people to read. A large portion of my participants returned to do the second part, meaning I have around 30 minutes of audio from almost 100 people. 
 
-This is an incrdible dataset I've collected. I don't know how much audio I have total yet, but it's well over 50 hours. That's pretty good for just three weeks.
+This is an incredible dataset I've collected. I don't know how much audio I have total yet, but it's well over 50 hours. That's pretty good for just three weeks.
 
 However, I will be the first to say that it was a rough three weeks. It seems like every hour I was getting data emailed to me, and several times a day I had to sit and catalogue the recordings and speaker metadata, while managing the MTurk tasks. Most of the time, it was relatively straightforward, but some participants needed a little extra attention because of technical difficulties, glitches in the system, or complaints here and there. Luckily, I did this when I wasn't in classes, because otherwise it would have been impossible. 
 

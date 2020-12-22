@@ -5,7 +5,7 @@ date:   2018-12-24 08:59:00 -0400
 tags: [Side Projects]
 ---
 
-In April and May this year, I posted a survey to a bunch of different subreddits that asked people how they pronounced certain words. If you took the survey, THANK YOU! The number of responses I got was overwhelming and took *much* longer to analyze than I could have ever anticiapted. So, after many months, I'm finally ready to post the results for you. Hopefully you'll find them intersting.
+In April and May this year, I posted a survey to a bunch of different subreddits that asked people how they pronounced certain words. If you took the survey, THANK YOU! The number of responses I got was overwhelming and took *much* longer to analyze than I could have ever anticipated. So, after many months, I'm finally ready to post the results for you. Hopefully you'll find them interesting.
 
 TL;DR I asked a bunch of people how they pronounced words that rhyme with *bag* or *beg*. Basically, people from the northern US and Canadians tend to pronounce them with the same vowel as the word *bake*. Also, if you do though, it's less likely in longer words. 
 
@@ -26,7 +26,7 @@ So several months ago, I picked several dozen <sc>bag</sc> and <sc>beg</sc> word
 
 I then went to the subreddit dedicated to each US state and Canadian province and territory and asked the moderators if I could post a survey. Almost all of them said yes. So with a dedicated Reddit account ([/u/dialectologist](https://www.reddit.com/user/Dialectologist/)), I went ahead and posted it on about those 60 subreddits. 
 
-And tons of people took the survey! Almost 7,000! And from these responses I got around 567,000 individual survey questions answered. This was like ten times more than what I expetected. Super cool.
+And tons of people took the survey! Almost 7,000! And from these responses I got around 567,000 individual survey questions answered. This was like ten times more than what I expected. Super cool.
 
 When I was processing these responses though, I wanted to find a way to turn them into numbers. So what I did was every time people answered *bake*, that was a 1. Every time they answered *deck*, that was a 0. And every time they answered *back* I gave them a --1. I then took all the responses for a person's <sc>beg</sc> words and averaged them to get their "degree of <sc>beg</sc>-raising." Same thing for their <sc>bag</sc> words to calculate their "degree of <sc>bag</sc>-raising." I also turned it the other way and calculated each word's score by averaging all the responses across all people. 
 
@@ -50,7 +50,7 @@ However, sometimes people had <sc>bag</sc>-raising on some words but not on othe
 
 <a href = "/images/plots/bag_raising_plot.pdf" class = "nodot"><img width = "75%" src="/images/plots/bag_raising_plot.jpg"/></a>
 
-In this chart, each word is on its own row. Within that row, the width of the red box is the number of people that indicated that they say that word with the same vowel as *bake*. Yellow is "somewhere between *bake* and *deck*". The small green ones are *deck* and the blue ones are *back*. Purple are where people said it had some other vowel. This chart shows that not all <sc>bag</sc> words are equally likely to be pronouced the same, but the difference between the *Volkswagon* at the top and *Mary Magdalene* at the bottom is admittedly not that huge. 
+In this chart, each word is on its own row. Within that row, the width of the red box is the number of people that indicated that they say that word with the same vowel as *bake*. Yellow is "somewhere between *bake* and *deck*". The small green ones are *deck* and the blue ones are *back*. Purple are where people said it had some other vowel. This chart shows that not all <sc>bag</sc> words are equally likely to be pronounced the same, but the difference between the *Volkswagon* at the top and *Mary Magdalene* at the bottom is admittedly not that huge. 
 
 So now lets turn our attention to the <sc>beg</sc> words. 
 
@@ -68,7 +68,7 @@ Just as surprising was the following plot which shows how often <sc>beg</sc> wor
 
 <a href = "/images/plots/beg_raising_plot.pdf" class = "nodot"><img width = "75%" src="/images/plots/beg_raising_plot.jpg"/></a>
 
-Here, we see that there's a major difference between the top and bottom of the chart. Okay so technically, words like *vague*, *pagen*, *plague*, and *fragrant* don't belong on this chart because pretty much everyone would pronounce them with a "long *a*" sound. I'll ignore this for now. But even between words that are spelled with *eg*, there's a big difference between them. A word like *segregate* is said with the same vowel as *bake* less than 10% of the time. But a word like *egg* is almost 20% and *omega* is almost 40%. And, if you look closely, most of the words towards the bottom all have consonats following the *g*---*integrity*, *segment*, *pregnant*. That's pretty interesting if you ask me.
+Here, we see that there's a major difference between the top and bottom of the chart. Okay so technically, words like *vague*, *pagen*, *plague*, and *fragrant* don't belong on this chart because pretty much everyone would pronounce them with a "long *a*" sound. I'll ignore this for now. But even between words that are spelled with *eg*, there's a big difference between them. A word like *segregate* is said with the same vowel as *bake* less than 10% of the time. But a word like *egg* is almost 20% and *omega* is almost 40%. And, if you look closely, most of the words towards the bottom all have consonants following the *g*---*integrity*, *segment*, *pregnant*. That's pretty interesting if you ask me.
 
 ## Both in one map
 

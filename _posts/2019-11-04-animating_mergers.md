@@ -5,7 +5,7 @@ date:   2019-11-04 13:34:00 -0400
 tags: [Animations, Data Viz, Github, R, Side Projects, Simulations, Teaching]
 ---
 
-I've dabbled with creating animations in R, but since the newest version of [gganimate](https://gganimate.com) came out, I've been trying to find a useful way to use it. (I don't know if [visulizing simulations of Chutes and Ladders](/blog/simulating_chutes_and_ladders) counts as "useful"…) But as I was putting together a lecture on mergers last semester, it occured to me that the best way to illustrate them would be with animations! So I took the opportunity and created some fun visuals.
+I've dabbled with creating animations in R, but since the newest version of [gganimate](https://gganimate.com) came out, I've been trying to find a useful way to use it. (I don't know if [visualizing simulations of Chutes and Ladders](/blog/simulating_chutes_and_ladders) counts as "useful"…) But as I was putting together a lecture on mergers last semester, it occured to me that the best way to illustrate them would be with animations! So I took the opportunity and created some fun visuals.
 
 ## Using gganimate
 
@@ -17,7 +17,7 @@ So, this is not a tutorial because my code was awful, hacky, clunky, etc. It's o
 
 ## Merger by Approximation
 
-I'll start with a *Merger by Approximation* because it's the most straightforward. The first to describe this was Trudgill & Foxcroft, who looked at the merger of Middle English **ō** [ɔː] (*road*, *go*) with the dipthong [ɔu] (*flow*, *know*). My American ears can't even imagine these being pronounced differently, but apparently some speakers in East Anglia retain the distinction, though they were in the process of becoming merged.
+I'll start with a *Merger by Approximation* because it's the most straightforward. The first to describe this was Trudgill & Foxcroft, who looked at the merger of Middle English **ō** [ɔː] (*road*, *go*) with the diphthong [ɔu] (*flow*, *know*). My American ears can't even imagine these being pronounced differently, but apparently some speakers in East Anglia retain the distinction, though they were in the process of becoming merged.
 
 I'll let you dig into the original study <span class="sidenote">Trudgill, Peter, and Tina Foxcroft. 1978. On the Sociolinguistics of Vocalic Mergers: Transfer and Approximation in East Anglia. In <i>Sociolinguistic Patterns in British English</i>, edited by Peter Trudgill, 69–79. London: Edward Arnold.</span>, but the main point they make is that the merger happens "gradually." Their description of this merger tactic is that speakers 
 
@@ -47,7 +47,7 @@ It's a haphazard shift, and during the change each person could have their own p
 ## Merger by Phonological Transfer
 
 <span class="sidenote"><a href="https://journals.sagepub.com/doi/10.1177/0075424216634795">Dinkin, Aaron J. 2016. Phonological Transfer as a Forerunner of Merger in Upstate New York. <i>Journal of English Linguistics</i> 44(2): 162–88.</a></span>
-Nearly 40 years later, Aaron Dinkin published a paper describing what he calls a *Merger by Phonological Transfer*. The phonemeonon in question is the merger of <sc>lot</sc> with <sc>thought</sc>. In upstate New York, he finds that many speakers do not have the merger---except in before coda laterals. Thus, *cot* and *caught* are distinct, and *collar* and *caller* are distinct, but *doll* rhymes with *hall*.  In Dinkin's words, what's happening here is 
+Nearly 40 years later, Aaron Dinkin published a paper describing what he calls a *Merger by Phonological Transfer*. The phenomenon in question is the merger of <sc>lot</sc> with <sc>thought</sc>. In upstate New York, he finds that many speakers do not have the merger---except in before coda laterals. Thus, *cot* and *caught* are distinct, and *collar* and *caller* are distinct, but *doll* rhymes with *hall*.  In Dinkin's words, what's happening here is 
 
 > "the discrete replacement of one phoneme in a given phonological environment with a different phoneme." (Dinkin 2016:183)
 
@@ -55,7 +55,7 @@ It's a type of merger by transfer, only it happens phonologically rather than le
 
 Trudgill and Foxcroft also hint at this in their original 1978 paper, saying that
 
-> "In some cases, that is, diffiusion of the innovation may not be genuinely lexical but rather influenced by phonological conditioning. In other words, the change may also be *linguistically* gradual, in that it affects some environments before others." (Trudgill & Foxcroft 1978:73)
+> "In some cases, that is, diffusion of the innovation may not be genuinely lexical but rather influenced by phonological conditioning. In other words, the change may also be *linguistically* gradual, in that it affects some environments before others." (Trudgill & Foxcroft 1978:73)
 
 In Dinkin's data, it appears that it's not quite so abrupt. Before one vowel is replaced by another, words in that phonological category phonetically approximate the new vowel first, before switching over. So in the animation, I've included that detail:
 
@@ -74,7 +74,7 @@ She provides some really excellent plots, showing a father-son pair where the fa
 
 <img src="/images/plots/merger_animations/expansion.gif" width="100%"/>
 
-This is a very abrupt change, happening quite suddenly, and Herold uses the word *explode* several times to decribe what happens, so I wanted to convey that in my animation. Dan Johnson (2010) finds that even within the same family, younger children may have the merger and older kids do not. 
+This is a very abrupt change, happening quite suddenly, and Herold uses the word *explode* several times to describe what happens, so I wanted to convey that in my animation. Dan Johnson (2010) finds that even within the same family, younger children may have the merger and older kids do not. 
 
 ## Conclusion
 

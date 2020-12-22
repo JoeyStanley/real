@@ -41,7 +41,7 @@ On Twitter people also post new things they see at conferences and other places.
 
 Basically, Daniel Johnson talked about another way to measure vowel overlap—something I do a lot in my research. In the Shiny App linked above, Johnson compares Pillai scores and something called Bhattacharyya affinity. I ended up using this in a poster I did with [Peggy Renwick](http://faculty.franklin.uga.edu/mrenwick/) at LabPhon (<a href="http://labphon.org/labphon15/program" class="link" target="_blank"></a>
 <a href="/downloads/160714-LabPhon15-abstract.pdf" class="abstract" target="_blank" title="open a pdf of the abstract to this presentation in a new window"></a>
-<a href="/downloads/160714-LabPhon15-poster.pdf" class="poster" target="_blank" title="open a pdf of this poster in a new window"></a>), and will continue to use this new measure of overlap, not exclusively, but in additon to the other measures out there. 
+<a href="/downloads/160714-LabPhon15-poster.pdf" class="poster" target="_blank" title="open a pdf of this poster in a new window"></a>), and will continue to use this new measure of overlap, not exclusively, but in addition to the other measures out there. 
 
 ## Live Tweeting Conferences
 
@@ -51,4 +51,4 @@ I myself live tweeted for the first time at a linguistics conference here at UGA
 
 ## Twitter is great
 
-So in the end, having a Twitter account is a lot of fun. I've benefitted personally and professionally, and it's definetly a worthy investment of my time. 
+So in the end, having a Twitter account is a lot of fun. I've benefitted personally and professionally, and it's definitely a worthy investment of my time. 

@@ -54,7 +54,7 @@ Conclusion so far: with the exception of a few words, it's pretty clear that /ɑ
 
 ### Polysyllabic words
 
-When there's more than one syllable, things get complicated because of their distribution within the word. Most of the two-syllable words have word-inital stress, but there are a few misfits (*alarm*, *depart*, *guitar*, *regard*, *remark*). With three syllables stress is either on the first syllable (*architect*, *argument*, *article*, *artifact*, *harmony*, *marketing*, *marketplace*, *partially*, *particle*, *partnership*) or the second (*apartment*, *department*, *departure*, *regarding*, *regardless*, *tomorrow*). There were two four-syllable words, with the /ɑr/ segment on different syllables (*architecture*, *remarkable*). Most of these can be split up by the voicing of the following segment too, which spreads the data pretty thin. 
+When there's more than one syllable, things get complicated because of their distribution within the word. Most of the two-syllable words have word-initial stress, but there are a few misfits (*alarm*, *depart*, *guitar*, *regard*, *remark*). With three syllables stress is either on the first syllable (*architect*, *argument*, *article*, *artifact*, *harmony*, *marketing*, *marketplace*, *partially*, *particle*, *partnership*) or the second (*apartment*, *department*, *departure*, *regarding*, *regardless*, *tomorrow*). There were two four-syllable words, with the /ɑr/ segment on different syllables (*architecture*, *remarkable*). Most of these can be split up by the voicing of the following segment too, which spreads the data pretty thin. 
 
 <img src="/images/plots/ar_poly_plot.png" style="width: 30em;"/> 
 

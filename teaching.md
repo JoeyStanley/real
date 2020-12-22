@@ -66,7 +66,7 @@ In this workshops, I discuss ways to boost your online presence as an academic. 
 
 ### [Academic Poster Workshop](/downloads/190911-poster_workshop.pdf)
 
-I gave a brief---and very opinionated---workshop on how to make an academic poster. I discuss overall design and layout, nitpicky things like font sizes and color, and content. 
+I gave a brief---and very opinionated---workshop on how to make an academic poster. I discuss overall design and layout, nit-picky things like font sizes and color, and content. 
 
 ### [Excel Workshop](/blog/excel-workshop)
 

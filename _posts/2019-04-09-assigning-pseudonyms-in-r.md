@@ -486,7 +486,7 @@ babynames::babynames %>%
 ```
 <img src="/images/plots/babynames_joseph.png" style="width: 100%;"/> 
 
-Finally, the plot below was just an interesting one that shows the diversity in names. I add up the total proportion of people per year are represented in this dataset. Remember that this dataset does not include names if fewer than five people in a year had that name. So if all the data adds up to only 0.96, then 4% of people that year had somewhat unusual names. The higher number is, the fewer uncommon names there were. This chart shows that compared to the 1960s, there are more unsual names, particularly among the women. I'll let the folks in onomastics interpret this, but I thought it was kind of a fun graph.
+Finally, the plot below was just an interesting one that shows the diversity in names. I add up the total proportion of people per year are represented in this dataset. Remember that this dataset does not include names if fewer than five people in a year had that name. So if all the data adds up to only 0.96, then 4% of people that year had somewhat unusual names. The higher number is, the fewer uncommon names there were. This chart shows that compared to the 1960s, there are more unusual names, particularly among the women. I'll let the folks in onomastics interpret this, but I thought it was kind of a fun graph.
 
 ```r
 babynames::babynames %>%

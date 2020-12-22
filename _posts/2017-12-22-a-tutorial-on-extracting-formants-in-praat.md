@@ -19,7 +19,7 @@ For this tutorial, I'll work with a recording of myself reading a couple dozen w
 
 <img src="/images/screenshots/praat_sound_file.png" style="width: 30em;"/> 
 
-The important part to note is that I have the word-level transcription in the second tier, and a phoneme-level transcription—in ARPABET—in the first tier. I'm going to assume you've used DARLA or FAVE to process your files so they should look like mine does.
+The important part to note is that I have the word-level transcription in the second tier, and a phoneme-level transcription---in ARPABET---in the first tier. I'm going to assume you've used DARLA or FAVE to process your files so they should look like mine does.
 
 # Getting Started
 
@@ -35,7 +35,7 @@ A blank window should open up for you to write your script in.
 
 <img src="/images/screenshots/praat_new_script.png" style="width: 30em;"/> 
 
-So now we have a blank canvas. Let's pause for a second and think about what the script is going to do. The goal is to turn this phoneme-level transcription and accompanying audio into a spreadsheet of formants. To accomplish this task, tere are the steps I'll take:
+So now we have a blank canvas. Let's pause for a second and think about what the script is going to do. The goal is to turn this phoneme-level transcription and accompanying audio into a spreadsheet of formants. To accomplish this task, there are the steps I'll take:
 
 1. Go through each phoneme in your TextGrid.
 1. Find the midpoint.
@@ -150,7 +150,7 @@ So now we have a script that knows what files to look at and how many intervals 
 
 # Loop through the intervals
 
-What we now need to do is construct a <span class="praat"><span class="k">`for`</span></span> loop. This is something that can be done in virtually every programming language. We tell Praat to execute the same command some prespecified number of times. In this case, we want to do analyze and extract information from potentially all 534 intervals in the phoneme tier, so we'll run a loop 534 times. 
+What we now need to do is construct a <span class="praat"><span class="k">`for`</span></span> loop. This is something that can be done in virtually every programming language. We tell Praat to execute the same command some pre-specified number of times. In this case, we want to do analyze and extract information from potentially all 534 intervals in the phoneme tier, so we'll run a loop 534 times. 
 
 A for loop example in Praat looks like this:
 

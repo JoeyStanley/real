@@ -3,7 +3,7 @@ layout: post
 title:  "Brother Joseph"
 date:   2017-04-10 15:42:00 -0400
 tags: [Side Projects]
-excerpt: I had the fun opportunity to be a guest in a pocast today! "Faith Promoting Rumors" is a new podcast that my brother and dad started that explores Mormon myths and culture. Having published on an interesting linguistic quirk about Mormon culture—the alternation between calling someone either as "Brother Jones" or as "Bob"—I was asked to talk about my research and about this convention in Mormon culture generally.
+excerpt: I had the fun opportunity to be a guest in a podcast today! "Faith Promoting Rumors" is a new podcast that my brother and dad started that explores Mormon myths and culture. Having published on an interesting linguistic quirk about Mormon culture—the alternation between calling someone either as "Brother Jones" or as "Bob"—I was asked to talk about my research and about this convention in Mormon culture generally.
 ---
 
 <div class="biglink"><a href="http://faithpromotingrumors.com/12" title="go to FPR podcast site" class="nodot">Listen to the <br /> interview here!</a></div>
@@ -12,9 +12,9 @@ I had the fun opportunity to be a guest in a podcast today! *[Faith Promoting Ru
 
 ## Background 
 
-There is a robust practice of using titles among Mormons. Kids and teenagares are expected to refer to all adults using the appropraite title (usually *Brother* or *Sister*, though in some cases *Elder*, *Bishop*, or *President*—see below), plus their last name. Adults reciprocate by calling minors by their first name, establishing a clear superiority between kids and adults, though this can be flouted for comedic, sarcastic, or reverential effects. 
+There is a robust practice of using titles among Mormons. Kids and teenagers are expected to refer to all adults using the appropriate title (usually *Brother* or *Sister*, though in some cases *Elder*, *Bishop*, or *President*—see below), plus their last name. Adults reciprocate by calling minors by their first name, establishing a clear superiority between kids and adults, though this can be flouted for comedic, sarcastic, or reverential effects. 
 
-But between adults the rules are less straightforward. Sometimes adults use first name for each other and other times they use titles. Familiarity is the strongest factor but age and status within the congregation play a role as well. I had a hunch that things like situation, audience, family make up, and place in the social network had to do with it too. This is essentially the same as how some languages have their T-V distinction in pronouns. This is a classic sociolinguisic variable since it doesn't appear to be a conscious descision by speakers and it's an extremely common linguistic feature.
+But between adults the rules are less straightforward. Sometimes adults use first name for each other and other times they use titles. Familiarity is the strongest factor but age and status within the congregation play a role as well. I had a hunch that things like situation, audience, family make up, and place in the social network had to do with it too. This is essentially the same as how some languages have their T-V distinction in pronouns. This is a classic sociolinguisic variable since it doesn't appear to be a conscious decision by speakers and it's an extremely common linguistic feature.
 
 So what started off as a mild curiosity during Sunday meetings ended up being a term paper in both my sociolinguistics and social network analysis courses, two conference presentations, a spot in the 2016 [Penn Working Papers in Linguistics](http://repository.upenn.edu/pwpl/vol22/iss1/31/), and my first qualifying paper—I got a lot of milage out of that study. I was just getting into quantitative methods, so it's a little statistics-heavy, but I did find some interesting results. 
 
@@ -24,7 +24,7 @@ Essentially, what I did to answer this question was give a survey out to members
 
 As I mention in the podcast, some of the main findings are pretty intuitive. The better someone knows anther person, the more likely they are to use their first name. There was more first name among people of the same sex, especially women. Holding all other variables constant, more peripheral members of the social network of the congregation generally use more titles and get called by titles more than the core members. There were some differences between the sexes and the situation: men use more titles for present company while women use more first name in face-to-face situations. 
 
-One thing I tested was whether southerners use more titles. It's a pretty common stereotype that southerners are more polite and call people "Miss Betty" more often. It turns out this carries over into Mormon circles as well: southers generally used titles sligtly more than northerners or Utahns. 
+One thing I tested was whether southerners use more titles. It's a pretty common stereotype that southerners are more polite and call people "Miss Betty" more often. It turns out this carries over into Mormon circles as well: southerners generally used titles slightly more than northerners or Utahns. 
 
 Surprisingly, age wasn't a factor. I thought there would be a clear effect of increased usage of titles for older people, but this didn't pan out. What did appear to be the case was that people roughly within a couple years of each other use more titles for each other, but this was more an effect of familiarity than anything else: people are friends with others their age so they use fewer titles. 
 

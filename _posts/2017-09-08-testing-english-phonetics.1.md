@@ -83,7 +83,7 @@ We get the same coefficients for word-initial stops. Only this time, we can see 
 
 ### Duration of word-final stops
 
-What I didn't know before preparing for this class was that the overall duration of word final stops (closure + busrt + aspiration) is longer for voiceless obstruents than it is for voiced obstruents. Based on all 18 words (*scope*, *seep*, *soap*, *steep*, *sit*, *spit*, *tack*, *cab*, *tab*, *code*, *pad*, *peg*, *bus*, *dice*, *gas*, *bees*, *days*, *goes*), this was true.
+What I didn't know before preparing for this class was that the overall duration of word final stops (closure + burst + aspiration) is longer for voiceless obstruents than it is for voiced obstruents. Based on all 18 words (*scope*, *seep*, *soap*, *steep*, *sit*, *spit*, *tack*, *cab*, *tab*, *code*, *pad*, *peg*, *bus*, *dice*, *gas*, *bees*, *days*, *goes*), this was true.
 
 <img src="/images/plots/word-final-duration.png" style="width: 30em;"/>
 

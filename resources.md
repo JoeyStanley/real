@@ -34,7 +34,7 @@ I'm no expert, but I have given a workshop on how grad students can increase the
 
 ### [Academic Poster Workshop](/downloads/190911-poster_workshop.pdf)
 
-In response to the need for a "How to Make an Acadmic Poster" workshop, I put one together last minute. Poster-making is more of an art than a science and this is a very opinionated view on the dos and don'ts of making an acadmic poster.
+In response to the need for a "How to Make an Academic Poster" workshop, I put one together last minute. Poster-making is more of an art than a science and this is a very opinionated view on the dos and don'ts of making an academic poster.
 
 ### [Excel Workshop](/excel.html)
 
@@ -164,7 +164,7 @@ Here is a list of resources I've found for R. I've gone through some of them and
 
 * [*Fundamentals of Data Visualization*](https://serialmentor.com/dataviz/) by [Claus O. Wilke](https://integrativebio.utexas.edu/component/cobalt/item/7-integrative-biology/237-wilke-claus-o?Itemid=1224) is "meant as a guide to making visualizations that accurately reflect the data, tell a story, and look professional." 
 
-* *[Interactive web-based data visualization with R, plotly, and shiny](https://plotly-r.com)* by [Carson Sievert](https://cpsievert.me) is another free online book on data visualizatio in in R. This has a good focus on interactivity since it involves [plotly](https://plot.ly) and [Shiny](https://shiny.rstudio.com).
+* *[Interactive web-based data visualization with R, plotly, and shiny](https://plotly-r.com)* by [Carson Sievert](https://cpsievert.me) is another free online book on data visualization in in R. This has a good focus on interactivity since it involves [plotly](https://plot.ly) and [Shiny](https://shiny.rstudio.com).
 
 * *[Mastering Shiny](https://mastering-shiny.org)* by Hadley Wickham is under development and will be released late 2020. I'm looking forward to this comprehensive book on Winston Chang's [shiny](https://shiny.rstudio.com) package a lot actually, but in the meantime though you and I can peruse the online version for free.
 
@@ -251,7 +251,7 @@ I've given a workshop on colors in data visualization, which you can view [here]
 
 ### Miscellany
 
-* The [R Graph Gallary](https://www.r-graph-gallery.com) has hundreds of plots, with code, illustrating what the plots are typically used for and different variants of the same plot. Very cool.
+* The [R Graph Gallery](https://www.r-graph-gallery.com) has hundreds of plots, with code, illustrating what the plots are typically used for and different variants of the same plot. Very cool.
 
 * My friend [Andres Karjus](https://andreskarjus.github.io) has given several workshops on wide range of data visualization topics, collectively called *[aRt of the figure: explore and visualize your data using R](https://andreskarjus.github.io/artofthefigure/)*. You should definitely explore his github and check out his materials.
 
@@ -410,7 +410,7 @@ For whatever reason, sometimes it's nice to uses data that already exists rather
 
 * [CORAAL](https://oraal.uoregon.edu/coraal) is the Corpus of Regional African American English, the first public corpus of African American Language. You can download the audio and transcriptions in their entirety [here](http://lingtools.uoregon.edu/coraal/) or search and browse the corpus [from the website](http://lingtools.uoregon.edu/coraal/explorer/). 
 
-* The [Linguistic Atlas Project](http://www.lap.uga.edu) is an important work for American dialectology. Early linguists interviewed thousands of people from across the country, mostly between the 1930s and the 1980s. If you've heard of the Linguistic Atlas of New England (LANE), the Linguistic Atlas of the Middle Atlantic States (LAMSAS), or the Linguistic Atlas of the Gulf States (LAGS), these are all under the umbrella of the Linguistic Atlas Project and serve as a baseline from which contemporary data compared against to study language change in real time. Many of the recordings are available to download online (for those that were recorded after portable technology existed, so around 1950 or later). There arne't too many full transcriptions yet, but there are scans of handwritten transcriptions of key words available to download.  
+* The [Linguistic Atlas Project](http://www.lap.uga.edu) is an important work for American dialectology. Early linguists interviewed thousands of people from across the country, mostly between the 1930s and the 1980s. If you've heard of the Linguistic Atlas of New England (LANE), the Linguistic Atlas of the Middle Atlantic States (LAMSAS), or the Linguistic Atlas of the Gulf States (LAGS), these are all under the umbrella of the Linguistic Atlas Project and serve as a baseline from which contemporary data compared against to study language change in real time. Many of the recordings are available to download online (for those that were recorded after portable technology existed, so around 1950 or later). There aren't too many full transcriptions yet, but there are scans of handwritten transcriptions of key words available to download.  
 
 * The [Dictionary of American Regional English (DARE)](http://dare.wisc.edu) recently made [all of their audio](https://uwdc.library.wisc.edu/collections/AmerLangs/) available online. This is a nice collection of older recordings from all over the country. 
 

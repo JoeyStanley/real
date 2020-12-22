@@ -48,4 +48,4 @@ This is the third iteration of my [Jealousy List](https://fivethirtyeight.com/fe
 
 <br/>
 
-So that's it for my long-overdue Jealousy List: statistical procedures, succint tutorials, color, data visualization, and more statistics. Again, a decent representation of what I've been reading recently.
+So that's it for my long-overdue Jealousy List: statistical procedures, succinct tutorials, color, data visualization, and more statistics. Again, a decent representation of what I've been reading recently.

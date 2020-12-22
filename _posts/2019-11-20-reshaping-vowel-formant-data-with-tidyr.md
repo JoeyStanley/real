@@ -179,7 +179,7 @@ joey %>%
 ## # … with 2,740 more rows
 ```
 
-This method is not obsolete *per se*, but the `gather` function is considered "retired" because a new and improved function, `pivot_longer`, can get the job done better. It is recommended that new code use `pivot_longer` instead of `gather` now. If you'd like to learn more about `pivot_longer`, check out the [vignette on pivotting](https://tidyr.tidyverse.org/articles/pivot.html). I'll just go over some of the most relevant details here.
+This method is not obsolete *per se*, but the `gather` function is considered "retired" because a new and improved function, `pivot_longer`, can get the job done better. It is recommended that new code use `pivot_longer` instead of `gather` now. If you'd like to learn more about `pivot_longer`, check out the [vignette on pivoting](https://tidyr.tidyverse.org/articles/pivot.html). I'll just go over some of the most relevant details here.
 
 So, if you're like me and are very used to `gather`, you can mimic its syntax pretty well with `pivot_longer`.
 
@@ -288,7 +288,7 @@ joey %>%
 
 And like magic, the 10 columns in the old dataset are turned into tidy `formant` and `percent` columns. 
 
-There's one more thing that can be done, if you'd like. By default, `pivot_longer` will make these new columns into character vectors. In our case, we may want to turn them into factors and numberic vectors. 
+There's one more thing that can be done, if you'd like. By default, `pivot_longer` will make these new columns into character vectors. In our case, we may want to turn them into factors and numeric vectors. 
 
 We can specify this with the `names_ptypes` argument. As its value, we provide a list of the column names and then how they should be encoded. For `formant`, I'm turning it into a factor, making sure to specify that the order of the levels goes "F1" first and then "F2". For `percent`, I'm just ensuring that it turns into an integer.
 
@@ -335,7 +335,7 @@ joey %>%
 
 Unfortunately, we need to do a *little* more data processing. The key is what `ggplot` uses as the `group` variable. We some column that will contain a unique value per line. Right now, we're close: we have a unique value (`t`) for each vowel token. But there are 10 rows per vowel token, corresponding to the five measurements for F1 and F2. We need to create a new column that will uniquely identify each formant for each vowel token.
 
-The simplest way I know is to just use the `unite` function. It simply combines two columns into one by concatenating the values together. We have the two colums we need, `t` and `formant`, so I'll combine them to create `traj_id`. I'll also add `remove = FALSE` because I want to keep the original ones (so that I can color the lines by formant). When I set this `traj_id` as the group variable, it works just as expected.
+The simplest way I know is to just use the `unite` function. It simply combines two columns into one by concatenating the values together. We have the two columns we need, `t` and `formant`, so I'll combine them to create `traj_id`. I'll also add `remove = FALSE` because I want to keep the original ones (so that I can color the lines by formant). When I set this `traj_id` as the group variable, it works just as expected.
 
 ```r
 joey %>%
@@ -485,7 +485,7 @@ joey %>%
 <span class="sidenote">Try swapping "percent" for ".value" instead and see what it does.</span>
 I'm still trying to wrap my head around it, but it works beautifully. Of course now that there's no intermediate step of the `hz` column, I don't need the `values_to = "hz"` argument, and I don't need to include `formant` in the `names_ptype` list.
 
-I guess the question then is why we would want to do this in the first place. The main reason is because you may want to create trajetory plots in the F1-F2 space. This data is now perfectly suited for that kind of plot.
+I guess the question then is why we would want to do this in the first place. The main reason is because you may want to create trajectory plots in the F1-F2 space. This data is now perfectly suited for that kind of plot.
 
 ```r
 joey %>%

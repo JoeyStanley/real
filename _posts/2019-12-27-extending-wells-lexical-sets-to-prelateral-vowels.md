@@ -25,7 +25,7 @@ To cut to the chase, this table---particularly the column labeled "Prelateral Ke
             <td>fleece</td>
             <td>zeal</td>
             <td></td>
-            <td class="lc" style="text-align:left; font-style:italic">feel, peel, deal, kneel, meal, seel, yield, shield</td>
+            <td class="lc" style="text-align:left; font-style:italic">feel, peel, deal, kneel, meal, seal, yield, shield</td>
         </tr>
         <tr>
             <td class="lc">ɪ</td>
@@ -150,7 +150,7 @@ To be clear, what I am proposing is a set of keywords that refer to the prelater
 
 Of the research I've seen on prelateral vowels, if labels are given to them, they usually take the form of a minimal pair or set (or as close to one as possible). <span class="sidenote">See, for example, [Bowie (2000)](https://repository.upenn.edu/dissertations/AAI9965448/), [Thomas (2004)](https://doi.org/10.1515/9783110175325), and [Tillery & Bailey (2004)](https://doi.org/10.1515/9783110175325).</span>Some of the more common labels include <sc>pool</sc>, <sc>pull</sc>, and <sc>pole</sc> for back vowels, or <sc>feel</sc>, <sc>fill</sc>, <sc>fail</sc>, and <sc>fell</sc> for front vowels. I've used them myself, actually. 
 
-<span class="sidenote">I presented an abbreviated version of this table already in a [previous post](/blog/why-do-people-use-bat-instead-of-trap) since it's what popularized the <sc>b_t</sc> frame.</span>To my knowledge, the only attempt at standardizing prelateral labels was by [Thomas & Yeager-Dror (2009)](https://www.dukeupress.edu/african-american-english-speakers-and-their-participation-in-local-sound-changes-2). In their table, reproduced below, they list the labels they use in that volume. In addition to standarizing other allophones' labels, prelateral vowels get an entire column, and a nearly complete set of labels.
+<span class="sidenote">I presented an abbreviated version of this table already in a [previous post](/blog/why-do-people-use-bat-instead-of-trap) since it's what popularized the <sc>b_t</sc> frame.</span>To my knowledge, the only attempt at standardizing prelateral labels was by [Thomas & Yeager-Dror (2009)](https://www.dukeupress.edu/african-american-english-speakers-and-their-participation-in-local-sound-changes-2). In their table, reproduced below, they list the labels they use in that volume. In addition to standardizing other allophones' labels, prelateral vowels get an entire column, and a nearly complete set of labels.
 
 <table id="wells">
     <thead>
@@ -308,7 +308,7 @@ No. The following table, which is grouped approximately by natural class, lists 
             <td>deal</td>
             <td>heal, heel</td>
             <td>keel</td>
-            <td>teel</td>
+            <td>teal</td>
             <td></td>
         </tr>
         <tr>
@@ -501,7 +501,7 @@ With this spreadsheet, I can easily identify candidate representative words. So,
 
 1. Onsets should ideally have just one consonant. Glides are avoided and liquids are acceptable as a last resort.
 
-1. Codas consist of a single voiceless obstruent following the /l/. <span class="sidenote">I have relaxed the coda requirement a little bit from what Wells says (1982:123):<br/><br/><span style="font-size: 0.8em;">"As far as possible the keywords have been chosen so as to end in a voiceless alveolar or dental consonant: a voiceless consonant minimizes the likelihood of diphthongal glides obscuring a basic vowel quality, while coronality (alveolar or dental place) minimizes the possible allophonic effect of the place of a following consoannt. An exception here is <sc>trap</sc> for the /æ/ correspondence, where no items in /-t, -s, -θ/ are altogether suitable; another one is <sc>palm</sc>."</span><br/><br/>I figure the presence of the lateral is enough of a buffer between the vowel and any following consonant (though phoneticians may prove me wrong).</span>
+1. Codas consist of a single voiceless obstruent following the /l/. <span class="sidenote">I have relaxed the coda requirement a little bit from what Wells says (1982:123):<br/><br/><span style="font-size: 0.8em;">"As far as possible the keywords have been chosen so as to end in a voiceless alveolar or dental consonant: a voiceless consonant minimizes the likelihood of diphthongal glides obscuring a basic vowel quality, while coronality (alveolar or dental place) minimizes the possible allophonic effect of the place of a following consonant. An exception here is <sc>trap</sc> for the /æ/ correspondence, where no items in /-t, -s, -θ/ are altogether suitable; another one is <sc>palm</sc>."</span><br/><br/>I figure the presence of the lateral is enough of a buffer between the vowel and any following consonant (though phoneticians may prove me wrong).</span>
 
 1. Nouns are preferred.
 
@@ -523,7 +523,7 @@ With this organized spreadsheet, applying the six criteria for each vowel class 
             <td>fleece</td>
             <td>zeal</td>
             <td></td>
-            <td class="lc" style="text-align:left; font-style:italic">feel, peel, deal, kneel, meal, seel, yield, shield</td>
+            <td class="lc" style="text-align:left; font-style:italic">feel, peel, deal, kneel, meal, seal, yield, shield</td>
         </tr>
         <tr>
             <td class="lc">ɪ</td>
@@ -662,7 +662,7 @@ For diphthongs and pre-/ɹ/, the choices were also limited. You'll notice that o
 
 * **<sc>prowl</sc>**---It's not the most common word, but it doesn't have any minimal pairs.
 
-* **<sc>broil</sc>**---There were really no good options for /ɔɪl/. They all had minimal pairs with other words, so I chose a word based on the minimal pairs it did have. *Spoil* forms a set with *spool*, *spell*, *spill*, and *spiel*; *soil* forms a set with *sole*/*soul*/*Seoul*, *Saul*, *Sal*, *sell*/*cell*, *sale*/*sail*, *sill*, *seel*/*seal*; and *boil*, *toil*, *coil*, *Doyle*, *foil*, and *oil* have even larger minimal sets (see the table above). In comparison, *broil* doesn't seem to bad since it forms a set with just *brawl* and *Braille*. 
+* **<sc>broil</sc>**---There were really no good options for /ɔɪl/. They all had minimal pairs with other words, so I chose a word based on the minimal pairs it did have. *Spoil* forms a set with *spool*, *spell*, *spill*, and *spiel*; *soil* forms a set with *sole*/*soul*/*Seoul*, *Saul*, *Sal*, *sell*/*cell*, *sale*/*sail*, *sill*, and *boil*, *toil*, *coil*, *Doyle*, *foil*, and *oil* have even larger minimal sets (see the table above). In comparison, *broil* doesn't seem to bad since it forms a set with just *brawl* and *Braille*. 
 
 * **<sc>twirl</sc>**---I'm not a big fan of the /w/, but it's the only one that doesn't form a minimal pair.
 

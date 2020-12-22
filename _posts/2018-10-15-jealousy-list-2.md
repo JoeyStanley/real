@@ -5,7 +5,7 @@ date:   2018-10-15 22:15:00 -0400
 tags: [Jealousy Lists, R, Skills, Data Viz]
 ---
 
-This is the second post in my occasional series of [Jealousy Lists](https://fivethirtyeight.com/features/damn-we-wish-wed-done-these-11-stories/). I'm subscribed to about 50 blogs, most of them Data Science--related, and I've see a lot of really cool stuff coming out recently. It makes me really want to take my R skills to the next level. Anyway, these are some cool posts that I read recenty:
+This is the second post in my occasional series of [Jealousy Lists](https://fivethirtyeight.com/features/damn-we-wish-wed-done-these-11-stories/). I'm subscribed to about 50 blogs, most of them Data Science--related, and I've see a lot of really cool stuff coming out recently. It makes me really want to take my R skills to the next level. Anyway, these are some cool posts that I read recently:
 
 1. [Michael Höhle](http://staff.math.su.se/hoehle/). ["Judging Freehand Circle Drawing Competitions"](http://staff.math.su.se/hoehle/blog/2018/07/31/circle.html).
 
@@ -27,4 +27,4 @@ This is the second post in my occasional series of [Jealousy Lists](https://five
 
     By default, tables in R are nothing more than text. In this post, Laura Ellis demonstrates the `formattable` package in R and shows how you can make things look a *lot* prettier. You can add colors, alignment, font, and all sorts of other stuff. 
     
-So that's my jealousy list for now. Image recognition, research, topic modeling, animations, and tables. I'm glad other peopole put so much interesting stuff online. 
+So that's my jealousy list for now. Image recognition, research, topic modeling, animations, and tables. I'm glad other people put so much interesting stuff online. 

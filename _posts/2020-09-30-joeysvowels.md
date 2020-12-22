@@ -70,7 +70,7 @@ ggplot(avg_trajs, aes(F2, F1, color = vowel)) +
 
 <img width = "85%" src="/images/plots/joeysvowels/coronals.png">
 
-If you don't care about trajectories but would like something clearner than `darla`, then `midpoints` what you'll want. It's a subset of `coronals` and contains only the midpoints from F1 and F2.
+If you don't care about trajectories but would like something clearer than `darla`, then `midpoints` what you'll want. It's a subset of `coronals` and contains only the midpoints from F1 and F2.
 
 ```r
 data(midpoints)

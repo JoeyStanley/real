@@ -25,11 +25,11 @@ So I'm teaching for the first time this semester. Because our normal phonetician
 
 # R Series
 
-Fortunately, my funding through the DigiLab at the UGA Main Library continues this school year. I'm really exicted be giving a whole series of workshops on R. Next week I'll start with just a basic introduction to R. Next month I'll do a day on [`ggplot2`](http://ggplot2.tidyverse.org) and in November will be one on the rest of the [`tidyverse`](http://www.tidyverse.org). I plan on producing some detailed handouts that will be available on this website as a product of these workshops. I'm really looking forward to them. 
+Fortunately, my funding through the DigiLab at the UGA Main Library continues this school year. I'm really excited be giving a whole series of workshops on R. Next week I'll start with just a basic introduction to R. Next month I'll do a day on [`ggplot2`](http://ggplot2.tidyverse.org) and in November will be one on the rest of the [`tidyverse`](http://www.tidyverse.org). I plan on producing some detailed handouts that will be available on this website as a product of these workshops. I'm really looking forward to them. 
 
 # Grant
 
-I applied for a small grant a week or so ago that I'm waiting ot hear back about. If I get it, it'll pay for some fieldwork out West I'd like to do. Stay tuned.
+I applied for a small grant a week or so ago that I'm waiting to hear back about. If I get it, it'll pay for some fieldwork out West I'd like to do. Stay tuned.
 
 # Dissertation
 

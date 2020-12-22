@@ -5,7 +5,7 @@ date:   2019-04-24 15:41:00 -0400
 tags: [Animations, Github, Side Projects, Simulations]
 ---
 
-We tried teaching our little almost-three-year-old *Chutes and Ladders* today. She wasn't very good at counting tiles. But, as I was sitting there climbing up and sliding down over and over, I wondered what the average number of turns it would take to finish the game. So I decided to take a stab at simulating the game. So here's a post on a simple simulation of *Chutes and Ladders*  that demonstrates absoluately nothing about linguistics and instead shows off some R skills.
+We tried teaching our little almost-three-year-old *Chutes and Ladders* today. She wasn't very good at counting tiles. But, as I was sitting there climbing up and sliding down over and over, I wondered what the average number of turns it would take to finish the game. So I decided to take a stab at simulating the game. So here's a post on a simple simulation of *Chutes and Ladders*  that demonstrates absolutely nothing about linguistics and instead shows off some R skills.
 
 ```r
 library(tidyverse)
@@ -185,7 +185,7 @@ take_turn(6)
 
 So as it turns out, these are all the functions I need to simulate an entire game. But, the way it's set up now, I have to run each turn one at a time, check the output, and run it again. It would be better if I could automate the whole thing and save the results into a dataframe or something. 
 
-So I've created the larger `simulate_game` function below. When I run this function, it'll simulate an entire (1-player) game. First, it'll create a mostly empty data frame that will be populated as the turns advance. I know that some programming languages are slow if you try to append rows to a dataframe with each iteration of a loop<sup>2</sup><span class="sidenote"><sup>2</sup> I think Perl doesn't care, and I miss that...</span>, so I wanted to make sure there was room for a full game before we do anything else. Also, in theory, the game could last forever because of looping chutes and ladders, so I made it large enough to handle a game with 1000 turns---probably way too many for this, but I wanted to make sure.<sup>3</sup><span class="sidenote"><sup>3</sup> I started with 100 turns, but that actually wasn't enough turns for some of the simulated games!</span> In that dataframe, I have columns for the turn number, what the dice roll was (those are all predetermined), where you landed, whether it has a chute or a ladder, and finally, where you ended up after travelling on that chute or ladder.
+So I've created the larger `simulate_game` function below. When I run this function, it'll simulate an entire (1-player) game. First, it'll create a mostly empty data frame that will be populated as the turns advance. I know that some programming languages are slow if you try to append rows to a dataframe with each iteration of a loop<sup>2</sup><span class="sidenote"><sup>2</sup> I think Perl doesn't care, and I miss that...</span>, so I wanted to make sure there was room for a full game before we do anything else. Also, in theory, the game could last forever because of looping chutes and ladders, so I made it large enough to handle a game with 1000 turns---probably way too many for this, but I wanted to make sure.<sup>3</sup><span class="sidenote"><sup>3</sup> I started with 100 turns, but that actually wasn't enough turns for some of the simulated games!</span> In that dataframe, I have columns for the turn number, what the dice roll was (those are all predetermined), where you landed, whether it has a chute or a ladder, and finally, where you ended up after traveling on that chute or ladder.
 
 I've never done a simulation in R before, so I don't know what the protocol is for looping through something an unknown number of times, so I did this whole `while(keep_playing)` thing. The `keep_playing` object is initially true, and at the end of each iteration, I check to see if we've gotten to 100; if so, I'll set that to false, which'll kill the loop. However, I wanted some sort of iterating number (like in a `for` loop), so I added `i` myself.<sup>4</sup><span class="sidenote"><sup>4</sup> I tried just looping through the `turn_num` column, but I couldn't get the loop to stop after the player hit tile 100.</span>
 
@@ -608,7 +608,7 @@ modified_games
 ## # … with 2,990 more rows
 ```
 
-And now I'll plot their distributions all overlayed on top of each other.
+And now I'll plot their distributions all overlaid on top of each other.
 
 ```r
 ggplot(modified_games, aes(turns, color = modification)) + 

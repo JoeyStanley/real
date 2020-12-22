@@ -68,7 +68,7 @@ ggplot(my_iy, aes(F2, F1, label = tolower(word))) +
 ```
 <img class="rounded" src="/images/plots/rayshader/iy_with_words.jpeg" width = "85%"/>
 
-So, to get the 3D plot to work with rayshader, I need some variable that should act as the depth dimension. In Morgan-Wall's example, he adopts a pretty standard technique when looking at coordinate data. You basically overlay some tessalating shape like a hexagon, count how many points are in each hexagon, and color that cell based on how may points there are in it. I haven't seen this used too much in vowel data, other than Bill Kretzschmar's recent work, but it's a possibility.<span class="sidenote">Also, see my recent presentation at [DH2019](/blog/dh2019).</span> Fortunately, this is straightforward with `geom_hex`. 
+So, to get the 3D plot to work with rayshader, I need some variable that should act as the depth dimension. In Morgan-Wall's example, he adopts a pretty standard technique when looking at coordinate data. You basically overlay some tessellating shape like a hexagon, count how many points are in each hexagon, and color that cell based on how may points there are in it. I haven't seen this used too much in vowel data, other than Bill Kretzschmar's recent work, but it's a possibility.<span class="sidenote">Also, see my recent presentation at [DH2019](/blog/dh2019).</span> Fortunately, this is straightforward with `geom_hex`. 
 
 ```r
 hex_plot <- ggplot(my_iy, aes(F2, F1)) + 
@@ -110,7 +110,7 @@ So now let's make this even better!
 
 ### A 3D animation
 
-Now a static plot is awesome. Don't get me wrong. But, turning it into an animation is even cooler. Plus, Morgan-Wall says that viewing a 3D plot from different angles is one way to turn them from gimmickey visuals to legit tools for conveying information. He says [here](https://www.tylermw.com/3d-ggplots-with-rayshader/): 
+Now a static plot is awesome. Don't get me wrong. But, turning it into an animation is even cooler. Plus, Morgan-Wall says that viewing a 3D plot from different angles is one way to turn them from gimmicky visuals to legit tools for conveying information. He says [here](https://www.tylermw.com/3d-ggplots-with-rayshader/): 
 
 > "It’s difficult to interpret static 3D visualizations, as the display is an inherently 2D medium and the reader can’t accurately reconstruct the depth information of 3D data… [T]he continuous underlying substrate provides perceptual context for the missing depth information. The issue of 'small box close, or big box far away?' doesn’t occur with [rayshader plots], since those points can always be located in 3D space by referencing the surrounding data."
 
@@ -378,7 +378,7 @@ ggplot(spec_tall, aes(sample, hz, color = value)) +
 
 <img src="/images/plots/rayshader/spec_points.jpeg" class="rounded"/>
 
-It may not look like it, but that plot is made up of several hunderd thousand dots. With that much data, a PDF would get huge since each dot has to be rendered individually. Since they all visually sort of blur together anyway, might as well simplify things and turn it into a 2D-density plot with `geom_raster`.
+It may not look like it, but that plot is made up of several hundred thousand dots. With that much data, a PDF would get huge since each dot has to be rendered individually. Since they all visually sort of blur together anyway, might as well simplify things and turn it into a 2D-density plot with `geom_raster`.
 
 ```r
 spec <- ggplot(spec_tall, aes(sample/max(sample) * 0.83, hz)) + 
@@ -434,7 +434,7 @@ Okay that is slick. I'm extremely impressed with the quality of this animation. 
 
 ## Conclusion
 
-The rayshader package really is an impressive one and does so much work behind the scenes to make it easy for people to become amateur animators, at least with quantitative data. For right now, I'll admit that I'm not exactly gleaning anything new from the visuals that I didn't already know, but that doens't mean looking a wider variety of linguistic data using 3D animations like this won't uncover something new. I can't wait until my next conference presentation so I can see if I can weasel one of these in there somehow.
+The rayshader package really is an impressive one and does so much work behind the scenes to make it easy for people to become amateur animators, at least with quantitative data. For right now, I'll admit that I'm not exactly gleaning anything new from the visuals that I didn't already know, but that doesn't mean looking a wider variety of linguistic data using 3D animations like this won't uncover something new. I can't wait until my next conference presentation so I can see if I can weasel one of these in there somehow.
 
 
 

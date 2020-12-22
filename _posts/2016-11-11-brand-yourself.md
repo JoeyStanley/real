@@ -32,7 +32,7 @@ In this screenshot ([live link here](https://scholar.google.com/scholar?hl=en&q=
 
 <img src="/images/screenshots/natalie_schilling.png" alt="Natalie Schilling screenshot" style="width: 30em;"/>
 
-It does take a bit of work to get a full profile going, because Google's data can be a bit messy, so you'll have to add stuff in by hand. But I think the payoff is worth the effot.
+It does take a bit of work to get a full profile going, because Google's data can be a bit messy, so you'll have to add stuff in by hand. But I think the payoff is worth the effort.
 
 There are a handful of other websites out there that can help you build an online presence. [Impact Story](https://www.impactstory.org) is one that can keep track of how much of an impact you have on people by keeping track of when people cite, mention, read you and your work. For $10 a month, it might not be worth it for a grad student, but for a professor applying for tenure this might be worth it. 
 
