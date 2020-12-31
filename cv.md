@@ -38,6 +38,12 @@ Instructional Designer, Brigham Young University. March--May, 2020.
 
 ## Grants
 
+### At Brigham Young University
+
+BYU College of Humanities Research Funding ($3,500). "The Low-Back-Merger Shift in the Western United States." (Two research assistants hired as transcribers.)
+
+### At the University of Georgia
+
 Summer Doctoral Research Fellowship ($3,500), awarded by the University of Georgia Graduate School. Project title: A New Method for Extracting Acoustic Measurements from Speech Audio. May–June, 2018
 
 Graduate Research Award ($1000), awarded by the University of Georgia Willson Center for Humanities and Arts. Project title: “Intra-Family Language Variation in Utah County, Utah.” October 12, 2017.
@@ -60,6 +66,8 @@ University of Georgia Graduate School Dean’s Award ($1,250). Project title: "L
 
 
 ### Refereed Articles
+
+**Joseph A. Stanley** (in review). "Regional patterns in prevelar raising."
 
 **Joseph A. Stanley** (in press). "A comparison of turn-of-the-century and turn-of-the-millennium speech in Georgia." *Proceedings of the 6th Annual Linguistics Conference at UGA.* 
 
@@ -562,6 +570,8 @@ Programmer for the [Maxwell Institute for Religious Scholarship](http://mi.byu.e
 
 
 ### Other Service
+
+Member of the American Dialect Society New Words Committee. 2018--.
 
 UGA Linguistics Graduate Student Representative. 2018--2019.
 
