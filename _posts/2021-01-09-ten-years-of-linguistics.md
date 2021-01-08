@@ -60,9 +60,11 @@ Anyway, it was in May of 2008 that I got the call that I'd be a missionary in Br
 
 So even before I had left for my mission, I apparently had already been thinking about linguistics. I had even added to my Facebook profile was that I was considering a minor in linguistics. So, getting called to a foreign mission is what put linguistics on my radar for sure.
 
-## Learning Portuguese
+## My time in Brazil
 
 I went to Brazil and served my mission. While I was down there, I *really* enjoyed learning Portuguese. I practiced vocabulary like crazy and studied as much grammar as I could. Some of the other missionaries joked that if anyone needed to talk to a lawyer about the gospel that they should call Elder Stanley because he's the only one that could understand him. After a year and a half or so, I could convince people that I was Brazilian (my darker complexion helped there)---not from the town I was currently in, but from another part of the country. I would get phone calls from other missionaries---native Portuguese-speaking Brazilians!---asking about some nuanced aspect of grammar. 
+
+You may know that Mormon missionaries have pretty strict rules about what they can and can't do. At the time, the internet was completely off-limits except to email our parents once a week. Well, I would occasionally sneak on to Wikipedia and look up linguistics pages and print them out and stuff. Of all the ways to rebel, I think looking up IPA symbols was a pretty tame way to do so.
 
 At one point, I was in a city relatively close to Paraguay and would occasionally run into Guaraní speakers.<span class="sidenote">In retrospect, I'm not sure if they spoke Paraguayan Guarani because they were Brazilians, but I wonder if they spoke some other Tupí language in that part of the country.</span> I wrote to my parents about the language, and my dad sent me a Guaraní translation of the *Book of Mormon* and encouraged me to learn as much of the language as I could. I also met someone who had what was basically a "Teach Yourself Guaraní" textbook (written in Spanish, so I had to quickly learn to read some basic Spanish) so I could get some of the morphology. So in the little time I had off, I was trying to learn Guaraní.
 
@@ -134,4 +136,4 @@ I'm a little fuzzy on the details about deciding to do a PhD and figuring out wh
 
 ## Conclusion
 
-So that's it. 10 years ago today is when I decided to major in linguistics. After one difficult homework assigning (that I never finished by the way) and a strongly worded reality check from a professor, it took just five days to abandon the previous decade's worth of plans to major in music. I look forward to another decade of linguistics and to see where this career will take me!
+So that's it. Ten years ago today is when I decided to major in linguistics. After one difficult homework assigning (that I never finished by the way) and a strongly worded reality check from a professor, it took just five days to abandon the previous decade's worth of plans to major in music. I look forward to another decade of linguistics and to see where this career will take me!
