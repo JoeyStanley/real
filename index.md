@@ -33,24 +33,22 @@ A hefty ~3.5lb. loaf of white bread I made for Thanksgiving 2018.
 
 ## What am I up to right now? 
 
-As of December 30, 2020, I am…
+As of January 8, 2021, I am…
 
 <!--Research-->
-🎉 Celebrating because I finally returned a manuscript I got an R&R for over a year ago (it's been a busy year…) 
-
-📝 Starting a paper on English in the Rockies
+📝 Writing a paper on English in the Rockies
 
 🧑‍💻 Hiring a couple RAs to help transcribe a bunch of audio I collected as a grad student
 
 
 <!--Teaching-->
 
-👨🏻‍🏫 Planning my two sections of sociolinguistics for next semester
+👨🏻‍🏫 About to start teaching my two sections of sociolinguistics for next semester
 
 
 <!--Reading-->
 
-📖 Excitedly reading the other chapters in the [new PADS volume](https://read.dukeupress.edu/pads/issue/105/1)
+📖 Reading Preston's 1989 book, *Perceptual Dialectology*
 
 
 <!--Personal-->
