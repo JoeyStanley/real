@@ -69,6 +69,8 @@ University of Georgia Graduate School Dean’s Award ($1,250). Project title: "L
 
 **Joseph A. Stanley** (in review). "Regional patterns in prevelar raising."
 
+**Joseph A. Stanley**, Margaret E. L. Renwick, Katie Ireland Kuiper, & Rachel Miller Olsen (accepted pending revisions). "Back vowel dynamics and distinctions in Southern American English." *Journal of English Linguistics.*
+
 **Joseph A. Stanley** (in press). "A comparison of turn-of-the-century and turn-of-the-millennium speech in Georgia." *Proceedings of the 6th Annual Linguistics Conference at UGA.* 
 
 Margaret E. L. Renwick & **Joseph A. Stanley** (2020). "Modeling dynamic trajectories of tense vs. lax vowels in the American South." *Journal of the Acoustical Society of America* 147(1): 579--595. doi: 10.1121/10.0000549. 
@@ -375,6 +377,8 @@ Margaret E. L. Renwick & **Joseph A. Stanley**. "100 years of speech in Georgia.
 
 
 ### Miscellaneous Presentations
+
+"Order of Operations in Sociophonetic Data Analysis." Linguistics Discussion Group. Provo, UT. January 26, 2020.
 
 Professor's Story night. Linguistics Student Society. Provo, UT. November 19, 2020.
 
