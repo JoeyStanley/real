@@ -116,7 +116,7 @@ Rachel M. Olsen, Michael L. Olsen, **Joseph A. Stanley**, Margaret E. L. Renwick
 <a href="http://www.linguistics.uga.edu/pacific-northwest-english-historical-overview-and-current-directions" class="link" target="_blank" title="link to this issue"></a>
 <a href="https://athenaeum.libs.uga.edu/bitstream/handle/10724/38074/WP2016_Stanley.pdf?sequence=1&isAllowed=y" class="paper" target="_blank" title="open a pdf of this paper in a new window"></a>
 
-**Stanley, Joseph A.** (2016). "When do Mormons Call Each Other by First Name?" *University of Pennsylvania Working Papers in Linguistics*, 22(1). 
+**Stanley, Joseph A.** (2016). "When do Mormons Call Each Other by First Name?" *Penn Working Papers in Linguistics*, 22(1). 
 <a href="http://repository.upenn.edu/pwpl/vol22/iss1/31/" class="link" target="_blank" title="link to repository.upenn.edu/pwpl/"></a>
 <a href="/downloads/160101-PWPL22.pdf" class="paper" target="_blank" title="open a pdf of this paper in a new window"></a>
 
