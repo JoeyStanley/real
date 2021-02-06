@@ -2,7 +2,7 @@
 layout: post
 title: "Pillai scores don't change after normalization"
 date: 2021-02-06 15:30 -0600
-tags: [Personal]
+tags: [How-to Guides, Methods, Phonetics, R, Skills]
 ---
 
 I was playing around with some data the other day and I discovered that if you calculate the pillai score on raw data you get the same result as if you calculated it on normalized data. This might be common knowledge among sociophoneticians who work with this kind of data, and now that I think about how normalization works, it makes sense. But it's new to me so I thought I'd write about it and illustrate it.
