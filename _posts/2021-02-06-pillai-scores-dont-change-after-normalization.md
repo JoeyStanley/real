@@ -191,6 +191,7 @@ I can then plot those four together.
 ```r
 ggplot(s02_reshaped, aes(F2, F1, color = vowel)) + 
   geom_point() + 
+  stat_ellipse(level = 0.67) + 
   scale_x_reverse() + 
   scale_y_reverse() + 
   ggthemes::scale_color_ptol() + 
