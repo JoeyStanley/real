@@ -198,7 +198,7 @@ ggplot(s02_reshaped, aes(F2, F1, color = vowel)) +
   facet_wrap(~method, scales = "free") + 
   theme_minimal() + 
   labs(title = "Four versions of speaker 02's low back vowels",
-       subtitle = "They're the same regardless of normalization")
+       subtitle = "To quote Pam Beesly, \"They're the same picture.\"")
 ```
 
 <img width = "85%" src="/images/plots/pillai_normalization.png">
