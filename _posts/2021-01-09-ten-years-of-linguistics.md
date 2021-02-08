@@ -54,7 +54,15 @@ But, I was 19 years old, and the important thing to do was to go on a full-time,
 
 Until May 2008, linguistics was not on my radar at all. Like, I didn't even know what it *was*. I didn't even take any foreign language courses in high school. 
 
-There were a few signs though. The one I remember most was from when I was in a play my freshman year of high school. I didn't have a big role, so I had to kill a lot of time in the drama room while the others rehearsed. I was flipping through one of the textbooks and I saw this chart with what's called the International Phonetic Alphabet. My brother, who had taken a couple theater classes, had mentioned the IPA to me a few years prior. He described it as basically if you can transcribe it well and read it well, you can use it to, in theory, speak in any accent. I remember thinking it was so cool so I copied down all the symbols from that book. I'm pretty sure I still have that piece of paper somewhere too.
+There were a few signs though. The one I remember most was from when I was in a play my freshman year of high school. I didn't have a big role, so I had to kill a lot of time in the drama room while the others rehearsed. I was flipping through one of the textbooks and I saw this chart with what's called the International Phonetic Alphabet. My brother, who had taken a couple theater classes, had mentioned the IPA to me a few years prior. He described it as basically if you can transcribe it well and read it well, you can use it to, in theory, speak in any accent. I remember thinking it was so cool so I copied down all the symbols from that book. [Edit: I found the paper! Here it is!]
+
+<img width = "85%" src="/images/photos/highschool_IPA.png">
+<center style = "font-size: 75%;">
+(I copied this IPA guide from a theater book in 2003!)
+<br/>
+<br/>
+<br/>
+</center>
 
 Anyway, it was in May of 2008 that I got the call that I'd be a missionary in Brazil. Meaning I'd have to learn Portuguese. Even though I would be spending the first two months of my mission in an intensive language school, I went ahead and tried learning as much as I could beforehand. And it was then that I realized that learning languages was pretty cool! I finally saw the IPA in action, and was able to use it to learn the sounds. But I remember it blew my mind that, for hundreds of millions of people, "house blue" sounds totally normal and "blue house" sounds totally wrong. Blew. My. Mind.
 
