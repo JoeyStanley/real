@@ -33,25 +33,31 @@ A hefty ~3.5lb. loaf of white bread I made for Thanksgiving 2018.
 
 ## What am I up to right now? 
 
-As of February 6, 2021, I am…
+As of February 13, 2021, I am…
 
 <!--Research-->
+📼 Dumbfounded at the hundreds of cassette tapes of interviews I just received!
+
+📝 Working with my colleagues on revisions for a paper on back vowels in the American South
+
 📝 Writing a paper on order of operations in sociophonetic data analysis
 
-📝 Writing a paper on English in the Rockies
+<!--📝 Writing a paper on English in the Rockies-->
 
 🧑‍💻 Managing three RAs to help transcribe a bunch of audio I collected as a grad student
 
 <!--Teaching-->
 
-👨🏻‍🏫 Teaching two sections of sociolinguistics and (miraculously) managing to not fall behind!
+👨🏻‍🏫 Teaching sociolinguistics and research methods and trying to not fall behind!
 
 
 <!--Reading-->
 
-📖 Reading Petyt (1980) *The Study of Dialect*
+<!--📖 Reading Petyt (1980) *The Study of Dialect*-->
 
 
 <!--Personal-->
 
-🌵 Learning about how to care for (and propogate) the succulents I have in my southward-facing office window
+🌵 Successfully propagating the succulents I have in my window!
+
+🎼 Slowly writing a book on patterns in what hymns are sung in Mormon church services, based on data I collected several yeas ago.
