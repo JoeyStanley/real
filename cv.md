@@ -575,6 +575,8 @@ Programmer for the [Maxwell Institute for Religious Scholarship](http://mi.byu.e
 
 ### Other Service
 
+Three Minute Thesis (3MT™) Competition Judge for the BYU Linguistics Department MA students. 2021. 
+
 Member of the American Dialect Society New Words Committee. 2018--.
 
 UGA Linguistics Graduate Student Representative. 2018--2019.
