@@ -33,14 +33,14 @@ A hefty ~3.5lb. loaf of white bread I made for Thanksgiving 2018.
 
 ## What am I up to right now? 
 
-As of February 13, 2021, I am…
+As of February 23, 2021, I am…
 
 <!--Research-->
-📼 Dumbfounded at the hundreds of cassette tapes of interviews I just received!
+📼💰 Looking into small grants I can apply for to start processing a bunch of [tapes I recently acquired.](/blog/kohler-tapes) 
 
-📝 Working with my colleagues on revisions for a paper on back vowels in the American South
+📝 Working with my colleagues on revisions for a paper on back vowels in the American South.
 
-📝 Writing a paper on order of operations in sociophonetic data analysis
+<!--📝 Writing a paper on order of operations in sociophonetic data analysis-->
 
 <!--📝 Writing a paper on English in the Rockies-->
 
@@ -53,8 +53,7 @@ As of February 13, 2021, I am…
 
 <!--Reading-->
 
-<!--📖 Reading Petyt (1980) *The Study of Dialect*-->
-
+📖 Reading Görlach (1980) *Englishes: Studies in Varieties of English, 1984-1988* (mostly as I walk to and from my car and during my hourly loop around the building).
 
 <!--Personal-->
 
