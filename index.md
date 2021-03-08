@@ -33,7 +33,7 @@ A hefty ~3.5lb. loaf of white bread I made for Thanksgiving 2018.
 
 ## What am I up to right now? 
 
-As of February 23, 2021, I am…
+As of March 8, 2021, I am…
 
 <!--Research-->
 📼💰 Looking into small grants I can apply for to start processing a bunch of [tapes I recently acquired.](/blog/kohler-tapes) 
@@ -50,10 +50,9 @@ As of February 23, 2021, I am…
 
 👨🏻‍🏫 Teaching sociolinguistics and research methods and trying to not fall behind!
 
-
 <!--Reading-->
 
-📖 Reading Görlach (1980) *Englishes: Studies in Varieties of English, 1984-1988* (mostly as I walk to and from my car and during my hourly loop around the building).
+<!--📖 Reading Görlach (1980) *Englishes: Studies in Varieties of English, 1984-1988* (mostly as I walk to and from my car and during my hourly loop around the building).-->
 
 <!--Personal-->
 

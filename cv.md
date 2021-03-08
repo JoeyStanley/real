@@ -5,7 +5,7 @@ title: Curriculum Vitae
 
 # Curriculum Vitae
 
-<p id="updated">Updated January 19, 2020. Download PDF <a href="/downloads/CV.pdf" target="_blank" title="open a pdf of my CV in a new window">here</a>.</p>
+<p id="updated">Updated March 8, 2020. Download PDF <a href="/downloads/CV.pdf" target="_blank" title="open a pdf of my CV in a new window">here</a>.</p>
 
 <br/>
 
@@ -69,7 +69,7 @@ University of Georgia Graduate School Dean’s Award ($1,250). Project title: "L
 
 **Joseph A. Stanley** (in review). "Regional patterns in prevelar raising."
 
-**Joseph A. Stanley**, Margaret E. L. Renwick, Katie Ireland Kuiper, & Rachel Miller Olsen (accepted pending revisions). "Back vowel dynamics and distinctions in Southern American English." *Journal of English Linguistics.*
+**Joseph A. Stanley**, Margaret E. L. Renwick, Katie Ireland Kuiper, & Rachel Miller Olsen (in review). "Back vowel dynamics and distinctions in Southern American English."
 
 **Joseph A. Stanley** (in press). "A comparison of turn-of-the-century and turn-of-the-millennium speech in Georgia." *Proceedings of the 6th Annual Linguistics Conference at UGA.* 
 
@@ -129,9 +129,9 @@ Rachel M. Olsen, Michael L. Olsen, **Joseph A. Stanley**, Margaret E. L. Renwick
 
 ### Oral Presentations
 
-**Joseph A. Stanley**. "Beyond midpoints: Vowel dynamics of the Low-Back-Merger Shift." Cascadia Workshop in Sociolinguistics. Vancouver, British Columbia. April, 2021. 
-
 **Joseph A. Stanley**. "Methodological considerations in the study of infrequent phonological variables: The case of English /eɡ/ and /ɛɡ/." Word-specific phenomena in the realization of vowel categories: Methodological and theoretical perspectives (LabPhon 17 Satellite Workshop). <s>Vancouver, British Columbia</s>[Online]. September, 2020.
+
+~~**Joseph A. Stanley**. "Beyond midpoints: Vowel dynamics of the Low-Back-Merger Shift." Cascadia Workshop in Sociolinguistics. Vancouver, British Columbia. April, 2021.~~ (Cancelled due to COVID-19.) 
 
 **Joseph A. Stanley** & Margaret E. L. Renwick. "Back vowel distinctions and dynamics in Southern US English." The 94th Annual Meeting of the Linguistic Society of America. New Orleans, LA. January 2--5, 2020.
 <a href="/downloads/200105-lsa2020.pdf" class="slides" title="download the powerpoint slides for this presentation"></a>
@@ -552,6 +552,8 @@ Programmer for the [Maxwell Institute for Religious Scholarship](http://mi.byu.e
 ## Professional Service
 
 ### Manuscript reviewer
+
+*Frontiers in Communication* (2021)
 
 *Language Variation and Change* (2020)
 
